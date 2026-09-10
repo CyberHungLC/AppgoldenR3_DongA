@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HDBAKVV01.Form1" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEIoAACAAAACAAAEAoAAAABAAQAAEAQ=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.SecurityData" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAAAgQAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.Result" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAQEgAAgAEAEAAAAAEAAAAEABAAAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.CommandData" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAACEAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.RemoteCommand" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAYACABAgAAAgBAAAACACAAAIJEAggBECABE=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.Constants" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.InvoiceResult" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAEAAAAAAAQAEAAAAAAQAAACAQIAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.InvoiceDataWS" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAgAAAAAAAAAAAAAAAQAAACAAAAAQA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.InvoiceWS" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAEAAAAABAMaAAAFAAQAEQAAAQCAIAEEAANAMAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.InvoiceDetailsWS" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAQAAAAAEAAAAAQCAgAAAAIAAAAAEAEAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.InvoiceAttachFileWS" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAABAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.HistoryLog" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAgAIAAABAAAAAABAAIAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.BusinessInfo" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAQAgAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.DllInfo" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgCAAAQAAAAgAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.CreateAccountInfoFromPartner" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAFAAEAAIBAABAQAABAgBA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.AccountResult" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAQBAAAAAAAAAAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.Sys" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEEAAEANEISAAAAgAQAYAJEBQAAQEEJAAAAAAAAAhhA=</HashCode>
+      <FileName>Sys.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.ViewPDF" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQEdAEACAIIIBASESBUAAiBAAGAgBQBCEAAAIAKBA=</HashCode>
+      <FileName>ViewPDF.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDBAKVV01.My.MySettings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="HDBAKVV01.ExecCommandFunc" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Module Name="HDBAKVV01.Convertor" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAgAQAAAEAAAEEAAADAEAgQAAAEgAAAAACQAAIAg=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="HDBAKVV01.ResultStatic" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAACAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="HDBAKVV01.mTaxRateID" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAQAAAAIAAAAAAAAAAQAAAAAABIAAAAAA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="HDBAKVV01.CommandType" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASASAAAEAAAAAAAAAEBBRAAWAyAAgABgUAEgAgAAUCA=</HashCode>
+      <FileName>Remoste.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="HDBAKVV01.My.Resources.Resources" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="HDBAKVV01.My.MySettingsProperty" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

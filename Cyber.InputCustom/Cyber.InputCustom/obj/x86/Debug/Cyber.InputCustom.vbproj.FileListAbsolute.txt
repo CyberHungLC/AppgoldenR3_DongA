@@ -1,0 +1,921 @@
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+F:\Project\CyberAppGolden\Cyber.InputCustom.dll
+F:\Project\CyberAppGolden\Cyber.InputCustom.pdb
+F:\Project\CyberAppGolden\Cyber.InputCustom.xml
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPND.resources
+F:\Project\CyberAppGolden\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPT1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.InputCustom.dll
+F:\Project\CyberAppGolden_New\Cyber.InputCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.InputCustom.xml
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPND.resources
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPT1.resources
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+E:\MinhDc\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+E:\MinhDc\ThienHa\Cyber.InputCustom.dll
+E:\MinhDc\ThienHa\Cyber.InputCustom.pdb
+E:\MinhDc\ThienHa\Cyber.InputCustom.xml
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPND.resources
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPT1.resources
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+F:\Customer\ThienHa\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+F:\Customer\ThienHa\Cyber.InputCustom.dll
+F:\Customer\ThienHa\Cyber.InputCustom.pdb
+F:\Customer\ThienHa\Cyber.InputCustom.xml
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPND.resources
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FPT1.resources
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+D:\ToanLC\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+D:\ToanLC\Project\CyberAppGolden_New\Cyber.InputCustom.dll
+D:\ToanLC\Project\CyberAppGolden_New\Cyber.InputCustom.pdb
+D:\ToanLC\Project\CyberAppGolden_New\Cyber.InputCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDK.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDK.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+E:\Project\CyberAppGolden_New\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+E:\Project\CyberAppGolden_New\Cyber.InputCustom.dll
+E:\Project\CyberAppGolden_New\Cyber.InputCustom.pdb
+E:\Project\CyberAppGolden_New\Cyber.InputCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDK.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.InputCustom.dll
+F:\Project\CyberAppGolden_R2\Cyber.InputCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemTT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWord.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Tao_nhieu_Xe.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN31.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN4.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN5.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN6.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN7.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN9.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX6.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX7.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX9.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD4.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD5.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XTS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BGX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPOD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.POD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPX2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_NTS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PHS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_POD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_YCT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DCT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NTS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.THS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TSN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocDN3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT5.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDA.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNA.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PND.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXE.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXF.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.T03.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K05.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K10.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KHM.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KNS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmAttachFile.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LOA.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoBBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CPR.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NCP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TCP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoDN1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo_HD3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmbaoHiem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateRoHang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmVRC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoGioDongSon.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoHistory.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Ro_History.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoXemPX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDM.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HPT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LDN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoLDN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PCP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPHS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PHS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT5.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RVR.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmSelect.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RYC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDSTBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT1TBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XNP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XPT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.YCT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.InputCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.InputCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BC1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDQ.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDR.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDC1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDS1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1U.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDAU.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDCU.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDSU.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PrintVocherHDDT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDR.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NRP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XRP.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NHD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1_PT1_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.QTU.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_RVR.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NKG.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XKG.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDR.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BN1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PXE.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemTT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWord.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Tao_nhieu_Xe.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN31.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN4.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN5.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN6.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN7.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN9.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX6.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX7.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX9.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD4.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD5.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XTS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BGX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPOD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.POD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPX2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PXE.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_RVR.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_NTS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PHS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_POD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_YCT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BC1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BN1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DCT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NTS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.THS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TSN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocDN3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT5.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDA.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NHD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NKG.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NRP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1_PT1_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNA.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PND.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXE.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXF.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.QTU.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.T03.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XKG.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XRP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K05.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K10.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KHM.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KNS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmAttachFile.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LOA.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDR.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoBBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDR.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDR.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDQ.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CPR.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NCP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TCP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoDN1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo_HD3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmbaoHiem.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateRoHang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmVRC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoGioDongSon.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoHistory.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Ro_History.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoXemPX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDM.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HPT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LDN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoLDN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PCP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPHS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PHS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT5.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RVR.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmSelect.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RYC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDSTBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT1TBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XNP.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XPT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.YCT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.InputCustom.dll
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.InputCustom.pdb
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInChanDoan.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInKhamXe.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DXM.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT_Loc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TKT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TTC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateTienKHCK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1_LUU.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocBaoGia.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD30.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemTT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWord.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Tao_nhieu_Xe.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN31.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN4.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN5.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN6.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN7.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN9.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX6.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX7.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX9.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD4.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD5.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XTS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BGX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD30.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPOD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.POD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPX2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PXE.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_RVR.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_NTS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PHS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_POD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_YCT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BC1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BN1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DXM.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DCT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NTS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.THS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TSN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocDN3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT5.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1_LUU.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDA.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NHD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NKG.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NRP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1_PT1_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNA.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PND.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXE.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXF.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.QTU.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.T03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TKT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TTC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XKG.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XRP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K05.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K10.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KHM.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KNS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmAttachFile.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LOA.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDR.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoBBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDR.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInChanDoan.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInKhamXe.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocBaoGia.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateTienKHCK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDR.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDQ.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CPR.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NCP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TCP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoDN1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo_HD3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmbaoHiem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateRoHang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmVRC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoGioDongSon.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoHistory.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Ro_History.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoXemPX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDM.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HPT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LDN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoLDN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PCP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPHS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PHS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT5.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RVR.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmSelect.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RYC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDSTBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT1TBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XNP.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XPT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.YCT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.InputCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.InputCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.InputCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PNK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemPx.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_HD3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.AssemblyReference.cache
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemTT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWord.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Tao_nhieu_Xe.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN31.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN4.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN5.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN6.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN7.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN9.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX6.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX7.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX9.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD4.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD5.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XTS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BGX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD30.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPOD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.POD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPX2.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX2.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_HD3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PNK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PXE.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_RVR.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_NTS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PHS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_POD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_YCT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BC1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BN1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DXM.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DCT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NTS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.THS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TSN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocDN3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT5.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1_LUU.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDA.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NHD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NKG.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NRP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1_PT1_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PK1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNA.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PND.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT_Loc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXE.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXF.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.QTU.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.T03.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TKT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TTC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XKG.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XRP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K05.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K10.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KHM.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KNS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmAttachFile.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LOA.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDR.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoBBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDR.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInChanDoan.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInKhamXe.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocBaoGia.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateTienKHCK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemPx.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDR.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDQ.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CPR.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NCP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TCP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoDN1.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo_HD3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmbaoHiem.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateRoHang.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmVRC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoGioDongSon.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoHistory.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Ro_History.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoXemPX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDM.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HPT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LDN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoLDN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PCP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPHS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PHS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT5.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RVR.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmSelect.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RYC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDSTBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT1TBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD2.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD3.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XNP.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XPT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.YCT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.cache
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.CoreCompileInputs.cache
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.CopyComplete
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+D:\Phan_Mem\XDV_Dong_A\Cyber.InputCustom.dll
+D:\Phan_Mem\XDV_Dong_A\Cyber.InputCustom.pdb
+D:\Phan_Mem\XDV_Dong_A\Cyber.InputCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.AssemblyReference.cache
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemTT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWord.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDX.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Tao_nhieu_Xe.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN31.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPDX_To_PN3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN4.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN5.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN6.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN7.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN9.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX6.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX7.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX9.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXX.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD4.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD5.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XTS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BGX.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.VOD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD30.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNK_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPOD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.POD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPX2.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PX2.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_HD3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PNK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PXE.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_RVR.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_NTS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PHS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_POD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_PT1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Filter_YCT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BC1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BN1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CKS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DXM.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DCT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NTS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.THS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TSN.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocDN3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT5.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD1_LUU.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDA.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NHD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NKG.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NRP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PB6_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PC1_PT1_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PDX_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PK1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PN1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNA.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PND.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNI_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PNT_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXE.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXF.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.QTU.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.T03.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TKT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TTC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XKG.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XRP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K05.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.K10.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KHM.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.KNS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmAttachFile.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LOA.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDR.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucher.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherUNC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmPrintVoucherHDK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.BBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoBBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCapNhatHD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXuatWordHDR.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInChanDoan.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmInKhamXe.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocBaoGia.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateTienKHCK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmXemPx.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDR.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDQ.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.CPR.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NCP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TCP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.DN1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoDN1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo_HD3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HD3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDI.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmbaoHiem.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmUpdateRoHang.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmVRC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoGioDongSon.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoHistory.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Ro_History.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RoXemPX.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDM.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDN.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HDS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRo.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.HPT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.LDN.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoLDN.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.NBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PCP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocRoPHS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PHS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PPS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PT5.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.PXK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RVR.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmSelect.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.RYC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocHDSTBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmLocPT1TBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD2.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TD3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XNP.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.XPT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.YCT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.TestCT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FrmCopy.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.Resources.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.GenerateResource.cache
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll.licenses
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.CoreCompileInputs.cache
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.vbproj.CopyComplete
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.dll
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.pdb
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.InputCustom.dll
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.InputCustom.pdb
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.InputCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_HDS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.InputCustom\Cyber.InputCustom\obj\x86\Debug\Cyber.InputCustom.FILTER_PXK.resources

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.InputCustom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC073ACE-808D-48A4-BE7B-017333D46BF2}|Cyber.InputCustom\\Cyber.InputCustom.vbproj|e:\\work\\cybersoft\\customer\\hathanhmotor\\cyberappgoldenr3_hathanh\\sm\\cyber.inputcustom\\cyber.inputcustom\\ro\\td2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC073ACE-808D-48A4-BE7B-017333D46BF2}|Cyber.InputCustom\\Cyber.InputCustom.vbproj|solutionrelative:cyber.inputcustom\\ro\\td2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC073ACE-808D-48A4-BE7B-017333D46BF2}|Cyber.InputCustom\\Cyber.InputCustom.vbproj|e:\\work\\cybersoft\\customer\\hathanhmotor\\cyberappgoldenr3_hathanh\\sm\\cyber.inputcustom\\cyber.inputcustom\\do\\pnk\\pnk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC073ACE-808D-48A4-BE7B-017333D46BF2}|Cyber.InputCustom\\Cyber.InputCustom.vbproj|solutionrelative:cyber.inputcustom\\do\\pnk\\pnk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TD2.vb",
+              "DocumentMoniker": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.InputCustom\\Cyber.InputCustom\\RO\\TD2.vb",
+              "RelativeDocumentMoniker": "Cyber.InputCustom\\RO\\TD2.vb",
+              "ToolTip": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.InputCustom\\Cyber.InputCustom\\RO\\TD2.vb",
+              "RelativeToolTip": "Cyber.InputCustom\\RO\\TD2.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-13T07:06:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PNK.vb",
+              "DocumentMoniker": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.InputCustom\\Cyber.InputCustom\\DO\\PNK\\PNK.vb",
+              "RelativeDocumentMoniker": "Cyber.InputCustom\\DO\\PNK\\PNK.vb",
+              "ToolTip": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.InputCustom\\Cyber.InputCustom\\DO\\PNK\\PNK.vb",
+              "RelativeToolTip": "Cyber.InputCustom\\DO\\PNK\\PNK.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAKAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T13:57:15.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

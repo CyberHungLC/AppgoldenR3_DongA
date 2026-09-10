@@ -1,0 +1,263 @@
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbprojResolveAssemblyReference.cache
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.Cache
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+D:\ToanLC\Project\CyberAppGolden\Cyber.CalculatorCustom.dll
+D:\ToanLC\Project\CyberAppGolden\Cyber.CalculatorCustom.pdb
+D:\ToanLC\Project\CyberAppGolden\Cyber.CalculatorCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.CalculatorCustom.dll
+F:\Project\CyberAppGolden_New\Cyber.CalculatorCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.CalculatorCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.CalculatorCustom.dll
+F:\Project\CyberAppGolden_R2\Cyber.CalculatorCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.CalculatorCustom.xml
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbprojResolveAssemblyReference.cache
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.Cache
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+G:\Project\CyberAppGolden_R2\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+G:\Project\CyberAppGolden_R2\Cyber.CalculatorCustom.dll
+G:\Project\CyberAppGolden_R2\Cyber.CalculatorCustom.pdb
+G:\Project\CyberAppGolden_R2\Cyber.CalculatorCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CopyGroup_Filter.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CopyGroup_XEM.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.VTTraCuuTon.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXELOC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_IN_BB.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_KHF3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_KXF3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_PDS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_SoHang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_XEM.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Doi_TVBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoimportDmPK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoUpdateGiaNC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.DoiTTHD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNhapBaoHiem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmXacNhan.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmXacNhan_Print.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.QLXPick.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoimportDmVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROTRAN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoUpdateGia.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPTFilter.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPTView.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRGoiDien.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Crm_CapNhat.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_F3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiSMS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiSMSOld.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiZalo.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_02.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_03.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_04.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_05.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_06.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_Xem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmLichSuGoi.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN_F4.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN_User.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Ro_History.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Approve.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_F3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Loc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Xem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.CalculatorCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.CalculatorCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.CalculatorCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmPrintVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.PrintINCD1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.InGiaCost_Lop.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmDuyetCT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmDuyetCT_Ngay.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CopyGroup_Filter.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CopyGroup_XEM.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmDuyetCT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmDuyetCT_Ngay.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmPrintVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.InGiaCost_Lop.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.PrintINCD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.VTTraCuuTon.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXELOC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_IN_BB.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_KHF3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_KXF3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_PDS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_SoHang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_XEM.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Doi_TVBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoimportDmPK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoUpdateGiaNC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.DoiTTHD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNhapBaoHiem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmShowTivi.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmXacNhan.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmXacNhan_Print.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.QLXPick.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoimportDmVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROTRAN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoUpdateGia.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPTFilter.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPTView.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRGoiDien.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Crm_CapNhat.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_F3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiSMS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiSMSOld.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiZalo.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_04.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_05.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_06.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_Xem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmLichSuGoi.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN_F4.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN_User.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Ro_History.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Approve.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_F3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Loc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Xem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.AssemblyReference.cache
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CopyGroup_Filter.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CopyGroup_XEM.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmDuyetCT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmDuyetCT_Ngay.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmPrintVT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.InGiaCost_Lop.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.PrintINCD1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.VTTraCuuTon.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXELOC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_IN_BB.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_KHF3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_KXF3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_PDS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_SoHang.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.BEXEPXE_XEM.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Doi_TVBH.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoimportDmPK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoUpdateGiaNC.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.DoiTTHD.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNhapBaoHiem.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmShowTivi.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmXacNhan.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmXacNhan_Print.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.QLXPick.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoimportDmVT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROTRAN.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RoUpdateGia.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPTFilter.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROXPTView.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRGoiDien.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Crm_CapNhat.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_F3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiSMS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiSMSOld.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_GuiZalo.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_02.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_03.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_04.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_05.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_SMS_06.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.CRM_Xem.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmLichSuGoi.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN_F4.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmVOC_XLKN_User.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Ro_History.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Approve.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_F3.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Loc.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.LOA_Xem.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThangTk.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ThangToThang.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FrmNam.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.FFF.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.Resources.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.GenerateResource.cache
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll.licenses
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.CoreCompileInputs.cache
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.vbproj.CopyComplete
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.dll
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.pdb
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.dll
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.pdb
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RODsLenh.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.VewHDS_PT5.resources

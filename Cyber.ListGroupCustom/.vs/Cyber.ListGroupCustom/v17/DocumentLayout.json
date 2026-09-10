@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.ListGroupCustom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CB0389-1C06-4E42-B687-18715C43BFAA}|Cyber.ListGroupCustom\\Cyber.ListGroupCustom.vbproj|e:\\work\\cybersoft\\customer\\hathanhmotor\\cyberappgoldenr3_hathanh\\sm\\cyber.listgroupcustom\\cyber.listgroupcustom\\be\\dmgianc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A3CB0389-1C06-4E42-B687-18715C43BFAA}|Cyber.ListGroupCustom\\Cyber.ListGroupCustom.vbproj|solutionrelative:cyber.listgroupcustom\\be\\dmgianc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CB0389-1C06-4E42-B687-18715C43BFAA}|Cyber.ListGroupCustom\\Cyber.ListGroupCustom.vbproj|E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.ListGroupCustom\\cyber.listgroupcustom\\be\\dmgianc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A3CB0389-1C06-4E42-B687-18715C43BFAA}|Cyber.ListGroupCustom\\Cyber.ListGroupCustom.vbproj|solutionrelative:cyber.listgroupcustom\\be\\dmgianc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DMGIANC.vb",
+              "DocumentMoniker": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.ListGroupCustom\\Cyber.ListGroupCustom\\BE\\DMGIANC.vb",
+              "RelativeDocumentMoniker": "Cyber.ListGroupCustom\\BE\\DMGIANC.vb",
+              "ToolTip": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.ListGroupCustom\\Cyber.ListGroupCustom\\BE\\DMGIANC.vb",
+              "RelativeToolTip": "Cyber.ListGroupCustom\\BE\\DMGIANC.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T06:39:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DMGIANC.vb [Design]",
+              "DocumentMoniker": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.ListGroupCustom\\Cyber.ListGroupCustom\\BE\\DMGIANC.vb",
+              "RelativeDocumentMoniker": "Cyber.ListGroupCustom\\BE\\DMGIANC.vb",
+              "ToolTip": "E:\\Work\\Cybersoft\\Customer\\HaThanhMotor\\CyberAppGoldenR3_HaThanh\\Sm\\Cyber.ListGroupCustom\\Cyber.ListGroupCustom\\BE\\DMGIANC.vb [Design]",
+              "RelativeToolTip": "Cyber.ListGroupCustom\\BE\\DMGIANC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T06:39:20.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\bin\Debug\RestSharp.dll
+D:\DuAn\HDDTThaiSon\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\RestSharp.dll
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\CyberThaiSonInvoice.pdb
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\CyberThaiSonInvoice.xml
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Invoice.Form1.resources
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Invoice.Resources.resources
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Invoice.ViewPDF.resources
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CyberThaiSonInvoice.xml
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CyberThaiSonInvoice.pdb
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\CyberThaiSonInvoice.dll
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CyberThaiSonInvoice.dll.licenses
+D:\DuAnCaiDat\1.R3_20220921\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CyberThaiSonInvoice.dll
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\RestSharp.dll
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\HDBAKVV01.pdb
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\HDBAKVV01.xml
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Form1.resources
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Resources.resources
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.ViewPDF.resources
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.xml
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.pdb
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\HDBAKVV01.exe.config
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\bin\Debug\HDBAKVV01.exe
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.exe.licenses
+D:\DuAn\BinhDUong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.exe
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.xml
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.pdb
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Form1.resources
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Resources.resources
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.ViewPDF.resources
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll.licenses
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\HDBAKVV01.dll.config
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\HDBAKVV01.dll
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\HDBAKVV01.pdb
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\HDBAKVV01.xml
+D:\WORK\Cyber_9.0\CyberAppGolden_GiapBinhDuong\Sm\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Form1.resources
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Resources.resources
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.ViewPDF.resources
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll.licenses
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.xml
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.pdb
+D:\CYBER\MISTU_PHUCUONG\HDBAKVV01.dll.config
+D:\CYBER\MISTU_PHUCUONG\HDBAKVV01.dll
+D:\CYBER\MISTU_PHUCUONG\HDBAKVV01.pdb
+D:\CYBER\MISTU_PHUCUONG\HDBAKVV01.xml
+D:\CYBER\MISTU_PHUCUONG\SM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Form1.resources
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Resources.resources
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.ViewPDF.resources
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll.licenses
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.xml
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\SM\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.pdb
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\HDBAKVV01.dll.config
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\HDBAKVV01.dll
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\HDBAKVV01.pdb
+E:\Work\Cybersoft\Customer\XeMaySongTra\CyberAppGoldenR3_Xm_SongTra\HDBAKVV01.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Form1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.Resources.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.ViewPDF.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll.licenses
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\HDBAKVV01.dll.config
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\BKAV\WindowsApplication1\WindowsApplication1\obj\x86\Debug\HDBAKVV01.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\HDBAKVV01.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\HDBAKVV01.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\HDBAKVV01.xml

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HDBAKVV01
+</name>
+</assembly>
+<members>
+<member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.#ctor">
+	<remarks/>
+</member><member name="E:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecCommandCompleted">
+	<remarks/>
+</member><member name="E:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecuteCommandCompleted">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecCommand(System.String,System.String)">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecCommandAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecCommandAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecuteCommand(System.String,System.String)">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecuteCommandAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.ExecuteCommandAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:HDBAKVV01.vn.ehoadon.wsdemo.WSPublicEHoaDon">
+	<remarks/>
+</member><member name="T:HDBAKVV01.vn.ehoadon.wsdemo.ExecCommandCompletedEventHandler">
+	<remarks/>
+</member><member name="P:HDBAKVV01.vn.ehoadon.wsdemo.ExecCommandCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:HDBAKVV01.vn.ehoadon.wsdemo.ExecCommandCompletedEventArgs">
+	<remarks/>
+</member><member name="T:HDBAKVV01.vn.ehoadon.wsdemo.ExecuteCommandCompletedEventHandler">
+	<remarks/>
+</member><member name="P:HDBAKVV01.vn.ehoadon.wsdemo.ExecuteCommandCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:HDBAKVV01.vn.ehoadon.wsdemo.ExecuteCommandCompletedEventArgs">
+	<remarks/>
+</member><member name="P:HDBAKVV01.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HDBAKVV01.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HDBAKVV01.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

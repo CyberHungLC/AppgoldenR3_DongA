@@ -1,0 +1,19 @@
+12/12/2024 16:44:28 -  : Procedure CP_HD_ThaiSon has no parameters and arguments were supplied.
+12/12/2024 16:44:56 -  : Procedure CP_HD_ThaiSon has no parameters and arguments were supplied.
+12/12/2024 16:45:44 -  : Procedure or function 'CP_HD_ThaiSon' expects parameter '@M_User_Name', which was not supplied.
+12/12/2024 16:46:28 -  : Procedure or function 'CP_HD_ThaiSon' expects parameter '@M_User_Name', which was not supplied.
+13/12/2024 14:40:09 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:38:32 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:43:19 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:44:11 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:44:23 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:47:33 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:47:54 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:48:45 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:49:29 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:57:47 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 08:58:32 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 09:01:46 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 09:02:06 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 09:02:11 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.
+14/12/2024 09:02:39 -  : Procedure or function CP_HD_ThaiSon has too many arguments specified.

@@ -1,0 +1,491 @@
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\Cyber.ListGroupCustom.dll
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\Cyber.ListGroupCustom.pdb
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\Cyber.ListGroupCustom.xml
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170216\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDCTCC.resources
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\ResolveAssemblyReference.cache
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDCTCC.resources
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\GenerateResource.read.1.tlog
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\GenerateResource.write.1.tlog
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+D:\cyber erp\CyberEnterPrise17\CyberAppGolden_CTY_20170110\Cyber.ListGroupCus\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\Cyber.ListGroupCustom.dll
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\Cyber.ListGroupCustom.pdb
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\Cyber.ListGroupCustom.xml
+E:\MinhDc\CyberAppGolden_1\CyberAppGolden_CTY_20170302\MINHDC\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.COGTSPDD.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.KHCT.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DTCT.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMLHKH.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCKTM.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMLHSC.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKhoang.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMSC.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNOT.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRDMHTLL.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCAPVE.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCHAMCONG.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVE.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+E:\CyberAppGolden_CTY_20170125\sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\CyberAppGolden_CTY_20170125\Cyber.ListGroupCustom.dll
+E:\CyberAppGolden_CTY_20170125\Cyber.ListGroupCustom.pdb
+E:\CyberAppGolden_CTY_20170125\Cyber.ListGroupCustom.xml
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+F:\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+F:\Project\CyberAppGolden\Cyber.ListGroupCustom.dll
+F:\Project\CyberAppGolden\Cyber.ListGroupCustom.pdb
+F:\Project\CyberAppGolden\Cyber.ListGroupCustom.xml
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+D:\ToanLC\Project\CyberAppGolden\Cyber.ListGroupCustom.dll
+D:\ToanLC\Project\CyberAppGolden\Cyber.ListGroupCustom.pdb
+D:\ToanLC\Project\CyberAppGolden\Cyber.ListGroupCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.ListGroupCustom.dll
+F:\Project\CyberAppGolden_New\Cyber.ListGroupCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.ListGroupCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.ListGroupCustom.dll
+F:\Project\CyberAppGolden_R2\Cyber.ListGroupCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCSBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIANC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIAXE.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDCoupon.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDHD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDKH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDRO.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK30.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDBaoHiem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMCH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMLoai.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CrmDmTiepNhan.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMTL.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDKN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDTM.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMLOAINGAY.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMQLKHTN_Chuyen_Doi.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Ban.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_DL.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_GD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_LaiThu.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Mua.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem_KQ.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChienDich.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmDauSo.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLoaiKN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhaMang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmSMSTemplate.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmCTTS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKh.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKU.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMLD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTK0.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmTkKc.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTKNH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.FrmDmHs.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.GLPNL.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLTonVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVITRIVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTKK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTTonTT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCDSC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChiaHHBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCV.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGDVien.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIA2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHH_LHBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLKTVSC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLNVBoPhan.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKhoang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKTVSC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHSC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMQTDV.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMSC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMXE.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Ph89CVDV_Clock_CVDVKhoangToKTV.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.PH89CVDV_Right.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ListGroupCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ListGroupCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhacBaoDuong.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTD2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLHBaoHanh.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMPTCK.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_DL.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_GD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDV_Xem.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDv_Xem_KQ.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLKhachHang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCC.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLDDatHang.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVTLOp.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhTraGop.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmThTT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmPBPNL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCSBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIANC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIAXE.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhTraGop.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDCoupon.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDHD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDKH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDRO.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK30.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVTLOp.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDBaoHiem.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMBPHH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMCH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMLoai.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CrmDmTiepNhan.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMTL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDKN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDTM.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMLOAINGAY.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMQLKHTN_Chuyen_Doi.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Ban.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_DL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_GD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_LaiThu.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Mua.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem_KQ.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChienDich.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmDauSo.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLoaiKN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhacBaoDuong.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhaMang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmSMSTemplate.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmCTTS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKh.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKU.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMLD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLDDatHang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLKhachHang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmPBPNL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTD2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmThTT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTK0.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmTkKc.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTKNH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.FrmDmHs.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.GLPNL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLTonVT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHVT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVITRIVT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTKK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTTonTT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_DL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_GD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDV_Xem.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDv_Xem_KQ.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCDSC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChiaHHBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGDVien.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIA2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHH_LHBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLChietKhauDV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLKTVSC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLNVBoPhan.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKhoang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKTVSC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLHBaoHanh.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHSC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMPTCK.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMQTDV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMSC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMXE.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Ph89CVDV_Clock_CVDVKhoangToKTV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.PH89CVDV_Right.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ListGroupCustom.dll
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ListGroupCustom.pdb
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmQuay.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMDMS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLGCTC.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCTCV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCSBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIANC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIAXE.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhTraGop.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDCoupon.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDHD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDKH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDRO.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK30.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVTLOp.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDBaoHiem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMBPHH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMCH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMLoai.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CrmDmTiepNhan.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMTL.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDKN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDTM.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMLOAINGAY.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMQLKHTN_Chuyen_Doi.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Ban.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_DL.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_GD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_LaiThu.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Mua.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem_KQ.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChienDich.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmDauSo.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLoaiKN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhacBaoDuong.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhaMang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmSMSTemplate.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmCTTS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKh.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKU.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMLD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLDDatHang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLKhachHang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmPBPNL.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTD2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmThTT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTK0.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmTkKc.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTKNH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.FrmDmHs.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.GLPNL.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.UserTTCP_MacDinh.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLTonVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVITRIVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTKK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTTonTT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_DL.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_GD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDV_Xem.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDv_Xem_KQ.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCDSC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChiaHHBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCTCV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMDMS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGDVien.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIA2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHH_LHBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLChietKhauDV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLGCTC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLKTVSC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLNVBoPhan.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKhoang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKTVSC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLHBaoHanh.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHSC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMPTCK.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMQTDV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmQuay.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMSC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMXE.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Ph89CVDV_Clock_CVDVKhoangToKTV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.PH89CVDV_Right.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ListGroupCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ListGroupCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ListGroupCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHKX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLVITRI.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.AssemblyReference.cache
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCSBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIANC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIAXE.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhTraGop.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDCoupon.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDHD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDKH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDRO.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDTK30.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDVTLOp.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CDBaoHiem.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMBPHH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMCH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMLoai.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CrmDmTiepNhan.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMTL.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDKN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMDMVDTM.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMLOAINGAY.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRMQLKHTN_Chuyen_Doi.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Ban.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_DL.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_GD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_LaiThu.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTN_Mua.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTN_Xem_KQ.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChienDich.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmDauSo.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLoaiKN.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhacBaoDuong.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmNhaMang.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmSMSTemplate.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmCTTS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKh.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKU.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMLD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLDDatHang.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLKhachHang.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmPBPNL.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTD2.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmThTT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTK0.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmTkKc.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTKNH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMTS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.FrmDmHs.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.GLPNL.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.UserTTCP_MacDinh.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLTonVT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLVITRI.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHVT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVITRIVT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTKK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMVTTonTT.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Resources.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_DL.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLKHTNDV_GD.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDV_Xem.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.CRQLTNDv_Xem_KQ.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCDSC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMChiaHHBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCTCV.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMCV.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMDMS.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGDVien.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMGIA2.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHH_LHBH.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLChietKhauDV.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLGCTC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMHLKTVSC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmHLNVBoPhan.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKhoang.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmKTVSC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMKX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmLHBaoHanh.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHKX.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMNHSC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMPTCK.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMQTDV.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DmQuay.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMSC.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.DMXE.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.Ph89CVDV_Clock_CVDVKhoangToKTV.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.PH89CVDV_Right.resources
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.GenerateResource.cache
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll.licenses
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.CoreCompileInputs.cache
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.vbproj.CopyComplete
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.dll
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.xml
+D:\Phan_Mem\XDV_Dong_A\SmDongA07062026\Cyber.ListGroupCustom\Cyber.ListGroupCustom\obj\Debug\Cyber.ListGroupCustom.pdb
+D:\Phan_Mem\XDV_Dong_A\Cyber.ListGroupCustom.dll
+D:\Phan_Mem\XDV_Dong_A\Cyber.ListGroupCustom.pdb
+D:\Phan_Mem\XDV_Dong_A\Cyber.ListGroupCustom.xml

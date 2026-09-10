@@ -1,0 +1,515 @@
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARCD1.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden\Cyber.ReportsCustom.dll.config
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+F:\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+F:\Project\CyberAppGolden\Cyber.ReportsCustom.dll
+F:\Project\CyberAppGolden\Cyber.ReportsCustom.pdb
+F:\Project\CyberAppGolden\Cyber.ReportsCustom.xml
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARCD1.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+D:\ToanLC\Project\CyberAppGolden\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+D:\ToanLC\Project\CyberAppGolden\Cyber.ReportsCustom.dll.config
+D:\ToanLC\Project\CyberAppGolden\Cyber.ReportsCustom.dll
+D:\ToanLC\Project\CyberAppGolden\Cyber.ReportsCustom.pdb
+D:\ToanLC\Project\CyberAppGolden\Cyber.ReportsCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_New\Cyber.ReportsCustom.dll.config
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.ReportsCustom.dll
+F:\Project\CyberAppGolden_New\Cyber.ReportsCustom.pdb
+F:\Project\CyberAppGolden_New\Cyber.ReportsCustom.xml
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+F:\Project\CyberAppGolden_New\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BECD1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BESO1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BETH1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RORVRBK1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+D:\CyberAppGolden_CTY_20170125\Cyber.ReportsCustom.dll.config
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+D:\CyberAppGolden_CTY_20170125\Cyber.ReportsCustom.dll
+D:\CyberAppGolden_CTY_20170125\Cyber.ReportsCustom.pdb
+D:\CyberAppGolden_CTY_20170125\Cyber.ReportsCustom.xml
+D:\CyberAppGolden_CTY_20170125\sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BECD2.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+F:\Project\CyberAppGolden_R2\Cyber.ReportsCustom.dll.config
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+F:\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.ReportsCustom.dll
+F:\Project\CyberAppGolden_R2\Cyber.ReportsCustom.pdb
+F:\Project\CyberAppGolden_R2\Cyber.ReportsCustom.xml
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.cache
+D:\ToanLC\Project\CyberAppGolden_R2\Cyber.ReportsCustom.dll.config
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+D:\ToanLC\Project\CyberAppGolden_R2\Cyber.ReportsCustom.dll
+D:\ToanLC\Project\CyberAppGolden_R2\Cyber.ReportsCustom.pdb
+D:\ToanLC\Project\CyberAppGolden_R2\Cyber.ReportsCustom.xml
+D:\ToanLC\Project\CyberAppGolden_R2\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCRO_BH06.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_AnChiBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_LDXuat.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEBCTN03.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BECongNoHD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEDmHD02.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEDmHDBk1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEGXKH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEHDCBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEKQTH1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEKQTH2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPKDBC1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPKDBC3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPPKBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BESD1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BETHKH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEXTONKHODUKIEN.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KH04.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KH06.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KHBX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.PTSLBX.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_CRMNhac_BD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_ZALOSMS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CRM_CS01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CRM_KQLH_Detail.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CSKH024.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CSKH70.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.DMTHUE.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FaBcKh.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FACTTSBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FAKKCTTS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1PHI.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTC2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INCD1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INTH1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLPNL.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SOBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Tinhdaxuat1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_DSDLHDV.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_LH01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_QLXeTon.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BCDV42.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_VR01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_PhieuHS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDV01_LuyKe.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDV01_TH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBH_BC02.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_03.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_05.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BCDV37.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_COUPON_HANG.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_GTGT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_CNBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_BBH.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_THMG.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03Detail.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD05.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD06.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HDS_KPI_TH_CNHD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_TT01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DD01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT03.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT05.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Ro_KPICVDV.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_HLGiaVT.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INVTANLYSIS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROSSPXRO.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_THXuat_RO.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_YCDatVT_RO.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1POD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1POD.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCXuatPick.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDTDV_To.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDTDV_ToSDS.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_KTV_BK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_X04.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_X09.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ReportsCustom.dll.config
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ReportsCustom.dll
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ReportsCustom.pdb
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Cyber.ReportsCustom.xml
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INSD2.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTTBK1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTTBK3.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_02.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD01.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BangKe_HoaDon.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLCD1_BPPhi.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1.resources
+E:\Work\Cybersoft\Customer\HaThanhMotor\CyberAppGoldenR3_HaThanh\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.YCDat_Hang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCRO_BH06.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_AnChiBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_LDXuat.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEBCTN03.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BECongNoHD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEDmHD02.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEDmHDBk1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEGXKH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEHDCBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEKQTH1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEKQTH2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPKDBC1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPKDBC3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPPKBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BESD1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BETHKH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEXTONKHODUKIEN.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KH04.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KH06.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KHBX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.PTSLBX.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_CRMNhac_BD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_ZALOSMS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CRM_CS01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CRM_KQLH_Detail.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CSKH024.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CSKH70.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTTBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTTBK3.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BangKe_HoaDon.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.DMTHUE.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FaBcKh.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FACTTSBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FAKKCTTS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLCD1_BPPhi.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1PHI.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTC2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INSD2.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INCD1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INTH1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLPNL.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SOBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Tinhdaxuat1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_DSDLHDV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_LH01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_QLXeTon.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BCDV42.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_VR01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_PhieuHS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDV01_LuyKe.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDV01_TH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBH_BC02.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_02.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_03.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_05.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BCDV37.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_COUPON_HANG.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_GTGT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_CNBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_BBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_THMG.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03Detail.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD05.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD06.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HDS_KPI_TH_CNHD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_TT01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DD01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT02.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT03.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT05.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Ro_KPICVDV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_HLGiaVT.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INVTANLYSIS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROSSPXRO.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_THXuat_RO.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_YCDatVT_RO.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1POD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1POD.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCXuatPick.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.YCDat_Hang.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDTDV_To.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDTDV_ToSDS.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_KTV_BK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_X04.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_X09.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCDN3BK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCDXMBK1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RODTKTV.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ReportsCustom.dll.config
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ReportsCustom.dll
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ReportsCustom.pdb
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Cyber.ReportsCustom.xml
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD04.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03_XanhSm.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_W_NonBBH.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_04.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RODTKTV_Detail.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLThueBk21.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLThueBk31.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT01.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTC1.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_01_Ngay.resources
+E:\Work\Cybersoft\Customer\Xưởng VF Tiến DũngThái Nguyên\CyberAppGoldenR3_TienDung\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_VR03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbprojResolveAssemblyReference.cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCRO_BH06.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_AnChiBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_LDXuat.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEBCTN03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BECongNoHD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEDmHD02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEDmHDBk1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEGXKH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEHDCBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEKQTH1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEKQTH2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPKDBC1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPKDBC3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEPPKBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BESD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BETHKH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BEXTONKHODUKIEN.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KH04.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KH06.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BE_KHBX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.PTSLBX.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_CRMNhac_BD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_ZALOSMS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CRM_CS01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CRM_KQLH_Detail.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CSKH024.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.CSKH70.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARCD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARSO1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FARTH1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FGLSO1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARCD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1T.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTTBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTTBK3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BangKe_HoaDon.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCDN3BK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCDXMBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.DMTHUE.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FaBcKh.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FACTTSBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.FAKKCTTS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLCD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLCD1_BPPhi.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1B.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1PHI.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO1T.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLSO4.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTC1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTC2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTC5.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLTH1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLThueBk21.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLThueBk31.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INSD2.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INCD1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INTH1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.GLPNL.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SOBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Tinhdaxuat1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_DSDLHDV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_LH01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_QLXeTon.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BCDV42.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_VR01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_VR02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_VR03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_PhieuHS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_01_Ngay.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_04.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_09.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_W_NonBBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDV01_LuyKe.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDV01_TH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBH_BC02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_05.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BCDV37.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_COUPON_HANG.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_GTGT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03_XanhSm.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_CNBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_BBH.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_THMG.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD03Detail.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD04.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD05.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HD06.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_HDS_KPI_TH_CNHD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_TT01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_TT02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RODTKTV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RODTKTV_Detail.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DD01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DD02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT01.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT02.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT03.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_DT05.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Ro_KPICVDV.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_HLGiaVT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INVTANLYSIS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROSSPXRO.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_THXuat_RO.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BC_YCDatVT_RO.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1POD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1POD.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCXuatPick.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.YCDat_Hang.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDTDV_To.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROBCDTDV_ToSDS.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_KTV_BK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_X04.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_X09.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysTH1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonth.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDate.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysMonthToMonth.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.SysDateToDate.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Resources.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.Startup.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.vbproj.GenerateResource.Cache
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.dll.config
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.dll
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.pdb
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.xml
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INSo1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INSO1T.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INSD3.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.APTTBK1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARSO1_CT.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ARTH1.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_BKVTPTSC.resources
+E:\Work\Cybersoft\Customer\VF Đông Á\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BC_HDKhac_Detail.resources

@@ -67,10 +67,15 @@
         If CmbVt_Ton_kho.Text.Trim = "" Then CmbVt_Ton_kho.SelectedValue = "1"
         If CmbGia_Ton.Text.Trim = "" Then CmbGia_Ton.SelectedValue = "1"
         If CmbSua_Tk_Vt.Text.Trim = "" Then CmbSua_Tk_Vt.SelectedValue = "0"
+        If Mode = "M" Then
+            TxtMa_Thue.Text = "08"
+            TxtThue_Suat.Text = 8
+        End If
 
-        If TxtMa_Thue.Text.Trim = "" Then TxtMa_Thue.Text = "10"
-        If TxtMa_Thue.Text = "10" Then TxtThue_Suat.Text = 10
-        If TxtMa_Thue.Text = "08" Then TxtThue_Suat.Text = 8
+        'If TxtMa_Thue.Tex
+        ''t.Trim = "" Then TxtMa_Thue.Text = "10"
+        'If TxtMa_Thue.Text = "10" Then TxtThue_Suat.Text = 10
+        'If TxtMa_Thue.Text = "08" Then TxtThue_Suat.Text = 8
     End Sub
     Protected Overrides Sub V_Addhander()
         MyBase.V_Addhander()
@@ -635,14 +640,7 @@
         If TxtGia2.Double = 0 Then
             If MsgBox(" Vật tư chưa nhập giá bạn có lưu không?", MsgBoxStyle.YesNo, oSysvar("M_CYBER_VER")) <> MsgBoxResult.Yes Then Return
         End If
-        If TxtThue_Suat.Double = 0 Then
 
-            'If MsgBox(" thuế xuất đang bằng 0 bạn có lưu không?", MsgBoxStyle.YesNo, oSysvar("M_CYBER_VER")) <> MsgBoxResult.Yes Then Return
-            If MsgBox("Bạn chưa khai báo thuế xuất") Then
-                Exit Sub
-            End If
-
-        End If
         CyberSmodb.AddValueToRow(Me.DrNew, Me)
         If Not CyberSmlistSys.SaveToSQLOfList(Appconn, oSysvar, Me, CyberSmodb, CyberSmlib, CyberSupport) Then Exit Sub
         MyBase.V_Save(sender, e) '// khong xoa doan nay

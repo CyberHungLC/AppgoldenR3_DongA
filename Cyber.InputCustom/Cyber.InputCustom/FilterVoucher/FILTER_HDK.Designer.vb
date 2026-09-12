@@ -123,7 +123,6 @@ Partial Class FILTER_HDK
         Me.ChkIs_Bs = New System.Windows.Forms.CheckBox()
         Me.Label13 = New System.Windows.Forms.Label()
         Me.TxtSo_BG = New System.Windows.Forms.TextBox()
-        Me.TxtMa_Xe = New Cyber.SmLists.TxtLookup()
         Me.Label14 = New System.Windows.Forms.Label()
         Me.TxtSo_Ro_Hang = New System.Windows.Forms.TextBox()
         Me.Label15 = New System.Windows.Forms.Label()
@@ -132,6 +131,7 @@ Partial Class FILTER_HDK
         Me.Label16 = New System.Windows.Forms.Label()
         Me.TxtTen_TTCP_H = New System.Windows.Forms.TextBox()
         Me.TxtMa_TTCP = New Cyber.SmLists.TxtLookup()
+        Me.TxtMa_Xe = New System.Windows.Forms.TextBox()
         CType(Me.TxtMa_TTLN.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_Sp.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_phi.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -161,7 +161,6 @@ Partial Class FILTER_HDK
         CType(Me.TxtNh_VT1.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_Cv.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_kho.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.TxtMa_Xe.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_Db.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -1250,7 +1249,7 @@ Partial Class FILTER_HDK
         Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.Label7.ForeColor = System.Drawing.Color.Navy
-        Me.Label7.Location = New System.Drawing.Point(443, 7)
+        Me.Label7.Location = New System.Drawing.Point(464, 7)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(62, 13)
         Me.Label7.TabIndex = 240
@@ -1630,23 +1629,6 @@ Partial Class FILTER_HDK
         Me.TxtSo_BG.TabIndex = 7
         Me.TxtSo_BG.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
-        'TxtMa_Xe
-        '
-        Me.TxtMa_Xe._ActilookupPopup = False
-        Me.TxtMa_Xe.CyberActilookupPopup = True
-        Me.TxtMa_Xe.Dv_ListDetail = Nothing
-        Me.TxtMa_Xe.Dv_Master = Nothing
-        Me.TxtMa_Xe.FilterClient = ""
-        Me.TxtMa_Xe.FilterSQL = ""
-        Me.TxtMa_Xe.Location = New System.Drawing.Point(511, 7)
-        Me.TxtMa_Xe.Name = "TxtMa_Xe"
-        Me.TxtMa_Xe.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_Xe.Properties.Appearance.Options.UseForeColor = True
-        Me.TxtMa_Xe.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Xe.Size = New System.Drawing.Size(110, 20)
-        Me.TxtMa_Xe.TabIndex = 2
-        Me.TxtMa_Xe.Table_Name = ""
-        '
         'Label14
         '
         Me.Label14.BackColor = System.Drawing.Color.Transparent
@@ -1751,10 +1733,22 @@ Partial Class FILTER_HDK
         Me.TxtMa_TTCP.TabIndex = 2038
         Me.TxtMa_TTCP.Table_Name = ""
         '
+        'TxtMa_Xe
+        '
+        Me.TxtMa_Xe.BackColor = System.Drawing.Color.White
+        Me.TxtMa_Xe.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.TxtMa_Xe.ForeColor = System.Drawing.Color.Navy
+        Me.TxtMa_Xe.Location = New System.Drawing.Point(530, 5)
+        Me.TxtMa_Xe.Name = "TxtMa_Xe"
+        Me.TxtMa_Xe.Size = New System.Drawing.Size(102, 20)
+        Me.TxtMa_Xe.TabIndex = 2
+        Me.TxtMa_Xe.Tag = ""
+        '
         'FILTER_HDK
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(909, 393)
+        Me.Controls.Add(Me.TxtMa_Xe)
         Me.Controls.Add(Me.Label16)
         Me.Controls.Add(Me.TxtTen_TTCP_H)
         Me.Controls.Add(Me.TxtMa_TTCP)
@@ -1763,7 +1757,6 @@ Partial Class FILTER_HDK
         Me.Controls.Add(Me.TxtMa_Db)
         Me.Controls.Add(Me.Label14)
         Me.Controls.Add(Me.TxtSo_Ro_Hang)
-        Me.Controls.Add(Me.TxtMa_Xe)
         Me.Controls.Add(Me.Label13)
         Me.Controls.Add(Me.TxtSo_BG)
         Me.Controls.Add(Me.ChkIs_Bs)
@@ -1982,7 +1975,6 @@ Partial Class FILTER_HDK
         Me.Controls.SetChildIndex(Me.ChkIs_Bs, 0)
         Me.Controls.SetChildIndex(Me.TxtSo_BG, 0)
         Me.Controls.SetChildIndex(Me.Label13, 0)
-        Me.Controls.SetChildIndex(Me.TxtMa_Xe, 0)
         Me.Controls.SetChildIndex(Me.TxtSo_Ro_Hang, 0)
         Me.Controls.SetChildIndex(Me.Label14, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_Db, 0)
@@ -1991,6 +1983,7 @@ Partial Class FILTER_HDK
         Me.Controls.SetChildIndex(Me.TxtMa_TTCP, 0)
         Me.Controls.SetChildIndex(Me.TxtTen_TTCP_H, 0)
         Me.Controls.SetChildIndex(Me.Label16, 0)
+        Me.Controls.SetChildIndex(Me.TxtMa_Xe, 0)
         CType(Me.TxtMa_TTLN.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_Sp.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_phi.Properties, System.ComponentModel.ISupportInitialize).EndInit()
@@ -2020,7 +2013,6 @@ Partial Class FILTER_HDK
         CType(Me.TxtNh_VT1.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_Cv.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_kho.Properties, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.TxtMa_Xe.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_Db.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
@@ -2131,7 +2123,6 @@ Partial Class FILTER_HDK
     Friend WithEvents ChkIs_Bs As System.Windows.Forms.CheckBox
     Friend WithEvents Label13 As System.Windows.Forms.Label
     Friend WithEvents TxtSo_BG As System.Windows.Forms.TextBox
-    Friend WithEvents TxtMa_Xe As SmLists.TxtLookup
     Friend WithEvents Label14 As Label
     Friend WithEvents TxtSo_Ro_Hang As TextBox
     Friend WithEvents Label15 As Label
@@ -2140,4 +2131,5 @@ Partial Class FILTER_HDK
     Friend WithEvents Label16 As Label
     Friend WithEvents TxtTen_TTCP_H As TextBox
     Friend WithEvents TxtMa_TTCP As SmLists.TxtLookup
+    Friend WithEvents TxtMa_Xe As TextBox
 End Class

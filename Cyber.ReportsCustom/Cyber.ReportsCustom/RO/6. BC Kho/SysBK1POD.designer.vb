@@ -102,6 +102,8 @@ Partial Class SysBK1POD
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.txtSo_Po = New Cyber.SmLists.TxtLookup()
+        Me.CbbLoai_Loc = New System.Windows.Forms.ComboBox()
+        Me.Label11 = New System.Windows.Forms.Label()
         CType(Me.Txtma_kh.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_vt.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_kho.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -131,50 +133,48 @@ Partial Class SysBK1POD
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(802, 438)
+        Me.ButtExit.Location = New System.Drawing.Point(805, 453)
         Me.ButtExit.TabIndex = 31
         '
         'CBBMa_Dvcs
         '
-        Me.CBBMa_Dvcs.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CBBMa_Dvcs.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(87, 399)
-        Me.CBBMa_Dvcs.Size = New System.Drawing.Size(553, 21)
+        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(87, 414)
+        Me.CBBMa_Dvcs.Size = New System.Drawing.Size(329, 21)
         Me.CBBMa_Dvcs.TabIndex = 27
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(10, 402)
+        Me.Label1.Location = New System.Drawing.Point(10, 417)
         '
         'ButtOK
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(698, 438)
+        Me.ButtOK.Location = New System.Drawing.Point(701, 453)
         Me.ButtOK.TabIndex = 30
         '
         'LabLoai_NT
         '
-        Me.LabLoai_NT.Location = New System.Drawing.Point(676, 403)
+        Me.LabLoai_NT.Location = New System.Drawing.Point(418, 417)
         '
         'ChkVND
         '
-        Me.ChkVND.Location = New System.Drawing.Point(757, 401)
+        Me.ChkVND.Location = New System.Drawing.Point(499, 415)
         Me.ChkVND.TabIndex = 28
         '
         'ChkNT
         '
-        Me.ChkNT.Location = New System.Drawing.Point(828, 401)
+        Me.ChkNT.Location = New System.Drawing.Point(570, 415)
         Me.ChkNT.TabIndex = 29
         '
         'GroupBoxLine
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 421)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 436)
         Me.GroupBoxLine.Name = "GroupBoxLine"
-        Me.GroupBoxLine.Size = New System.Drawing.Size(899, 9)
+        Me.GroupBoxLine.Size = New System.Drawing.Size(902, 9)
         Me.GroupBoxLine.TabIndex = 15
         Me.GroupBoxLine.TabStop = False
         '
@@ -196,7 +196,7 @@ Partial Class SysBK1POD
         Me.txtten_kh.Location = New System.Drawing.Point(209, 81)
         Me.txtten_kh.Name = "txtten_kh"
         Me.txtten_kh.ReadOnly = True
-        Me.txtten_kh.Size = New System.Drawing.Size(693, 14)
+        Me.txtten_kh.Size = New System.Drawing.Size(695, 14)
         Me.txtten_kh.TabIndex = 205
         Me.txtten_kh.TabStop = False
         '
@@ -237,7 +237,7 @@ Partial Class SysBK1POD
         Me.TxtTen_vt.Location = New System.Drawing.Point(209, 123)
         Me.TxtTen_vt.Name = "TxtTen_vt"
         Me.TxtTen_vt.ReadOnly = True
-        Me.TxtTen_vt.Size = New System.Drawing.Size(693, 14)
+        Me.TxtTen_vt.Size = New System.Drawing.Size(695, 14)
         Me.TxtTen_vt.TabIndex = 340
         Me.TxtTen_vt.TabStop = False
         '
@@ -295,7 +295,7 @@ Partial Class SysBK1POD
         Me.TxtTen_Nh_Vt3.BackColor = System.Drawing.SystemColors.Control
         Me.TxtTen_Nh_Vt3.Enabled = False
         Me.TxtTen_Nh_Vt3.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nh_Vt3.Location = New System.Drawing.Point(159, 480)
+        Me.TxtTen_Nh_Vt3.Location = New System.Drawing.Point(159, 495)
         Me.TxtTen_Nh_Vt3.Name = "TxtTen_Nh_Vt3"
         Me.TxtTen_Nh_Vt3.ReadOnly = True
         Me.TxtTen_Nh_Vt3.Size = New System.Drawing.Size(177, 21)
@@ -309,7 +309,7 @@ Partial Class SysBK1POD
         Me.TxtTen_Nh_Vt2.BackColor = System.Drawing.SystemColors.Control
         Me.TxtTen_Nh_Vt2.Enabled = False
         Me.TxtTen_Nh_Vt2.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nh_Vt2.Location = New System.Drawing.Point(159, 458)
+        Me.TxtTen_Nh_Vt2.Location = New System.Drawing.Point(159, 473)
         Me.TxtTen_Nh_Vt2.Name = "TxtTen_Nh_Vt2"
         Me.TxtTen_Nh_Vt2.ReadOnly = True
         Me.TxtTen_Nh_Vt2.Size = New System.Drawing.Size(177, 21)
@@ -323,7 +323,7 @@ Partial Class SysBK1POD
         Me.TxtTen_Nh_Vt1.BackColor = System.Drawing.SystemColors.Control
         Me.TxtTen_Nh_Vt1.Enabled = False
         Me.TxtTen_Nh_Vt1.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nh_Vt1.Location = New System.Drawing.Point(159, 436)
+        Me.TxtTen_Nh_Vt1.Location = New System.Drawing.Point(159, 451)
         Me.TxtTen_Nh_Vt1.Name = "TxtTen_Nh_Vt1"
         Me.TxtTen_Nh_Vt1.ReadOnly = True
         Me.TxtTen_Nh_Vt1.Size = New System.Drawing.Size(177, 21)
@@ -349,7 +349,7 @@ Partial Class SysBK1POD
         Me.TxtTen_kho.Location = New System.Drawing.Point(209, 103)
         Me.TxtTen_kho.Name = "TxtTen_kho"
         Me.TxtTen_kho.ReadOnly = True
-        Me.TxtTen_kho.Size = New System.Drawing.Size(693, 14)
+        Me.TxtTen_kho.Size = New System.Drawing.Size(695, 14)
         Me.TxtTen_kho.TabIndex = 354
         Me.TxtTen_kho.TabStop = False
         '
@@ -1086,7 +1086,7 @@ Partial Class SysBK1POD
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(349, 380)
+        Me.Label3.Location = New System.Drawing.Point(349, 375)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(27, 13)
         Me.Label3.TabIndex = 435
@@ -1098,7 +1098,7 @@ Partial Class SysBK1POD
         Me.CbbMa_post2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbMa_post2.ForeColor = System.Drawing.Color.Navy
         Me.CbbMa_post2.FormattingEnabled = True
-        Me.CbbMa_post2.Location = New System.Drawing.Point(431, 372)
+        Me.CbbMa_post2.Location = New System.Drawing.Point(431, 369)
         Me.CbbMa_post2.Name = "CbbMa_post2"
         Me.CbbMa_post2.Size = New System.Drawing.Size(209, 21)
         Me.CbbMa_post2.TabIndex = 26
@@ -1115,7 +1115,7 @@ Partial Class SysBK1POD
         '
         'Label7
         '
-        Me.Label7.Location = New System.Drawing.Point(3, 376)
+        Me.Label7.Location = New System.Drawing.Point(3, 373)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(86, 17)
         Me.Label7.TabIndex = 434
@@ -1246,10 +1246,31 @@ Partial Class SysBK1POD
         Me.txtSo_Po.TabIndex = 444
         Me.txtSo_Po.Table_Name = ""
         '
+        'CbbLoai_Loc
+        '
+        Me.CbbLoai_Loc.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.CbbLoai_Loc.ForeColor = System.Drawing.Color.Navy
+        Me.CbbLoai_Loc.FormattingEnabled = True
+        Me.CbbLoai_Loc.Location = New System.Drawing.Point(415, 168)
+        Me.CbbLoai_Loc.Name = "CbbLoai_Loc"
+        Me.CbbLoai_Loc.Size = New System.Drawing.Size(225, 21)
+        Me.CbbLoai_Loc.TabIndex = 446
+        '
+        'Label11
+        '
+        Me.Label11.Location = New System.Drawing.Point(331, 170)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(86, 17)
+        Me.Label11.TabIndex = 447
+        Me.Label11.Tag = "Type"
+        Me.Label11.Text = "Loại lọc"
+        '
         'SysBK1POD
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(906, 491)
+        Me.ClientSize = New System.Drawing.Size(909, 506)
+        Me.Controls.Add(Me.CbbLoai_Loc)
+        Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.txtSo_Po)
         Me.Controls.Add(Me.ChkDetail_OK)
@@ -1424,6 +1445,8 @@ Partial Class SysBK1POD
         Me.Controls.SetChildIndex(Me.ChkDetail_OK, 0)
         Me.Controls.SetChildIndex(Me.txtSo_Po, 0)
         Me.Controls.SetChildIndex(Me.Label10, 0)
+        Me.Controls.SetChildIndex(Me.Label11, 0)
+        Me.Controls.SetChildIndex(Me.CbbLoai_Loc, 0)
         CType(Me.Txtma_kh.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_vt.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_kho.Properties, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1534,4 +1557,6 @@ Partial Class SysBK1POD
     Friend WithEvents Label9 As System.Windows.Forms.Label
     Friend WithEvents Label10 As Label
     Friend WithEvents txtSo_Po As SmLists.TxtLookup
+    Friend WithEvents CbbLoai_Loc As ComboBox
+    Friend WithEvents Label11 As Label
 End Class

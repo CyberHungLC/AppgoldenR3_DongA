@@ -2,7 +2,7 @@
     Dim CyberMe As New Cyber.ReportsCustom.Sys
     Dim DrReturn As DataRow
     Dim DsLookup As DataSet
-    Dim _Dt_GD, _Dt_post1, _Dt_post2, _GroupByTH, _GroupByCT As DataTable
+    Dim _Dt_GD, _Dt_post1, _Dt_post2, _GroupByTH, _GroupByCT, _Dt_LocLoai As DataTable
     Private Sub SysTH1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         ChkDetail_OK.Checked = True
         V_AddMenuShorcut()
@@ -36,6 +36,12 @@
         CyberMe.V_LoadLoai_BC(ChkVND, ChkNT)
         Me.is_continue = False
         Me.CyberFill.V_FillComBoxValue(Me.CBBMa_Dvcs, Me.DtUnists, "Ma_Dvcs", "Ten_Dvcs", Me.Ma_Dvcs)
+
+        Dim _DsLocLoai As New DataSet
+        _DsLocLoai = CyberSmLib.SQLExcuteStoreProcedure(AppConn, "CP_SysGetComboBoxReport", "CP_SYSBK1POD" & "##")
+        _Dt_LocLoai = _DsLocLoai.Tables(0).Copy
+        CyberFill.V_FillComBoxDefaul(Me.CbbLoai_Loc, _Dt_LocLoai, "Ma_Cbb", "Ten_Cbb")
+
         '----Set
         TxtM_Ngay_Ct1.Value = Now.Date
         TxtM_Ngay_Ct2.Value = Now.Date
@@ -647,6 +653,7 @@
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.V_GetValueCombox(CbbMa_GD)
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.V_GetValueCombox(CbbMa_Post1)
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.V_GetValueCombox(CbbMa_post2)
+        M_strParameterStore = M_strParameterStore & "#" & CyberMe.V_GetValueCombox(CbbLoai_Loc)
 
         M_strParameterStore = M_strParameterStore & "#" & Dt1.ToString("yyyyMMdd") & "#" & Dt2.ToString("yyyyMMdd").Trim
 

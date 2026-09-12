@@ -1754,9 +1754,9 @@ Partial Class HDK
         Me.txtSo_RO.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtSo_RO.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtSo_RO.ForeColor = System.Drawing.Color.Navy
-        Me.txtSo_RO.Location = New System.Drawing.Point(1141, 32)
+        Me.txtSo_RO.Location = New System.Drawing.Point(1139, 32)
         Me.txtSo_RO.Name = "txtSo_RO"
-        Me.txtSo_RO.Size = New System.Drawing.Size(205, 22)
+        Me.txtSo_RO.Size = New System.Drawing.Size(207, 22)
         Me.txtSo_RO.TabIndex = 37
         Me.txtSo_RO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
@@ -2105,10 +2105,10 @@ Partial Class HDK
         Me.TxtSo_BG.Enabled = False
         Me.TxtSo_BG.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtSo_BG.ForeColor = System.Drawing.Color.Navy
-        Me.TxtSo_BG.Location = New System.Drawing.Point(1144, 77)
+        Me.TxtSo_BG.Location = New System.Drawing.Point(1139, 77)
         Me.TxtSo_BG.Name = "TxtSo_BG"
         Me.TxtSo_BG.ReadOnly = True
-        Me.TxtSo_BG.Size = New System.Drawing.Size(202, 22)
+        Me.TxtSo_BG.Size = New System.Drawing.Size(207, 22)
         Me.TxtSo_BG.TabIndex = 39
         Me.TxtSo_BG.TabStop = False
         Me.TxtSo_BG.Tag = ""
@@ -2592,10 +2592,10 @@ Partial Class HDK
         Me.TxtSo_Ro_Hang.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtSo_Ro_Hang.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtSo_Ro_Hang.ForeColor = System.Drawing.Color.Red
-        Me.TxtSo_Ro_Hang.Location = New System.Drawing.Point(1141, 55)
+        Me.TxtSo_Ro_Hang.Location = New System.Drawing.Point(1139, 55)
         Me.TxtSo_Ro_Hang.Name = "TxtSo_Ro_Hang"
         Me.TxtSo_Ro_Hang.ReadOnly = True
-        Me.TxtSo_Ro_Hang.Size = New System.Drawing.Size(160, 21)
+        Me.TxtSo_Ro_Hang.Size = New System.Drawing.Size(180, 21)
         Me.TxtSo_Ro_Hang.TabIndex = 38
         Me.TxtSo_Ro_Hang.TabStop = False
         Me.TxtSo_Ro_Hang.Tag = ""
@@ -3146,9 +3146,9 @@ Partial Class HDK
         Me.CmdUpdateRo_hang.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CmdUpdateRo_hang.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.CmdUpdateRo_hang.Appearance.Options.UseForeColor = True
-        Me.CmdUpdateRo_hang.Location = New System.Drawing.Point(1306, 55)
+        Me.CmdUpdateRo_hang.Location = New System.Drawing.Point(1320, 55)
         Me.CmdUpdateRo_hang.Name = "CmdUpdateRo_hang"
-        Me.CmdUpdateRo_hang.Size = New System.Drawing.Size(40, 21)
+        Me.CmdUpdateRo_hang.Size = New System.Drawing.Size(26, 21)
         Me.CmdUpdateRo_hang.TabIndex = 2041
         Me.CmdUpdateRo_hang.TabStop = False
         Me.CmdUpdateRo_hang.Text = "..."
@@ -3762,7 +3762,7 @@ Partial Class HDK
         Me.TxtNgay_Gx.ShowDayBeforeMonth = False
         Me.TxtNgay_Gx.Size = New System.Drawing.Size(155, 22)
         Me.TxtNgay_Gx.TabIndex = 7137
-        Me.TxtNgay_Gx.Value = "10/09/2026 16:12"
+        Me.TxtNgay_Gx.Value = "11/09/2026 17:06"
         Me.TxtNgay_Gx.Visible = False
         '
         'CbbVRC

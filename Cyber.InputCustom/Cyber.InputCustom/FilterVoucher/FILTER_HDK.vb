@@ -129,11 +129,6 @@ Public Class FILTER_HDK
         AddHandler TxtMa_KX.CyberValiting, AddressOf V_Ma_Kx
         AddHandler TxtMa_KX.CyberLeave, AddressOf L_Ma_Kx
 
-        '--Ma_Xe
-        RemoveHandler TxtMa_Xe.CyberValiting, AddressOf V_Ma_Xe
-        RemoveHandler TxtMa_Xe.CyberLeave, AddressOf L_Ma_Xe
-        AddHandler TxtMa_Xe.CyberValiting, AddressOf V_Ma_Xe
-        AddHandler TxtMa_Xe.CyberLeave, AddressOf L_Ma_Xe
 
         '--VT1
         RemoveHandler TxtNh_Kx1.CyberValiting, AddressOf V_Nh_Kx1
@@ -345,25 +340,6 @@ Public Class FILTER_HDK
         Else
             TxtMa_KX.Text = ""
             TxtTen_Kx.Text = ""
-        End If
-    End Sub
-#End Region
-#Region "Vali --- Ma_Xe"
-    Private Sub V_Ma_Xe(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
-        TxtMa_Xe.V_LookUp(M_Lan, M_Para, osysvar, AppConn, M_DsLookup, "Ma_Xe", "Dmxe", "1=1", "1=1")
-    End Sub
-    Private Sub L_Ma_Xe(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
-        If TxtMa_Xe.Text = "" Then
-            TxtTen_Kx.Text = ""
-            Exit Sub
-        End If
-        DrReturn = TxtMa_Xe.GetRowsSelectData(False)
-        If Not DrReturn Is Nothing Then
-            TxtMa_Xe.Text = DrReturn.Item("Ma_Xe")
-            'TxtTen_Kx.Text = DrReturn.Item("Ten_Kx")
-        Else
-            TxtMa_Xe.Text = ""
-            'TxtTen_Kx.Text = ""
         End If
     End Sub
 #End Region

@@ -1793,7 +1793,9 @@ _KT:
 
 
         If M_Mode = "M" And V_IsFieldExist("So_Km", Dr) And Is_Xe = "1" Then TxtSo_Km_Cu.Double = Dr.Item("So_Km")
-        If M_Mode = "M" And V_IsFieldExist("So_Km_Moi", Dr) And Is_Xe = "1" Then TxtSo_Km.Double = Dr.Item("So_Km_Moi")
+        If M_Mode = "M" And V_IsFieldExist("So_Km_Moi", Dr) And Is_Xe = "1" And CbbMa_TTCP_H.SelectedValue = "02" Then
+            TxtSo_Km.Double = Dr.Item("So_Km_Moi") ' Chỉ áp dụng xe xăng (Xưởng xăng yêu cầu 12/09/2026) quên không nhập km mới do xưởng xăng chịu tn
+        End If
 
         If V_IsFieldExist("E_Mail", Dr) Then If Not Dr.Item("E_mail").ToString.Trim = "" Then TxtE_mail.Text = Dr.Item("E_mail").ToString.Trim
 
@@ -4469,7 +4471,6 @@ _KT:
         DsGiaCv = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetGiaCv", M_Mode & "#" & _Ngay_Ct.ToString("yyyyMMdd") & "#" & _Ma_TTCP_H.Trim & "#" & _
                                                      _Ma_TT.Trim & "#" & _Ma_KX.Trim & "#" & _Ma_CV.Trim & "#" & _Gia_CV.Replace(" ", "").Trim & "#" & _Tien_CV.Replace(" ", "").Trim & "#" & TxtMa_Dvcs.Text.Trim + "#" + M_User_Name.Trim)
 
-
         If DsGiaCv.Tables.Count < 1 Then
             DsGiaCv.Dispose()
             Exit Sub
@@ -4480,21 +4481,65 @@ _KT:
             Exit Sub
         End If
 
-        _Gia_Cv = DsGiaCv.Tables(0).Rows(0).Item("Gia_Cv")
-
+        _Gia_CV = DsGiaCv.Tables(0).Rows(0).Item("Gia_Cv")
 
         Dv_DetailCvTmp.Item(iRow).BeginEdit()
-  
-            Dv_DetailCvTmp.Item(iRow).Item("Gia_Cv") = _Gia_Cv
-
- 
-        'Dv_DetailCvTmp.Item(iRow).Item("PT_CK_I") = DsGiaCv.Tables(0).Rows(0).Item("PT_CK_I")
+        Dv_DetailCvTmp.Item(iRow).Item("Gia_Cv") = _Gia_CV
         Dv_DetailCvTmp.Item(iRow).EndEdit()
 
-        'Tinh_TienCV(iRow) 
         DsGiaCv.Dispose()
     End Sub
     Private Sub Tinh_TienCV(ByVal iRow As Integer)
+        'If Not (M_Mode.Trim = "M" Or M_Mode.Trim = "S") Then Exit Sub
+        'If iRow < 0 Then Exit Sub
+        'Dim nTy_Gia As Decimal = 0
+        'If TxtTy_Gia.Text.Trim = "0" Or TxtTy_Gia.Text.Trim = "" Or TxtMa_NT.Text.Trim = osysvar("M_Ma_Nt0").ToString.Trim Then
+        '    TxtTy_Gia.Text = 1
+        '    TxtTy_Gia.Refresh()
+        'End If
+        'nTy_Gia = CType(TxtTy_Gia.Text.Replace(" ", ""), Decimal)
+        'nTy_Gia = 1
+        ''Tinh Tiền Cong viec ---------------------------------------------------------------------------------------
+        'If Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gio_TC") <> 0 Then
+        '    Dv_DetailCvTmp.Item(iRow).BeginEdit()
+        '    If Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") = 0 Then Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") = CyberSupport.V_Round(Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gio_TC"), 0)
+        '    Dv_DetailCvTmp.Item(iRow).EndEdit()
+        'End If
+        'If Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") <> 0 Then
+        '    Dv_DetailCvTmp.Item(iRow).BeginEdit()
+        '    Dv_DetailCvTmp.Item(iRow).Item("Gio_TC") = CyberSupport.V_Round(Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") / Dv_DetailCvTmp.Item(iRow).Item("Gia_CV"), 2)
+        '    Dv_DetailCvTmp.Item(iRow).EndEdit()
+        'End If
+
+        'Dim _Ma_Post As String = CbbMa_Post.SelectedValue.ToString.Trim
+        ''Chiet Khau---------------------------------------------------------------------------------------
+        'If ChkCV.Checked Then
+        '    Dv_DetailCvTmp.Item(iRow).BeginEdit()
+        '    Dv_DetailCvTmp.Item(iRow).Item("PT_Ck_I") = 0
+        '    Dv_DetailCvTmp.Item(iRow).Item("Ck_I") = 0
+        '    Dv_DetailCvTmp.Item(iRow).EndEdit()
+        'End If
+        'If Not ChkCV.Checked Then
+        '    '--------- Tinh Chiet Khau
+        '    Dv_DetailCvTmp.Item(iRow).BeginEdit()
+        '    If CyberSupport.ChkFieldKey(Dv_DetailCvTmp.Item(iRow).Item("Ma_TT"), "I,C") Then
+        '        Dv_DetailCvTmp.Item(iRow).Item("Ck_I") = IIf(Dv_DetailCvTmp.Item(iRow).Item("PT_Ck_I") = 0, Dv_DetailCvTmp.Item(iRow).Item("Ck_I"), CyberSupport.V_Round(Dv_DetailCvTmp.Item(iRow).Item("Tien_Cv") * Dv_DetailCvTmp.Item(iRow).Item("PT_Ck_I") / 100, 0))
+        '    Else
+        '        Dv_DetailCvTmp.Item(iRow).Item("PT_Ck_I") = 0
+        '        Dv_DetailCvTmp.Item(iRow).Item("Ck_I") = 0
+        '    End If
+        '    Dv_DetailCvTmp.Item(iRow).EndEdit()
+        'End If
+        'If ChkCV.Checked Then V_T_CK_CV(New System.Object, New System.EventArgs)
+        'If ChkCV.Checked Then V_T_CK_CV(New System.Object, New System.EventArgs)
+        ''---Dieu chinh
+        'Dv_DetailCvTmp.Item(iRow).BeginEdit()
+        'Dv_DetailCvTmp.Item(iRow).Item("DC_I") = IIf(Dv_DetailCvTmp.Item(iRow).Item("PT_DC_I") = 0, Dv_DetailCvTmp.Item(iRow).Item("DC_I"), CyberSupport.V_Round((Dv_DetailCvTmp.Item(iRow).Item("Tien_Cv") - Dv_DetailCvTmp.Item(iRow).Item("CK_I")) * Dv_DetailCvTmp.Item(iRow).Item("PT_DC_I") / 100, 0))
+        'Dv_DetailCvTmp.Item(iRow).EndEdit()
+        ''---------- Tinh thue
+        'TinhThue_CV(iRow)
+        'UpdateList()
+
         If Not (M_Mode.Trim = "M" Or M_Mode.Trim = "S") Then Exit Sub
         If iRow < 0 Then Exit Sub
         Dim nTy_Gia As Decimal = 0
@@ -4507,16 +4552,9 @@ _KT:
         'Tinh Tiền Cong viec ---------------------------------------------------------------------------------------
         If Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gio_TC") <> 0 Then
             Dv_DetailCvTmp.Item(iRow).BeginEdit()
-            If Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") = 0 Then Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") = CyberSupport.V_Round(Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gio_TC"), 0)
+            Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") = CyberSupport.V_Round(Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gio_TC"), 0)
             Dv_DetailCvTmp.Item(iRow).EndEdit()
         End If
-        If Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") * Dv_DetailCvTmp.Item(iRow).Item("Gia_CV") <> 0 Then
-            Dv_DetailCvTmp.Item(iRow).BeginEdit()
-            Dv_DetailCvTmp.Item(iRow).Item("Gio_TC") = CyberSupport.V_Round(Dv_DetailCvTmp.Item(iRow).Item("Tien_CV") / Dv_DetailCvTmp.Item(iRow).Item("Gia_CV"), 2)
-            Dv_DetailCvTmp.Item(iRow).EndEdit()
-        End If
-
-        Dim _Ma_Post As String = CbbMa_Post.SelectedValue.ToString.Trim
         'Chiet Khau---------------------------------------------------------------------------------------
         If ChkCV.Checked Then
             Dv_DetailCvTmp.Item(iRow).BeginEdit()
@@ -4536,7 +4574,6 @@ _KT:
             Dv_DetailCvTmp.Item(iRow).EndEdit()
         End If
         If ChkCV.Checked Then V_T_CK_CV(New System.Object, New System.EventArgs)
-        If ChkCV.Checked Then V_T_CK_CV(New System.Object, New System.EventArgs)
         '---Dieu chinh
         Dv_DetailCvTmp.Item(iRow).BeginEdit()
         Dv_DetailCvTmp.Item(iRow).Item("DC_I") = IIf(Dv_DetailCvTmp.Item(iRow).Item("PT_DC_I") = 0, Dv_DetailCvTmp.Item(iRow).Item("DC_I"), CyberSupport.V_Round((Dv_DetailCvTmp.Item(iRow).Item("Tien_Cv") - Dv_DetailCvTmp.Item(iRow).Item("CK_I")) * Dv_DetailCvTmp.Item(iRow).Item("PT_DC_I") / 100, 0))
@@ -4544,7 +4581,6 @@ _KT:
         '---------- Tinh thue
         TinhThue_CV(iRow)
         UpdateList()
-
     End Sub
     Private Sub TinhThue_CV(ByVal iRow As Integer)
 

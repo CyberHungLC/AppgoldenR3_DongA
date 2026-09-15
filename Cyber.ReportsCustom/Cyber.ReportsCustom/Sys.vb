@@ -183,6 +183,7 @@ Public Class Sys
                 _Return = New RO_HD03
             Case "CP_RO_HD03_XanhSm".Trim.ToUpper
                 _Return = New RO_HD03_XanhSm
+
             Case "CP_RO_HDS_KPI_TH_CNHD".Trim.ToUpper, "CP_RO_HDS_KPI_TH_CNHD".Trim.ToUpper
                 _Return = New RO_HDS_KPI_TH_CNHD
             Case "CP_RO_DT05".Trim.ToUpper, "CP_RO_DT05".Trim.ToUpper

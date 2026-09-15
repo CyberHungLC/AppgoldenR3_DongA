@@ -31,28 +31,32 @@ Partial Class ROBH_BC02
         Me.Label3 = New System.Windows.Forms.Label()
         Me.TxtSo_Ro = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.TxtTen_TTCP = New System.Windows.Forms.TextBox()
+        Me.TxtMa_TTCP = New Cyber.SmLists.TxtLookup()
         CType(Me.TxtMa_BH.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'ButtExit
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(431, 111)
-        Me.ButtExit.TabIndex = 7
+        Me.ButtExit.Location = New System.Drawing.Point(431, 136)
+        Me.ButtExit.TabIndex = 9
         '
         'CBBMa_Dvcs
         '
         Me.CBBMa_Dvcs.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CBBMa_Dvcs.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(107, 76)
+        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(107, 101)
         Me.CBBMa_Dvcs.Size = New System.Drawing.Size(420, 21)
-        Me.CBBMa_Dvcs.TabIndex = 5
+        Me.CBBMa_Dvcs.TabIndex = 6
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(15, 79)
+        Me.Label1.Location = New System.Drawing.Point(15, 104)
         Me.Label1.Size = New System.Drawing.Size(62, 13)
         Me.Label1.TabIndex = 13
         '
@@ -60,24 +64,24 @@ Partial Class ROBH_BC02
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(327, 111)
+        Me.ButtOK.Location = New System.Drawing.Point(327, 136)
+        Me.ButtOK.TabIndex = 8
         '
         'LabLoai_NT
         '
-        Me.LabLoai_NT.Location = New System.Drawing.Point(15, 120)
+        Me.LabLoai_NT.Location = New System.Drawing.Point(15, 145)
         Me.LabLoai_NT.Size = New System.Drawing.Size(62, 13)
         Me.LabLoai_NT.TabIndex = 12
         Me.LabLoai_NT.Visible = False
         '
         'ChkVND
         '
-        Me.ChkVND.Location = New System.Drawing.Point(118, 118)
-        Me.ChkVND.TabIndex = 16
+        Me.ChkVND.Location = New System.Drawing.Point(118, 143)
         Me.ChkVND.Visible = False
         '
         'ChkNT
         '
-        Me.ChkNT.Location = New System.Drawing.Point(232, 118)
+        Me.ChkNT.Location = New System.Drawing.Point(232, 143)
         Me.ChkNT.TabIndex = 17
         Me.ChkNT.Visible = False
         '
@@ -143,7 +147,7 @@ Partial Class ROBH_BC02
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 94)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 119)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(528, 9)
         Me.GroupBoxLine.TabIndex = 18
@@ -151,7 +155,7 @@ Partial Class ROBH_BC02
         '
         'LabSo_Ct1
         '
-        Me.LabSo_Ct1.Location = New System.Drawing.Point(15, 55)
+        Me.LabSo_Ct1.Location = New System.Drawing.Point(15, 53)
         Me.LabSo_Ct1.Name = "LabSo_Ct1"
         Me.LabSo_Ct1.Size = New System.Drawing.Size(86, 15)
         Me.LabSo_Ct1.TabIndex = 10
@@ -161,7 +165,7 @@ Partial Class ROBH_BC02
         'TxtMa_Xe
         '
         Me.TxtMa_Xe.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_Xe.Location = New System.Drawing.Point(107, 52)
+        Me.TxtMa_Xe.Location = New System.Drawing.Point(107, 50)
         Me.TxtMa_Xe.Name = "TxtMa_Xe"
         Me.TxtMa_Xe.Size = New System.Drawing.Size(114, 21)
         Me.TxtMa_Xe.TabIndex = 3
@@ -208,24 +212,67 @@ Partial Class ROBH_BC02
         'TxtSo_Ro
         '
         Me.TxtSo_Ro.ForeColor = System.Drawing.Color.Navy
-        Me.TxtSo_Ro.Location = New System.Drawing.Point(415, 52)
+        Me.TxtSo_Ro.Location = New System.Drawing.Point(415, 50)
         Me.TxtSo_Ro.Name = "TxtSo_Ro"
         Me.TxtSo_Ro.Size = New System.Drawing.Size(114, 21)
         Me.TxtSo_Ro.TabIndex = 4
         '
         'Label2
         '
-        Me.Label2.Location = New System.Drawing.Point(326, 55)
+        Me.Label2.Location = New System.Drawing.Point(326, 53)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(86, 15)
         Me.Label2.TabIndex = 23
         Me.Label2.Tag = "Voucher from"
         Me.Label2.Text = "Số R/O"
         '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.Location = New System.Drawing.Point(15, 75)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(38, 13)
+        Me.Label18.TabIndex = 548
+        Me.Label18.Tag = "Staff"
+        Me.Label18.Text = "Xưởng"
+        '
+        'TxtTen_TTCP
+        '
+        Me.TxtTen_TTCP.BackColor = System.Drawing.SystemColors.Control
+        Me.TxtTen_TTCP.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.TxtTen_TTCP.Enabled = False
+        Me.TxtTen_TTCP.ForeColor = System.Drawing.Color.Navy
+        Me.TxtTen_TTCP.Location = New System.Drawing.Point(235, 75)
+        Me.TxtTen_TTCP.Name = "TxtTen_TTCP"
+        Me.TxtTen_TTCP.ReadOnly = True
+        Me.TxtTen_TTCP.Size = New System.Drawing.Size(296, 14)
+        Me.TxtTen_TTCP.TabIndex = 547
+        Me.TxtTen_TTCP.TabStop = False
+        '
+        'TxtMa_TTCP
+        '
+        Me.TxtMa_TTCP._ActilookupPopup = False
+        Me.TxtMa_TTCP.CyberActilookupPopup = True
+        Me.TxtMa_TTCP.Dv_ListDetail = Nothing
+        Me.TxtMa_TTCP.Dv_Master = Nothing
+        Me.TxtMa_TTCP.FilterClient = ""
+        Me.TxtMa_TTCP.FilterSQL = ""
+        Me.TxtMa_TTCP.Location = New System.Drawing.Point(107, 72)
+        Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
+        Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
+        Me.TxtMa_TTCP.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
+        Me.TxtMa_TTCP.Size = New System.Drawing.Size(114, 20)
+        Me.TxtMa_TTCP.TabIndex = 5
+        Me.TxtMa_TTCP.Table_Name = ""
+        '
         'ROBH_BC02
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(535, 164)
+        Me.ClientSize = New System.Drawing.Size(535, 189)
+        Me.Controls.Add(Me.Label18)
+        Me.Controls.Add(Me.TxtTen_TTCP)
+        Me.Controls.Add(Me.TxtMa_TTCP)
         Me.Controls.Add(Me.TxtSo_Ro)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label3)
@@ -258,7 +305,11 @@ Partial Class ROBH_BC02
         Me.Controls.SetChildIndex(Me.Label3, 0)
         Me.Controls.SetChildIndex(Me.Label2, 0)
         Me.Controls.SetChildIndex(Me.TxtSo_Ro, 0)
+        Me.Controls.SetChildIndex(Me.TxtMa_TTCP, 0)
+        Me.Controls.SetChildIndex(Me.TxtTen_TTCP, 0)
+        Me.Controls.SetChildIndex(Me.Label18, 0)
         CType(Me.TxtMa_BH.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -275,4 +326,7 @@ Partial Class ROBH_BC02
     Friend WithEvents Label3 As Label
     Friend WithEvents TxtSo_Ro As TextBox
     Friend WithEvents Label2 As Label
+    Friend WithEvents Label18 As Label
+    Friend WithEvents TxtTen_TTCP As TextBox
+    Friend WithEvents TxtMa_TTCP As SmLists.TxtLookup
 End Class

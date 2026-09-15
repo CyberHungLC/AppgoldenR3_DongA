@@ -598,6 +598,12 @@
     <Compile Include="RO\DMHLKTVSC.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\DMHLGASKX.designer.vb">
+      <DependentUpon>DMHLGASKX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\DMHLGASKX.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\DmHLNVBoPhan.designer.vb">
       <DependentUpon>DmHLNVBoPhan.vb</DependentUpon>
     </Compile>
@@ -940,6 +946,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\DMHLKTVSC.resx">
       <DependentUpon>DMHLKTVSC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\DMHLGASKX.resx">
+      <DependentUpon>DMHLGASKX.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\DmHLNVBoPhan.resx">
       <DependentUpon>DmHLNVBoPhan.vb</DependentUpon>

@@ -48,6 +48,9 @@
 
         '-- So_Ro
         AddHandler TxtSo_Ro.Leave, AddressOf L_Lenh_Ro
+        AddHandler TxtMa_TTCP.CyberValiting, AddressOf V_Ma_TTCP
+        AddHandler TxtMa_TTCP.CyberLeave, AddressOf L_Ma_TTCP
+
     End Sub
 #End Region
 #Region "Valid"
@@ -63,6 +66,23 @@
         Else
             TxtMa_BH.Text = ""
             TxtTen_BH.Text = ""
+            Exit Sub
+        End If
+    End Sub
+#End Region
+
+#Region "Valid --- Ma_TTCP"
+    Private Sub V_Ma_TTCP(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtMa_TTCP.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_TTCP", "DmTTCP", "1=1", "1=1")
+    End Sub
+    Private Sub L_Ma_TTCP(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        DrReturn = TxtMa_TTCP.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then
+            TxtMa_TTCP.Text = DrReturn.Item("Ma_TTCP")
+            TxtTen_TTCP.Text = DrReturn.Item("Ten_TTCP")
+        Else
+            TxtMa_TTCP.Text = ""
+            TxtTen_TTCP.Text = ""
             Exit Sub
         End If
     End Sub
@@ -85,6 +105,7 @@
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_BH.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_Xe.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtSo_Ro.Text.Trim
+        M_strParameterStore = M_strParameterStore & "#" & TxtMa_TTCP.Text
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & _Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim

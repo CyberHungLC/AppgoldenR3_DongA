@@ -1793,7 +1793,7 @@ _KT:
 
 
         If M_Mode = "M" And V_IsFieldExist("So_Km", Dr) And Is_Xe = "1" Then TxtSo_Km_Cu.Double = Dr.Item("So_Km")
-        If M_Mode = "M" And V_IsFieldExist("So_Km_Moi", Dr) And Is_Xe = "1" And CbbMa_TTCP_H.SelectedValue = "02" Then
+        If M_Mode = "M" And V_IsFieldExist("So_Km_Moi", Dr) And CbbMa_TTCP_H.SelectedValue = "02" Then
             TxtSo_Km.Double = Dr.Item("So_Km_Moi") ' Chỉ áp dụng xe xăng (Xưởng xăng yêu cầu 12/09/2026) quên không nhập km mới do xưởng xăng chịu tn
         End If
 

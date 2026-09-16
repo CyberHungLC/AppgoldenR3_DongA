@@ -4,6 +4,7 @@
     Dim Dt_DmTTLN, Dt_DmTTCP, Dt_DmNN, Dt_DmNH, Dt_GioiTinh As DataTable
     Dim TbTP, TbQuan, TbXa As New DataTable
     Public vTbTP, vTbQuan, vTbXa As DataView
+
     Private Sub DMTHEVIP_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         V_GetChkErro()
         V_Load()

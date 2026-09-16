@@ -134,15 +134,14 @@ Partial Class DMHLGASKX
         Me.TxtSo_Luong1.Flags = 7680
         Me.TxtSo_Luong1.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.TxtSo_Luong1.ForeColor = System.Drawing.Color.Blue
-        Me.TxtSo_Luong1.InputMask = "### ### ###.#"
+        Me.TxtSo_Luong1.InputMask = "### ### ###.###"
         Me.TxtSo_Luong1.Location = New System.Drawing.Point(110, 49)
-        Me.TxtSo_Luong1.MaxWholeDigits = 10
+        Me.TxtSo_Luong1.MaxWholeDigits = 12
         Me.TxtSo_Luong1.Name = "TxtSo_Luong1"
         Me.TxtSo_Luong1.RangeMax = 1.7976931348623157E+308R
         Me.TxtSo_Luong1.RangeMin = -1.7976931348623157E+308R
         Me.TxtSo_Luong1.Size = New System.Drawing.Size(149, 21)
         Me.TxtSo_Luong1.TabIndex = 2
-        Me.TxtSo_Luong1.Text = "0"
         Me.TxtSo_Luong1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label1
@@ -169,15 +168,14 @@ Partial Class DMHLGASKX
         Me.TxtSo_Luong2.Flags = 7680
         Me.TxtSo_Luong2.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.TxtSo_Luong2.ForeColor = System.Drawing.Color.Blue
-        Me.TxtSo_Luong2.InputMask = "### ### ###.#"
+        Me.TxtSo_Luong2.InputMask = "### ### ###.###"
         Me.TxtSo_Luong2.Location = New System.Drawing.Point(309, 49)
-        Me.TxtSo_Luong2.MaxWholeDigits = 10
+        Me.TxtSo_Luong2.MaxWholeDigits = 12
         Me.TxtSo_Luong2.Name = "TxtSo_Luong2"
         Me.TxtSo_Luong2.RangeMax = 1.7976931348623157E+308R
         Me.TxtSo_Luong2.RangeMin = -1.7976931348623157E+308R
         Me.TxtSo_Luong2.Size = New System.Drawing.Size(149, 21)
         Me.TxtSo_Luong2.TabIndex = 3
-        Me.TxtSo_Luong2.Text = "0"
         Me.TxtSo_Luong2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'DMHLGASKX

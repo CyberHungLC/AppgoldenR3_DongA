@@ -59,14 +59,17 @@ Public Class FrmPrintVoucherHDK
     End Sub
     Private Sub GetTable()
         Dim DsPrintMa_TT As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SysGetCombox", "DMTT" + "#" + "1=1" + "#" + "Ma_TT" + "#" + M_User_name.Trim)
+        Dim DsPrintLoai_In As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SysGetCombox", "DMLoaiIn" + "#" + "1=1" + "#" + "Ma_TT" + "#" + M_User_name.Trim)
+
         TbPrintTT = DsPrintMa_TT.Tables(0).Copy
-        DtLoai_IN = New DataTable
-        DtLoai_IN.Columns.Add("Ma")
-        DtLoai_IN.Columns.Add("Ten")
-        DtLoai_IN.Rows.Add("0", "In có giá trị")
-        DtLoai_IN.Rows.Add("1", "In không có giá trị")
+        DtLoai_IN = DsPrintLoai_In.Tables(0).Copy
+        'DtLoai_IN = New DataTable
+        'DtLoai_IN.Columns.Add("Ma")
+        'DtLoai_IN.Columns.Add("Ten")
+        'DtLoai_IN.Rows.Add("0", "In có giá trị")
+        'DtLoai_IN.Rows.Add("1", "In không có giá trị")
         CyberFill.V_FillComBoxValue(CbbMa_TT, TbPrintTT, "Ma_TT", "Ten_TT", "")
-        CyberFill.V_FillComBoxValue(CbbLoai_IN, DtLoai_IN, "Ma", "Ten", "0")
+        CyberFill.V_FillComBoxDefaul(CbbLoai_IN, DtLoai_IN, "Ma", "Ten", "Ngam_Dinh")
 
     End Sub
     Private Sub V_AddMenuShorcut()

@@ -129,6 +129,8 @@ Partial Class PNA
         Me.TxtMa_BarCode = New DevExpress.XtraEditors.TextEdit()
         Me.Label59 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.cmdTao_PC1 = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdTao_BN1 = New DevExpress.XtraEditors.SimpleButton()
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -1889,10 +1891,38 @@ Partial Class PNA
         Me.Label7.Tag = "Acc debit"
         Me.Label7.Text = "Số RO"
         '
+        'cmdTao_PC1
+        '
+        Me.cmdTao_PC1.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdTao_PC1.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.cmdTao_PC1.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.cmdTao_PC1.Appearance.Options.UseFont = True
+        Me.cmdTao_PC1.Appearance.Options.UseForeColor = True
+        Me.cmdTao_PC1.Location = New System.Drawing.Point(787, 532)
+        Me.cmdTao_PC1.Name = "cmdTao_PC1"
+        Me.cmdTao_PC1.Size = New System.Drawing.Size(61, 31)
+        Me.cmdTao_PC1.TabIndex = 7220
+        Me.cmdTao_PC1.Text = "Phiếu chi"
+        '
+        'cmdTao_BN1
+        '
+        Me.cmdTao_BN1.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdTao_BN1.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.cmdTao_BN1.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.cmdTao_BN1.Appearance.Options.UseFont = True
+        Me.cmdTao_BN1.Appearance.Options.UseForeColor = True
+        Me.cmdTao_BN1.Location = New System.Drawing.Point(725, 532)
+        Me.cmdTao_BN1.Name = "cmdTao_BN1"
+        Me.cmdTao_BN1.Size = New System.Drawing.Size(61, 31)
+        Me.cmdTao_BN1.TabIndex = 7221
+        Me.cmdTao_BN1.Text = "Báo nợ"
+        '
         'PNA
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(1001, 589)
+        Me.Controls.Add(Me.cmdTao_BN1)
+        Me.Controls.Add(Me.cmdTao_PC1)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.TxtMa_BarCode)
         Me.Controls.Add(Me.Label59)
@@ -2119,6 +2149,8 @@ Partial Class PNA
         Me.Controls.SetChildIndex(Me.Label59, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_BarCode, 0)
         Me.Controls.SetChildIndex(Me.Label7, 0)
+        Me.Controls.SetChildIndex(Me.cmdTao_PC1, 0)
+        Me.Controls.SetChildIndex(Me.cmdTao_BN1, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).EndInit()
@@ -2246,4 +2278,6 @@ Partial Class PNA
     Friend WithEvents TxtMa_BarCode As DevExpress.XtraEditors.TextEdit
     Friend WithEvents Label59 As System.Windows.Forms.Label
     Friend WithEvents Label7 As Label
+    Friend WithEvents cmdTao_PC1 As DevExpress.XtraEditors.SimpleButton
+    Friend WithEvents cmdTao_BN1 As DevExpress.XtraEditors.SimpleButton
 End Class

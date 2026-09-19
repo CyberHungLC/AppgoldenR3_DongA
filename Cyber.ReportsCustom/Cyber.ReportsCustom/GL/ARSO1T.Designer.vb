@@ -263,14 +263,14 @@ Partial Class ARSO1T
         Me.TxtNonVat.Dv_Master = Nothing
         Me.TxtNonVat.FilterClient = ""
         Me.TxtNonVat.FilterSQL = ""
-        Me.TxtNonVat.Location = New System.Drawing.Point(91, 116)
+        Me.TxtNonVat.Location = New System.Drawing.Point(95, 116)
         Me.TxtNonVat.Name = "TxtNonVat"
         Me.TxtNonVat.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtNonVat.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtNonVat.Properties.Appearance.Options.UseFont = True
         Me.TxtNonVat.Properties.Appearance.Options.UseForeColor = True
         Me.TxtNonVat.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtNonVat.Size = New System.Drawing.Size(114, 20)
+        Me.TxtNonVat.Size = New System.Drawing.Size(110, 20)
         Me.TxtNonVat.TabIndex = 4
         Me.TxtNonVat.Table_Name = ""
         Me.TxtNonVat.Visible = False
@@ -279,7 +279,7 @@ Partial Class ARSO1T
         '
         Me.Label11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.ForeColor = System.Drawing.Color.Red
-        Me.Label11.Location = New System.Drawing.Point(5, 119)
+        Me.Label11.Location = New System.Drawing.Point(9, 119)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(82, 17)
         Me.Label11.TabIndex = 2209
@@ -296,7 +296,7 @@ Partial Class ARSO1T
         Me.Label14.Size = New System.Drawing.Size(82, 13)
         Me.Label14.TabIndex = 2212
         Me.Label14.Tag = "Group 1"
-        Me.Label14.Text = "Đại lý"
+        Me.Label14.Text = "Xưởng"
         '
         'CmbMa_TTCP
         '

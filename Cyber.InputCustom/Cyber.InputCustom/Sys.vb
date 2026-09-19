@@ -49,7 +49,6 @@ Public Class Sys
             Case "PC1"
                 Frm = New PC1
             Case "BN1"
-
                 Frm = New BN1
             Case "HD3"
                 Frm = New HD3

@@ -8,6 +8,8 @@ Public Class PC1
     Dim M_Para As String() = Me.Para
     Dim M_AppConn As SqlConnection
     Dim M_DsData, M_DsHead, M_DsLookUp As DataSet
+    Dim _Para_Stt_Rec_PNA As String = ""
+
 #End Region
 #Region "Khai bao bien Dll"
     Dim CyberInput As New Cyber.Input.Sys
@@ -43,8 +45,18 @@ Public Class PC1
         V_Setstatus()
         V_MainSystem()
         CmdNew.Select()
+        V_LoadNew(sender, e)
     End Sub
 #Region "Load And Set And Default"
+    Private Sub V_LoadNew(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If Dt_Master.Rows.Count > 0 Then Exit Sub
+
+        V_New(sender, e)
+        If Not M_Mode = "M" Then Exit Sub
+
+        L_PNAtoPC1(sender, e)
+    End Sub
+
     Private Sub V_Load()
         V_Getdefault()
         Dt_Detail = M_DsData.Tables(0)
@@ -105,6 +117,11 @@ Public Class PC1
         M_Ma_GD = M_Para(M_VT_PARA + 1).Trim
         M_Ma_CT = M_Para(M_VT_PARA + 2).Trim
         'M_Stt_Rec = M_Para(M_Para.Length - 1).Trim
+        Try
+            _Para_Stt_Rec_PNA = M_Para(M_VT_PARA + 5).Trim
+        Catch ex As Exception
+        End Try
+
         '---------------------------------------------------------------------------------------------'
         M_Ma_Post = CyberSupport.V_GetMaxPost(AppConn, M_Ma_CT, M_Ma_Dvcs, M_User_Name, CyberSmlib)
         '---
@@ -2006,6 +2023,62 @@ Public Class PC1
         End If
         Dt_DetailTmp.Rows.Clear()
         CyberSmodb.SQLTbToTb(_Dt_Detail, Dt_DetailTmp)
+        UpdateList()
+    End Sub
+
+
+    Private Sub L_PNAtoPC1(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        M_Mode = M_Mode.Trim
+        If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If _Para_Stt_Rec_PNA.Trim = "" Then
+            Exit Sub
+        End If
+        GetDetail()
+    End Sub
+    Private Sub GetDetail()
+        If _Para_Stt_Rec_PNA = "" Then Exit Sub
+        Dim _Ngay_CT, _Ngay_LCT As Date
+        _Ngay_CT = TxtNgay_Ct.Value
+        _Ngay_LCT = TxtNgay_LCt.Value
+
+        Dim DsStt_Rec_PNA As DataSet
+        DsStt_Rec_PNA = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetPC1Detail", _Para_Stt_Rec_PNA.Trim + "#" + CbbMa_TTCP_H.SelectedValue.ToString.Trim + "#" + _Ngay_CT.ToString("yyyyMMdd") + "#" + _Ngay_LCT.ToString("yyyyMMdd") + "#" +
+            txtSo_ct.Text.Trim + "#" + TxtMa_Kh.Text + "#" + TxtTen_kh.Text + "#" + txtOng_ba.Text + "#" +
+            TxtDia_Chi.Text + "#" + txtDien_giai.Text + "#" + M_Mode.Trim + "#" + M_Stt_Rec + "#" + M_Ma_CT.Trim + "#" + CbbMa_GD.SelectedValue.ToString.Trim + "#" + M_Ma_Dvcs + "#" + M_User_Name.Trim)
+
+        For i = 0 To DsStt_Rec_PNA.Tables.Count - 1
+            CyberSmodb.SetNotNullTable(DsStt_Rec_PNA.Tables(i))
+        Next
+        If Not CyberSupport.V_MsgChk(DsStt_Rec_PNA.Tables(0), SysVar, M_LAN) Then
+            DsStt_Rec_PNA.Dispose()
+            Exit Sub
+        End If
+        If DsStt_Rec_PNA.Tables.Count < 3 Then
+            DsStt_Rec_PNA.Dispose()
+            Exit Sub
+        End If
+        ' 
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ma_Kh") And TxtMa_Kh.Text.Trim = "" Then TxtMa_Kh.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ma_Kh")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ten_KH") Then TxtTen_kh.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ten_KH")
+
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ngay_Ct") Then TxtNgay_Ct.Value = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ngay_Ct")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ngay_LCt") Then TxtNgay_LCt.Value = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ngay_LCt")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("So_Ct") Then txtSo_ct.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("So_Ct")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ma_Kh") Then TxtMa_Kh.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ma_Kh")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ten_Kh") Then TxtTen_kh.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ten_Kh")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ong_ba") Then txtOng_ba.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ong_ba")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Dia_Chi") Then TxtDia_Chi.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Dia_Chi")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Tk") Then TxtTk.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Tk")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ten_Tk") Then Txtten_Tk.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ten_Tk")
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Dien_Giai") Then txtDien_giai.Text = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Dien_Giai").ToString.Trim
+        If DsStt_Rec_PNA.Tables(1).Columns.Contains("Ma_TTCP_H") Then CbbMa_TTCP_H.SelectedValue = DsStt_Rec_PNA.Tables(1).Rows(0).Item("Ma_TTCP_H")
+
+        '--- Insert vao Chi tiet
+        Dt_DetailTmp.Clear()
+        Dt_DetailTmp.AcceptChanges()
+        CyberSmodb.SQLTbToTb(DsStt_Rec_PNA.Tables(2), Dt_DetailTmp)
+        Dt_DetailTmp.AcceptChanges()
+        DsStt_Rec_PNA.Dispose()
         UpdateList()
     End Sub
 End Class

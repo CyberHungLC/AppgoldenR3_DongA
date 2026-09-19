@@ -423,7 +423,7 @@ Partial Class HDS
         Me.CmdPhan_Bo.Appearance.Options.UseForeColor = True
         Me.CmdPhan_Bo.AppearanceDisabled.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.CmdPhan_Bo.AppearanceDisabled.Options.UseForeColor = True
-        Me.CmdPhan_Bo.Location = New System.Drawing.Point(1138, 632)
+        Me.CmdPhan_Bo.Location = New System.Drawing.Point(1135, 632)
         Me.CmdPhan_Bo.TabIndex = 65
         '
         'TxtUser_id
@@ -2266,7 +2266,7 @@ Partial Class HDS
         Me.CmdHuy_HD.Appearance.Options.UseFont = True
         Me.CmdHuy_HD.Appearance.Options.UseForeColor = True
         Me.CmdHuy_HD.Image = CType(resources.GetObject("CmdHuy_HD.Image"), System.Drawing.Image)
-        Me.CmdHuy_HD.Location = New System.Drawing.Point(1087, 632)
+        Me.CmdHuy_HD.Location = New System.Drawing.Point(1083, 632)
         Me.CmdHuy_HD.Name = "CmdHuy_HD"
         Me.CmdHuy_HD.Size = New System.Drawing.Size(82, 31)
         Me.CmdHuy_HD.TabIndex = 64

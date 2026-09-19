@@ -289,7 +289,7 @@ Partial Class RO_HDS_KPI_TH_CNHD
         Me.LabMa_TTPhi.Size = New System.Drawing.Size(82, 13)
         Me.LabMa_TTPhi.TabIndex = 542
         Me.LabMa_TTPhi.Tag = "Cost center"
-        Me.LabMa_TTPhi.Text = "TT chi phí"
+        Me.LabMa_TTPhi.Text = "Xưởng"
         '
         'TxtTen_TTCP
         '

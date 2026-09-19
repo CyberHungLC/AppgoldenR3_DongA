@@ -717,7 +717,7 @@ Partial Class GLBK1
         Me.LabMa_TTPhi.Size = New System.Drawing.Size(59, 13)
         Me.LabMa_TTPhi.TabIndex = 189
         Me.LabMa_TTPhi.Tag = "Cost center"
-        Me.LabMa_TTPhi.Text = "TT chi phí"
+        Me.LabMa_TTPhi.Text = "Xưởng"
         '
         'TxtTen_TTCP
         '

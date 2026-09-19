@@ -291,12 +291,12 @@ Partial Class ARSO1
         '
         Me.Label14.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.Label14.ForeColor = System.Drawing.Color.Red
-        Me.Label14.Location = New System.Drawing.Point(9, 92)
+        Me.Label14.Location = New System.Drawing.Point(9, 93)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(82, 13)
         Me.Label14.TabIndex = 2212
         Me.Label14.Tag = "Group 1"
-        Me.Label14.Text = "Đại lý"
+        Me.Label14.Text = "Xưởng"
         '
         'CmbMa_TTCP
         '

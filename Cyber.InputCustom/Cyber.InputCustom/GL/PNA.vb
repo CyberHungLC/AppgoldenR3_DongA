@@ -344,6 +344,11 @@ Public Class PNA
         'TK_Thue_No
         AddHandler TxtTk_Thue_No.CyberValiting, AddressOf V_Tk_Thue_no
         AddHandler TxtTk_Thue_No.CyberLeave, AddressOf L_Tk_Thue_No
+        'Tạo phiếu chi 
+        AddHandler cmdTao_PC1.Click, AddressOf V_Tao_PC1
+        AddHandler cmdTao_BN1.Click, AddressOf V_Tao_BN1
+
+
         '----------------------------------------------------------------------------------------------------------
         AddHandler ChkSua_TkThue.CheckedChanged, AddressOf V_Sua_TkThue
         AddHandler ChkSua_Thue.CheckedChanged, AddressOf V_Sua_Thue
@@ -1112,6 +1117,43 @@ Public Class PNA
         If Not _Chk And _Tk_Thue_No.Trim <> "" Then TxtTk_Thue_No.Text = _Tk_Thue_No
     End Sub
 #End Region
+
+#Region "Valid --- Tao phieu chi - bao no"
+    Private Sub V_Tao_PC1(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If M_Stt_Rec = "" Then Exit Sub
+        Dim strAddParar As String = "2#PC1#10##" + M_Stt_Rec.Trim + ""
+        Dim _Process As Process = CyberSmlib.V_CallRun("Cyber.InputCustom.dll", Me.Para, strAddParar)
+        If Not _Process Is Nothing Then ProccessList.Add(_Process)
+    End Sub
+    Private Sub V_Tao_BN1(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If M_Stt_Rec = "" Then Exit Sub
+        Dim strAddParar As String = "2#BN1#10##" + M_Stt_Rec.Trim + ""
+        Dim _Process As Process = CyberSmlib.V_CallRun("Cyber.InputCustom.dll", Me.Para, strAddParar)
+        If Not _Process Is Nothing Then ProccessList.Add(_Process)
+    End Sub
+
+    Dim ProccessList As New Collection
+    Private Sub KillProce()
+        Try
+            Dim op As Process
+            For i As Integer = ProccessList.Count To 1 Step -1
+                op = ProccessList(i)
+                If Not op Is Nothing Then
+                    If Not op.HasExited() Then
+                        op.Kill()
+                        ProccessList.Remove(i)
+                    End If
+                End If
+            Next
+        Catch ex As Exception
+        End Try
+    End Sub
+#End Region
+
+
+
 #Region "Lenh/SO/Po/Ro/Vt"
     Private Sub L_Lenh_So(ByVal sender As System.Object, ByVal e As System.EventArgs)
         M_Mode = M_Mode.Trim
@@ -1375,7 +1417,8 @@ Public Class PNA
 
         If Dv_DetailTmp.Item(iRow).Item("So_Luong") * Dv_DetailTmp.Item(iRow).Item("TIEN_NT0") <> 0 Then
             Dv_DetailTmp.Item(iRow).BeginEdit()
-            If Dv_DetailTmp.Item(iRow).Item("Gia_NT0") = 0 Then Dv_DetailTmp.Item(iRow).Item("Gia_NT0") = CyberSupport.V_Round(Dv_DetailTmp.Item(iRow).Item("Tien_NT0") / Dv_DetailTmp.Item(iRow).Item("So_Luong"), 2)
+            'If Dv_DetailTmp.Item(iRow).Item("Gia_NT0") = 0 Then Dv_DetailTmp.Item(iRow).Item("Gia_NT0") = CyberSupport.V_Round(Dv_DetailTmp.Item(iRow).Item("Tien_NT0") / Dv_DetailTmp.Item(iRow).Item("So_Luong"), 2)
+            Dv_DetailTmp.Item(iRow).Item("Gia_NT0") = CyberSupport.V_Round(Dv_DetailTmp.Item(iRow).Item("Tien_NT0") / Dv_DetailTmp.Item(iRow).Item("So_Luong"), 2)
             Dv_DetailTmp.Item(iRow).EndEdit()
         End If
         If Dv_DetailTmp.Item(iRow).Item("Sl_TD_I") = 0 Then

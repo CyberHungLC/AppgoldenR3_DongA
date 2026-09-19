@@ -226,7 +226,7 @@ Partial Class GLCD1
         Me.Label14.Size = New System.Drawing.Size(82, 13)
         Me.Label14.TabIndex = 2214
         Me.Label14.Tag = "Group 1"
-        Me.Label14.Text = "Đại lý"
+        Me.Label14.Text = "Xưởng"
         '
         'TxtMa_TTCP
         '

@@ -241,7 +241,7 @@ Partial Class RO_02
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(20, 63)
+        Me.Label6.Location = New System.Drawing.Point(15, 63)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(30, 13)
         Me.Label6.TabIndex = 443
@@ -724,7 +724,7 @@ Partial Class RO_02
         'Label17
         '
         Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(20, 6)
+        Me.Label17.Location = New System.Drawing.Point(15, 6)
         Me.Label17.Name = "Label17"
         Me.Label17.Size = New System.Drawing.Size(77, 13)
         Me.Label17.TabIndex = 535
@@ -756,7 +756,7 @@ Partial Class RO_02
         '
         Me.ChkIs_DoanhThu.AutoSize = True
         Me.ChkIs_DoanhThu.Location = New System.Drawing.Point(320, 109)
-        Me.ChkIs_DoanhThu.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ChkIs_DoanhThu.Margin = New System.Windows.Forms.Padding(2)
         Me.ChkIs_DoanhThu.Name = "ChkIs_DoanhThu"
         Me.ChkIs_DoanhThu.Size = New System.Drawing.Size(133, 17)
         Me.ChkIs_DoanhThu.TabIndex = 8
@@ -767,7 +767,7 @@ Partial Class RO_02
         '
         Me.ChkIs_VAT.AutoSize = True
         Me.ChkIs_VAT.Location = New System.Drawing.Point(320, 130)
-        Me.ChkIs_VAT.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ChkIs_VAT.Margin = New System.Windows.Forms.Padding(2)
         Me.ChkIs_VAT.Name = "ChkIs_VAT"
         Me.ChkIs_VAT.Size = New System.Drawing.Size(111, 17)
         Me.ChkIs_VAT.TabIndex = 10

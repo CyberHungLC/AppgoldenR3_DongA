@@ -93,7 +93,7 @@ Partial Class BE_KH06
         Me.TxtMa_Hs.Dv_Master = Nothing
         Me.TxtMa_Hs.FilterClient = ""
         Me.TxtMa_Hs.FilterSQL = ""
-        Me.TxtMa_Hs.Location = New System.Drawing.Point(411, 55)
+        Me.TxtMa_Hs.Location = New System.Drawing.Point(417, 52)
         Me.TxtMa_Hs.Name = "TxtMa_Hs"
         Me.TxtMa_Hs.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_Hs.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -120,7 +120,7 @@ Partial Class BE_KH06
         '
         'Label11
         '
-        Me.Label11.Location = New System.Drawing.Point(320, 58)
+        Me.Label11.Location = New System.Drawing.Point(320, 57)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(91, 13)
         Me.Label11.TabIndex = 176

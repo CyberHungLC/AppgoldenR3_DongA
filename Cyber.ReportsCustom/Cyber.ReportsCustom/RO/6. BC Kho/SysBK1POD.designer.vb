@@ -876,10 +876,10 @@ Partial Class SysBK1POD
         Me.LabMa_TTPhi.AutoSize = True
         Me.LabMa_TTPhi.Location = New System.Drawing.Point(5, 304)
         Me.LabMa_TTPhi.Name = "LabMa_TTPhi"
-        Me.LabMa_TTPhi.Size = New System.Drawing.Size(52, 13)
+        Me.LabMa_TTPhi.Size = New System.Drawing.Size(38, 13)
         Me.LabMa_TTPhi.TabIndex = 398
         Me.LabMa_TTPhi.Tag = "Cost center"
-        Me.LabMa_TTPhi.Text = "TT chi phí"
+        Me.LabMa_TTPhi.Text = "Xưởng"
         '
         'TxtTen_TTCP
         '

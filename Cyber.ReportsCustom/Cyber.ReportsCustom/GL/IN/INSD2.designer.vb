@@ -479,7 +479,7 @@ Partial Class INSD2
         Me.Label14.Size = New System.Drawing.Size(82, 13)
         Me.Label14.TabIndex = 2222
         Me.Label14.Tag = "Group 1"
-        Me.Label14.Text = "Đại lý"
+        Me.Label14.Text = "Xưởng"
         '
         'CmbMa_TTCP
         '

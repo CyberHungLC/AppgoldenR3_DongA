@@ -48,7 +48,6 @@ Public Class BN1
         V_MainSystem()
         CmdNew.Select()
         V_LoadNew(sender, e)
-
     End Sub
 #Region "Load And Set And Default"
     Private Sub V_LoadNew(ByVal sender As System.Object, ByVal e As System.EventArgs)

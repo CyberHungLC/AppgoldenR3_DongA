@@ -344,6 +344,11 @@ Public Class PNT
         AddHandler TxtSo_Ct_DXM.Leave, AddressOf L_So_CT_DXM
 
         AddHandler CmdLoc_Dx.Click, AddressOf V_Loc_Dx
+
+        'Tạo phiếu chi 
+        AddHandler cmdTao_PC1.Click, AddressOf V_Tao_PC1
+        AddHandler cmdTao_BN1.Click, AddressOf V_Tao_BN1
+
     End Sub
     Private Sub V_AddHandler_Detail()
 
@@ -1168,6 +1173,41 @@ Public Class PNT
         L_So_CTDXM_Update(_Dt_Return1, _Dt_Return2)
     End Sub
 #End Region
+
+#Region "Valid --- Tao phieu chi - bao no"
+    Private Sub V_Tao_PC1(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If M_Stt_Rec = "" Then Exit Sub
+        Dim strAddParar As String = "2#PC1#10##" + M_Stt_Rec.Trim + ""
+        Dim _Process As Process = CyberSmlib.V_CallRun("Cyber.InputCustom.dll", Me.Para, strAddParar)
+        If Not _Process Is Nothing Then ProccessList.Add(_Process)
+    End Sub
+    Private Sub V_Tao_BN1(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If M_Stt_Rec = "" Then Exit Sub
+        Dim strAddParar As String = "2#BN1#10##" + M_Stt_Rec.Trim + ""
+        Dim _Process As Process = CyberSmlib.V_CallRun("Cyber.InputCustom.dll", Me.Para, strAddParar)
+        If Not _Process Is Nothing Then ProccessList.Add(_Process)
+    End Sub
+
+    Dim ProccessList As New Collection
+    Private Sub KillProce()
+        Try
+            Dim op As Process
+            For i As Integer = ProccessList.Count To 1 Step -1
+                op = ProccessList(i)
+                If Not op Is Nothing Then
+                    If Not op.HasExited() Then
+                        op.Kill()
+                        ProccessList.Remove(i)
+                    End If
+                End If
+            Next
+        Catch ex As Exception
+        End Try
+    End Sub
+#End Region
+
 #Region "Chi phi"
     Private Sub L_T_CP_NT(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub

@@ -127,6 +127,8 @@ Partial Class PNT
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TxtSo_Ct_DXM = New System.Windows.Forms.TextBox()
         Me.CmdLoc_Dx = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdTao_BN1 = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdTao_PC1 = New DevExpress.XtraEditors.SimpleButton()
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -1864,10 +1866,38 @@ Partial Class PNT
         Me.CmdLoc_Dx.TabIndex = 2174
         Me.CmdLoc_Dx.Text = "&Lọc đề xuất"
         '
+        'cmdTao_BN1
+        '
+        Me.cmdTao_BN1.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdTao_BN1.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.cmdTao_BN1.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.cmdTao_BN1.Appearance.Options.UseFont = True
+        Me.cmdTao_BN1.Appearance.Options.UseForeColor = True
+        Me.cmdTao_BN1.Location = New System.Drawing.Point(720, 534)
+        Me.cmdTao_BN1.Name = "cmdTao_BN1"
+        Me.cmdTao_BN1.Size = New System.Drawing.Size(61, 31)
+        Me.cmdTao_BN1.TabIndex = 7223
+        Me.cmdTao_BN1.Text = "Báo nợ"
+        '
+        'cmdTao_PC1
+        '
+        Me.cmdTao_PC1.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdTao_PC1.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.cmdTao_PC1.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.cmdTao_PC1.Appearance.Options.UseFont = True
+        Me.cmdTao_PC1.Appearance.Options.UseForeColor = True
+        Me.cmdTao_PC1.Location = New System.Drawing.Point(782, 534)
+        Me.cmdTao_PC1.Name = "cmdTao_PC1"
+        Me.cmdTao_PC1.Size = New System.Drawing.Size(61, 31)
+        Me.cmdTao_PC1.TabIndex = 7222
+        Me.cmdTao_PC1.Text = "Phiếu chi"
+        '
         'PNT
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(1001, 589)
+        Me.Controls.Add(Me.cmdTao_BN1)
+        Me.Controls.Add(Me.cmdTao_PC1)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.TxtSo_Ct_DXM)
         Me.Controls.Add(Me.CmdLoc_Dx)
@@ -2090,6 +2120,8 @@ Partial Class PNT
         Me.Controls.SetChildIndex(Me.CmdLoc_Dx, 0)
         Me.Controls.SetChildIndex(Me.TxtSo_Ct_DXM, 0)
         Me.Controls.SetChildIndex(Me.Label7, 0)
+        Me.Controls.SetChildIndex(Me.cmdTao_PC1, 0)
+        Me.Controls.SetChildIndex(Me.cmdTao_BN1, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).EndInit()
@@ -2214,4 +2246,6 @@ Partial Class PNT
     Friend WithEvents Label7 As Label
     Friend WithEvents TxtSo_Ct_DXM As TextBox
     Friend WithEvents CmdLoc_Dx As DevExpress.XtraEditors.SimpleButton
+    Friend WithEvents cmdTao_BN1 As DevExpress.XtraEditors.SimpleButton
+    Friend WithEvents cmdTao_PC1 As DevExpress.XtraEditors.SimpleButton
 End Class

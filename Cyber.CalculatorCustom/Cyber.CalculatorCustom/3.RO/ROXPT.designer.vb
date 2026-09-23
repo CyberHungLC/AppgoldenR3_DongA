@@ -66,6 +66,9 @@ Partial Class ROXPT
         Me.DetailGRV = New DevExpress.XtraGrid.Views.Grid.GridView()
         Me.Detail = New DevExpress.XtraGrid.GridControl()
         Me.SplitContainer1 = New System.Windows.Forms.SplitContainer()
+        Me.txtTen_TTCP = New System.Windows.Forms.TextBox()
+        Me.TxtMa_TTCP = New Cyber.SmLists.TxtLookup()
+        Me.Label31 = New System.Windows.Forms.Label()
         Me.CmDanh_SachXuat = New System.Windows.Forms.Button()
         Me.CmdXem_Ro_ChuaPick = New System.Windows.Forms.Button()
         Me.CmdXem_Pick = New System.Windows.Forms.Button()
@@ -79,9 +82,6 @@ Partial Class ROXPT
         Me.Chk_S = New System.Windows.Forms.CheckBox()
         Me.Chk_P = New System.Windows.Forms.CheckBox()
         Me.Chk_B = New System.Windows.Forms.CheckBox()
-        Me.TxtMa_TTCP = New Cyber.SmLists.TxtLookup()
-        Me.Label31 = New System.Windows.Forms.Label()
-        Me.txtTen_TTCP = New System.Windows.Forms.TextBox()
         Me.GroupBox1.SuspendLayout()
         CType(Me.TxtMa_VT.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_HS_H.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -768,6 +768,47 @@ Partial Class ROXPT
         Me.SplitContainer1.SplitterDistance = 944
         Me.SplitContainer1.TabIndex = 7130
         '
+        'txtTen_TTCP
+        '
+        Me.txtTen_TTCP.BackColor = System.Drawing.Color.White
+        Me.txtTen_TTCP.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txtTen_TTCP.Enabled = False
+        Me.txtTen_TTCP.ForeColor = System.Drawing.Color.Navy
+        Me.txtTen_TTCP.Location = New System.Drawing.Point(146, 15)
+        Me.txtTen_TTCP.Name = "txtTen_TTCP"
+        Me.txtTen_TTCP.ReadOnly = True
+        Me.txtTen_TTCP.Size = New System.Drawing.Size(137, 13)
+        Me.txtTen_TTCP.TabIndex = 2328
+        Me.txtTen_TTCP.TabStop = False
+        '
+        'TxtMa_TTCP
+        '
+        Me.TxtMa_TTCP._ActilookupPopup = False
+        Me.TxtMa_TTCP.CyberActilookupPopup = True
+        Me.TxtMa_TTCP.Dv_ListDetail = Nothing
+        Me.TxtMa_TTCP.Dv_Master = Nothing
+        Me.TxtMa_TTCP.FilterClient = ""
+        Me.TxtMa_TTCP.FilterSQL = ""
+        Me.TxtMa_TTCP.Location = New System.Drawing.Point(75, 12)
+        Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
+        Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
+        Me.TxtMa_TTCP.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
+        Me.TxtMa_TTCP.Size = New System.Drawing.Size(65, 20)
+        Me.TxtMa_TTCP.TabIndex = 2326
+        Me.TxtMa_TTCP.Table_Name = ""
+        '
+        'Label31
+        '
+        Me.Label31.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Bold)
+        Me.Label31.ForeColor = System.Drawing.Color.Red
+        Me.Label31.Location = New System.Drawing.Point(6, 17)
+        Me.Label31.Name = "Label31"
+        Me.Label31.Size = New System.Drawing.Size(64, 18)
+        Me.Label31.TabIndex = 2327
+        Me.Label31.Tag = "Business man"
+        Me.Label31.Text = "Đại lý"
+        '
         'CmDanh_SachXuat
         '
         Me.CmDanh_SachXuat.Location = New System.Drawing.Point(4, 111)
@@ -787,6 +828,7 @@ Partial Class ROXPT
         Me.CmdXem_Ro_ChuaPick.Tag = "View Voucher exported by RO"
         Me.CmdXem_Ro_ChuaPick.Text = "Danh sách Ro đặt hàng chưa xuất Pick"
         Me.CmdXem_Ro_ChuaPick.UseVisualStyleBackColor = True
+        Me.CmdXem_Ro_ChuaPick.Visible = False
         '
         'CmdXem_Pick
         '
@@ -919,47 +961,6 @@ Partial Class ROXPT
         Me.Chk_B.Tag = "B"
         Me.Chk_B.Text = "B"
         Me.Chk_B.UseVisualStyleBackColor = True
-        '
-        'TxtMa_TTCP
-        '
-        Me.TxtMa_TTCP._ActilookupPopup = False
-        Me.TxtMa_TTCP.CyberActilookupPopup = True
-        Me.TxtMa_TTCP.Dv_ListDetail = Nothing
-        Me.TxtMa_TTCP.Dv_Master = Nothing
-        Me.TxtMa_TTCP.FilterClient = ""
-        Me.TxtMa_TTCP.FilterSQL = ""
-        Me.TxtMa_TTCP.Location = New System.Drawing.Point(75, 12)
-        Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
-        Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
-        Me.TxtMa_TTCP.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_TTCP.Size = New System.Drawing.Size(65, 20)
-        Me.TxtMa_TTCP.TabIndex = 2326
-        Me.TxtMa_TTCP.Table_Name = ""
-        '
-        'Label31
-        '
-        Me.Label31.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Bold)
-        Me.Label31.ForeColor = System.Drawing.Color.Red
-        Me.Label31.Location = New System.Drawing.Point(6, 17)
-        Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(64, 18)
-        Me.Label31.TabIndex = 2327
-        Me.Label31.Tag = "Business man"
-        Me.Label31.Text = "Đại lý"
-        '
-        'txtTen_TTCP
-        '
-        Me.txtTen_TTCP.BackColor = System.Drawing.Color.White
-        Me.txtTen_TTCP.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.txtTen_TTCP.Enabled = False
-        Me.txtTen_TTCP.ForeColor = System.Drawing.Color.Navy
-        Me.txtTen_TTCP.Location = New System.Drawing.Point(146, 15)
-        Me.txtTen_TTCP.Name = "txtTen_TTCP"
-        Me.txtTen_TTCP.ReadOnly = True
-        Me.txtTen_TTCP.Size = New System.Drawing.Size(137, 13)
-        Me.txtTen_TTCP.TabIndex = 2328
-        Me.txtTen_TTCP.TabStop = False
         '
         'ROXPT
         '

@@ -29,11 +29,14 @@ Public Class Sys
             Case "CP_FACTTSBK1".Trim.ToUpper
                 _Return = New FACTTSBK1
             Case "CP_FAKKCTTS".Trim.ToUpper
-
                 _Return = New FAKKCTTS
             Case "CP_FaBcKh".Trim.ToUpper, "CP_FaBcKh01".Trim.ToUpper
                 _Return = New FaBcKh
 
+            Case "CP_InTuoiTonKho_PT".Trim.ToUpper
+                _Return = New INTUOITONKHO_PT
+            Case "CP_InTuoiTonKho".Trim.ToUpper
+                _Return = New InTuoiTonkho
             Case "CP_Tinhdaxuat1".Trim.ToUpper
                 _Return = New Tinhdaxuat1
             Case "CP_GLPNL".Trim.ToUpper

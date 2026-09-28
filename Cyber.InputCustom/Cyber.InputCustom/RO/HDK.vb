@@ -3715,7 +3715,7 @@ _KT:
         iRow = DetailGRVVt.GetFocusedDataSourceRowIndex
         If iRow < 0 Then Exit Sub
         Dt_DetailTmp.AcceptChanges()
-        Tinh_Gia2(iRow)
+        'Tinh_Gia2(iRow)
         Tinh_TienPT(iRow)
 
     End Sub

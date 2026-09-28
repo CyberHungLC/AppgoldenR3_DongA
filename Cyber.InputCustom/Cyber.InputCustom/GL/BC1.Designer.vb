@@ -83,6 +83,9 @@ Partial Class BC1
         Me.txtStt_Rec_DN = New System.Windows.Forms.TextBox()
         Me.ChkIs_PB_Ro = New System.Windows.Forms.CheckBox()
         Me.ChkIS_TT_LX = New System.Windows.Forms.CheckBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.TxtTen_NH = New System.Windows.Forms.TextBox()
+        Me.TxtTK_NH = New Cyber.SmLists.TxtLookup()
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -93,6 +96,7 @@ Partial Class BC1
         CType(Me.PopupMenuMasterGrid, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_LD.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_HD_H.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.TxtTK_NH.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'CmdEdit
@@ -578,12 +582,12 @@ Partial Class BC1
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Detail.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.Detail.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Detail.Location = New System.Drawing.Point(1, 157)
+        Me.Detail.Location = New System.Drawing.Point(1, 183)
         Me.Detail.LookAndFeel.SkinName = "Office 2010 Blue"
         Me.Detail.MainView = Me.DetailGRV
         Me.Detail.Name = "Detail"
         Me.Detail.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.RepositoryItemTextEdit1, Me.RepositoryItemTextEdit2})
-        Me.Detail.Size = New System.Drawing.Size(926, 280)
+        Me.Detail.Size = New System.Drawing.Size(926, 254)
         Me.Detail.TabIndex = 8
         Me.Detail.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.DetailGRV})
         '
@@ -1173,10 +1177,58 @@ Partial Class BC1
         Me.ChkIS_TT_LX.Text = "Lái xe TT"
         Me.ChkIS_TT_LX.UseVisualStyleBackColor = True
         '
+        'Label2
+        '
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.Label2.ForeColor = System.Drawing.Color.Navy
+        Me.Label2.Location = New System.Drawing.Point(2, 160)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(0)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(78, 14)
+        Me.Label2.TabIndex = 2200
+        Me.Label2.Tag = "Debit acc"
+        Me.Label2.Text = "TK NgHàng"
+        '
+        'TxtTen_NH
+        '
+        Me.TxtTen_NH.BackColor = System.Drawing.Color.White
+        Me.TxtTen_NH.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.TxtTen_NH.Font = New System.Drawing.Font("Tahoma", 8.25!)
+        Me.TxtTen_NH.ForeColor = System.Drawing.Color.Navy
+        Me.TxtTen_NH.Location = New System.Drawing.Point(198, 156)
+        Me.TxtTen_NH.Name = "TxtTen_NH"
+        Me.TxtTen_NH.ReadOnly = True
+        Me.TxtTen_NH.Size = New System.Drawing.Size(319, 21)
+        Me.TxtTen_NH.TabIndex = 2199
+        '
+        'TxtTK_NH
+        '
+        Me.TxtTK_NH._ActilookupPopup = False
+        Me.TxtTK_NH.CyberActilookupPopup = True
+        Me.TxtTK_NH.Dv_ListDetail = Nothing
+        Me.TxtTK_NH.Dv_Master = Nothing
+        Me.TxtTK_NH.Enabled = False
+        Me.TxtTK_NH.FilterClient = ""
+        Me.TxtTK_NH.FilterSQL = ""
+        Me.TxtTK_NH.Location = New System.Drawing.Point(80, 157)
+        Me.TxtTK_NH.Name = "TxtTK_NH"
+        Me.TxtTK_NH.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.TxtTK_NH.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.TxtTK_NH.Properties.Appearance.Options.UseFont = True
+        Me.TxtTK_NH.Properties.Appearance.Options.UseForeColor = True
+        Me.TxtTK_NH.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
+        Me.TxtTK_NH.Size = New System.Drawing.Size(116, 20)
+        Me.TxtTK_NH.TabIndex = 2201
+        Me.TxtTK_NH.Table_Name = ""
+        '
         'BC1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(931, 519)
+        Me.Controls.Add(Me.TxtTK_NH)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.TxtTen_NH)
         Me.Controls.Add(Me.ChkIS_TT_LX)
         Me.Controls.Add(Me.ChkIs_PB_Ro)
         Me.Controls.Add(Me.txtStt_Rec_DN)
@@ -1312,17 +1364,21 @@ Partial Class BC1
         Me.Controls.SetChildIndex(Me.txtStt_Rec_DN, 0)
         Me.Controls.SetChildIndex(Me.ChkIs_PB_Ro, 0)
         Me.Controls.SetChildIndex(Me.ChkIS_TT_LX, 0)
+        Me.Controls.SetChildIndex(Me.TxtTen_NH, 0)
+        Me.Controls.SetChildIndex(Me.Label2, 0)
+        Me.Controls.SetChildIndex(Me.TxtTK_NH, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.Detail,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.DetailGRV,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.RepositoryItemTextEdit1,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.RepositoryItemTextEdit2,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.TxtMa_Kh.Properties,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.TxtTk.Properties,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PopupMenuMasterGrid,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.TxtMa_LD.Properties,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.TxtMa_HD_H.Properties,System.ComponentModel.ISupportInitialize).EndInit
-        Me.ResumeLayout(false)
+        CType(Me.Detail, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.RepositoryItemTextEdit1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.RepositoryItemTextEdit2, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtMa_Kh.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtTk.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PopupMenuMasterGrid, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtMa_LD.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtMa_HD_H.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtTK_NH.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ResumeLayout(False)
         Me.PerformLayout
 
 End Sub
@@ -1389,5 +1445,7 @@ End Sub
     Friend WithEvents txtStt_Rec_DN As System.Windows.Forms.TextBox
     Friend WithEvents ChkIs_PB_Ro As System.Windows.Forms.CheckBox
     Friend WithEvents ChkIS_TT_LX As System.Windows.Forms.CheckBox
-
+    Friend WithEvents Label2 As Label
+    Friend WithEvents TxtTen_NH As TextBox
+    Friend WithEvents TxtTK_NH As SmLists.TxtLookup
 End Class

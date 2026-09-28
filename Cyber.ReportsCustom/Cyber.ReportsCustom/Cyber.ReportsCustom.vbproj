@@ -824,6 +824,12 @@
     <Compile Include="RO\6. BC Kho\BC_HLGiaVT.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\6. BC Kho\InTuoiTonkho.designer.vb">
+      <DependentUpon>InTuoiTonkho.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\6. BC Kho\InTuoiTonkho.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\6. BC Kho\INVTANLYSIS.designer.vb">
       <DependentUpon>INVTANLYSIS.vb</DependentUpon>
     </Compile>
@@ -900,6 +906,12 @@
       <DependentUpon>RO_X09.vb</DependentUpon>
     </Compile>
     <Compile Include="RO\7.Thong ke xuong\RO_X09.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RO\6. BC Kho\INTUOITONKHO_PT.designer.vb">
+      <DependentUpon>INTUOITONKHO_PT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\6. BC Kho\INTUOITONKHO_PT.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="SysTH1.designer.vb">
@@ -1313,6 +1325,9 @@
     <EmbeddedResource Include="RO\6. BC Kho\BC_HLGiaVT.resx">
       <DependentUpon>BC_HLGiaVT.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="RO\6. BC Kho\InTuoiTonkho.resx">
+      <DependentUpon>InTuoiTonkho.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="RO\6. BC Kho\INVTANLYSIS.resx">
       <DependentUpon>INVTANLYSIS.vb</DependentUpon>
     </EmbeddedResource>
@@ -1351,6 +1366,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\7.Thong ke xuong\RO_X09.resx">
       <DependentUpon>RO_X09.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\6. BC Kho\INTUOITONKHO_PT.resx">
+      <DependentUpon>INTUOITONKHO_PT.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SysTH1.resx">
       <DependentUpon>SysTH1.vb</DependentUpon>

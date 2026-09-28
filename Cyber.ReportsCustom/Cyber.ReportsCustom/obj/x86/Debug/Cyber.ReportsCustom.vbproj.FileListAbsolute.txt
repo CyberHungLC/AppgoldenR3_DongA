@@ -662,3 +662,5 @@ D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsC
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.dll
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.pdb
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.ReportsCustom.xml
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INTUOITONKHO_PT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.InTuoiTonkho.resources

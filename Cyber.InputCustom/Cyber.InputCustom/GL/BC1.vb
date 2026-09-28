@@ -7,7 +7,10 @@ Public Class BC1
     Dim M_Para As String() = Me.Para
     Dim M_AppConn As SqlConnection
     Dim M_DsData, M_DsHead, M_DsLookUp As DataSet
+    Dim _Para_So_Ro As String = ""
 
+    Dim _Para_Ma_TT As String = ""
+    Dim _Para_Ma_TTCP_H As String = ""
 #End Region
 #Region "Khai bao bien Paramater----------------------"
 
@@ -51,10 +54,17 @@ Public Class BC1
     End Sub
 #Region "Load And Set And Default"
     Private Sub V_LoadNew(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        If _Para_So_QTU.Trim = "" Then Exit Sub
+        If _Para_So_Ro.Trim = "" And _Para_So_QTU.Trim = "" Then Exit Sub
+        If Dt_Master.Rows.Count > 0 Then Exit Sub
+
+
         V_New(sender, e)
         If Not M_Mode = "M" Then Exit Sub
         txtSo_QTU.Text = _Para_So_QTU
+        TxtLenh_RO.Text = _Para_So_Ro
+        CbbMa_TTCP_H.SelectedValue = _Para_Ma_TTCP_H
+        If _Para_So_Ro <> "" Then GetDetailBC1()
+
         L_So_QTU()
     End Sub
     Private Sub V_Load()
@@ -119,6 +129,8 @@ Public Class BC1
         '---------------------------------------------------------------------------------------------'
         M_Ma_GD = M_Para(M_VT_PARA + 1).Trim
         M_Ma_CT = M_Para(M_VT_PARA + 2).Trim
+        _Para_Ma_TT = M_Para(M_VT_PARA + 3).Trim
+
         'M_Stt_Rec = M_Para(M_Para.Length - 1).Trim
         '---------------------------------------------------------------------------------------------'
         _Para_So_QTU = ""
@@ -127,7 +139,14 @@ Public Class BC1
         Catch ex As Exception
 
         End Try
-
+        Try
+            _Para_So_Ro = M_Para(M_VT_PARA + 5).Trim
+        Catch ex As Exception
+        End Try
+        Try
+            _Para_Ma_TTCP_H = M_Para(M_VT_PARA + 6).Trim
+        Catch ex As Exception
+        End Try
         M_Ma_Post = CyberSupport.V_GetMaxPost(AppConn, M_Ma_CT, M_Ma_Dvcs, M_User_Name, CyberSmlib)
         '---
         M_Tk_No = DrDmct.Item("M_Tk_No").ToString.Trim
@@ -282,6 +301,9 @@ Public Class BC1
         '--TK
         AddHandler TxtTk.CyberValiting, AddressOf V_Tk
         AddHandler TxtTk.CyberLeave, AddressOf L_Tk
+        '--TK
+        AddHandler TxtTK_NH.CyberValiting, AddressOf V_Tk_NH
+        AddHandler TxtTK_NH.CyberLeave, AddressOf L_Tk_NH
         '----------------------------------------------------------------------------------------------------------
         AddHandler TxtLenh_SO.Leave, AddressOf L_Lenh_So
         AddHandler TxtLenh_PO.Leave, AddressOf L_Lenh_Po
@@ -534,21 +556,19 @@ Public Class BC1
 #Region "Valid --- Tk"
     Private Sub V_Tk(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
-        TxtTk.V_LookUp(M_LAN, M_Para, osysvar, AppConn, DsLookup, "Tk", "DmTK", "1=1", "1=1")
+        TxtTk.V_LookUp(M_LAN, M_Para, osysvar, AppConn, DsLookup, "Tk", "DMTKNH", "1=1", "1=1")
     End Sub
     Private Sub L_Tk(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
         If TxtTk.Text = "" Then
             Txtten_Tk.Text = ""
+            TxtTK_NH.Text = ""
+            TxtTen_NH.Text = ""
             Exit Sub
         End If
 
         DrReturn = TxtTk.GetRowsSelectData(True)
         If Not DrReturn Is Nothing Then TxtTk.Text = DrReturn.Item("Tk")
-        If TxtTk.Text = "" Then
-            Txtten_Tk.Text = ""
-            Exit Sub
-        End If
         DrReturn = Nothing
         CyberSmlistSys.Lookup(M_LAN, M_Para, osysvar, AppConn, DsLookup, TxtTk.Text, "Tk", "DmTK", DrReturn, "1=1", "1=1", "1")
         If Not DrReturn Is Nothing Then
@@ -558,7 +578,54 @@ Public Class BC1
             TxtTk.Text = ""
             Txtten_Tk.Text = ""
         End If
+
+        DrReturn = TxtTk.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then TxtTk.Text = DrReturn.Item("Tk")
+        DrReturn = Nothing
+        CyberSmlistSys.Lookup(M_LAN, M_Para, osysvar, AppConn, DsLookup, TxtTk.Text, "Tk", "DMTKNH", DrReturn, "1=1", "1=1", "1")
+        If Not DrReturn Is Nothing Then
+            TxtTk.Text = DrReturn.Item("Tk")
+            TxtTen_NH.Text = DrReturn.Item("Ten_NH")
+            TxtTK_NH.Text = DrReturn.Item("TK_NH")
+        Else
+            TxtTk.Text = ""
+            TxtTen_NH.Text = ""
+            TxtTK_NH.Text = ""
+        End If
+
+        If TxtTk.Text.Trim = "" Then TxtTK_NH.Text = "" Else TxtTK_NH.Text = CyberSmodb.SQLGetvalue(AppConn, "TK_NH", "DMTKNH", "(TK = N'" + TxtTk.Text.Trim + "')", CyberSmlib)
+        If TxtTk.Text.Trim = "" Then TxtTen_NH.Text = "" Else TxtTen_NH.Text = CyberSmodb.SQLGetvalue(AppConn, "Ten_NH", "DMTKNH", "(TK = N'" + TxtTk.Text.Trim + "')", CyberSmlib)
+
+
         CyberSupport.V_SetSD(StatusFooter1, AppConn, "KT", M_Mode, TxtTk.Text, TxtMa_Kh.Text, "", "", M_Stt_Rec, M_Ma_CT, M_Ma_Dvcs, M_User_Name, CyberSmlib)
+    End Sub
+#End Region
+#Region "Valid --- Tk_NH"
+    Private Sub V_Tk_NH(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        TxtTK_NH.V_LookUp(M_LAN, M_Para, osysvar, AppConn, DsLookup, "Tk_NH", "DmTkNH", "1=1", "1=1")
+    End Sub
+    Private Sub L_TK_NH(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If TxtTK_NH.Text = "" Then
+            TxtTen_NH.Text = ""
+            TxtTk.Text = ""
+            Txtten_Tk.Text = ""
+            Exit Sub
+        End If
+        DrReturn = TxtTK_NH.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then
+            TxtTK_NH.Text = DrReturn.Item("Tk_NH")
+            TxtTen_NH.Text = DrReturn.Item("Ten_NH")
+            TxtTk.Text = DrReturn.Item("TK")
+        Else
+            TxtTK_NH.Text = ""
+            TxtTen_NH.Text = ""
+            Txtten_Tk.Text = ""
+            TxtTk.Text = ""
+        End If
+
+        If TxtTk.Text.Trim = "" Then Txtten_Tk.Text = "" Else Txtten_Tk.Text = CyberSmodb.SQLGetvalue(AppConn, "Ten_TK", "DMTK", "(TK = N'" + TxtTk.Text.Trim + "')", CyberSmlib)
     End Sub
 #End Region
 #Region "Lenh/SO/Po/Ro/Vt"
@@ -1818,6 +1885,59 @@ Public Class BC1
         End If
         V_UpdateToMasterQTU(DsReturn.Tables(1), DsReturn.Tables(2))
     End Sub
+
+    Private Sub GetDetailBC1()
+        If TxtLenh_RO.Text = "" Then Exit Sub
+        Dim _Ngay_CT, _Ngay_LCT As Date
+        _Ngay_CT = TxtNgay_Ct.Value
+        _Ngay_LCT = TxtNgay_LCt.Value
+        Dim _Ma_TT As String = _Para_Ma_TT
+        Dim _Ma_Xe As String '= TxtMa_Xe.Text.Trim
+
+        Dim DsSo_Lenh As DataSet
+        DsSo_Lenh = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetBC1Detail", _Ma_TT + "#" + TxtLenh_RO.Text.Trim + "#" + _Ma_Xe + "#" + _Ngay_CT.ToString("yyyyMMdd") + "#" + _Ngay_LCT.ToString("yyyyMMdd") + "#" +
+            TxtSo_ct.Text.Trim + "#" + TxtMa_Kh.Text + "#" + TxtTen_kh.Text + "#" + txtOng_ba.Text + "#" +
+            TxtDia_Chi.Text + "#" + txtDien_giai.Text + "#" + M_Mode.Trim + "#" + M_Stt_Rec + "#" + M_Ma_CT.Trim + "#" + CbbMa_GD.SelectedValue.ToString.Trim + "#" + M_Ma_Dvcs + "#" + M_User_Name.Trim)
+
+        For i = 0 To DsSo_Lenh.Tables.Count - 1
+            CyberSmodb.SetNotNullTable(DsSo_Lenh.Tables(i))
+        Next
+        If Not CyberSupport.V_MsgChk(DsSo_Lenh.Tables(0), SysVar, M_LAN) Then
+            DsSo_Lenh.Dispose()
+            Exit Sub
+        End If
+        If DsSo_Lenh.Tables.Count < 3 Then
+            DsSo_Lenh.Dispose()
+            Exit Sub
+        End If
+        ' 
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ma_Kh") And TxtMa_Kh.Text.Trim = "" Then TxtMa_Kh.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ma_Kh")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ten_KH") Then TxtTen_kh.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ten_KH")
+
+        'If DsSo_Lenh.Tables(1).Columns.Contains("Ma_Xe") Then TxtMa_Xe.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ma_Xe")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ngay_Ct") Then TxtNgay_Ct.Value = DsSo_Lenh.Tables(1).Rows(0).Item("Ngay_Ct")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ngay_LCt") Then TxtNgay_LCt.Value = DsSo_Lenh.Tables(1).Rows(0).Item("Ngay_LCt")
+        If DsSo_Lenh.Tables(1).Columns.Contains("So_Ct") Then TxtSo_ct.Text = DsSo_Lenh.Tables(1).Rows(0).Item("So_Ct")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ma_Kh") Then TxtMa_Kh.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ma_Kh")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ten_Kh") Then TxtTen_kh.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ten_Kh")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ong_ba") Then txtOng_ba.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ong_ba")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Dia_Chi") Then TxtDia_Chi.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Dia_Chi")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Tk") Then TxtTk.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Tk")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Ten_Tk") Then Txtten_Tk.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Ten_Tk")
+        If DsSo_Lenh.Tables(1).Columns.Contains("Dien_Giai") Then txtDien_giai.Text = DsSo_Lenh.Tables(1).Rows(0).Item("Dien_Giai").ToString.Trim
+
+        'If DsSo_Lenh.Tables(1).Columns.Contains("So_Khung") Then txtSo_Khung.Text = DsSo_Lenh.Tables(1).Rows(0).Item("So_Khung")
+        'If DsSo_Lenh.Tables(1).Columns.Contains("Ngay_Mua") Then TxtNgay_Mua.Value = DsSo_Lenh.Tables(1).Rows(0).Item("Ngay_Mua")
+        '--- Insert vao Chi tiet
+        Dt_DetailTmp.Clear()
+        Dt_DetailTmp.AcceptChanges()
+        CyberSmodb.SQLTbToTb(DsSo_Lenh.Tables(2), Dt_DetailTmp)
+        Dt_DetailTmp.AcceptChanges()
+        DsSo_Lenh.Dispose()
+        UpdateList()
+    End Sub
+
+
     Private Sub V_UpdateToMasterQTU(ByVal _Dt_Master As DataTable, ByVal _Dt_Detail As DataTable)
         If Not _Dt_Master Is Nothing Then
             If _Dt_Master.Rows.Count > 0 Then

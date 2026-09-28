@@ -162,6 +162,22 @@ Public Class RODsLenh
         If Not _Process Is Nothing Then ProccessList.Add(_Process)
     End Sub
 #End Region
+#Region "F10"
+    Private Sub V_F10(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        Dim iRow As Integer = -1
+        iRow = MasterGRV.GetFocusedDataSourceRowIndex
+        If iRow < 0 Then Exit Sub
+
+        Dim _So_Ro As String = Dv_Master.Item(iRow).Item("So_Ro")
+        Dim _So_BG As String = Dv_Master.Item(iRow).Item("So_Bg")
+        Dim _Ma_TTCP_H As String = Dv_Master.Item(iRow).Item("Ma_TTCP_H")
+
+        If _So_Ro = "" And _So_BG = "" Then Exit Sub '2#BC1#10##
+        Dim strAddParar As String = "2#BC1#C##" + _So_Ro.Trim + _So_BG.Trim + "#" + _Ma_TTCP_H + ""
+        Dim _Process As Process = CyberSmlib.V_CallRun("Cyber.InputCustom.dll", Me.Para, strAddParar)
+        If Not _Process Is Nothing Then ProccessList.Add(_Process)
+    End Sub
+#End Region
 #Region "F7"
     Private Sub V_F7(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Dim iRow As Integer = -1
@@ -243,6 +259,7 @@ Public Class RODsLenh
 
         PopupMenuMasterGrid.ItemLinks.Add(New Cyber.SmLib.CyberMenuPopup(sender, rowHandle, IIf(Lan = "V", "Tạo phiếu xuất kho", "Tạo phiếu xuất kho"), AddressOf V_F5, Nothing, My.Resources.edit_16x16, True, False))
         PopupMenuMasterGrid.ItemLinks.Add(New Cyber.SmLib.CyberMenuPopup(sender, rowHandle, IIf(Lan = "V", "Tạo phiếu thu", "Tạo phiếu thu"), AddressOf V_F6, Nothing, My.Resources.edit_16x16, True, False))
+        PopupMenuMasterGrid.ItemLinks.Add(New Cyber.SmLib.CyberMenuPopup(sender, rowHandle, IIf(Lan = "V", "Tạo phiếu báo có", "Tạo phiếu báo có"), AddressOf V_F10, Nothing, My.Resources.edit_16x16, True, False))
         PopupMenuMasterGrid.ItemLinks.Add(New Cyber.SmLib.CyberMenuPopup(sender, rowHandle, IIf(Lan = "V", "Tạo hóa đơn", "Tạo hóa đơn"), AddressOf V_F7, Nothing, My.Resources.edit_16x16, True, False))
         PopupMenuMasterGrid.ItemLinks.Add(New Cyber.SmLib.CyberMenuPopup(sender, rowHandle, IIf(Lan = "V", "Tạo phiếu ra cổng", "Tạo phiếu ra cổng"), AddressOf V_F8, Nothing, My.Resources.edit_16x16, True, False))
 

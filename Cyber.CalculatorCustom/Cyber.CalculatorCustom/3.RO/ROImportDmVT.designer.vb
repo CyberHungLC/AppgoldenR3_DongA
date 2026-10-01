@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class RoimportDmVT
+Partial Class RoImportDmvt
     Inherits Cyber.From.FrmCalculator
 
     'Form overrides dispose to clean up the component list.
@@ -35,8 +35,8 @@ Partial Class RoimportDmVT
         'GroupBoxLine
         '
         Me.GroupBoxLine.Location = New System.Drawing.Point(2, 492)
-        Me.GroupBoxLine.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
-        Me.GroupBoxLine.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBoxLine.Margin = New System.Windows.Forms.Padding(4)
+        Me.GroupBoxLine.Padding = New System.Windows.Forms.Padding(4)
         Me.GroupBoxLine.Size = New System.Drawing.Size(978, 8)
         '
         'ButtOK
@@ -44,7 +44,7 @@ Partial Class RoimportDmVT
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
         Me.ButtOK.Location = New System.Drawing.Point(778, 502)
-        Me.ButtOK.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.ButtOK.Margin = New System.Windows.Forms.Padding(4)
         Me.ButtOK.TabIndex = 10
         Me.ButtOK.Tag = "&OK"
         Me.ButtOK.Text = "&Chấp nhận"
@@ -54,14 +54,14 @@ Partial Class RoimportDmVT
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
         Me.ButtExit.Location = New System.Drawing.Point(880, 502)
-        Me.ButtExit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.ButtExit.Margin = New System.Windows.Forms.Padding(4)
         Me.ButtExit.TabIndex = 11
         '
         'CmdSelectFile
         '
-        Me.CmdSelectFile.Location = New System.Drawing.Point(648, 3)
+        Me.CmdSelectFile.Location = New System.Drawing.Point(863, 0)
         Me.CmdSelectFile.Name = "CmdSelectFile"
-        Me.CmdSelectFile.Size = New System.Drawing.Size(113, 26)
+        Me.CmdSelectFile.Size = New System.Drawing.Size(116, 31)
         Me.CmdSelectFile.TabIndex = 2
         Me.CmdSelectFile.Tag = "Select file"
         Me.CmdSelectFile.Text = "Chọn File"
@@ -70,7 +70,7 @@ Partial Class RoimportDmVT
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 10)
+        Me.Label1.Location = New System.Drawing.Point(12, 9)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(55, 13)
         Me.Label1.TabIndex = 510
@@ -79,10 +79,10 @@ Partial Class RoimportDmVT
         '
         'TxtFileName
         '
-        Me.TxtFileName.Location = New System.Drawing.Point(73, 6)
+        Me.TxtFileName.Location = New System.Drawing.Point(83, 6)
         Me.TxtFileName.Name = "TxtFileName"
         Me.TxtFileName.ReadOnly = True
-        Me.TxtFileName.Size = New System.Drawing.Size(569, 20)
+        Me.TxtFileName.Size = New System.Drawing.Size(774, 20)
         Me.TxtFileName.TabIndex = 1
         '
         'Master1
@@ -136,7 +136,7 @@ Partial Class RoimportDmVT
         Me.RepositoryItemTextEdit2.AutoHeight = False
         Me.RepositoryItemTextEdit2.Name = "RepositoryItemTextEdit2"
         '
-        'RoimportDmVT
+        'RoImportDmvt
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(982, 556)
@@ -144,8 +144,8 @@ Partial Class RoimportDmVT
         Me.Controls.Add(Me.TxtFileName)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.CmdSelectFile)
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
-        Me.Name = "RoimportDmVT"
+        Me.Margin = New System.Windows.Forms.Padding(4)
+        Me.Name = "RoImportDmvt"
         Me.Controls.SetChildIndex(Me.CmdSelectFile, 0)
         Me.Controls.SetChildIndex(Me.Label1, 0)
         Me.Controls.SetChildIndex(Me.TxtFileName, 0)

@@ -1,11 +1,11 @@
-﻿Public Class RoimportDmVT
+﻿Public Class RoImportDmvt
     Dim DrReturn As DataRow
     Dim DsLookup As DataSet
     Dim FileName As String
     Dim DsData As New DataSet
-    Dim tbMaster, tbHeader As New DataTable
+    Dim tbMaster, tbHeader, tbdetail_Temp As New DataTable
     Dim DvMaster, DvHeader As New DataView
-    Private Sub RoimportDmVT_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+    Private Sub ROCLOSE_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.Save_OK = False
         V_Load()
         V_AddHandler()
@@ -19,6 +19,7 @@
         DsData = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoGetListDmVT", M_Ma_Dvcs & "#" & M_User_Name)
         tbMaster = DsData.Tables(0)
         tbHeader = DsData.Tables(1)
+        tbdetail_Temp = DsData.Tables(2)
         DvMaster = New DataView(tbMaster)
         DvHeader = New DataView(tbHeader)
         CyberFill.V_FillReports(Master1GRV, M_LAN, DvHeader, DvMaster)
@@ -30,31 +31,25 @@
     End Sub
     Private Sub V_Nhan(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Me.Save_OK = False
-        '----------------------------------------------------------------------------
-        For i As Integer = 0 To tbMaster.Rows.Count - 1
-            tbMaster.Rows(i).BeginEdit()
-            If tbMaster.Columns.Contains("Ma_Dvcs") Then tbMaster.Rows(i).Item("Ma_Dvcs") = M_Ma_Dvcs
-            If tbMaster.Columns.Contains("Gia") And tbMaster.Columns.Contains("Gia_NT") Then tbMaster.Rows(i).Item("Gia") = tbMaster.Rows(i).Item("Gia_NT")
-            If tbMaster.Columns.Contains("Gia2") And tbMaster.Columns.Contains("Gia_NT2") Then tbMaster.Rows(i).Item("Gia2") = tbMaster.Rows(i).Item("Gia_NT2")
-            If tbMaster.Columns.Contains("Gia3") And tbMaster.Columns.Contains("Gia_NT3") Then tbMaster.Rows(i).Item("Gia3") = tbMaster.Rows(i).Item("Gia_NT3")
-            tbMaster.Rows(i).EndEdit()
-        Next
-        '----------------------------------------------------------------------------  
-        'Dim strXML As String = ""
-        'strXML = CyberSmodb.V_ConvertDataToXML({"DmVT"}, {tbMaster})
-        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SysExecute", "SELECT TOP 0 * FROM dbo.dmvtimport WITH (NOLOCK) WHERE 1=0#" + M_Ma_Dvcs + "#" + M_User_Name)
-        Dim DtDmVT As DataTable = DsTmp.Tables(0).Copy
-        DsTmp.Dispose()
-        CyberSmodb.SQLTbToTb(tbMaster, DtDmVT)
-        CyberSmodb.V_CyberBulkSaveToSQL(AppConn, Me.Sysvar, M_User_Name, DtDmVT, "dmvtimport", "S", "1=1")
-        Dim dsChekUpdate As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoImportDmvt", "" + "#" + M_Ma_Dvcs + "#" + M_User_Name)
-        'If Not CyberSupport.V_MsgChk(dsChekUpdate.Tables(0), Me.Sysvar, M_LAN) Then
-        '    dsChekUpdate.Dispose()
-        '    Exit Sub
-        'End If
+        tbdetail_Temp.Clear()
+        CyberSmodb.SQLTbToTb(tbMaster, tbdetail_Temp)
 
+
+        Dim M_StrXML As String = ""
+        M_StrXML = CyberSmodb.V_ConvertDataToXML({"DMVT"}, {tbdetail_Temp})
+
+
+        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoImportDmvt", M_StrXML & "#" & M_Ma_Dvcs & "#" & M_User_Name)
         If CyberLoading.IsShowWaitFrom Then CyberLoading.V_CloseWailtForm()
-        '----------------------------------------------------------------------------       
+        If DsTmp.Tables.Count > 0 Then
+            If Not CyberSupport.V_MsgChk(DsTmp.Tables(0), Sysvar, M_LAN) Then
+                DsTmp.Dispose()
+                Exit Sub
+            End If
+        End If
+
+        DsTmp.Dispose()
+
         MsgBox("Đã thực hiện xong", MsgBoxStyle.OkOnly, Sysvar("M_CYBER_VER"))
         CyberSmlib.FlushMemorySave()
         Me.Close()
@@ -63,9 +58,7 @@
         Dim tbImport As DataTable
         tbImport = CyberExport.V_ImportDataToGridview(AppConn, Sysvar, Para, Master1GRV, tbMaster, M_LAN)
         If tbImport Is Nothing Then Exit Sub
-        tbMaster.Clear()
-        'For Each dr As DataRow In tbImport.Select("Ma_VT <> ''")
-        For Each dr As DataRow In tbImport.Rows
+        For Each dr As DataRow In tbImport.Select("Ma_VT<>''")
             tbMaster.ImportRow(dr)
         Next
         tbMaster.AcceptChanges()

@@ -188,7 +188,7 @@ Public Class RODsLenh
         Dim _Ma_TTCP_H As String = Dv_Master.Item(iRow).Item("Ma_TTCP_H")
 
         If _So_Ro = "" Then Exit Sub
-        Dim strAddParar As String = "1#HDS#C#50#TM/CK#" + _So_Ro + "##" + _Ma_TTCP_H + ""
+        Dim strAddParar As String = "1#HDS#C#50#03#" + _So_Ro + "##" + _Ma_TTCP_H + ""
         Dim _Process As Process = CyberSmlib.V_CallRun("Cyber.InputCustom.dll", Me.Para, strAddParar)
         If Not _Process Is Nothing Then ProccessList.Add(_Process)
     End Sub

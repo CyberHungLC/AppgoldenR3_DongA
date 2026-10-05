@@ -45,7 +45,7 @@ Partial Class GLTC2
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(492, 237)
+        Me.ButtExit.Location = New System.Drawing.Point(492, 216)
         Me.ButtExit.TabIndex = 10
         '
         'CBBMa_Dvcs
@@ -53,34 +53,34 @@ Partial Class GLTC2
         Me.CBBMa_Dvcs.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CBBMa_Dvcs.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(95, 198)
+        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(95, 177)
         Me.CBBMa_Dvcs.Size = New System.Drawing.Size(491, 21)
         Me.CBBMa_Dvcs.TabIndex = 8
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(10, 201)
+        Me.Label1.Location = New System.Drawing.Point(10, 180)
         Me.Label1.TabIndex = 9
         '
         'ButtOK
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(388, 237)
+        Me.ButtOK.Location = New System.Drawing.Point(388, 216)
         Me.ButtOK.TabIndex = 9
         '
         'LabLoai_NT
         '
-        Me.LabLoai_NT.Location = New System.Drawing.Point(10, 179)
+        Me.LabLoai_NT.Location = New System.Drawing.Point(10, 158)
         '
         'ChkVND
         '
-        Me.ChkVND.Location = New System.Drawing.Point(95, 176)
+        Me.ChkVND.Location = New System.Drawing.Point(95, 155)
         Me.ChkVND.TabIndex = 6
         '
         'ChkNT
         '
-        Me.ChkNT.Location = New System.Drawing.Point(210, 176)
+        Me.ChkNT.Location = New System.Drawing.Point(210, 155)
         Me.ChkNT.TabIndex = 7
         '
         'TxtM_Ngay_Ct1
@@ -145,7 +145,7 @@ Partial Class GLTC2
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 220)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 199)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(589, 9)
         Me.GroupBoxLine.TabIndex = 15
@@ -251,7 +251,7 @@ Partial Class GLTC2
         '
         'Label12
         '
-        Me.Label12.Location = New System.Drawing.Point(212, 154)
+        Me.Label12.Location = New System.Drawing.Point(370, 132)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(216, 17)
         Me.Label12.TabIndex = 2207
@@ -267,7 +267,7 @@ Partial Class GLTC2
         Me.TxtNonVat.Dv_Master = Nothing
         Me.TxtNonVat.FilterClient = ""
         Me.TxtNonVat.FilterSQL = ""
-        Me.TxtNonVat.Location = New System.Drawing.Point(95, 151)
+        Me.TxtNonVat.Location = New System.Drawing.Point(421, 130)
         Me.TxtNonVat.Name = "TxtNonVat"
         Me.TxtNonVat.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtNonVat.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -283,7 +283,7 @@ Partial Class GLTC2
         '
         Me.Label11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.ForeColor = System.Drawing.Color.Red
-        Me.Label11.Location = New System.Drawing.Point(10, 154)
+        Me.Label11.Location = New System.Drawing.Point(437, 132)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(82, 17)
         Me.Label11.TabIndex = 2206
@@ -293,7 +293,6 @@ Partial Class GLTC2
         '
         'Label14
         '
-        Me.Label14.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.Label14.ForeColor = System.Drawing.Color.Red
         Me.Label14.Location = New System.Drawing.Point(9, 133)
         Me.Label14.Name = "Label14"
@@ -323,7 +322,7 @@ Partial Class GLTC2
         'GLTC2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(596, 290)
+        Me.ClientSize = New System.Drawing.Size(596, 269)
         Me.Controls.Add(Me.TxtMa_TTCP)
         Me.Controls.Add(Me.BtnMa_TTCP)
         Me.Controls.Add(Me.Label14)

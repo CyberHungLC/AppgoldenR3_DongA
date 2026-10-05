@@ -26,6 +26,8 @@ Public Class Sys
                 '--CYBERSOFT Cho Phép bạn Hiệu chỉnh ở phần này
                 _Return = New SysTH1
                 'Gl----------------------------------------------------------------------------------------------------------------------------------
+            Case "CP_GLTC2".Trim.ToUpper
+                _Return = New GLTC2
             Case "CP_FACTTSBK1".Trim.ToUpper
                 _Return = New FACTTSBK1
             Case "CP_FAKKCTTS".Trim.ToUpper

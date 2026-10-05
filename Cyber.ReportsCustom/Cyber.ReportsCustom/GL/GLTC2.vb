@@ -101,7 +101,7 @@
         M_strParameterStore = M_strParameterStore & "#" & Dt3.ToString("yyyyMMdd") & "#" & Dt4.ToString("yyyyMMdd").Trim
         M_strParameterStore = M_strParameterStore & "#" & _MauBc.Trim
         M_strParameterStore = M_strParameterStore & "#" & ""
-        M_strParameterStore = M_strParameterStore & "#" & TxtNonVat.Text.Trim
+        'M_strParameterStore = M_strParameterStore & "#" & TxtNonVat.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_TTCP.Text
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter

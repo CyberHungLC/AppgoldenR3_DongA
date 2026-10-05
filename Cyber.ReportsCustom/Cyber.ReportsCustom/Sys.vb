@@ -32,7 +32,8 @@ Public Class Sys
                 _Return = New FAKKCTTS
             Case "CP_FaBcKh".Trim.ToUpper, "CP_FaBcKh01".Trim.ToUpper
                 _Return = New FaBcKh
-
+            Case "CP_RO_PICK".Trim.ToUpper
+                _Return = New RO_PICK
             Case "CP_InTuoiTonKho_PT".Trim.ToUpper
                 _Return = New INTUOITONKHO_PT
             Case "CP_InTuoiTonKho".Trim.ToUpper

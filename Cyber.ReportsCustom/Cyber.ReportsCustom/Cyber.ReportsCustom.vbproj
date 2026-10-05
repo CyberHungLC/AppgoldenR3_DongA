@@ -854,6 +854,12 @@
     <Compile Include="RO\6. BC Kho\RO_BC_YCDatVT_RO.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\6. BC Kho\RO_PICK.designer.vb">
+      <DependentUpon>RO_PICK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\6. BC Kho\RO_PICK.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\6. BC Kho\SysBK1POD.designer.vb">
       <DependentUpon>SysBK1POD.vb</DependentUpon>
     </Compile>
@@ -1339,6 +1345,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\6. BC Kho\RO_BC_YCDatVT_RO.resx">
       <DependentUpon>RO_BC_YCDatVT_RO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\6. BC Kho\RO_PICK.resx">
+      <DependentUpon>RO_PICK.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\6. BC Kho\SysBK1POD.resx">
       <DependentUpon>SysBK1POD.vb</DependentUpon>

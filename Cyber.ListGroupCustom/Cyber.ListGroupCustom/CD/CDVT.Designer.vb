@@ -218,9 +218,9 @@ Partial Class CDVT
         Me.txtTon00.Flags = 7680
         Me.txtTon00.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtTon00.ForeColor = System.Drawing.Color.Navy
-        Me.txtTon00.InputMask = "### ### ### ### ###"
+        Me.txtTon00.InputMask = "### ### ### ### ###.##"
         Me.txtTon00.Location = New System.Drawing.Point(111, 141)
-        Me.txtTon00.MaxWholeDigits = 14
+        Me.txtTon00.MaxWholeDigits = 17
         Me.txtTon00.Name = "txtTon00"
         Me.txtTon00.RangeMax = 1.7976931348623157E+308R
         Me.txtTon00.RangeMin = -1.7976931348623157E+308R

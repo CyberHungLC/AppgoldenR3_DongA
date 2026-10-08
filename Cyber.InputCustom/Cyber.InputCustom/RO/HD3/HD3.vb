@@ -706,7 +706,8 @@ Public Class HD3
 
             TxtTen_KhVat.Text = DrReturn("Ten_KhVat").ToString.Trim
             TxtDia_ChiVat.Text = DrReturn("Dia_ChiVat").ToString.Trim
-            txtSo_CCCD.Text = DrReturn("CCCDan").ToString.Trim
+            txtSo_CCCD.Text = DrReturn("So_CCCD").ToString.Trim
+
             'TxtTen_KhVat.Text = IIf(TxtTen_KhVat.Text.Trim = "", DrReturn("Ten_KhVat").ToString.Trim, TxtTen_KhVat.Text)
             'TxtDia_ChiVat.Text = IIf(TxtDia_ChiVat.Text.Trim = "", DrReturn("Dia_ChiVat").ToString.Trim, TxtDia_ChiVat.Text)
             TxtMa_So_Thue.Text = DrReturn("Ma_So_Thue").ToString.Trim

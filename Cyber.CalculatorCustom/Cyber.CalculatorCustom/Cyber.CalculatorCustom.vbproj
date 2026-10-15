@@ -329,10 +329,22 @@
     <Compile Include="3.RO\RODsLenh.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="3.RO\ROImportDmKHSC.designer.vb">
+      <DependentUpon>ROImportDmKHSC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3.RO\ROImportDmKHSC.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="3.RO\ROImportDmVT.designer.vb">
       <DependentUpon>ROImportDmVT.vb</DependentUpon>
     </Compile>
     <Compile Include="3.RO\ROImportDmVT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3.RO\ROImportDmVtTonTT.designer.vb">
+      <DependentUpon>ROImportDmVtTonTT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3.RO\ROImportDmVtTonTT.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="3.RO\ROTRAN.designer.vb">
@@ -345,6 +357,12 @@
       <DependentUpon>ROUpdateGia.vb</DependentUpon>
     </Compile>
     <Compile Include="3.RO\ROUpdateGia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3.RO\ROUPDL.designer.vb">
+      <DependentUpon>ROUPDL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3.RO\ROUPDL.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="3.RO\ROXPT.designer.vb">
@@ -631,14 +649,23 @@
     <EmbeddedResource Include="3.RO\RODsLenh.resx">
       <DependentUpon>RODsLenh.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="3.RO\ROImportDmKHSC.resx">
+      <DependentUpon>ROImportDmKHSC.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="3.RO\ROImportDmVT.resx">
       <DependentUpon>ROImportDmVT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3.RO\ROImportDmVtTonTT.resx">
+      <DependentUpon>ROImportDmVtTonTT.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="3.RO\ROTRAN.resx">
       <DependentUpon>ROTRAN.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="3.RO\ROUpdateGia.resx">
       <DependentUpon>ROUpdateGia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3.RO\ROUPDL.resx">
+      <DependentUpon>ROUPDL.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="3.RO\ROXPT.resx">
       <DependentUpon>ROXPT.vb</DependentUpon>

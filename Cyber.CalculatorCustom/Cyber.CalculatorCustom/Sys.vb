@@ -29,6 +29,60 @@ Public Class Sys
 
         Dim Frm As Cyber.From.FrmCalculator
         Select Case M_CP_Name.ToUpper
+            Case "CP_ImportDmKHSC".ToUpper.ToString
+                Frm = New ROImportDmKHSC
+                Frm.Lan = M_Lan
+                Frm.Para = M_Para
+                Frm.Sysvar = oSysvar
+                Frm.AppConn = Appconn
+                Frm.CyberSmlib = CyberSmlib
+                Frm.CyberSupport = CyberSupport
+                Frm.CyberFill = CyberFill
+                Frm.CyberSmlistSys = CyberSmlistSys
+                Frm.CyberSmodb = CyberSmodb
+                Frm.CyberExport = CyberEport
+                Frm.CyberVoucher = CyberVoucher
+                Frm.CyberLoading = CyberLoading
+                Frm.WindowState = Windows.Forms.FormWindowState.Maximized
+                Frm.ShowDialog()
+                Return True
+
+            Case "CP_ImportDmVtTonTT".ToUpper.ToString
+                Frm = New ROImportDmVtTonTT
+                Frm.Lan = M_Lan
+                Frm.Para = M_Para
+                Frm.Sysvar = oSysvar
+                Frm.AppConn = Appconn
+                Frm.CyberSmlib = CyberSmlib
+                Frm.CyberSupport = CyberSupport
+                Frm.CyberFill = CyberFill
+                Frm.CyberSmlistSys = CyberSmlistSys
+                Frm.CyberSmodb = CyberSmodb
+                Frm.CyberExport = CyberEport
+                Frm.CyberVoucher = CyberVoucher
+                Frm.CyberLoading = CyberLoading
+                Frm.WindowState = Windows.Forms.FormWindowState.Maximized
+                Frm.ShowDialog()
+                Return True
+
+            Case "CP_ROUPDATE_LOAD".ToUpper.ToString
+                Frm = New ROUPDL
+                Frm.Lan = M_Lan
+                Frm.Para = M_Para
+                Frm.Sysvar = oSysvar
+                Frm.AppConn = Appconn
+                Frm.CyberSmlib = CyberSmlib
+                Frm.CyberSupport = CyberSupport
+                Frm.CyberFill = CyberFill
+                Frm.CyberSmlistSys = CyberSmlistSys
+                Frm.CyberSmodb = CyberSmodb
+                Frm.CyberExport = CyberEport
+                Frm.CyberVoucher = CyberVoucher
+                Frm.CyberLoading = CyberLoading
+                Frm.WindowState = Windows.Forms.FormWindowState.Maximized
+                Frm.ShowDialog()
+                Return True
+
             Case "CP_RODsLenh".ToUpper.Trim
                 Frm = New RODsLenh
                 Frm.Lan = M_Lan
@@ -178,7 +232,7 @@ Public Class Sys
                 Frm1.ShowDialog()
                 Return True
             Case "CP_ROIMPORTDMVT".ToUpper.ToString
-                Frm = New RoimportDmVT
+                Frm = New RoImportDmvt
                 Frm.Lan = M_Lan
                 Frm.Para = M_Para
                 Frm.Sysvar = oSysvar

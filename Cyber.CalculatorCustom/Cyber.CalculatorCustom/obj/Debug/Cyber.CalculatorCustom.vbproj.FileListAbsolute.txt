@@ -261,3 +261,6 @@ D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.CalculatorC
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.CalculatorCustom.xml
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.RODsLenh.resources
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.VewHDS_PT5.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROImportDmVtTonTT.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROUPDL.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.CalculatorCustom\Cyber.CalculatorCustom\obj\Debug\Cyber.CalculatorCustom.ROImportDmKHSC.resources

@@ -308,6 +308,8 @@ Partial Class HDK
         Me.TxtMa_DB = New Cyber.SmLists.TxtLookup()
         Me.txtTen_DB = New System.Windows.Forms.TextBox()
         Me.Label66 = New System.Windows.Forms.Label()
+        Me.TxtGhi_Chu_HoSo = New System.Windows.Forms.TextBox()
+        Me.ChkIs_Thieu_HoSo = New System.Windows.Forms.CheckBox()
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailVt, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailGRVVt, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -3762,7 +3764,7 @@ Partial Class HDK
         Me.TxtNgay_Gx.ShowDayBeforeMonth = False
         Me.TxtNgay_Gx.Size = New System.Drawing.Size(155, 22)
         Me.TxtNgay_Gx.TabIndex = 7137
-        Me.TxtNgay_Gx.Value = "25/09/2026 14:48"
+        Me.TxtNgay_Gx.Value = "15/10/2026 10:29"
         Me.TxtNgay_Gx.Visible = False
         '
         'CbbVRC
@@ -4821,11 +4823,43 @@ Partial Class HDK
         Me.Label66.Tag = "Event"
         Me.Label66.Text = "Đội xe"
         '
+        'TxtGhi_Chu_HoSo
+        '
+        Me.TxtGhi_Chu_HoSo.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtGhi_Chu_HoSo.BackColor = System.Drawing.Color.White
+        Me.TxtGhi_Chu_HoSo.ForeColor = System.Drawing.Color.Navy
+        Me.TxtGhi_Chu_HoSo.Location = New System.Drawing.Point(654, 628)
+        Me.TxtGhi_Chu_HoSo.Name = "TxtGhi_Chu_HoSo"
+        Me.TxtGhi_Chu_HoSo.Size = New System.Drawing.Size(150, 22)
+        Me.TxtGhi_Chu_HoSo.TabIndex = 100018
+        Me.TxtGhi_Chu_HoSo.Tag = ""
+        '
+        'ChkIs_Thieu_HoSo
+        '
+        Me.ChkIs_Thieu_HoSo.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.ChkIs_Thieu_HoSo.AutoSize = True
+        Me.ChkIs_Thieu_HoSo.Enabled = False
+        Me.ChkIs_Thieu_HoSo.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ChkIs_Thieu_HoSo.ForeColor = System.Drawing.Color.Navy
+        Me.ChkIs_Thieu_HoSo.Location = New System.Drawing.Point(514, 631)
+        Me.ChkIs_Thieu_HoSo.Name = "ChkIs_Thieu_HoSo"
+        Me.ChkIs_Thieu_HoSo.Size = New System.Drawing.Size(141, 17)
+        Me.ChkIs_Thieu_HoSo.TabIndex = 100017
+        Me.ChkIs_Thieu_HoSo.TabStop = False
+        Me.ChkIs_Thieu_HoSo.Tag = "Parts order"
+        Me.ChkIs_Thieu_HoSo.Text = "PT/Chưa hoàn thiện HS"
+        Me.ChkIs_Thieu_HoSo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.ChkIs_Thieu_HoSo.UseVisualStyleBackColor = True
+        '
         'HDK
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 14.0!)
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1353, 742)
+        Me.Controls.Add(Me.TxtGhi_Chu_HoSo)
+        Me.Controls.Add(Me.ChkIs_Thieu_HoSo)
         Me.Controls.Add(Me.TxtMa_DB)
         Me.Controls.Add(Me.txtTen_DB)
         Me.Controls.Add(Me.Label66)
@@ -5380,6 +5414,8 @@ Partial Class HDK
         Me.Controls.SetChildIndex(Me.Label66, 0)
         Me.Controls.SetChildIndex(Me.txtTen_DB, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_DB, 0)
+        Me.Controls.SetChildIndex(Me.ChkIs_Thieu_HoSo, 0)
+        Me.Controls.SetChildIndex(Me.TxtGhi_Chu_HoSo, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DetailVt, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DetailGRVVt, System.ComponentModel.ISupportInitialize).EndInit()
@@ -5703,4 +5739,6 @@ End Sub
     Friend WithEvents TxtMa_DB As Cyber.SmLists.TxtLookup
     Friend WithEvents txtTen_DB As System.Windows.Forms.TextBox
     Friend WithEvents Label66 As System.Windows.Forms.Label
+    Friend WithEvents TxtGhi_Chu_HoSo As TextBox
+    Friend WithEvents ChkIs_Thieu_HoSo As CheckBox
 End Class

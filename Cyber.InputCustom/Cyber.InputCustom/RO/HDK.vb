@@ -1,6 +1,12 @@
-﻿
+﻿Imports System
+Imports System.Text
+Imports System.Xml
 Imports System.IO
+Imports System.Data
+Imports System.Collections.Generic
 Imports DevExpress.XtraGrid.Views.Grid
+Imports System.IO.Compression
+
 Public Class HDK
 #Region "Khai bao bien Property----------------------"
     Dim M_strFilter As String = "1=1"
@@ -29,7 +35,7 @@ Public Class HDK
 #Region "Columns Edit"
     Dim EditMa_Vitri, EditMa_Vt, EditMa_CVVt, EditMa_CtCVVT, EditMa_NVKD, EditTen_Vt, EditTen_Vt3, EditDVt, EditMa_kho_i, EditTon13, EditTen_kho_i, EditMa_TT,
            EditMa_Vv_i, EditMa_Hd_i, EditMa_phi_I, EditMa_Sp_i, EditMa_ku_I, EditMa_TTLN_I, EditMa_TTCP_I, EditMa_BP_I, EditMa_HS_I, EditMa_CD_I As New Cyber.Fill.CyberColumnGridView
-    Dim EditNgay_Gia2, EditSo_Luong, EditTien2, EditTien0, EditGia_TK, EditGia2, EditCk_i, _
+    Dim EditNgay_Gia2, EditSo_Luong, EditTien2, EditTien0, EditGia_TK, EditGia2, EditCk_i,
         EditPt_Ck_i, EditCk_i1, EditPt_Ck_i1, EditCk_i2, EditPt_Ck_i2, EditThue_Suat, EditThue, EditTien_BH, EditThue_BH, EditLAN, EditSl_TD_I As New Cyber.Fill.CyberColumnGridView
     Dim Editma_KTV_I, Editma_KTV_I1, Editma_KTV_I2, Editma_KTV_I3, EditMa_TD1_i, EditMa_TD2_i, EditMa_TD3_i, EditMa_TD4_i, EditMa_TD5_i As New Cyber.Fill.CyberColumnGridView
     '-------------------------------------------
@@ -1232,7 +1238,7 @@ Public Class HDK
         TxtSo_khung.Text = TxtSo_khung.Text.Trim.Replace("#", "")
 
         Dim Dt As Date = TxtNgay_Ct.Value
-        Dim DsCoupon As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_HDKGetTTVoucherSo_Khung", TxtSo_khung.Text.ToString() + "#" + TxtMa_Coupon.Text + "#" + _
+        Dim DsCoupon As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_HDKGetTTVoucherSo_Khung", TxtSo_khung.Text.ToString() + "#" + TxtMa_Coupon.Text + "#" +
         Dt.ToString("yyyyMMdd") + "#" + M_Stt_Rec.Trim + "#" + TxtT_CV.Double.ToString() + "#" + TxtT_Tien2.Double.ToString() + "#" + TxtT_C.Double.ToString() + "#" + TxtT_I.Double.ToString() + "#" + TxtT_Tien2.Double.ToString() + "#" + M_Ma_CT + "#" + CbbMa_Post.SelectedValue.ToString.Trim + "#" + M_Mode + "#" + TxtMa_Dvcs.Text + "#" + M_User_Name)
 
         'If DsCoupon.Tables(0).Rows(0).Item("Status").ToString.Trim = "N" Then
@@ -1715,7 +1721,52 @@ Public Class HDK
         V_NhacNho()
         CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoHDKXacNhanTiepDon", TxtMa_Xe.Text.Trim & "#0#" & TxtStt_Rec.Text.Trim & "#" & M_Ma_Dvcs.ToString().Trim() & "#" & M_User_Name.ToString().Trim())
 
+        V_Chk_Note_Cv()
         '----------------------------------------------------------------------------------------------
+    End Sub
+    Private Sub V_Chk_Note_Cv()
+        If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+
+        Dim _Dt As Date = TxtNgay_Ct.Value
+
+        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RO_Chk_Note_Cv", TxtMa_Xe.Text & "#" & TxtSo_khung.Text & "#" & TxtSo_May.Text & "#" & _Dt.ToString("yyyyMMdd") & "#" &
+                                                                  M_Stt_Rec & "#" & M_Mode & "#" & M_Ma_CT & "#" & M_Ma_Dvcs & "#" & M_User_Name)
+
+        If DsTmp Is Nothing OrElse DsTmp.Tables.Count = 0 Then Exit Sub
+
+        Dim dtControl As DataTable = DsTmp.Tables(0)
+        If dtControl.Rows.Count = 0 Then Exit Sub
+
+        Dim msg As String = dtControl.Rows(0)("Msg").ToString().Trim()
+
+        'Nếu Msg = N → không làm gì
+        If msg = "N" Then
+            DsTmp.Dispose()
+            Exit Sub
+        End If
+
+        'Nếu Msg = Y → hiển thị danh sách note
+        If DsTmp.Tables.Count > 1 Then
+            Dim dtNote As DataTable = DsTmp.Tables(1)
+
+            If dtNote.Rows.Count > 0 Then
+
+                'Sắp xếp theo STT
+                Dim dv As DataView = dtNote.DefaultView
+                dv.Sort = "Stt ASC"
+
+                Dim strMsg As String = ""
+
+                For Each dr As DataRowView In dv
+                    strMsg &= dr("Note_TT_Xe").ToString() & vbCrLf
+                Next
+
+                'Hiển thị (bạn có thể thay MessageBox bằng form riêng)
+                MessageBox.Show(strMsg, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            End If
+        End If
+
+        DsTmp.Dispose()
     End Sub
     Private Sub V_So_khung(ByVal sender As System.Object, ByVal e As System.EventArgs)
         M_Mode = M_Mode.Trim
@@ -1726,7 +1777,7 @@ Public Class HDK
         TxtSo_khung.Text = TxtSo_khung.Text.Trim.Replace("#", "")
 
         Dim Dt As Date = TxtNgay_Ct.Value
-        Dim DsSo_Khung As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SOHDKGetSo_Khung", TxtSo_khung.Text + "#" + _
+        Dim DsSo_Khung As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SOHDKGetSo_Khung", TxtSo_khung.Text + "#" +
         Dt.ToString("yyyyMMdd") + "#" + M_Stt_Rec.Trim + "#" + M_Ma_CT + "#" + CbbMa_Post.SelectedValue.ToString.Trim + "#" + M_Mode + "#" + TxtMa_Dvcs.Text + "#" + M_User_Name)
         If DsSo_Khung.Tables(0).Rows(0).Item("Status").ToString.Trim = "N" Then
             DsSo_Khung.Dispose()
@@ -1754,7 +1805,7 @@ _KT:
         TxtSo_May.Text = TxtSo_May.Text.Trim.Replace("#", "")
 
         Dim Dt As Date = TxtNgay_Ct.Value
-        Dim DsSo_May As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SOHDKGetSo_May", TxtSo_May.Text + "#" + _
+        Dim DsSo_May As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SOHDKGetSo_May", TxtSo_May.Text + "#" +
         Dt.ToString("yyyyMMdd") + "#" + M_Stt_Rec.Trim + "#" + M_Ma_CT + "#" + CbbMa_Post.SelectedValue.ToString.Trim + "#" + M_Mode + "#" + TxtMa_Dvcs.Text + "#" + M_User_Name)
 
         If DsSo_May.Tables(0).Rows(0).Item("Status").ToString.Trim = "N" Then
@@ -3637,7 +3688,7 @@ _KT:
             TxtT_C_chua_VAT.Double = TxtT_C.Double - nThue_C
         End If
 
-                                           
+
     End Sub
     Private Sub Tinh_Gia2(ByVal iRow As Integer)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
@@ -4468,7 +4519,7 @@ _KT:
 
         '-----------------------------------------------------------------------------------------------------------
         Dim DsGiaCv As New DataSet
-        DsGiaCv = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetGiaCv", M_Mode & "#" & _Ngay_Ct.ToString("yyyyMMdd") & "#" & _Ma_TTCP_H.Trim & "#" & _
+        DsGiaCv = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetGiaCv", M_Mode & "#" & _Ngay_Ct.ToString("yyyyMMdd") & "#" & _Ma_TTCP_H.Trim & "#" &
                                                      _Ma_TT.Trim & "#" & _Ma_KX.Trim & "#" & _Ma_CV.Trim & "#" & _Gia_CV.Replace(" ", "").Trim & "#" & _Tien_CV.Replace(" ", "").Trim & "#" & TxtMa_Dvcs.Text.Trim + "#" + M_User_Name.Trim)
 
         If DsGiaCv.Tables.Count < 1 Then
@@ -4765,7 +4816,7 @@ _KT:
         End If
     End Sub
 #End Region
- 
+
 #Region "Vali --- Ma_Xa"
     Private Sub V_Ma_Xa(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Dim _Ma_TP As String = TxtMa_TP.Text
@@ -5097,7 +5148,7 @@ _KT:
         If DtDmXestru.Columns.Contains("Ma_Ct") Then _DrDmxeXe.Item("Ma_Ct") = M_Ma_CT
         If DtDmXestru.Columns.Contains("Ma_Dvcs") Then _DrDmxeXe.Item("Ma_Dvcs") = TxtMa_Dvcs.Text
         _DrDmxeXe.EndEdit()
- 
+
         _DtDmxeXe.Rows.Add(_DrDmxeXe)
         _DtDmxeXe.AcceptChanges()
         '---------------------------------------------------
@@ -6166,7 +6217,7 @@ _KT:
             If Not _Dt_Master Is Nothing Then
                 If _Dt_Master.Rows.Count > 0 Then
 
-            
+
 
 
                     If _Dt_Master.Columns.Contains("Ma_Xe") Then TxtMa_Xe.Text = _Dt_Master.Rows(0).Item("Ma_Xe")
@@ -6412,6 +6463,9 @@ _KT:
         Dt_DetailCvTmp.AcceptChanges()
     End Sub
 #Region "Sms - Import lệnh"
+
+#Region "ImportROFromExcel............."
+
     Private Sub CmdImport_Mau_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CmdImport_Mau.Click
         If Not (M_Mode.Trim = "M" Or M_Mode.Trim = "S") Then Exit Sub
         Try
@@ -6424,81 +6478,101 @@ _KT:
             MsgBox("Có lỗi trong việc chuyển đổi dữ liệu", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, osysvar("M_CYBER_VER"))
         End Try
     End Sub
+
+    Private PreviousPath As String = My.Computer.FileSystem.SpecialDirectories.MyDocuments
+
     Private Sub V_ImportROFromExcel(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        Dim excel, PreviousPath As String
-        Dim OpenFileDialog As New OpenFileDialog
-        Dim DsReturn As DataSet
+        Dim dlg As New OpenFileDialog
+        dlg.InitialDirectory = PreviousPath
+        dlg.Filter = "Excel Files (*.xlsx)|*.xlsx"
 
-        OpenFileDialog.InitialDirectory = My.Computer.FileSystem.SpecialDirectories.MyDocuments
-        OpenFileDialog.Filter = "XLS Files (*.xlsx)|*xlsx"
-        OpenFileDialog.InitialDirectory = PreviousPath
+        If dlg.ShowDialog(Me) <> System.Windows.Forms.DialogResult.OK Then Return
 
-        If (OpenFileDialog.ShowDialog(Me) = System.Windows.Forms.DialogResult.OK) Then
-            Dim _So_Ro As String
-            Dim fi As New FileInfo(OpenFileDialog.FileName)
-            Dim FileName As String = OpenFileDialog.FileName
-            Dim IsDeleteRow As Boolean
-            excel = fi.FullName
-            PreviousPath = Path.GetDirectoryName(FileName)
-            DsReturn = ReadWorkbook(excel, False)
+        Dim fileName As String = dlg.FileName
+        PreviousPath = Path.GetDirectoryName(fileName)
 
-            'Xóa những Sheet không có số lệnh
-            For i = DsReturn.Tables.Count - 1 To 0 Step -1
-                If DsReturn.Tables(i).Rows(4).Item("1").ToString = "" Then
-                    DsReturn.Tables.Remove(DsReturn.Tables(i))
-                Else
-                    'Xóa những dòng trắng
-                    'CyberSmodb.SetNotNullTable(DsReturn.Tables(i))
-                    For iRow = DsReturn.Tables(i).Rows.Count - 1 To 0 Step -1
-                        For Each item In DsReturn.Tables(i).Rows(iRow).ItemArray
-                            If item.ToString = "" Then
-                                IsDeleteRow = True
-                            Else
-                                IsDeleteRow = False
-                                Exit For
-                            End If
-                        Next
-                        If IsDeleteRow = True Then
-                            DsReturn.Tables(i).Rows(iRow).Delete()
-                        End If
-                    Next
+        Dim ds As DataSet
+        Try
+            ds = ReadWorkbook(fileName, False)
+        Catch ex As Exception
+            MessageBox.Show("Không đọc được file Excel: " & ex.ToString())
+            Return
+        End Try
 
-                    Dim colSo_RO As New DataColumn
-                    Dim colMa_Sheet As New DataColumn
-                    Dim colSTT As New DataColumn
+        If ds Is Nothing OrElse ds.Tables.Count = 0 Then
+            MessageBox.Show("File không có dữ liệu.")
+            Return
+        End If
 
-                    _So_Ro = DsReturn.Tables(i).Rows(2).Item("1").ToString.Trim
-                    _So_Ro = Replace(_So_Ro.ToUpper(), "SỐ PHIẾU:", "").Trim
+        Dim _So_Ro As String = ""
 
-                    Dim _Ma_Sheet As String = i.ToString
-                    colSo_RO.ColumnName = "So_RO"
-                    colSo_RO.DefaultValue = _So_Ro
-                    colMa_Sheet.ColumnName = "Ma_Sheet"
-                    colMa_Sheet.DefaultValue = _Ma_Sheet
+        ' Duyệt ngược để Remove table an toàn
+        For i As Integer = ds.Tables.Count - 1 To 0 Step -1
+            Dim tbl As DataTable = ds.Tables(i)
 
-                    colSTT.ColumnName = "STT"
-                    colSTT.DefaultValue = 0
-
-                    DsReturn.Tables(i).Columns.Add(colSo_RO)
-                    DsReturn.Tables(i).Columns.Add(colMa_Sheet)
-                    DsReturn.Tables(i).Columns.Add(colSTT)
-                    Dim stt As Integer = 1
-                    For Each r As DataRow In DsReturn.Tables(i).Rows
-                        r.Item("STT") = stt
-                        stt = stt + 1
-                    Next
-                    CyberSmodb.V_CyberBulkSaveToSQL(AppConn, SysVar, M_User_Name, DsReturn.Tables(i), "ImportRO", "S", "So_Ro = '" + _So_Ro + "' AND Ma_Sheet ='" + _Ma_Sheet + "'", True)
-                End If
+            ' Bỏ sheet không đủ dòng, không có cột "1" hoặc không có số lệnh
+            'If tbl.Rows.Count <= 4 OrElse Not tbl.Columns.Contains("1") _
+            '   OrElse tbl.Rows(4).Item("1").ToString().Trim() = "" Then
+            '    ds.Tables.Remove(tbl)
+            '    Continue For
+            'End If
+            If Not tbl.Columns.Contains("1") Then
+                ds.Tables.Remove(tbl)
+                Continue For
+            End If
+            ' Xóa các dòng trắng
+            For iRow As Integer = tbl.Rows.Count - 1 To 0 Step -1
+                Dim isEmptyRow As Boolean = True
+                For Each item As Object In tbl.Rows(iRow).ItemArray
+                    If item.ToString().Trim() <> "" Then
+                        isEmptyRow = False
+                        Exit For
+                    End If
+                Next
+                If isEmptyRow Then tbl.Rows(iRow).Delete()
             Next
-            V_SetValueFormExcel(_So_Ro, "0")
+            tbl.AcceptChanges()
+
+            If tbl.Rows.Count <= 2 Then Continue For
+
+            Dim soRo As String = tbl.Rows(2).Item("1").ToString().Trim()
+            soRo = Replace(soRo.ToUpper(), "SỐ PHIẾU:", "").Trim()
+            _So_Ro = soRo
+
+            Dim _Ma_Sheet As String = i.ToString()
+
+            Dim colSo_RO As New DataColumn("So_RO")
+            colSo_RO.DefaultValue = soRo
+            Dim colMa_Sheet As New DataColumn("Ma_Sheet")
+            colMa_Sheet.DefaultValue = _Ma_Sheet
+            Dim colSTT As New DataColumn("STT")
+            colSTT.DefaultValue = 0
+
+            tbl.Columns.Add(colSo_RO)
+            tbl.Columns.Add(colMa_Sheet)
+            tbl.Columns.Add(colSTT)
+
+            Dim stt As Integer = 1
+            For Each r As DataRow In tbl.Rows
+                r.Item("STT") = stt
+                stt += 1
+            Next
+
+            CyberSmodb.V_CyberBulkSaveToSQL(AppConn, SysVar, M_User_Name, tbl, "ImportRO", "S",
+                "So_Ro = '" & soRo.Replace("'", "''") & "' AND Ma_Sheet ='" & _Ma_Sheet & "'", True)
+        Next
+
+        If _So_Ro = "" Then
+            MessageBox.Show("Không tìm thấy sheet nào có số lệnh hợp lệ.")
+            Return
         End If
-        If ChkCV.Checked = True Then
-            V_Chk_CV(sender, e)
-        End If
-        If ChkVT.Checked = True Then
-            V_Chk_VT(sender, e)
-        End If
+
+        V_SetValueFormExcel(_So_Ro, "0")
+
+        If ChkCV.Checked = True Then V_Chk_CV(sender, e)
+        If ChkVT.Checked = True Then V_Chk_VT(sender, e)
     End Sub
+
     Private Sub V_SetValueFormExcel(ByVal _So_Ro As String, ByVal _Ma_Sheet As String)
         'Load lại dữ liệu về
         Dim M_strFieldName As String
@@ -6572,156 +6646,293 @@ _KT:
     End Sub
 
 #Region "ImportROFromExcel............."
-    Public Function ReadWorkbook(ByVal excelFileName As String, Optional ByVal useFirstRowAsColumnName As Boolean = False) As DataSet
-        Dim excel = New Microsoft.Office.Interop.Excel.Application()
-        Dim workBook = excel.Workbooks.Open(excelFileName, 0, True, 5, "", "", True, Microsoft.Office.Interop.Excel.XlPlatform.xlWindows, vbTab, False, False, 0, True, 1, 0)
-        Try
-            Dim ds As System.Data.DataSet = New DataSet(excelFileName)
-            For Each sheet0 In workBook.Worksheets
-                Dim sheet = CType(sheet0, Microsoft.Office.Interop.Excel.Worksheet)
-                Try
-                    Dim dt = ReadSheet(sheet, useFirstRowAsColumnName)
-                    If dt IsNot Nothing Then ds.Tables.Add(dt)
-                Finally
-                    releaseObject(sheet)
-                End Try
+
+
+    Private Const XL_NS_MAIN As String = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+    Private Const XL_NS_REL As String = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    Private Const XL_NS_PKGREL As String = "http://schemas.openxmlformats.org/package/2006/relationships"
+
+    ' ===== Đọc file zip tối giản (chỉ cần DeflateStream của System.dll) =====
+    Private Class XlsxZip
+        Private _data As Byte()
+        ' giá trị: {method, compSize, localHeaderOffset}
+        Private _entries As New Dictionary(Of String, Integer())(StringComparer.OrdinalIgnoreCase)
+
+        Public Sub New(ByVal data As Byte())
+            _data = data
+
+            Dim eocd As Integer = -1
+            Dim minPos As Integer = Math.Max(0, data.Length - 22 - 65535)
+            For i As Integer = data.Length - 22 To minPos Step -1
+                If data(i) = &H50 AndAlso data(i + 1) = &H4B AndAlso data(i + 2) = 5 AndAlso data(i + 3) = 6 Then
+                    eocd = i
+                    Exit For
+                End If
             Next
-            Return ds
-        Finally
-            workBook.Close(True, Nothing, Nothing)
-            excel.Quit()
-            releaseObject(workBook)
-            releaseObject(excel)
-        End Try
-    End Function
-    Public Shared Function ReadSheet(ByVal excelFileName As String, ByVal sheetName As String, Optional ByVal useFirstRowAsColumnName As Boolean = False) As DataTable
-        Dim excel = New Microsoft.Office.Interop.Excel.Application()
-        Dim workBook = excel.Workbooks.Open(excelFileName, 0, True, 5, "", "", True, Microsoft.Office.Interop.Excel.XlPlatform.xlWindows, vbTab, False, False, 0, True, 1, 0)
+            If eocd < 0 Then Throw New Exception("File không phải .xlsx hợp lệ (không phải file zip).")
 
-        Try
+            Dim total As Integer = BitConverter.ToUInt16(data, eocd + 10)
+            Dim pos As Integer = BitConverter.ToInt32(data, eocd + 16)
 
-            For Each sheet0 In workBook.Worksheets
-                Dim sheet = CType(sheet0, Microsoft.Office.Interop.Excel.Worksheet)
-
-                Try
-
-                    If sheet.Name.Equals(sheetName) Then
-                        Dim dt = ReadSheet(sheet, useFirstRowAsColumnName)
-                        If dt IsNot Nothing Then Return dt
-                    End If
-
-                Finally
-                    releaseObject(sheet)
-                End Try
+            For n As Integer = 1 To total
+                If pos + 46 > data.Length OrElse BitConverter.ToInt32(data, pos) <> &H2014B50 Then Exit For
+                Dim method As Integer = BitConverter.ToUInt16(data, pos + 10)
+                Dim compSize As Integer = BitConverter.ToInt32(data, pos + 20)
+                Dim nameLen As Integer = BitConverter.ToUInt16(data, pos + 28)
+                Dim extraLen As Integer = BitConverter.ToUInt16(data, pos + 30)
+                Dim cmtLen As Integer = BitConverter.ToUInt16(data, pos + 32)
+                Dim localOff As Integer = BitConverter.ToInt32(data, pos + 42)
+                Dim name As String = Encoding.UTF8.GetString(data, pos + 46, nameLen).Replace("\", "/")
+                _entries(name) = New Integer() {method, compSize, localOff}
+                pos += 46 + nameLen + extraLen + cmtLen
             Next
+        End Sub
 
-            Return Nothing
-        Finally
-            workBook.Close(True, Nothing, Nothing)
-            excel.Quit()
-            releaseObject(workBook)
-            releaseObject(excel)
-        End Try
-    End Function
-    Private Shared Function readSheet(ByVal sheet As Microsoft.Office.Interop.Excel.Worksheet, Optional ByVal useFirstRowAsColumnName As Boolean = False) As DataTable
-        Dim range = sheet.UsedRange
+        Public Function Exists(ByVal name As String) As Boolean
+            Return _entries.ContainsKey(name)
+        End Function
 
-        Try
-            Dim values As Object(,) = CType(range.Value2, Object(,))
-            Dim rowCount As Integer = values.GetLength(0)
-            Dim colCount As Integer = values.GetLength(1)
-            Dim rowCount0 As Integer = rowCount
-            Dim colCount0 As Integer = colCount
+        Public Function GetBytes(ByVal name As String) As Byte()
+            Dim e As Integer() = _entries(name)
+            Dim method As Integer = e(0)
+            Dim compSize As Integer = e(1)
+            Dim off As Integer = e(2)
 
-            If True Then
-                Dim ok As Boolean = False
+            Dim nameLen As Integer = BitConverter.ToUInt16(_data, off + 26)
+            Dim extraLen As Integer = BitConverter.ToUInt16(_data, off + 28)
+            Dim start As Integer = off + 30 + nameLen + extraLen
 
-                For row As Integer = rowCount To 0 + 1
-
-                    If Not ok Then
-
-                        For col As Integer = colCount To 0 + 1
-                            Dim val = values(row, col)
-
-                            If (val IsNot Nothing) AndAlso (Not String.IsNullOrEmpty(System.Convert.ToString(val))) Then
-                                rowCount = row
-                                ok = True
-                                Exit For
-                            End If
-                        Next
-                    Else
-                        Exit For
-                    End If
-                Next
-            End If
-
-            If True Then
-                Dim ok As Boolean = False
-
-                For col As Integer = colCount To 0 + 1
-
-                    If Not ok Then
-
-                        For row As Integer = rowCount To 0 + 1
-                            Dim val = values(row, col)
-
-                            If (val IsNot Nothing) AndAlso (Not String.IsNullOrEmpty(System.Convert.ToString(val))) Then
-                                colCount = col
-                                ok = True
-                                Exit For
-                            End If
-                        Next
-                    Else
-                        Exit For
-                    End If
-                Next
-            End If
-
-            If (rowCount > 0) AndAlso (colCount > 0) Then
-                Dim dt = New DataTable(sheet.Name)
-                dt.BeginLoadData()
-
-                Try
-
-                    For col As Integer = 1 To colCount
-                        dt.Columns.Add(If(useFirstRowAsColumnName, values(1, col).ToString(), col.ToString()))
-                    Next
-
-                    Dim arr = New Object(colCount - 1) {}
-
-                    For row As Integer = If(useFirstRowAsColumnName, 1, 0) To rowCount - 1
-
-                        For col As Integer = 1 To colCount
-                            arr(col - 1) = values(row + 1, col)
-                        Next
-
-                        dt.Rows.Add(arr)
-                    Next
-
-                Finally
-                    dt.EndLoadData()
-                End Try
-
-                Return dt
+            If method = 0 Then
+                Dim raw(compSize - 1) As Byte
+                Array.Copy(_data, start, raw, 0, compSize)
+                Return raw
+            ElseIf method = 8 Then
+                Using ms As New MemoryStream(_data, start, compSize)
+                    Using ds As New DeflateStream(ms, CompressionMode.Decompress)
+                        Using outMs As New MemoryStream()
+                            Dim buf(8191) As Byte
+                            Dim n As Integer = ds.Read(buf, 0, buf.Length)
+                            Do While n > 0
+                                outMs.Write(buf, 0, n)
+                                n = ds.Read(buf, 0, buf.Length)
+                            Loop
+                            Return outMs.ToArray()
+                        End Using
+                    End Using
+                End Using
             Else
-                Return Nothing
+                Throw New Exception("Kiểu nén không hỗ trợ trong file xlsx: " & method.ToString())
+            End If
+        End Function
+
+        Public Function GetXml(ByVal name As String) As XmlDocument
+            Dim doc As New XmlDocument()
+            Using ms As New MemoryStream(GetBytes(name))
+                doc.Load(ms)
+            End Using
+            Return doc
+        End Function
+    End Class
+
+    ' ===== Hàm đọc workbook: trả về DataSet, mỗi sheet 1 DataTable, cột tên "1","2","3"... =====
+    Public Function ReadWorkbook(ByVal excelFileName As String, Optional ByVal useFirstRowAsColumnName As Boolean = False) As DataSet
+        Dim ds As New DataSet(excelFileName)
+
+        ' FileShare.ReadWrite: vẫn đọc được khi file đang mở trong Excel
+        Dim bytes As Byte()
+        Using fs As New FileStream(excelFileName, FileMode.Open, FileAccess.Read, FileShare.ReadWrite)
+            ReDim bytes(CInt(fs.Length) - 1)
+            Dim readTotal As Integer = 0
+            Do While readTotal < bytes.Length
+                Dim n As Integer = fs.Read(bytes, readTotal, bytes.Length - readTotal)
+                If n <= 0 Then Exit Do
+                readTotal += n
+            Loop
+        End Using
+
+        Dim zip As New XlsxZip(bytes)
+        If Not zip.Exists("xl/workbook.xml") Then Throw New Exception("Không tìm thấy xl/workbook.xml trong file.")
+
+        ' 1. Shared strings (file của bạn không có, nhưng file khác có thể có)
+        Dim sst As New List(Of String)
+        If zip.Exists("xl/sharedStrings.xml") Then
+            sst = XlLoadSharedStrings(zip.GetXml("xl/sharedStrings.xml"))
+        End If
+
+        ' 2. Quan hệ rId -> đường dẫn sheet
+        Dim rels As New Dictionary(Of String, String)
+        If zip.Exists("xl/_rels/workbook.xml.rels") Then
+            Dim relDoc As XmlDocument = zip.GetXml("xl/_rels/workbook.xml.rels")
+            Dim nsmR As New XmlNamespaceManager(relDoc.NameTable)
+            nsmR.AddNamespace("p", XL_NS_PKGREL)
+            For Each rel As XmlNode In relDoc.SelectNodes("//p:Relationship", nsmR)
+                rels(rel.Attributes("Id").Value) = rel.Attributes("Target").Value
+            Next
+        End If
+
+        ' 3. Danh sách sheet theo thứ tự
+        Dim wbDoc As XmlDocument = zip.GetXml("xl/workbook.xml")
+        Dim nsm As New XmlNamespaceManager(wbDoc.NameTable)
+        nsm.AddNamespace("m", XL_NS_MAIN)
+
+        For Each sh As XmlNode In wbDoc.SelectNodes("//m:sheets/m:sheet", nsm)
+            Dim sheetName As String = sh.Attributes("name").Value
+            Dim ridAttr As XmlAttribute = sh.Attributes("id", XL_NS_REL)
+            If ridAttr Is Nothing OrElse Not rels.ContainsKey(ridAttr.Value) Then Continue For
+
+            Dim target As String = rels(ridAttr.Value).Replace("\", "/")
+            If target.StartsWith("/") Then
+                target = target.Substring(1)
+            Else
+                target = "xl/" & target
             End If
 
-        Finally
-            releaseObject(range)
-        End Try
+            If Not zip.Exists(target) Then Continue For ' chartsheet... bỏ qua
+
+            Dim dt As DataTable = XlReadSheet(zip.GetXml(target), sst, sheetName, useFirstRowAsColumnName)
+            If dt IsNot Nothing Then ds.Tables.Add(dt)
+        Next
+
+        Return ds
     End Function
-    Private Shared Sub releaseObject(ByVal obj As Object)
+
+    Private Shared Function XlLoadSharedStrings(ByVal doc As XmlDocument) As List(Of String)
+        Dim list As New List(Of String)
+        Dim nsm As New XmlNamespaceManager(doc.NameTable)
+        nsm.AddNamespace("m", XL_NS_MAIN)
+        For Each si As XmlNode In doc.SelectNodes("//m:sst/m:si", nsm)
+            Dim sb As New StringBuilder()
+            For Each t As XmlNode In si.SelectNodes(".//m:t", nsm)
+                If t.ParentNode.LocalName <> "rPh" Then sb.Append(t.InnerText) ' bỏ phiên âm
+            Next
+            list.Add(sb.ToString())
+        Next
+        Return list
+    End Function
+
+    ' Vị trí tính tương đối theo ô đầu tiên có trong sheet (giống UsedRange của Excel):
+    ' file của bạn bắt đầu từ B2 => cột "1" = cột B, dòng đầu = dòng 2.
+    Private Shared Function XlReadSheet(ByVal doc As XmlDocument, ByVal sst As List(Of String),
+                                        ByVal sheetName As String, ByVal useFirstRowAsColumnName As Boolean) As DataTable
+        Dim nsm As New XmlNamespaceManager(doc.NameTable)
+        nsm.AddNamespace("m", XL_NS_MAIN)
+
+        Dim cells As New Dictionary(Of Long, Object)      ' key = dòng * 100000 + cột
+        Dim minRow As Integer = Integer.MaxValue, maxRow As Integer = 0
+        Dim minCol As Integer = Integer.MaxValue, maxCol As Integer = 0
+        Dim rowIdx As Integer = 0
+
+        For Each rowEl As XmlNode In doc.SelectNodes("//m:sheetData/m:row", nsm)
+            rowIdx += 1
+            If rowEl.Attributes("r") IsNot Nothing Then rowIdx = CInt(rowEl.Attributes("r").Value)
+
+            Dim colIdx As Integer = 0
+            For Each c As XmlNode In rowEl.SelectNodes("m:c", nsm)
+                colIdx += 1
+                If c.Attributes("r") IsNot Nothing Then colIdx = XlColumnIndex(c.Attributes("r").Value)
+
+                ' Ô có trong file (kể cả ô rỗng chỉ có định dạng) tính vào vùng dữ liệu, giống UsedRange
+                If rowIdx < minRow Then minRow = rowIdx
+                If rowIdx > maxRow Then maxRow = rowIdx
+                If colIdx < minCol Then minCol = colIdx
+                If colIdx > maxCol Then maxCol = colIdx
+
+                Dim val As Object = XlCellValue(c, sst, nsm)
+                If val IsNot Nothing Then cells(CLng(rowIdx) * 100000L + colIdx) = val
+            Next
+        Next
+
+        If maxRow = 0 OrElse maxCol = 0 Then Return Nothing ' sheet trống
+
+        Dim colCount As Integer = maxCol - minCol + 1
+        Dim dt As New DataTable(sheetName)
+
+        For c As Integer = 1 To colCount
+            Dim nm As String = c.ToString()
+            If useFirstRowAsColumnName Then
+                Dim v As Object = Nothing
+                If cells.TryGetValue(CLng(minRow) * 100000L + (minCol + c - 1), v) Then nm = Convert.ToString(v).Trim()
+                If nm = "" OrElse dt.Columns.Contains(nm) Then nm = c.ToString()
+            End If
+            dt.Columns.Add(nm)
+        Next
+
+        Dim startRow As Integer = minRow
+        If useFirstRowAsColumnName Then startRow = minRow + 1
+
+        dt.BeginLoadData()
         Try
-            System.Runtime.InteropServices.Marshal.ReleaseComObject(obj)
-            obj = Nothing
-        Catch ex As Exception
-            obj = Nothing
-            Throw New Exception("Unable to release the Object " & ex.ToString(), ex)
+            For r As Integer = startRow To maxRow
+                Dim arr(colCount - 1) As Object
+                For c As Integer = 1 To colCount
+                    Dim v As Object = Nothing
+                    If cells.TryGetValue(CLng(r) * 100000L + (minCol + c - 1), v) Then
+                        arr(c - 1) = v
+                    Else
+                        arr(c - 1) = DBNull.Value
+                    End If
+                Next
+                dt.Rows.Add(arr)
+            Next
         Finally
-            GC.Collect()
+            dt.EndLoadData()
         End Try
-    End Sub
+
+        Return dt
+    End Function
+
+    Private Shared Function XlCellValue(ByVal c As XmlNode, ByVal sst As List(Of String), ByVal nsm As XmlNamespaceManager) As Object
+        Dim t As String = ""
+        If c.Attributes("t") IsNot Nothing Then t = c.Attributes("t").Value
+        Dim vEl As XmlNode = c.SelectSingleNode("m:v", nsm)
+
+        Select Case t
+            Case "s"
+                If vEl Is Nothing Then Return Nothing
+                Dim i As Integer = CInt(vEl.InnerText)
+                If i >= 0 AndAlso i < sst.Count AndAlso sst(i) <> "" Then Return sst(i)
+                Return Nothing
+
+            Case "inlineStr"      ' file của bạn dùng kiểu này
+                Dim sb As New StringBuilder()
+                For Each tn As XmlNode In c.SelectNodes("m:is//m:t", nsm)
+                    sb.Append(tn.InnerText)
+                Next
+                If sb.Length = 0 Then Return Nothing
+                Return sb.ToString()
+
+            Case "str", "e"       ' ô công thức/chuỗi; ô rỗng không có <v> => Nothing
+                If vEl Is Nothing OrElse vEl.InnerText = "" Then Return Nothing
+                Return vEl.InnerText
+
+            Case "b"
+                If vEl Is Nothing Then Return Nothing
+                Return (vEl.InnerText = "1")
+
+            Case Else      ' số (ngày tháng là số serial, giống Value2 của Interop)
+                If vEl Is Nothing OrElse vEl.InnerText = "" Then Return Nothing
+                Dim d As Double
+                If Double.TryParse(vEl.InnerText, Globalization.NumberStyles.Float,
+                                   Globalization.CultureInfo.InvariantCulture, d) Then Return d
+                Return vEl.InnerText
+        End Select
+    End Function
+
+    Private Shared Function XlColumnIndex(ByVal cellRef As String) As Integer
+        Dim n As Integer = 0
+        For Each ch As Char In cellRef
+            If Char.IsLetter(ch) Then
+                n = n * 26 + (Asc(Char.ToUpper(ch)) - Asc("A"c) + 1)
+            Else
+                Exit For
+            End If
+        Next
+        Return n
+    End Function
+#End Region
+
+
+
 #End Region
 #End Region
     Private Sub SetTxt()
@@ -6796,16 +7007,7 @@ _KT:
         End If
     End Sub
 #Region "Sms - Import Word"
-    'Private Sub CmdImport_Mau_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CmdImport_Mau.Click
-    '    If M_Mode.Trim = "M" Or M_Mode.Trim = "S" Then
-    '        Try
-    '            Dim _OpenFilterFile As String = "Word 2003,2017(*.doc,.docx,.rtf)|*.doc;*.docx;*.rtf"
-    '            V_ImportWord(_OpenFilterFile)
-    '        Catch ex As Exception
-    '            MsgBox("Có lỗi trong việc chuyển đổi dữ liệu", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, osysvar("M_CYBER_VER"))
-    '        End Try
-    '    End If
-    'End Sub
+
     Private Sub V_ImportWord(Optional ByRef _OpenFilterFile As String = "")
         Dim _File_Type As String = ""
         Dim _DtReturn As DataTable = CyberExport.V_ImportWordTodatatbale(osysvar, M_LAN, _File_Type, _OpenFilterFile)

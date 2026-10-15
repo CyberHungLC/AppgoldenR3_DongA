@@ -616,6 +616,12 @@
     <Compile Include="RO\DmKhoang.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\DMKHSC.Designer.vb">
+      <DependentUpon>DMKHSC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\DMKHSC.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\DmKTVSC.designer.vb">
       <DependentUpon>DmKTVSC.vb</DependentUpon>
     </Compile>
@@ -955,6 +961,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\DmKhoang.resx">
       <DependentUpon>DmKhoang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\DMKHSC.resx">
+      <DependentUpon>DMKHSC.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\DmKTVSC.resx">
       <DependentUpon>DmKTVSC.vb</DependentUpon>

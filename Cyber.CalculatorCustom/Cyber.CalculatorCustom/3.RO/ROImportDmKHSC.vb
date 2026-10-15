@@ -10,6 +10,7 @@ Public Class ROImportDmKHSC
 
     Private Sub ROImportDmKHSC_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         TxtNgay_Ct1.Value = Now.Date
+        TxtNgay_Ct2.Value = Now.Date
 
         Me.Save_OK = False
         V_Load()
@@ -22,7 +23,7 @@ Public Class ROImportDmKHSC
     End Sub
     Private Sub V_Load()
         TxtNgay_Ct1.Value = Now
-
+        TxtNgay_Ct2.Value = Now
         DsData = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoGetListDMKHSC", M_Ma_Dvcs & "#" & M_User_Name)
         tbMaster = DsData.Tables(0)
         tbHeader = DsData.Tables(1)
@@ -43,6 +44,7 @@ Public Class ROImportDmKHSC
         Me.Save_OK = False
         Dim dt As Date
         dt = TxtNgay_Ct1.Value
+        dt = TxtNgay_Ct2.Value
 
         Dim _dtMaster As DataTable = tbMaster.Copy()
 
@@ -89,8 +91,9 @@ Public Class ROImportDmKHSC
         CyberSmodb.V_CyberBulkSaveToSQL(AppConn, Me.Sysvar, M_User_Name, DtSMSTmp, "tmp_DMKHSC", "", smKey, False)
 
         Dim _Ngay_ct1 As DateTime = TxtNgay_Ct1.Value
+        Dim _Ngay_ct2 As DateTime = TxtNgay_Ct2.Value
 
-        Dim M_strParameterStore As String = _ImportKey & "#" & _Ngay_ct1.ToString("yyyyMMdd hh:mm:ss")
+        Dim M_strParameterStore As String = _ImportKey & "#" & _Ngay_ct1.ToString("yyyyMMdd") & "#" & _Ngay_ct2.ToString("yyyyMMdd").Trim
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs.Trim
         M_strParameterStore = M_strParameterStore & "#" & M_User_Name.Trim
 

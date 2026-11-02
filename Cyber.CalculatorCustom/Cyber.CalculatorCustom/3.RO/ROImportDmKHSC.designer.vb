@@ -29,7 +29,7 @@ Partial Class ROImportDmKHSC
         Me.LabM_Ngay_Ct1 = New System.Windows.Forms.Label()
         Me.TxtNgay_Ct1 = New ClsTextBox.txtDate1()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.TxtNgay_Ct2 = New ClsTextBox.txtDate1()
+        Me.TxtDate11 = New ClsTextBox.txtDate1()
         CType(Me.Master1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Master1GRV, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.RepositoryItemTextEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -74,7 +74,7 @@ Partial Class ROImportDmKHSC
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(404, 11)
+        Me.Label1.Location = New System.Drawing.Point(365, 9)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(55, 13)
         Me.Label1.TabIndex = 510
@@ -83,10 +83,10 @@ Partial Class ROImportDmKHSC
         '
         'TxtFileName
         '
-        Me.TxtFileName.Location = New System.Drawing.Point(465, 6)
+        Me.TxtFileName.Location = New System.Drawing.Point(426, 6)
         Me.TxtFileName.Name = "TxtFileName"
         Me.TxtFileName.ReadOnly = True
-        Me.TxtFileName.Size = New System.Drawing.Size(394, 20)
+        Me.TxtFileName.Size = New System.Drawing.Size(433, 20)
         Me.TxtFileName.TabIndex = 1
         '
         'Master1
@@ -143,12 +143,12 @@ Partial Class ROImportDmKHSC
         'LabM_Ngay_Ct1
         '
         Me.LabM_Ngay_Ct1.AutoSize = True
-        Me.LabM_Ngay_Ct1.Location = New System.Drawing.Point(12, 11)
+        Me.LabM_Ngay_Ct1.Location = New System.Drawing.Point(12, 10)
         Me.LabM_Ngay_Ct1.Name = "LabM_Ngay_Ct1"
-        Me.LabM_Ngay_Ct1.Size = New System.Drawing.Size(48, 13)
+        Me.LabM_Ngay_Ct1.Size = New System.Drawing.Size(72, 13)
         Me.LabM_Ngay_Ct1.TabIndex = 515
         Me.LabM_Ngay_Ct1.Tag = "Date"
-        Me.LabM_Ngay_Ct1.Text = "Từ Ngày"
+        Me.LabM_Ngay_Ct1.Text = "Ngày hiệu lực"
         '
         'TxtNgay_Ct1
         '
@@ -156,7 +156,7 @@ Partial Class ROImportDmKHSC
         Me.TxtNgay_Ct1.ForeColor = System.Drawing.Color.Navy
         Me.TxtNgay_Ct1.IsAllowResize = False
         Me.TxtNgay_Ct1.isEmpty = True
-        Me.TxtNgay_Ct1.Location = New System.Drawing.Point(73, 8)
+        Me.TxtNgay_Ct1.Location = New System.Drawing.Point(103, 6)
         Me.TxtNgay_Ct1.Margin = New System.Windows.Forms.Padding(0)
         Me.TxtNgay_Ct1.MaskDate = "dd/MM/yyyy"
         Me.TxtNgay_Ct1.MaxLength = 10
@@ -172,38 +172,38 @@ Partial Class ROImportDmKHSC
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(201, 10)
+        Me.Label2.Location = New System.Drawing.Point(221, 11)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(55, 13)
+        Me.Label2.Size = New System.Drawing.Size(26, 13)
         Me.Label2.TabIndex = 517
         Me.Label2.Tag = "Date"
-        Me.Label2.Text = "Đến Ngày"
+        Me.Label2.Text = "đến"
         '
-        'TxtNgay_Ct2
+        'TxtDate11
         '
-        Me.TxtNgay_Ct2.Flags = 0
-        Me.TxtNgay_Ct2.ForeColor = System.Drawing.Color.Navy
-        Me.TxtNgay_Ct2.IsAllowResize = False
-        Me.TxtNgay_Ct2.isEmpty = True
-        Me.TxtNgay_Ct2.Location = New System.Drawing.Point(267, 8)
-        Me.TxtNgay_Ct2.Margin = New System.Windows.Forms.Padding(0)
-        Me.TxtNgay_Ct2.MaskDate = "dd/MM/yyyy"
-        Me.TxtNgay_Ct2.MaxLength = 10
-        Me.TxtNgay_Ct2.Name = "TxtNgay_Ct2"
-        Me.TxtNgay_Ct2.RangeMax = New Date(CType(0, Long))
-        Me.TxtNgay_Ct2.RangeMin = New Date(CType(0, Long))
-        Me.TxtNgay_Ct2.ShowDayBeforeMonth = False
-        Me.TxtNgay_Ct2.Size = New System.Drawing.Size(113, 20)
-        Me.TxtNgay_Ct2.TabIndex = 516
-        Me.TxtNgay_Ct2.Text = "__/__/____"
-        Me.TxtNgay_Ct2.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
+        Me.TxtDate11.Flags = 0
+        Me.TxtDate11.ForeColor = System.Drawing.Color.Navy
+        Me.TxtDate11.IsAllowResize = False
+        Me.TxtDate11.isEmpty = True
+        Me.TxtDate11.Location = New System.Drawing.Point(252, 7)
+        Me.TxtDate11.Margin = New System.Windows.Forms.Padding(0)
+        Me.TxtDate11.MaskDate = "dd/MM/yyyy"
+        Me.TxtDate11.MaxLength = 10
+        Me.TxtDate11.Name = "TxtDate11"
+        Me.TxtDate11.RangeMax = New Date(CType(0, Long))
+        Me.TxtDate11.RangeMin = New Date(CType(0, Long))
+        Me.TxtDate11.ShowDayBeforeMonth = False
+        Me.TxtDate11.Size = New System.Drawing.Size(110, 20)
+        Me.TxtDate11.TabIndex = 516
+        Me.TxtDate11.Text = "__/__/____"
+        Me.TxtDate11.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
         '
         'ROImportDmKHSC
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(982, 556)
         Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.TxtNgay_Ct2)
+        Me.Controls.Add(Me.TxtDate11)
         Me.Controls.Add(Me.LabM_Ngay_Ct1)
         Me.Controls.Add(Me.TxtNgay_Ct1)
         Me.Controls.Add(Me.Master1)
@@ -221,7 +221,7 @@ Partial Class ROImportDmKHSC
         Me.Controls.SetChildIndex(Me.Master1, 0)
         Me.Controls.SetChildIndex(Me.TxtNgay_Ct1, 0)
         Me.Controls.SetChildIndex(Me.LabM_Ngay_Ct1, 0)
-        Me.Controls.SetChildIndex(Me.TxtNgay_Ct2, 0)
+        Me.Controls.SetChildIndex(Me.TxtDate11, 0)
         Me.Controls.SetChildIndex(Me.Label2, 0)
         CType(Me.Master1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Master1GRV, System.ComponentModel.ISupportInitialize).EndInit()
@@ -241,5 +241,5 @@ Partial Class ROImportDmKHSC
     Friend WithEvents LabM_Ngay_Ct1 As Windows.Forms.Label
     Friend WithEvents TxtNgay_Ct1 As ClsTextBox.txtDate1
     Friend WithEvents Label2 As Windows.Forms.Label
-    Friend WithEvents TxtNgay_Ct2 As ClsTextBox.txtDate1
+    Friend WithEvents TxtDate11 As ClsTextBox.txtDate1
 End Class

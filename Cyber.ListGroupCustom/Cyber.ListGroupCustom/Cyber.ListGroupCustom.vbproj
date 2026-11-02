@@ -556,6 +556,12 @@
     <Compile Include="RO\DMCV.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\DMDB.Designer.vb">
+      <DependentUpon>DMDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\DMDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\DMDMS.designer.vb">
       <DependentUpon>DMDMS.vb</DependentUpon>
     </Compile>
@@ -931,6 +937,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\DMCV.resx">
       <DependentUpon>DMCV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\DMDB.resx">
+      <DependentUpon>DMDB.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\DMDMS.resx">
       <DependentUpon>DMDMS.vb</DependentUpon>

@@ -95,6 +95,12 @@
         AddHandler TxtMa_KX.CyberValiting, AddressOf V_Ma_Kx
         AddHandler TxtMa_KX.CyberLeave, AddressOf L_Ma_Kx
 
+        AddHandler TxtMa_CV.CyberValiting, AddressOf V_Ma_CV
+        AddHandler TxtMa_CV.CyberLeave, AddressOf L_Ma_CV
+
+        AddHandler TxtMa_Nh.CyberValiting, AddressOf V_Ma_Nh
+        AddHandler TxtMa_Nh.CyberLeave, AddressOf L_Ma_NH
+
         '-- Tk
         AddHandler TxtTk_DT.CyberValiting, AddressOf V_Tk_DT
         AddHandler TxtTk_DT.CyberLeave, AddressOf L_Tk_DT
@@ -141,7 +147,6 @@
     End Sub
 #End Region
 #Region "Valid"
-#Region "Valid --- Ma_KH"
     Private Sub V_Ma_KH(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
         Txtma_kh.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_KH", "DmKH", "1=1", "1=1")
     End Sub
@@ -233,7 +238,36 @@
         End If
     End Sub
 #End Region
+#Region "Valid --- Ma_KH"
+    Private Sub V_Ma_CV(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtMa_CV.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_CV", "DMCV", "1=1", "1=1")
+    End Sub
+    Private Sub L_Ma_CV(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        DrReturn = TxtMa_CV.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then
+            TxtMa_CV.Text = DrReturn.Item("ma_CV")
+            TxtTen_CV.Text = DrReturn.Item("Ten_cv")
+        Else
+            TxtMa_CV.Text = ""
+            TxtTen_kh.Text = ""
+            Exit Sub
+        End If
+    End Sub
 #End Region
+    Private Sub V_Ma_Nh(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtMa_Nh.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_Nh", "DMNHCV", "1=1", "loai_nh = '1'")
+    End Sub
+    Private Sub L_Ma_Nh(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        DrReturn = TxtMa_Nh.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then
+            TxtMa_Nh.Text = DrReturn.Item("Ma_Nh")
+            TxtTen_Nh.Text = DrReturn.Item("Ten_Nh")
+        Else
+            TxtMa_Nh.Text = ""
+            TxtTen_Nh.Text = ""
+            Exit Sub
+        End If
+    End Sub
 #Region "Button"
     Private Sub V_Nhan(ByVal sender As System.Object, ByVal e As System.EventArgs)
         '-----------------------------------------------------------------------------
@@ -265,6 +299,8 @@
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Post1_Filter
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Post2_Filter
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_TTCP.Text
+        M_strParameterStore = M_strParameterStore & "#" & TxtMa_CV.Text
+        M_strParameterStore = M_strParameterStore & "#" & TxtMa_Nh.Text
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim

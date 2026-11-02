@@ -190,7 +190,7 @@ Partial Class RO_DD01
         'LabMa_Hs
         '
         Me.LabMa_Hs.AutoSize = True
-        Me.LabMa_Hs.Location = New System.Drawing.Point(12, 87)
+        Me.LabMa_Hs.Location = New System.Drawing.Point(12, 85)
         Me.LabMa_Hs.Name = "LabMa_Hs"
         Me.LabMa_Hs.Size = New System.Drawing.Size(78, 13)
         Me.LabMa_Hs.TabIndex = 498
@@ -203,7 +203,7 @@ Partial Class RO_DD01
         Me.TxtTen_Hs.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Hs.Enabled = False
         Me.TxtTen_Hs.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Hs.Location = New System.Drawing.Point(228, 87)
+        Me.TxtTen_Hs.Location = New System.Drawing.Point(228, 85)
         Me.TxtTen_Hs.Name = "TxtTen_Hs"
         Me.TxtTen_Hs.ReadOnly = True
         Me.TxtTen_Hs.Size = New System.Drawing.Size(357, 14)
@@ -218,7 +218,7 @@ Partial Class RO_DD01
         Me.TxtMa_Hs.Dv_Master = Nothing
         Me.TxtMa_Hs.FilterClient = ""
         Me.TxtMa_Hs.FilterSQL = ""
-        Me.TxtMa_Hs.Location = New System.Drawing.Point(95, 84)
+        Me.TxtMa_Hs.Location = New System.Drawing.Point(95, 82)
         Me.TxtMa_Hs.Name = "TxtMa_Hs"
         Me.TxtMa_Hs.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Hs.Properties.Appearance.Options.UseForeColor = True
@@ -241,7 +241,7 @@ Partial Class RO_DD01
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(12, 111)
+        Me.Label3.Location = New System.Drawing.Point(12, 107)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(54, 13)
         Me.Label3.TabIndex = 502
@@ -254,7 +254,7 @@ Partial Class RO_DD01
         Me.TxtTen_TTCP.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_TTCP.Enabled = False
         Me.TxtTen_TTCP.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TTCP.Location = New System.Drawing.Point(225, 111)
+        Me.TxtTen_TTCP.Location = New System.Drawing.Point(225, 107)
         Me.TxtTen_TTCP.Name = "TxtTen_TTCP"
         Me.TxtTen_TTCP.ReadOnly = True
         Me.TxtTen_TTCP.Size = New System.Drawing.Size(367, 14)
@@ -269,12 +269,12 @@ Partial Class RO_DD01
         Me.TxtMa_TTCP.Dv_Master = Nothing
         Me.TxtMa_TTCP.FilterClient = ""
         Me.TxtMa_TTCP.FilterSQL = ""
-        Me.TxtMa_TTCP.Location = New System.Drawing.Point(95, 108)
+        Me.TxtMa_TTCP.Location = New System.Drawing.Point(95, 104)
         Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
         Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_TTCP.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_TTCP.Size = New System.Drawing.Size(119, 20)
+        Me.TxtMa_TTCP.Size = New System.Drawing.Size(118, 20)
         Me.TxtMa_TTCP.TabIndex = 500
         Me.TxtMa_TTCP.Table_Name = ""
         '

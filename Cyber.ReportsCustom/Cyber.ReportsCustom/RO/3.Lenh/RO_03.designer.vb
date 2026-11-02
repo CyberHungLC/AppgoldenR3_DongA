@@ -57,19 +57,23 @@ Partial Class RO_03
         Me.Label5 = New System.Windows.Forms.Label()
         Me.TxtTen_TTCP = New System.Windows.Forms.TextBox()
         Me.TxtMa_TTCP = New Cyber.SmLists.TxtLookup()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.TxtTenDB = New System.Windows.Forms.TextBox()
+        Me.TxtMaDB = New Cyber.SmLists.TxtLookup()
         CType(Me.TxtMa_Hs.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtSo_ro.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Txtma_kh.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_BP.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_KX.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.TxtMaDB.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'ButtExit
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(571, 308)
+        Me.ButtExit.Location = New System.Drawing.Point(571, 343)
         Me.ButtExit.TabIndex = 17
         '
         'CBBMa_Dvcs
@@ -77,35 +81,35 @@ Partial Class RO_03
         Me.CBBMa_Dvcs.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CBBMa_Dvcs.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(107, 273)
+        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(107, 308)
         Me.CBBMa_Dvcs.Size = New System.Drawing.Size(560, 21)
         Me.CBBMa_Dvcs.TabIndex = 15
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(15, 276)
+        Me.Label1.Location = New System.Drawing.Point(15, 311)
         Me.Label1.Size = New System.Drawing.Size(46, 13)
         '
         'ButtOK
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(467, 308)
+        Me.ButtOK.Location = New System.Drawing.Point(467, 343)
         Me.ButtOK.TabIndex = 16
         '
         'LabLoai_NT
         '
-        Me.LabLoai_NT.Location = New System.Drawing.Point(15, 259)
+        Me.LabLoai_NT.Location = New System.Drawing.Point(15, 294)
         Me.LabLoai_NT.Size = New System.Drawing.Size(46, 13)
         '
         'ChkVND
         '
-        Me.ChkVND.Location = New System.Drawing.Point(107, 256)
+        Me.ChkVND.Location = New System.Drawing.Point(107, 291)
         Me.ChkVND.TabIndex = 14
         '
         'ChkNT
         '
-        Me.ChkNT.Location = New System.Drawing.Point(221, 256)
+        Me.ChkNT.Location = New System.Drawing.Point(221, 291)
         Me.ChkNT.TabIndex = 13
         '
         'TxtM_Ngay_Ct1
@@ -170,7 +174,7 @@ Partial Class RO_03
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 291)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 326)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(668, 9)
         Me.GroupBoxLine.TabIndex = 14
@@ -199,7 +203,7 @@ Partial Class RO_03
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(362, 237)
+        Me.Label4.Location = New System.Drawing.Point(362, 258)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(77, 13)
         Me.Label4.TabIndex = 439
@@ -211,7 +215,7 @@ Partial Class RO_03
         Me.CbbMa_post2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbMa_post2.ForeColor = System.Drawing.Color.Navy
         Me.CbbMa_post2.FormattingEnabled = True
-        Me.CbbMa_post2.Location = New System.Drawing.Point(455, 232)
+        Me.CbbMa_post2.Location = New System.Drawing.Point(455, 253)
         Me.CbbMa_post2.Name = "CbbMa_post2"
         Me.CbbMa_post2.Size = New System.Drawing.Size(213, 21)
         Me.CbbMa_post2.TabIndex = 13
@@ -221,14 +225,14 @@ Partial Class RO_03
         Me.CbbMa_Post1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbMa_Post1.ForeColor = System.Drawing.Color.Navy
         Me.CbbMa_Post1.FormattingEnabled = True
-        Me.CbbMa_Post1.Location = New System.Drawing.Point(107, 232)
+        Me.CbbMa_Post1.Location = New System.Drawing.Point(107, 253)
         Me.CbbMa_Post1.Name = "CbbMa_Post1"
         Me.CbbMa_Post1.Size = New System.Drawing.Size(213, 21)
         Me.CbbMa_Post1.TabIndex = 12
         '
         'Label7
         '
-        Me.Label7.Location = New System.Drawing.Point(15, 234)
+        Me.Label7.Location = New System.Drawing.Point(15, 255)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(46, 17)
         Me.Label7.TabIndex = 438
@@ -240,7 +244,7 @@ Partial Class RO_03
         Me.CbbGroupByCT.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbGroupByCT.ForeColor = System.Drawing.Color.Navy
         Me.CbbGroupByCT.FormattingEnabled = True
-        Me.CbbGroupByCT.Location = New System.Drawing.Point(121, 304)
+        Me.CbbGroupByCT.Location = New System.Drawing.Point(-7, 392)
         Me.CbbGroupByCT.Name = "CbbGroupByCT"
         Me.CbbGroupByCT.Size = New System.Drawing.Size(446, 21)
         Me.CbbGroupByCT.TabIndex = 22
@@ -249,7 +253,7 @@ Partial Class RO_03
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(15, 212)
+        Me.Label6.Location = New System.Drawing.Point(15, 233)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(30, 13)
         Me.Label6.TabIndex = 443
@@ -261,7 +265,7 @@ Partial Class RO_03
         Me.CbbLoai_Phieu.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbLoai_Phieu.ForeColor = System.Drawing.Color.Navy
         Me.CbbLoai_Phieu.FormattingEnabled = True
-        Me.CbbLoai_Phieu.Location = New System.Drawing.Point(107, 208)
+        Me.CbbLoai_Phieu.Location = New System.Drawing.Point(107, 229)
         Me.CbbLoai_Phieu.Name = "CbbLoai_Phieu"
         Me.CbbLoai_Phieu.Size = New System.Drawing.Size(213, 21)
         Me.CbbLoai_Phieu.TabIndex = 10
@@ -438,7 +442,7 @@ Partial Class RO_03
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(362, 208)
+        Me.Label9.Location = New System.Drawing.Point(362, 229)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(49, 13)
         Me.Label9.TabIndex = 512
@@ -450,7 +454,7 @@ Partial Class RO_03
         Me.CbbMa_GD.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbMa_GD.ForeColor = System.Drawing.Color.Navy
         Me.CbbMa_GD.FormattingEnabled = True
-        Me.CbbMa_GD.Location = New System.Drawing.Point(455, 208)
+        Me.CbbMa_GD.Location = New System.Drawing.Point(455, 229)
         Me.CbbMa_GD.Name = "CbbMa_GD"
         Me.CbbMa_GD.Size = New System.Drawing.Size(213, 21)
         Me.CbbMa_GD.TabIndex = 11
@@ -518,7 +522,7 @@ Partial Class RO_03
         '
         Me.ChkXe_Dv.AutoSize = True
         Me.ChkXe_Dv.Location = New System.Drawing.Point(320, 53)
-        Me.ChkXe_Dv.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ChkXe_Dv.Margin = New System.Windows.Forms.Padding(2)
         Me.ChkXe_Dv.Name = "ChkXe_Dv"
         Me.ChkXe_Dv.Size = New System.Drawing.Size(75, 17)
         Me.ChkXe_Dv.TabIndex = 517
@@ -528,7 +532,7 @@ Partial Class RO_03
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(15, 188)
+        Me.Label5.Location = New System.Drawing.Point(15, 209)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(54, 13)
         Me.Label5.TabIndex = 520
@@ -541,7 +545,7 @@ Partial Class RO_03
         Me.TxtTen_TTCP.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_TTCP.Enabled = False
         Me.TxtTen_TTCP.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TTCP.Location = New System.Drawing.Point(235, 188)
+        Me.TxtTen_TTCP.Location = New System.Drawing.Point(235, 209)
         Me.TxtTen_TTCP.Name = "TxtTen_TTCP"
         Me.TxtTen_TTCP.ReadOnly = True
         Me.TxtTen_TTCP.Size = New System.Drawing.Size(432, 14)
@@ -556,7 +560,7 @@ Partial Class RO_03
         Me.TxtMa_TTCP.Dv_Master = Nothing
         Me.TxtMa_TTCP.FilterClient = ""
         Me.TxtMa_TTCP.FilterSQL = ""
-        Me.TxtMa_TTCP.Location = New System.Drawing.Point(107, 185)
+        Me.TxtMa_TTCP.Location = New System.Drawing.Point(107, 206)
         Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
         Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
@@ -565,10 +569,53 @@ Partial Class RO_03
         Me.TxtMa_TTCP.TabIndex = 518
         Me.TxtMa_TTCP.Table_Name = ""
         '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(15, 186)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(38, 13)
+        Me.Label19.TabIndex = 551
+        Me.Label19.Tag = "Staff"
+        Me.Label19.Text = "Đội Xe"
+        '
+        'TxtTenDB
+        '
+        Me.TxtTenDB.BackColor = System.Drawing.SystemColors.Control
+        Me.TxtTenDB.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.TxtTenDB.Enabled = False
+        Me.TxtTenDB.ForeColor = System.Drawing.Color.Navy
+        Me.TxtTenDB.Location = New System.Drawing.Point(235, 186)
+        Me.TxtTenDB.Name = "TxtTenDB"
+        Me.TxtTenDB.ReadOnly = True
+        Me.TxtTenDB.Size = New System.Drawing.Size(432, 14)
+        Me.TxtTenDB.TabIndex = 550
+        Me.TxtTenDB.TabStop = False
+        '
+        'TxtMaDB
+        '
+        Me.TxtMaDB._ActilookupPopup = False
+        Me.TxtMaDB.CyberActilookupPopup = True
+        Me.TxtMaDB.Dv_ListDetail = Nothing
+        Me.TxtMaDB.Dv_Master = Nothing
+        Me.TxtMaDB.FilterClient = ""
+        Me.TxtMaDB.FilterSQL = ""
+        Me.TxtMaDB.Location = New System.Drawing.Point(107, 184)
+        Me.TxtMaDB.Name = "TxtMaDB"
+        Me.TxtMaDB.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.TxtMaDB.Properties.Appearance.Options.UseForeColor = True
+        Me.TxtMaDB.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
+        Me.TxtMaDB.Size = New System.Drawing.Size(114, 20)
+        Me.TxtMaDB.TabIndex = 549
+        Me.TxtMaDB.Table_Name = ""
+        '
         'RO_03
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(675, 361)
+        Me.ClientSize = New System.Drawing.Size(675, 396)
+        Me.Controls.Add(Me.Label19)
+        Me.Controls.Add(Me.TxtTenDB)
+        Me.Controls.Add(Me.TxtMaDB)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.TxtTen_TTCP)
         Me.Controls.Add(Me.TxtMa_TTCP)
@@ -632,13 +679,6 @@ Partial Class RO_03
         Me.Controls.SetChildIndex(Me.TxtTen_kh, 0)
         Me.Controls.SetChildIndex(Me.Label2, 0)
         Me.Controls.SetChildIndex(Me.Label11, 0)
-        Me.Controls.SetChildIndex(Me.ButtExit, 0)
-        Me.Controls.SetChildIndex(Me.CBBMa_Dvcs, 0)
-        Me.Controls.SetChildIndex(Me.Label1, 0)
-        Me.Controls.SetChildIndex(Me.ButtOK, 0)
-        Me.Controls.SetChildIndex(Me.ChkVND, 0)
-        Me.Controls.SetChildIndex(Me.ChkNT, 0)
-        Me.Controls.SetChildIndex(Me.LabLoai_NT, 0)
         Me.Controls.SetChildIndex(Me.Txtten_xe, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_BP, 0)
         Me.Controls.SetChildIndex(Me.TxtTen_BP, 0)
@@ -654,12 +694,23 @@ Partial Class RO_03
         Me.Controls.SetChildIndex(Me.TxtMa_TTCP, 0)
         Me.Controls.SetChildIndex(Me.TxtTen_TTCP, 0)
         Me.Controls.SetChildIndex(Me.Label5, 0)
+        Me.Controls.SetChildIndex(Me.ButtExit, 0)
+        Me.Controls.SetChildIndex(Me.CBBMa_Dvcs, 0)
+        Me.Controls.SetChildIndex(Me.Label1, 0)
+        Me.Controls.SetChildIndex(Me.ButtOK, 0)
+        Me.Controls.SetChildIndex(Me.ChkVND, 0)
+        Me.Controls.SetChildIndex(Me.ChkNT, 0)
+        Me.Controls.SetChildIndex(Me.LabLoai_NT, 0)
+        Me.Controls.SetChildIndex(Me.TxtMaDB, 0)
+        Me.Controls.SetChildIndex(Me.TxtTenDB, 0)
+        Me.Controls.SetChildIndex(Me.Label19, 0)
         CType(Me.TxtMa_Hs.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtSo_ro.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Txtma_kh.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_BP.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_KX.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtMaDB.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -702,4 +753,7 @@ Partial Class RO_03
     Friend WithEvents Label5 As Label
     Friend WithEvents TxtTen_TTCP As TextBox
     Friend WithEvents TxtMa_TTCP As SmLists.TxtLookup
+    Friend WithEvents Label19 As Label
+    Friend WithEvents TxtTenDB As TextBox
+    Friend WithEvents TxtMaDB As SmLists.TxtLookup
 End Class

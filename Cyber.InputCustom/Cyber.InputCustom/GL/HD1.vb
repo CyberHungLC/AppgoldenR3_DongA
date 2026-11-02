@@ -312,6 +312,13 @@ Public Class HD1
         'Ma_LD
         AddHandler TxtMa_LD.CyberValiting, AddressOf V_Ma_LD
         AddHandler TxtMa_LD.CyberLeave, AddressOf L_Ma_LD
+
+
+        'Phát hành hóa đơn
+        AddHandler CmdPH_HoaDon.Click, AddressOf V_PH_HDDT
+
+        'Tạo hóa đơn nháp
+        AddHandler CmdTao_HD_Nhap.Click, AddressOf V_Tao_HD_Nhap
     End Sub
     Private Sub V_AddHandler_Detail()
         If Not EditSo_Luong.Column Is Nothing Then AddHandler EditSo_Luong.EditColumn.Leave, AddressOf L_Tinh_Toan
@@ -2073,4 +2080,469 @@ Public Class HD1
 
     'End Sub
 #End Region
+#Region "Hóa đơn điện tử"
+    Private Sub V_Tao_HD_Nhap(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+
+        Dim _Loai As String = "T"
+
+        If Not V_ChkRightsHDDT(_Loai) Then
+            Exit Sub
+        End If
+        If MessageBox.Show("Bạn chắc chắn muốn tạo hóa đơn nháp!", M_CYBER_VER, MessageBoxButtons.YesNo) = System.Windows.Forms.DialogResult.No Then
+            Exit Sub
+        End If
+
+        Dim _Dt As DateTime = TxtNgay_Ct.Value
+
+        Dim _DsInfoAPI As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetInfoAPIInvoice", _Loai & "#" & M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _Dt.ToString("yyyyMMdd") & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+
+        If _DsInfoAPI.Tables.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        If _DsInfoAPI.Tables(0).Rows.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        Dim _PartnerGUID As String = ""
+        Dim _PartnerToken As String = ""
+        Dim _Mode As String = ""
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerGUID") Then _PartnerGUID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerGUID")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerToken") Then _PartnerToken = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerToken")
+        If _DsInfoAPI.Tables(0).Columns.Contains("Mode") Then _Mode = _DsInfoAPI.Tables(0).Rows(0).Item("Mode")
+
+        Dim HDBkav As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+
+        Dim _Ma_GD As String = CbbMa_GD.SelectedValue.ToString.Trim
+
+        Dim DsData As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APIGetDataToInvoiceTAO_BKAV", M_Stt_Rec & "#00#" & _Loai & "#" & _Ma_GD & "#" & M_Ma_CT.Trim & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+        If DsData.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+            MsgBox(DsData.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+            Return
+        End If
+
+        Dim sGUID = "", InvoiceNo = "", msg As String = ""
+        Dim dtRetun As DataTable = HDBkav.Tao_Hoa_Don100(DsData, sGUID, InvoiceNo, msg)
+
+        If dtRetun Is Nothing Then
+            MsgBox(msg, MsgBoxStyle.Critical, osysvar("M_CYBER_VER"))
+            Return
+        End If
+
+        'If DsData.Tables(1).Rows(0)("So_HDDT").ToString.Trim = "" Then
+        If dtRetun.Rows(0)("InvoiceGUID") <> "" Then
+            Txtma_tra_cuu.Text = dtRetun.Rows(0)("InvoiceGUID")
+            txtInvoiceGUID.Text = dtRetun.Rows(0)("InvoiceGUID")
+
+            Dt_Master.Rows(0).Item("Ma_Tra_Cuu") = Txtma_tra_cuu.Text
+            Dt_Master.Rows(0).Item("InvoiceGUID") = txtInvoiceGUID.Text
+        End If
+
+        Dim _So_HDDT As String = ""
+        Dim _So_Seri As String = ""
+        Dim _Ngay_CTHD As Date = New Date(1900, 1, 1)
+        Dim _Ma_Tra_Cuu As String = dtRetun.Rows(0)("InvoiceGUID")
+        Dim _InvoiceGUID As String = dtRetun.Rows(0)("InvoiceGUID")
+        Dim _Mau_So As String = ""
+        Dim _DsSave As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APISaveInvoice", M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _InvoiceGUID & "#" & _So_HDDT & "#" & _So_Seri & "#" & _Ngay_CTHD.ToString("yyyyMMdd") & "#" & _Mau_So & "#" & _Loai & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name.Trim)
+
+        If _DsSave.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+            MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+            Return
+        End If
+
+        MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.OkOnly, osysvar("M_Cyber_Ver"))
+    End Sub
+    Private Sub V_Update_HD(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+
+        Dim _Loai As String = "U"
+        If Not V_ChkRightsHDDT(_Loai) Then
+            Exit Sub
+        End If
+        If MessageBox.Show("Bạn chắc chắn muốn update thông tin!", M_CYBER_VER, MessageBoxButtons.YesNo) = System.Windows.Forms.DialogResult.No Then
+            Exit Sub
+        End If
+
+        Dim _Dt As DateTime = TxtNgay_Ct.Value
+
+        Dim _DsInfoAPI As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetInfoAPIInvoice", _Loai & "#" & M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _Dt.ToString("yyyyMMdd") & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+
+        If _DsInfoAPI.Tables.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        If _DsInfoAPI.Tables(0).Rows.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        Dim _PartnerGUID As String = ""
+        Dim _PartnerToken As String = ""
+        Dim _Mode As String = ""
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerGUID") Then _PartnerGUID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerGUID")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerToken") Then _PartnerToken = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerToken")
+        If _DsInfoAPI.Tables(0).Columns.Contains("Mode") Then _Mode = _DsInfoAPI.Tables(0).Rows(0).Item("Mode")
+
+        Dim HDBkav As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+
+        Dim _Ma_GD As String = CbbMa_GD.SelectedValue.ToString.Trim
+
+        Dim DsData As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APIGetDataToInvoiceTAO_BKAV", M_Stt_Rec & "#00#" & _Loai & "#" & _Ma_GD & "#" & M_Ma_CT.Trim & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+        If DsData.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+            MsgBox(DsData.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+            Return
+        End If
+
+        Dim sGUID = "", InvoiceNo = "", msg As String = ""
+        Dim dtRetun As DataTable = HDBkav.Cap_Nhap_thong_Tin_Hoa_Don(DsData, msg)
+        If String.IsNullOrEmpty(msg) = False Then
+            MsgBox(msg)
+            Return
+        End If
+        If dtRetun Is Nothing Then
+            MsgBox(msg, MsgBoxStyle.Critical, osysvar("M_CYBER_VER"))
+            Return
+        End If
+
+        If DsData.Tables(1).Rows(0)("So_HDDT").ToString.Trim = "" Then
+
+            Txtma_tra_cuu.Text = dtRetun.Rows(0)("InvoiceGUID")
+            txtInvoiceGUID.Text = dtRetun.Rows(0)("InvoiceGUID")
+
+
+            Dt_Master.Rows(0).Item("Ma_Tra_Cuu") = Txtma_tra_cuu.Text
+            Dt_Master.Rows(0).Item("InvoiceGUID") = txtInvoiceGUID.Text
+        End If
+
+        Dim _So_HDDT As String = ""
+        Dim _So_Seri As String = ""
+        Dim _Ngay_CTHD As Date = New Date(1900, 1, 1)
+        Dim _Ma_Tra_Cuu As String = dtRetun.Rows(0)("InvoiceGUID")
+        Dim _InvoiceGUID As String = dtRetun.Rows(0)("InvoiceGUID")
+        Dim _Mau_So As String = ""
+        Dim _DsSave As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APISaveInvoice", M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _InvoiceGUID & "#" & _So_HDDT & "#" & _So_Seri & "#" & _Ngay_CTHD.ToString("yyyyMMdd") & "#" & _Mau_So & "#" & _Loai & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name.Trim)
+
+        If _DsSave.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+            MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+            Return
+        End If
+
+        MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.OkOnly, osysvar("M_Cyber_Ver"))
+    End Sub
+    Private Sub V_PH_HDDT(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If txtInvoiceGUID.Text = "" Then 'Phát hành hóa đơn
+            MsgBox("Bạn phải phát hành hóa đơn nháp trước")
+            Return
+        End If
+        Dim _Loai As String = "P"
+        If Not V_ChkRightsHDDT(_Loai) Then
+            Exit Sub
+        End If
+        If MessageBox.Show("Bạn chắc chắn phát hành hóa đơn điện tử!", M_CYBER_VER, MessageBoxButtons.YesNo) = System.Windows.Forms.DialogResult.No Then
+            Exit Sub
+        End If
+
+        Dim _Dt As DateTime = TxtNgay_Ct.Value
+
+        Dim _DsInfoAPI As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetInfoAPIInvoice", _Loai & "#" & M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _Dt.ToString("yyyyMMdd") & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+
+        If _DsInfoAPI.Tables.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        If _DsInfoAPI.Tables(0).Rows.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        Dim _PartnerGUID As String = ""
+        Dim _PartnerToken As String = ""
+        Dim _Mode As String = ""
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerGUID") Then _PartnerGUID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerGUID")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerToken") Then _PartnerToken = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerToken")
+        If _DsInfoAPI.Tables(0).Columns.Contains("Mode") Then _Mode = _DsInfoAPI.Tables(0).Rows(0).Item("Mode")
+        'MsgBox(_PartnerGUID & "#" & _PartnerToken & "#" & _Mode)
+        Dim HDBkav As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+
+        Dim _Ma_GD As String = CbbMa_GD.SelectedValue.ToString.Trim
+
+        Dim DsData As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APIGetDataToInvoiceTAO_BKAV", M_Stt_Rec & "#00#" & _Loai & "#" & _Ma_GD & "#" & M_Ma_CT.Trim & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+        If DsData.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+            MsgBox(DsData.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+            Return
+        End If
+
+        Dim _InvoiceGUID0 As String = DsData.Tables(1).Rows(0).Item("InvoiceGUID")
+
+        'If _InvoiceGUID0 = "" Then 'Phát hành hóa đơn
+        If _InvoiceGUID0 = "" Then 'Phát hành hóa đơn
+            MsgBox("Bạn phải phát hành hóa đơn nháp trước")
+            Return
+            Dim sGUID = "", InvoiceNo = "", msg As String = ""
+            'Dim dtRetun As DataTable = HDBkav.Tao_Hoa_Don111(DsData, sGUID, InvoiceNo, msg)
+            Dim dtRetun As DataTable = HDBkav.Tao_Hoa_Don101(DsData, sGUID, InvoiceNo, msg)
+            If dtRetun Is Nothing Then
+                MsgBox(msg, MsgBoxStyle.Critical, osysvar("M_CYBER_VER"))
+                Return
+            End If
+
+            If DsData.Tables(1).Rows(0)("So_HDDT").ToString.Trim = "" Then
+                TxtSo_HDDT.Text = Strings.Right("0000000" & dtRetun.Rows(0)("InvoiceNo"), 7)
+                TxtSo_seriHD.Text = dtRetun.Rows(0)("InvoiceSerial")
+                TxtMau_VATHD.Text = dtRetun.Rows(0)("InvoiceForm")
+                Txtma_tra_cuu.Text = dtRetun.Rows(0)("InvoiceGUID")
+                txtInvoiceGUID.Text = dtRetun.Rows(0)("InvoiceGUID")
+                Dt_Master.Rows(0).Item("So_HDDT") = TxtSo_HDDT.Text
+                Dt_Master.Rows(0).Item("So_Seri") = TxtSo_seriHD.Text
+                Dt_Master.Rows(0).Item("Ngay_CTHD") = TxtNgay_CTHD.Value
+                Dt_Master.Rows(0).Item("Mau_VATHD") = TxtMau_VATHD.Text
+                Dt_Master.Rows(0).Item("Ma_Tra_Cuu") = Txtma_tra_cuu.Text
+                Dt_Master.Rows(0).Item("InvoiceGUID") = txtInvoiceGUID.Text
+            End If
+
+            Dim _So_HDDT As String = Strings.Right("0000000" & dtRetun.Rows(0)("InvoiceNo"), 7)
+            Dim _So_Seri As String = dtRetun.Rows(0)("InvoiceSerial")
+
+            'Dim _Ngay_CTHD As Date = dtRetun.Rows(0)("InvoiceDate")
+            Dim _Ngay_CTHD As DateTime = TxtNgay_Ct.Value
+
+            Dim _InvoiceGUID As String = dtRetun.Rows(0)("InvoiceGUID")
+            Dim _Mau_So As String = dtRetun.Rows(0)("InvoiceForm")
+            Dim _Ma_Tra_Cuu As String = dtRetun.Rows(0)("InvoiceGUID")
+            Dim _DsSave As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APISaveInvoice", M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _InvoiceGUID & "#" & _So_HDDT & "#" & _So_Seri & "#" & _Ngay_CTHD.ToString("yyyyMMdd") & "#" & _Mau_So & "#" & _Loai & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name.Trim)
+
+            If _DsSave.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+                MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+                Return
+            End If
+            MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.OkOnly, osysvar("M_Cyber_Ver"))
+            '-- đẩy ký hóa đơn
+            Dim msgKyHoaDon As String = HDBkav.Ky_Hoa_Don(_InvoiceGUID)
+            If String.IsNullOrEmpty(msgKyHoaDon) = False Then
+                MsgBox("Lỗi: " + msgKyHoaDon)
+            End If
+        Else
+            'Ký hóa đơn nháp
+            Dim msgKyHoaDon As String = HDBkav.Ky_Hoa_Don(_InvoiceGUID0)
+            If String.IsNullOrEmpty(msgKyHoaDon) = False Then
+                MsgBox("Lỗi: " + msgKyHoaDon)
+            Else
+                Dim _So_HDDT1 As String = ""
+                Dim _So_SeriHD1 As String = ""
+
+                'CuongNH: Cho delay 11s vì cơ chế của BKAV sau 11s thì mới nhận được số hóa đơn nếu là ký
+                Threading.Thread.Sleep(11000)
+
+                HDBkav.Lay_Thong_Tin_HD800(txtInvoiceGUID.Text.Trim, _So_HDDT1, _So_SeriHD1, msgKyHoaDon)
+                If String.IsNullOrEmpty(msgKyHoaDon) = False Then
+                    MsgBox("Lỗi thông tin HD" + msgKyHoaDon)
+                    Return
+                End If
+
+                'Update dữ liệu
+                _So_HDDT1 = Strings.Right("0000000" & _So_HDDT1, 7)
+
+                TxtSo_HDDT.Text = _So_HDDT1
+                TxtSo_seriHD.Text = _So_SeriHD1
+
+                Dt_Master.Rows(0).Item("So_HDDT") = TxtSo_HDDT.Text
+                Dt_Master.Rows(0).Item("So_Seri") = TxtSo_seriHD.Text
+
+                Dim _Ngay_CTHD As Date = New Date(1900, 1, 1) 'dtRetun.Rows(0)("InvoiceDate")
+                Dim _DsSave As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APISaveInvoice", M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _InvoiceGUID0 & "#" & _So_HDDT1 & "#" & _So_SeriHD1 & "#" & _Ngay_CTHD.ToString("yyyyMMdd") & "##" & _Loai & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name.Trim)
+
+                If _DsSave.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+                    MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+                    Return
+                End If
+                MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.OkOnly, osysvar("M_Cyber_Ver"))
+            End If
+        End If
+    End Sub
+    Private Sub V_Lay_HD(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        If txtInvoiceGUID.Text.Trim = "" Then Exit Sub
+
+        Dim _Loai As String = "L"
+        If Not V_ChkRightsHDDT(_Loai) Then
+            Exit Sub
+        End If
+
+        Dim _Dt As DateTime = TxtNgay_Ct.Value
+
+        Dim _DsInfoAPI As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetInfoAPIInvoice", _Loai & "#" & M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _Dt.ToString("yyyyMMdd") & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+
+        If _DsInfoAPI.Tables.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        If _DsInfoAPI.Tables(0).Rows.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        Dim _PartnerGUID As String = ""
+        Dim _PartnerToken As String = ""
+        Dim _Mode As String = ""
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerGUID") Then _PartnerGUID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerGUID")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerToken") Then _PartnerToken = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerToken")
+        If _DsInfoAPI.Tables(0).Columns.Contains("Mode") Then _Mode = _DsInfoAPI.Tables(0).Rows(0).Item("Mode")
+
+
+        Dim HDBkav As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+        Dim _So_HDDT As String = ""
+        Dim _So_SeriHD As String = ""
+        Dim _Ngay_CTHD As Date = New Date(1900, 1, 1)
+        Dim _Lay_TT_HD As String = ""
+
+        HDBkav.Lay_Thong_Tin_HD8001(txtInvoiceGUID.Text.Trim, _So_HDDT, _So_SeriHD, _Ngay_CTHD, _Lay_TT_HD)
+        If String.IsNullOrEmpty(_Lay_TT_HD) = False Then
+            MsgBox("Lỗi thông tin HD" + _Lay_TT_HD)
+            Return
+        End If
+        'Update dữ liệu
+        _So_HDDT = Strings.Right("00000000" & _So_HDDT, 8)
+        TxtSo_HDDT.Text = _So_HDDT
+        TxtSo_seriHD.Text = _So_SeriHD
+        'TxtSo_Ct.Text = _So_HDDT
+        TxtNgay_CTHD.Value = _Ngay_CTHD
+        Dt_Master.Rows(0).Item("So_HDDT") = TxtSo_HDDT.Text
+        Dt_Master.Rows(0).Item("So_Seri") = TxtSo_seriHD.Text
+        Dt_Master.Rows(0).Item("Ngay_CtHD") = _Ngay_CTHD
+
+        'Lưu thông tin vào database
+        'Dim _Ngay_CTHD As Date = dtRetun.Rows(0)("InvoiceDate")
+        Dim _DsSave As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_APISaveInvoice", M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & txtInvoiceGUID.Text.Trim & "#" & _So_HDDT & "#" & _So_SeriHD & "#" & _Ngay_CTHD.ToString("yyyyMMdd") & "##" & _Loai & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name.Trim)
+
+        If _DsSave.Tables(0).Rows(0)("Status").ToString.Trim.ToUpper <> "Y" Then
+            MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.Critical, osysvar("M_Cyber_Ver"))
+            Return
+        End If
+        MsgBox(_DsSave.Tables(0).Rows(0)("Note").ToString.Trim, MsgBoxStyle.OkOnly, osysvar("M_Cyber_Ver"))
+    End Sub
+
+
+    Private Sub V_View_HDDT(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+
+        Dim _Loai As String = "V"
+        If Not V_ChkRightsHDDT(_Loai) Then
+            Exit Sub
+        End If
+
+        Dim _Dt As DateTime = TxtNgay_Ct.Value
+        Dim _DsInfoAPI As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetInfoAPIInvoice", _Loai & "#" & M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _Dt.ToString("yyyyMMdd") & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+
+        If _DsInfoAPI.Tables.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+        If _DsInfoAPI.Tables(0).Rows.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        Dim _PartnerGUID As String = ""
+        Dim _PartnerToken As String = ""
+        Dim _Mode As String = ""
+        Dim _Domain As String = ""
+        Dim _PartnerInvoiceStringID As String = ""
+        Dim _PartPDF As String = ""
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerGUID") Then _PartnerGUID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerGUID")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerToken") Then _PartnerToken = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerToken")
+        If _DsInfoAPI.Tables(0).Columns.Contains("Mode") Then _Mode = _DsInfoAPI.Tables(0).Rows(0).Item("Mode")
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("Domain") Then _Domain = _DsInfoAPI.Tables(0).Rows(0).Item("Domain")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerInvoiceStringID") Then _PartnerInvoiceStringID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerInvoiceStringID")
+        'Dim sys As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+        Dim HDBkav As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+        Dim _So_HDDT As String = ""
+        Dim _So_SeriHD As String = ""
+        Dim _MTC As String = ""
+        Dim _Lay_TT_HD As String = ""
+
+        HDBkav.Lay_Thong_Tin_HD800WEB(txtInvoiceGUID.Text.Trim, _So_HDDT, _So_SeriHD, _MTC, _Lay_TT_HD)
+        If String.IsNullOrEmpty(_Lay_TT_HD) = False Then
+            MsgBox("Lỗi thông tin HD" + _Lay_TT_HD)
+            Return
+        End If
+        Dim sGUID = "", InvoiceNo = "", msg As String = ""
+        Process.Start("https://van.ehoadon.vn/TCHD?MTC=" + _MTC)
+
+    End Sub
+    Private Sub V_View_HDDTPDF(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        If (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+
+        Dim _Loai As String = "V"
+        If Not V_ChkRightsHDDT(_Loai) Then
+            Exit Sub
+        End If
+
+        Dim _Dt As DateTime = TxtNgay_Ct.Value
+        Dim _DsInfoAPI As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetInfoAPIInvoice", _Loai & "#" & M_Stt_Rec & "#" & M_Ma_CT.Trim & "#" & _Dt.ToString("yyyyMMdd") & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name)
+
+        If _DsInfoAPI.Tables.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+        If _DsInfoAPI.Tables(0).Rows.Count < 1 Then
+            _DsInfoAPI.Dispose()
+            Exit Sub
+        End If
+
+        Dim _PartnerGUID As String = ""
+        Dim _PartnerToken As String = ""
+        Dim _Mode As String = ""
+        Dim _Domain As String = ""
+        Dim _PartnerInvoiceStringID As String = ""
+        Dim _PartPDF As String = ""
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerGUID") Then _PartnerGUID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerGUID")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerToken") Then _PartnerToken = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerToken")
+        If _DsInfoAPI.Tables(0).Columns.Contains("Mode") Then _Mode = _DsInfoAPI.Tables(0).Rows(0).Item("Mode")
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("Domain") Then _Domain = _DsInfoAPI.Tables(0).Rows(0).Item("Domain")
+        If _DsInfoAPI.Tables(0).Columns.Contains("PartnerInvoiceStringID") Then _PartnerInvoiceStringID = _DsInfoAPI.Tables(0).Rows(0).Item("PartnerInvoiceStringID")
+        'Dim sys As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+        Dim HDBkav As New HDBAKVV01.Sys(_PartnerGUID, _PartnerToken, _Mode)
+        Dim sGUID = "", InvoiceNo = "", msg As String = ""
+
+
+
+        '_PartPDF = HDBkav.Lay_LinkPDF(txtInvoiceGUID.Text.Trim, TxtSo_HDDT.Text.Trim, TxtSo_SeriHD.Text.Trim, msg)
+        _PartPDF = HDBkav.Lay_LinkPDF(txtInvoiceGUID.Text.Trim, "", "C26STS", msg)
+
+        If _DsInfoAPI.Tables(0).Columns.Contains("Domain") Then _Domain = _DsInfoAPI.Tables(0).Rows(0).Item("Domain")
+        msg = HDBkav.ViewHoaDonPDF(_Domain, _PartPDF)
+        If String.IsNullOrEmpty(msg) = False Then
+            MsgBox(msg)
+        End If
+    End Sub
+    Private Function V_ChkRightsHDDT(ByRef _Loai As String) As Boolean
+        Dim _Return As Boolean = True
+        Dim _StrPara As String = M_Ma_CT.Trim & "#" & M_Stt_Rec.Trim & "#" & _Loai & "#" & TxtMa_Dvcs.Text.Trim & "#" & M_User_Name.Trim
+        Dim _DsRight As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_Chk_HDDT", _StrPara)
+        If Not CyberSupport.V_MsgChk(_DsRight.Tables(0), SysVar, M_LAN) Then
+            _DsRight.Dispose()
+            _Return = False
+        End If
+        Return _Return
+    End Function
+#End Region
+
+
+
 End Class

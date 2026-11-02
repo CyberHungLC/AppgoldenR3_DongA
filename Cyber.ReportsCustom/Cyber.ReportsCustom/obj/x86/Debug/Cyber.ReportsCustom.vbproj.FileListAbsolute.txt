@@ -665,3 +665,6 @@ D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Cyber.ReportsCust
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.INTUOITONKHO_PT.resources
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.InTuoiTonkho.resources
 D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.RO_PICK.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.ROKQKDTH1.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.BCDV_11.resources
+D:\CyberSoft\Win\CyberAppGoldenR3_DongA\CyberAppGoldenR3_DongA\Sm\Cyber.ReportsCustom\Cyber.ReportsCustom\obj\x86\Debug\Cyber.ReportsCustom.IMBKPB1.resources

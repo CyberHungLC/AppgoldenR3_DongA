@@ -20,6 +20,7 @@ Partial Class HD1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(HD1))
         Me.CbbMa_GD = New System.Windows.Forms.ComboBox()
         Me.LabDia_Chi = New System.Windows.Forms.Label()
         Me.TxtDia_Chi = New System.Windows.Forms.TextBox()
@@ -138,6 +139,10 @@ Partial Class HD1
         Me.TxtMa_LD = New Cyber.SmLists.TxtLookup()
         Me.Label26 = New System.Windows.Forms.Label()
         Me.TxtStt_Rec_TT = New System.Windows.Forms.TextBox()
+        Me.CmdPH_HoaDon = New DevExpress.XtraEditors.SimpleButton()
+        Me.CmdTao_HD_Nhap = New DevExpress.XtraEditors.SimpleButton()
+        Me.Label52 = New System.Windows.Forms.Label()
+        Me.txtInvoiceGUID = New System.Windows.Forms.TextBox()
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -350,7 +355,7 @@ Partial Class HD1
         Me.LabDia_Chi.BackColor = System.Drawing.Color.Transparent
         Me.LabDia_Chi.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabDia_Chi.ForeColor = System.Drawing.Color.Navy
-        Me.LabDia_Chi.Location = New System.Drawing.Point(1, 181)
+        Me.LabDia_Chi.Location = New System.Drawing.Point(1, 203)
         Me.LabDia_Chi.Margin = New System.Windows.Forms.Padding(0)
         Me.LabDia_Chi.Name = "LabDia_Chi"
         Me.LabDia_Chi.Size = New System.Drawing.Size(78, 14)
@@ -363,7 +368,7 @@ Partial Class HD1
         Me.TxtDia_Chi.BackColor = System.Drawing.Color.White
         Me.TxtDia_Chi.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtDia_Chi.ForeColor = System.Drawing.Color.Navy
-        Me.TxtDia_Chi.Location = New System.Drawing.Point(80, 178)
+        Me.TxtDia_Chi.Location = New System.Drawing.Point(80, 200)
         Me.TxtDia_Chi.Name = "TxtDia_Chi"
         Me.TxtDia_Chi.Size = New System.Drawing.Size(478, 20)
         Me.TxtDia_Chi.TabIndex = 29
@@ -425,7 +430,7 @@ Partial Class HD1
         Me.txtDien_giai.BackColor = System.Drawing.Color.White
         Me.txtDien_giai.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtDien_giai.ForeColor = System.Drawing.Color.Navy
-        Me.txtDien_giai.Location = New System.Drawing.Point(630, 199)
+        Me.txtDien_giai.Location = New System.Drawing.Point(630, 221)
         Me.txtDien_giai.Name = "txtDien_giai"
         Me.txtDien_giai.Size = New System.Drawing.Size(366, 20)
         Me.txtDien_giai.TabIndex = 12
@@ -435,7 +440,7 @@ Partial Class HD1
         Me.LabDien_Giai.BackColor = System.Drawing.Color.Transparent
         Me.LabDien_Giai.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabDien_Giai.ForeColor = System.Drawing.Color.Navy
-        Me.LabDien_Giai.Location = New System.Drawing.Point(558, 202)
+        Me.LabDien_Giai.Location = New System.Drawing.Point(558, 224)
         Me.LabDien_Giai.Margin = New System.Windows.Forms.Padding(0)
         Me.LabDien_Giai.Name = "LabDien_Giai"
         Me.LabDien_Giai.Size = New System.Drawing.Size(69, 14)
@@ -461,7 +466,7 @@ Partial Class HD1
         Me.txtOng_ba.BackColor = System.Drawing.Color.White
         Me.txtOng_ba.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtOng_ba.ForeColor = System.Drawing.Color.Navy
-        Me.txtOng_ba.Location = New System.Drawing.Point(80, 199)
+        Me.txtOng_ba.Location = New System.Drawing.Point(80, 221)
         Me.txtOng_ba.Name = "txtOng_ba"
         Me.txtOng_ba.Size = New System.Drawing.Size(181, 20)
         Me.txtOng_ba.TabIndex = 8
@@ -471,7 +476,7 @@ Partial Class HD1
         Me.LabOng_ba.BackColor = System.Drawing.Color.Transparent
         Me.LabOng_ba.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabOng_ba.ForeColor = System.Drawing.Color.Navy
-        Me.LabOng_ba.Location = New System.Drawing.Point(1, 202)
+        Me.LabOng_ba.Location = New System.Drawing.Point(1, 224)
         Me.LabOng_ba.Margin = New System.Windows.Forms.Padding(0)
         Me.LabOng_ba.Name = "LabOng_ba"
         Me.LabOng_ba.Size = New System.Drawing.Size(78, 14)
@@ -508,7 +513,7 @@ Partial Class HD1
         Me.LabMa_kh.BackColor = System.Drawing.Color.Transparent
         Me.LabMa_kh.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabMa_kh.ForeColor = System.Drawing.Color.Navy
-        Me.LabMa_kh.Location = New System.Drawing.Point(1, 159)
+        Me.LabMa_kh.Location = New System.Drawing.Point(1, 181)
         Me.LabMa_kh.Margin = New System.Windows.Forms.Padding(0)
         Me.LabMa_kh.Name = "LabMa_kh"
         Me.LabMa_kh.Size = New System.Drawing.Size(78, 14)
@@ -611,12 +616,12 @@ Partial Class HD1
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Detail.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.Detail.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Detail.Location = New System.Drawing.Point(1, 287)
+        Me.Detail.Location = New System.Drawing.Point(1, 311)
         Me.Detail.LookAndFeel.SkinName = "Office 2010 Blue"
         Me.Detail.MainView = Me.DetailGRV
         Me.Detail.Name = "Detail"
         Me.Detail.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.RepositoryItemTextEdit1, Me.RepositoryItemTextEdit2})
-        Me.Detail.Size = New System.Drawing.Size(996, 168)
+        Me.Detail.Size = New System.Drawing.Size(996, 144)
         Me.Detail.TabIndex = 15
         Me.Detail.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.DetailGRV})
         '
@@ -673,7 +678,7 @@ Partial Class HD1
         Me.TxtTen_kh.BackColor = System.Drawing.Color.White
         Me.TxtTen_kh.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_kh.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_kh.Location = New System.Drawing.Point(198, 156)
+        Me.TxtTen_kh.Location = New System.Drawing.Point(198, 178)
         Me.TxtTen_kh.Name = "TxtTen_kh"
         Me.TxtTen_kh.ReadOnly = True
         Me.TxtTen_kh.Size = New System.Drawing.Size(360, 20)
@@ -688,7 +693,7 @@ Partial Class HD1
         Me.TxtMa_Kh.Dv_Master = Nothing
         Me.TxtMa_Kh.FilterClient = ""
         Me.TxtMa_Kh.FilterSQL = ""
-        Me.TxtMa_Kh.Location = New System.Drawing.Point(80, 156)
+        Me.TxtMa_Kh.Location = New System.Drawing.Point(80, 178)
         Me.TxtMa_Kh.Name = "TxtMa_Kh"
         Me.TxtMa_Kh.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_Kh.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -705,7 +710,7 @@ Partial Class HD1
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(10, 148)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(10, 170)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(982, 8)
         Me.GroupBoxLine.TabIndex = 156
@@ -915,7 +920,7 @@ Partial Class HD1
         Me.TxtTen_KhVAT.BackColor = System.Drawing.Color.White
         Me.TxtTen_KhVAT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_KhVAT.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_KhVAT.Location = New System.Drawing.Point(630, 156)
+        Me.TxtTen_KhVAT.Location = New System.Drawing.Point(630, 178)
         Me.TxtTen_KhVAT.Name = "TxtTen_KhVAT"
         Me.TxtTen_KhVAT.Size = New System.Drawing.Size(366, 20)
         Me.TxtTen_KhVAT.TabIndex = 30
@@ -925,7 +930,7 @@ Partial Class HD1
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label1.ForeColor = System.Drawing.Color.Navy
-        Me.Label1.Location = New System.Drawing.Point(558, 181)
+        Me.Label1.Location = New System.Drawing.Point(558, 203)
         Me.Label1.Margin = New System.Windows.Forms.Padding(0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(69, 14)
@@ -940,7 +945,7 @@ Partial Class HD1
         Me.TxtDia_ChiVAT.BackColor = System.Drawing.Color.White
         Me.TxtDia_ChiVAT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtDia_ChiVAT.ForeColor = System.Drawing.Color.Navy
-        Me.TxtDia_ChiVAT.Location = New System.Drawing.Point(630, 178)
+        Me.TxtDia_ChiVAT.Location = New System.Drawing.Point(630, 200)
         Me.TxtDia_ChiVAT.Name = "TxtDia_ChiVAT"
         Me.TxtDia_ChiVAT.Size = New System.Drawing.Size(366, 20)
         Me.TxtDia_ChiVAT.TabIndex = 31
@@ -950,7 +955,7 @@ Partial Class HD1
         Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label2.ForeColor = System.Drawing.Color.Navy
-        Me.Label2.Location = New System.Drawing.Point(558, 159)
+        Me.Label2.Location = New System.Drawing.Point(558, 181)
         Me.Label2.Margin = New System.Windows.Forms.Padding(0)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(69, 14)
@@ -963,7 +968,7 @@ Partial Class HD1
         Me.TxtMa_So_Thue.BackColor = System.Drawing.Color.White
         Me.TxtMa_So_Thue.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_So_Thue.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_So_Thue.Location = New System.Drawing.Point(336, 199)
+        Me.TxtMa_So_Thue.Location = New System.Drawing.Point(336, 221)
         Me.TxtMa_So_Thue.Name = "TxtMa_So_Thue"
         Me.TxtMa_So_Thue.Size = New System.Drawing.Size(222, 20)
         Me.TxtMa_So_Thue.TabIndex = 9
@@ -973,7 +978,7 @@ Partial Class HD1
         Me.Label3.BackColor = System.Drawing.Color.Transparent
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label3.ForeColor = System.Drawing.Color.Navy
-        Me.Label3.Location = New System.Drawing.Point(262, 202)
+        Me.Label3.Location = New System.Drawing.Point(262, 224)
         Me.Label3.Margin = New System.Windows.Forms.Padding(0)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(71, 14)
@@ -988,7 +993,7 @@ Partial Class HD1
         Me.txtTen_BP_H.BackColor = System.Drawing.Color.White
         Me.txtTen_BP_H.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtTen_BP_H.ForeColor = System.Drawing.Color.Navy
-        Me.txtTen_BP_H.Location = New System.Drawing.Point(747, 221)
+        Me.txtTen_BP_H.Location = New System.Drawing.Point(747, 243)
         Me.txtTen_BP_H.Name = "txtTen_BP_H"
         Me.txtTen_BP_H.ReadOnly = True
         Me.txtTen_BP_H.Size = New System.Drawing.Size(249, 20)
@@ -1003,7 +1008,7 @@ Partial Class HD1
         Me.TxtMa_Bp_H.Dv_Master = Nothing
         Me.TxtMa_Bp_H.FilterClient = ""
         Me.TxtMa_Bp_H.FilterSQL = ""
-        Me.TxtMa_Bp_H.Location = New System.Drawing.Point(630, 221)
+        Me.TxtMa_Bp_H.Location = New System.Drawing.Point(630, 243)
         Me.TxtMa_Bp_H.Name = "TxtMa_Bp_H"
         Me.TxtMa_Bp_H.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_Bp_H.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -1021,7 +1026,7 @@ Partial Class HD1
         Me.Label4.BackColor = System.Drawing.Color.Transparent
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label4.ForeColor = System.Drawing.Color.Navy
-        Me.Label4.Location = New System.Drawing.Point(558, 224)
+        Me.Label4.Location = New System.Drawing.Point(558, 246)
         Me.Label4.Margin = New System.Windows.Forms.Padding(0)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(69, 14)
@@ -1036,7 +1041,7 @@ Partial Class HD1
         Me.txtTen_HS_H.BackColor = System.Drawing.Color.White
         Me.txtTen_HS_H.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtTen_HS_H.ForeColor = System.Drawing.Color.Navy
-        Me.txtTen_HS_H.Location = New System.Drawing.Point(747, 242)
+        Me.txtTen_HS_H.Location = New System.Drawing.Point(747, 264)
         Me.txtTen_HS_H.Name = "txtTen_HS_H"
         Me.txtTen_HS_H.ReadOnly = True
         Me.txtTen_HS_H.Size = New System.Drawing.Size(249, 20)
@@ -1051,7 +1056,7 @@ Partial Class HD1
         Me.txtMa_HS_H.Dv_Master = Nothing
         Me.txtMa_HS_H.FilterClient = ""
         Me.txtMa_HS_H.FilterSQL = ""
-        Me.txtMa_HS_H.Location = New System.Drawing.Point(630, 242)
+        Me.txtMa_HS_H.Location = New System.Drawing.Point(630, 264)
         Me.txtMa_HS_H.Name = "txtMa_HS_H"
         Me.txtMa_HS_H.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtMa_HS_H.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -1069,7 +1074,7 @@ Partial Class HD1
         Me.Label5.BackColor = System.Drawing.Color.Transparent
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label5.ForeColor = System.Drawing.Color.Navy
-        Me.Label5.Location = New System.Drawing.Point(558, 245)
+        Me.Label5.Location = New System.Drawing.Point(558, 267)
         Me.Label5.Margin = New System.Windows.Forms.Padding(0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(69, 14)
@@ -1082,7 +1087,7 @@ Partial Class HD1
         Me.txtTen_NX.BackColor = System.Drawing.Color.White
         Me.txtTen_NX.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtTen_NX.ForeColor = System.Drawing.Color.Navy
-        Me.txtTen_NX.Location = New System.Drawing.Point(198, 221)
+        Me.txtTen_NX.Location = New System.Drawing.Point(198, 243)
         Me.txtTen_NX.Name = "txtTen_NX"
         Me.txtTen_NX.ReadOnly = True
         Me.txtTen_NX.Size = New System.Drawing.Size(360, 20)
@@ -1097,7 +1102,7 @@ Partial Class HD1
         Me.txtMa_NX.Dv_Master = Nothing
         Me.txtMa_NX.FilterClient = ""
         Me.txtMa_NX.FilterSQL = ""
-        Me.txtMa_NX.Location = New System.Drawing.Point(80, 221)
+        Me.txtMa_NX.Location = New System.Drawing.Point(80, 243)
         Me.txtMa_NX.Name = "txtMa_NX"
         Me.txtMa_NX.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtMa_NX.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -1115,7 +1120,7 @@ Partial Class HD1
         Me.Label6.BackColor = System.Drawing.Color.Transparent
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label6.ForeColor = System.Drawing.Color.Navy
-        Me.Label6.Location = New System.Drawing.Point(1, 224)
+        Me.Label6.Location = New System.Drawing.Point(1, 246)
         Me.Label6.Margin = New System.Windows.Forms.Padding(0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(78, 14)
@@ -1128,7 +1133,7 @@ Partial Class HD1
         Me.TxtTen_vtthue.BackColor = System.Drawing.Color.White
         Me.TxtTen_vtthue.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_vtthue.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_vtthue.Location = New System.Drawing.Point(80, 242)
+        Me.TxtTen_vtthue.Location = New System.Drawing.Point(80, 264)
         Me.TxtTen_vtthue.Name = "TxtTen_vtthue"
         Me.TxtTen_vtthue.Size = New System.Drawing.Size(478, 20)
         Me.TxtTen_vtthue.TabIndex = 11
@@ -1138,7 +1143,7 @@ Partial Class HD1
         Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label7.ForeColor = System.Drawing.Color.Navy
-        Me.Label7.Location = New System.Drawing.Point(1, 245)
+        Me.Label7.Location = New System.Drawing.Point(1, 267)
         Me.Label7.Margin = New System.Windows.Forms.Padding(0)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(76, 14)
@@ -1924,6 +1929,7 @@ Partial Class HD1
         Me.CmdTAONhap.TabIndex = 7228
         Me.CmdTAONhap.Text = "Tạo nháp"
         Me.CmdTAONhap.UseVisualStyleBackColor = False
+        Me.CmdTAONhap.Visible = False
         '
         'CmdTaoHD
         '
@@ -1935,6 +1941,7 @@ Partial Class HD1
         Me.CmdTaoHD.TabIndex = 7227
         Me.CmdTaoHD.Text = "Phát hành HĐĐT"
         Me.CmdTaoHD.UseVisualStyleBackColor = False
+        Me.CmdTaoHD.Visible = False
         '
         'TxtTen_LD
         '
@@ -1943,7 +1950,7 @@ Partial Class HD1
         Me.TxtTen_LD.BackColor = System.Drawing.Color.White
         Me.TxtTen_LD.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_LD.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_LD.Location = New System.Drawing.Point(198, 263)
+        Me.TxtTen_LD.Location = New System.Drawing.Point(198, 285)
         Me.TxtTen_LD.Name = "TxtTen_LD"
         Me.TxtTen_LD.ReadOnly = True
         Me.TxtTen_LD.Size = New System.Drawing.Size(360, 20)
@@ -1958,7 +1965,7 @@ Partial Class HD1
         Me.TxtMa_LD.Dv_Master = Nothing
         Me.TxtMa_LD.FilterClient = ""
         Me.TxtMa_LD.FilterSQL = ""
-        Me.TxtMa_LD.Location = New System.Drawing.Point(80, 263)
+        Me.TxtMa_LD.Location = New System.Drawing.Point(80, 285)
         Me.TxtMa_LD.Name = "TxtMa_LD"
         Me.TxtMa_LD.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_LD.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -1974,7 +1981,7 @@ Partial Class HD1
         Me.Label26.BackColor = System.Drawing.Color.Transparent
         Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label26.ForeColor = System.Drawing.Color.Red
-        Me.Label26.Location = New System.Drawing.Point(1, 266)
+        Me.Label26.Location = New System.Drawing.Point(1, 288)
         Me.Label26.Margin = New System.Windows.Forms.Padding(0)
         Me.Label26.Name = "Label26"
         Me.Label26.Size = New System.Drawing.Size(56, 14)
@@ -1995,10 +2002,64 @@ Partial Class HD1
         Me.TxtStt_Rec_TT.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         Me.TxtStt_Rec_TT.Visible = False
         '
+        'CmdPH_HoaDon
+        '
+        Me.CmdPH_HoaDon.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.CmdPH_HoaDon.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.CmdPH_HoaDon.Appearance.Options.UseForeColor = True
+        Me.CmdPH_HoaDon.Image = CType(resources.GetObject("CmdPH_HoaDon.Image"), System.Drawing.Image)
+        Me.CmdPH_HoaDon.Location = New System.Drawing.Point(184, 143)
+        Me.CmdPH_HoaDon.Name = "CmdPH_HoaDon"
+        Me.CmdPH_HoaDon.Size = New System.Drawing.Size(98, 28)
+        Me.CmdPH_HoaDon.TabIndex = 7278
+        Me.CmdPH_HoaDon.Text = "Phát hành HĐ"
+        '
+        'CmdTao_HD_Nhap
+        '
+        Me.CmdTao_HD_Nhap.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.CmdTao_HD_Nhap.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.CmdTao_HD_Nhap.Appearance.Options.UseForeColor = True
+        Me.CmdTao_HD_Nhap.Image = CType(resources.GetObject("CmdTao_HD_Nhap.Image"), System.Drawing.Image)
+        Me.CmdTao_HD_Nhap.Location = New System.Drawing.Point(80, 143)
+        Me.CmdTao_HD_Nhap.Name = "CmdTao_HD_Nhap"
+        Me.CmdTao_HD_Nhap.Size = New System.Drawing.Size(98, 28)
+        Me.CmdTao_HD_Nhap.TabIndex = 7277
+        Me.CmdTao_HD_Nhap.Text = "Tạo HĐ nháp"
+        '
+        'Label52
+        '
+        Me.Label52.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Label52.BackColor = System.Drawing.Color.Transparent
+        Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.Label52.ForeColor = System.Drawing.Color.Blue
+        Me.Label52.Location = New System.Drawing.Point(634, 8)
+        Me.Label52.Margin = New System.Windows.Forms.Padding(0)
+        Me.Label52.Name = "Label52"
+        Me.Label52.Size = New System.Drawing.Size(64, 14)
+        Me.Label52.TabIndex = 7283
+        Me.Label52.Tag = "InvoiceGUID"
+        Me.Label52.Text = "InvoiceGUID"
+        Me.Label52.Visible = False
+        '
+        'txtInvoiceGUID
+        '
+        Me.txtInvoiceGUID.BackColor = System.Drawing.Color.White
+        Me.txtInvoiceGUID.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.txtInvoiceGUID.ForeColor = System.Drawing.Color.Blue
+        Me.txtInvoiceGUID.Location = New System.Drawing.Point(619, 8)
+        Me.txtInvoiceGUID.Name = "txtInvoiceGUID"
+        Me.txtInvoiceGUID.Size = New System.Drawing.Size(114, 20)
+        Me.txtInvoiceGUID.TabIndex = 7282
+        Me.txtInvoiceGUID.Visible = False
+        '
         'HD1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(1001, 621)
+        Me.Controls.Add(Me.Label52)
+        Me.Controls.Add(Me.txtInvoiceGUID)
+        Me.Controls.Add(Me.CmdPH_HoaDon)
+        Me.Controls.Add(Me.CmdTao_HD_Nhap)
         Me.Controls.Add(Me.TxtStt_Rec_TT)
         Me.Controls.Add(Me.TxtTen_LD)
         Me.Controls.Add(Me.TxtMa_LD)
@@ -2243,6 +2304,10 @@ Partial Class HD1
         Me.Controls.SetChildIndex(Me.TxtMa_LD, 0)
         Me.Controls.SetChildIndex(Me.TxtTen_LD, 0)
         Me.Controls.SetChildIndex(Me.TxtStt_Rec_TT, 0)
+        Me.Controls.SetChildIndex(Me.CmdTao_HD_Nhap, 0)
+        Me.Controls.SetChildIndex(Me.CmdPH_HoaDon, 0)
+        Me.Controls.SetChildIndex(Me.txtInvoiceGUID, 0)
+        Me.Controls.SetChildIndex(Me.Label52, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).EndInit()
@@ -2378,5 +2443,8 @@ Partial Class HD1
     Friend WithEvents TxtMa_LD As Cyber.SmLists.TxtLookup
     Friend WithEvents Label26 As System.Windows.Forms.Label
     Friend WithEvents TxtStt_Rec_TT As System.Windows.Forms.TextBox
-
+    Friend WithEvents CmdPH_HoaDon As DevExpress.XtraEditors.SimpleButton
+    Friend WithEvents CmdTao_HD_Nhap As DevExpress.XtraEditors.SimpleButton
+    Friend WithEvents Label52 As Label
+    Friend WithEvents txtInvoiceGUID As TextBox
 End Class

@@ -143,7 +143,6 @@
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim
-        M_strParameterStore = M_strParameterStore & "#" & Is_Detail
         '-----------------------------------------------------------------------------
         Me.is_continue = True
         Dim M_strFieldValue As String = ""

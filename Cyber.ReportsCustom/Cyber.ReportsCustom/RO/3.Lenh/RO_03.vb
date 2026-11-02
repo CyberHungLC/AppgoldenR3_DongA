@@ -112,6 +112,9 @@
         AddHandler TxtMa_TTCP.CyberValiting, AddressOf V_Ma_TTCP
         AddHandler TxtMa_TTCP.CyberLeave, AddressOf L_Ma_TTCP
 
+        AddHandler TxtMaDB.CyberValiting, AddressOf V_Ma_DB
+        AddHandler TxtMaDB.CyberLeave, AddressOf L_Ma_DB
+
     End Sub
     Private Sub V_LoadMa_GD(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Dim _Ma_Ct As String = ""
@@ -229,6 +232,24 @@
         End If
     End Sub
 #End Region
+    Private Sub V_Ma_DB(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtMaDB.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_DB", "DMDB", "1=1", "1=1")
+    End Sub
+
+    Private Sub L_Ma_DB(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        If TxtMaDB.Text = "" Then
+            TxtTenDB.Text = ""
+            Exit Sub
+        End If
+        DrReturn = TxtMaDB.GetRowsSelectData(False)
+        If Not DrReturn Is Nothing Then
+            TxtMaDB.Text = DrReturn.Item("Ma_DB")
+            TxtTenDB.Text = DrReturn.Item("Ten_DB")
+        Else
+            TxtMaDB.Text = ""
+            TxtTenDB.Text = ""
+        End If
+    End Sub
 #End Region
 #Region "Button"
     Private Sub V_Nhan(ByVal sender As System.Object, ByVal e As System.EventArgs)
@@ -280,6 +301,7 @@
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Post1_Filter
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Post2_Filter
         M_strParameterStore = M_strParameterStore & "#" & IIf(ChkXe_Dv.Checked, "1", "0")
+        M_strParameterStore = M_strParameterStore & "#" & TxtMaDB.Text
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_TTCP.Text
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter

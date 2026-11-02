@@ -256,10 +256,8 @@
         M_strParameterStore = M_strParameterStore & "#" & If(ChkGroup2.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & If(ChkGroup3.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & Me.Para(Me.VT_PARA + 1).ToString.Trim
-
         M_strParameterStore = M_strParameterStore & "#" & CmbMa_Post1.SelectedValue.ToString.Trim
         M_strParameterStore = M_strParameterStore & "#" & CmbMa_Post2.SelectedValue.ToString.Trim
-
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim

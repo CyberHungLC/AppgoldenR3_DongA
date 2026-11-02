@@ -89,6 +89,9 @@
         AddHandler TxtMa_TTCP.CyberValiting, AddressOf V_Ma_TTCP
         AddHandler TxtMa_TTCP.CyberLeave, AddressOf L_Ma_TTCP
 
+
+        AddHandler TxtMaDB.CyberValiting, AddressOf V_Ma_DB
+        AddHandler TxtMaDB.CyberLeave, AddressOf L_Ma_DB
         '-- ma Vt
         AddHandler TxtMa_vt.CyberValiting, AddressOf V_Ma_vt
         AddHandler TxtMa_vt.CyberLeave, AddressOf L_Ma_vt
@@ -96,6 +99,10 @@
         '-- ma Vt
         AddHandler TxtMa_CV.CyberValiting, AddressOf V_Ma_Cv
         AddHandler TxtMa_CV.CyberLeave, AddressOf L_Ma_Cv
+
+        '-- Nh Cv 1
+        AddHandler TxtNh_CV1.CyberValiting, AddressOf V_Nh_Cv1
+        AddHandler TxtNh_CV1.CyberLeave, AddressOf L_Nh_Cv1
 
         '--Mã Chiến dịch
         AddHandler txtMa_ChienDich.CyberValiting, AddressOf V_Ma_ChienDich
@@ -124,16 +131,32 @@
 #Region "Valid"
 #Region "Valid --- Ma_Cv"
     Private Sub V_Ma_Cv(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
-        TxtMa_Cv.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_Cv", "DmCv", "1=1", "1=1")
+        TxtMa_CV.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_Cv", "DmCv", "1=1", "1=1")
     End Sub
     Private Sub L_Ma_Cv(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
-        DrReturn = TxtMa_Cv.GetRowsSelectData(True)
+        DrReturn = TxtMa_CV.GetRowsSelectData(True)
         If Not DrReturn Is Nothing Then
             TxtMa_CV.Text = DrReturn.Item("Ma_Cv")
             TxtTen_CV.Text = DrReturn.Item("Ten_Cv")
         Else
             TxtMa_CV.Text = ""
             TxtTen_CV.Text = ""
+            Exit Sub
+        End If
+    End Sub
+#End Region
+#Region "Valid ---  Nh_Cv1"
+    Private Sub V_Nh_Cv1(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtNh_CV1.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_NH", "DmNhCv", "1=1", "Loai_Nh='1'")
+    End Sub
+    Private Sub L_Nh_Cv1(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        DrReturn = TxtNh_CV1.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then
+            TxtNh_CV1.Text = DrReturn.Item("Ma_NH")
+            TxtTen_Nh_CV1.Text = DrReturn.Item("Ten_Nh")
+        Else
+            TxtNh_CV1.Text = ""
+            TxtTen_Nh_CV1.Text = ""
             Exit Sub
         End If
     End Sub
@@ -322,6 +345,24 @@
         End If
     End Sub
 #End Region
+    Private Sub V_Ma_DB(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtMaDB.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_DB", "DMDB", "1=1", "1=1")
+    End Sub
+
+    Private Sub L_Ma_DB(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        If TxtMaDB.Text = "" Then
+            TxtTenDB.Text = ""
+            Exit Sub
+        End If
+        DrReturn = TxtMaDB.GetRowsSelectData(False)
+        If Not DrReturn Is Nothing Then
+            TxtMaDB.Text = DrReturn.Item("Ma_DB")
+            TxtTenDB.Text = DrReturn.Item("Ten_DB")
+        Else
+            TxtMaDB.Text = ""
+            TxtTenDB.Text = ""
+        End If
+    End Sub
 #End Region
 #Region "Button"
     Private Sub V_Nhan(ByVal sender As System.Object, ByVal e As System.EventArgs)
@@ -351,10 +392,12 @@
         M_strParameterStore = M_strParameterStore & "#" & TxtNh_Vt2.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtNh_Vt3.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_CV.Text.Trim
+        M_strParameterStore = M_strParameterStore & "#" & TxtNh_CV1.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & txtMa_ChienDich.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & IIf(ChkXe_Dv.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & IIf(ChkXe_Kd.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_TTCP.Text
+        M_strParameterStore = M_strParameterStore & "#" & TxtMaDB.Text
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & _Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim

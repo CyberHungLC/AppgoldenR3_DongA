@@ -54,19 +54,23 @@ Partial Class INSO1T
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
         Me.CmbMa_TTCP = New System.Windows.Forms.ComboBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.TxtNonVat = New Cyber.SmLists.TxtLookup()
+        Me.Label11 = New System.Windows.Forms.Label()
         CType(Me.TxtMa_kho.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_Vt.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_vt2.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_vt1.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_vt3.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtTk_Vt.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.TxtNonVat.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'ButtExit
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(539, 353)
+        Me.ButtExit.Location = New System.Drawing.Point(539, 379)
         Me.ButtExit.TabIndex = 16
         '
         'CBBMa_Dvcs
@@ -74,40 +78,40 @@ Partial Class INSO1T
         Me.CBBMa_Dvcs.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CBBMa_Dvcs.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(120, 314)
+        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(120, 340)
         Me.CBBMa_Dvcs.Size = New System.Drawing.Size(521, 21)
         Me.CBBMa_Dvcs.TabIndex = 14
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(10, 317)
+        Me.Label1.Location = New System.Drawing.Point(10, 343)
         '
         'ButtOK
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(435, 353)
+        Me.ButtOK.Location = New System.Drawing.Point(435, 379)
         Me.ButtOK.TabIndex = 15
         '
         'LabLoai_NT
         '
-        Me.LabLoai_NT.Location = New System.Drawing.Point(10, 295)
+        Me.LabLoai_NT.Location = New System.Drawing.Point(10, 321)
         '
         'ChkVND
         '
-        Me.ChkVND.Location = New System.Drawing.Point(120, 292)
+        Me.ChkVND.Location = New System.Drawing.Point(120, 318)
         Me.ChkVND.TabIndex = 12
         '
         'ChkNT
         '
-        Me.ChkNT.Location = New System.Drawing.Point(227, 292)
+        Me.ChkNT.Location = New System.Drawing.Point(227, 318)
         Me.ChkNT.TabIndex = 13
         '
         'GroupBoxLine
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 336)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 362)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(636, 9)
         Me.GroupBoxLine.TabIndex = 15
@@ -521,7 +525,7 @@ Partial Class INSO1T
         '
         Me.Label14.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.Label14.ForeColor = System.Drawing.Color.Red
-        Me.Label14.Location = New System.Drawing.Point(10, 242)
+        Me.Label14.Location = New System.Drawing.Point(10, 268)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(82, 13)
         Me.Label14.TabIndex = 2222
@@ -534,15 +538,60 @@ Partial Class INSO1T
         Me.CmbMa_TTCP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CmbMa_TTCP.ForeColor = System.Drawing.Color.Navy
         Me.CmbMa_TTCP.FormattingEnabled = True
-        Me.CmbMa_TTCP.Location = New System.Drawing.Point(120, 237)
+        Me.CmbMa_TTCP.Location = New System.Drawing.Point(120, 263)
         Me.CmbMa_TTCP.Name = "CmbMa_TTCP"
         Me.CmbMa_TTCP.Size = New System.Drawing.Size(173, 21)
         Me.CmbMa_TTCP.TabIndex = 2221
         '
+        'Label2
+        '
+        Me.Label2.Location = New System.Drawing.Point(237, 240)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(216, 17)
+        Me.Label2.TabIndex = 2225
+        Me.Label2.Tag = "Corresponding acc"
+        Me.Label2.Text = "0 - Kê khai thuế, 1 - Không kê khai thuế"
+        Me.Label2.Visible = False
+        '
+        'TxtNonVat
+        '
+        Me.TxtNonVat._ActilookupPopup = False
+        Me.TxtNonVat.CyberActilookupPopup = True
+        Me.TxtNonVat.Dv_ListDetail = Nothing
+        Me.TxtNonVat.Dv_Master = Nothing
+        Me.TxtNonVat.FilterClient = ""
+        Me.TxtNonVat.FilterSQL = ""
+        Me.TxtNonVat.Location = New System.Drawing.Point(120, 237)
+        Me.TxtNonVat.Name = "TxtNonVat"
+        Me.TxtNonVat.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.TxtNonVat.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.TxtNonVat.Properties.Appearance.Options.UseFont = True
+        Me.TxtNonVat.Properties.Appearance.Options.UseForeColor = True
+        Me.TxtNonVat.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
+        Me.TxtNonVat.Size = New System.Drawing.Size(116, 20)
+        Me.TxtNonVat.TabIndex = 2223
+        Me.TxtNonVat.Table_Name = ""
+        Me.TxtNonVat.Visible = False
+        '
+        'Label11
+        '
+        Me.Label11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.ForeColor = System.Drawing.Color.Red
+        Me.Label11.Location = New System.Drawing.Point(10, 240)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(82, 17)
+        Me.Label11.TabIndex = 2224
+        Me.Label11.Tag = "Corresponding acc"
+        Me.Label11.Text = "Loại sổ"
+        Me.Label11.Visible = False
+        '
         'INSO1T
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(643, 406)
+        Me.ClientSize = New System.Drawing.Size(643, 432)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.TxtNonVat)
+        Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.Label14)
         Me.Controls.Add(Me.CmbMa_TTCP)
         Me.Controls.Add(Me.Label9)
@@ -622,12 +671,16 @@ Partial Class INSO1T
         Me.Controls.SetChildIndex(Me.Label9, 0)
         Me.Controls.SetChildIndex(Me.CmbMa_TTCP, 0)
         Me.Controls.SetChildIndex(Me.Label14, 0)
+        Me.Controls.SetChildIndex(Me.Label11, 0)
+        Me.Controls.SetChildIndex(Me.TxtNonVat, 0)
+        Me.Controls.SetChildIndex(Me.Label2, 0)
         CType(Me.TxtMa_kho.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_Vt.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_vt2.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_vt1.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_vt3.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtTk_Vt.Properties, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.TxtNonVat.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -667,5 +720,7 @@ Partial Class INSO1T
     Friend WithEvents Label10 As System.Windows.Forms.Label
     Friend WithEvents Label14 As System.Windows.Forms.Label
     Friend WithEvents CmbMa_TTCP As System.Windows.Forms.ComboBox
-
+    Friend WithEvents Label2 As Label
+    Friend WithEvents TxtNonVat As SmLists.TxtLookup
+    Friend WithEvents Label11 As Label
 End Class

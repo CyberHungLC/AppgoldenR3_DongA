@@ -21,11 +21,16 @@ Public Class Sys
         Dim _Return As Cyber.From.FilterReport = Nothing
 
         Select Case Cp_Name.ToString.Trim.ToUpper
-
             Case "CP_SYSTH1_BAN_LOC_TEN_THU_TUC_O_DAY".Trim.ToUpper
                 '--CYBERSOFT Cho Phép bạn Hiệu chỉnh ở phần này
                 _Return = New SysTH1
                 'Gl----------------------------------------------------------------------------------------------------------------------------------
+            Case "CP_INSO1T".Trim.ToUpper
+                _Return = New INSO1T
+            Case "CP_ROKQKDTH1".Trim.ToUpper
+                _Return = New ROKQKDTH1
+            Case "CP_BCDV_11".Trim.ToUpper
+                _Return = New BCDV_11
             Case "CP_GLTC2".Trim.ToUpper
                 _Return = New GLTC2
             Case "CP_FACTTSBK1".Trim.ToUpper
@@ -189,7 +194,8 @@ Public Class Sys
                 _Return = New RO_HD03
             Case "CP_RO_HD03_XanhSm".Trim.ToUpper
                 _Return = New RO_HD03_XanhSm
-
+            Case "CP_IMBKPB1_CPTT".Trim.ToUpper
+                _Return = New IMBKPB1
             Case "CP_RO_HDS_KPI_TH_CNHD".Trim.ToUpper, "CP_RO_HDS_KPI_TH_CNHD".Trim.ToUpper
                 _Return = New RO_HDS_KPI_TH_CNHD
             Case "CP_RO_DT05".Trim.ToUpper, "CP_RO_DT05".Trim.ToUpper

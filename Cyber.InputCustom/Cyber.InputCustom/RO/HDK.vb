@@ -1618,7 +1618,11 @@ Public Class HDK
 #Region "Vali --- Ma_DB"
     Private Sub V_Ma_DB(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
-        sender.V_LookUp(M_LAN, M_Para, osysvar, AppConn, DsLookup, "Ma_DB", "DMDB", "1=1", "1=1")
+        Dim _Ma_TTCP_Fil As String = CbbMa_TTCP_H.SelectedValue
+        Dim _Key As String = "1=1"
+        If _Ma_TTCP_Fil.Trim <> "" Then _Key = "Ma_TTCP = '" + _Ma_TTCP_Fil.Trim + "'"
+
+        sender.V_LookUp(M_LAN, M_Para, osysvar, AppConn, DsLookup, "Ma_DB", "DMDB", "1=1", _Key)
     End Sub
     Private Sub L_Ma_DB(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub

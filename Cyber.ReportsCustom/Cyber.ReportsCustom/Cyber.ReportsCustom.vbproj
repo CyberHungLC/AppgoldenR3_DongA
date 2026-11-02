@@ -368,6 +368,12 @@
     <Compile Include="GL\BCDN3BK1.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="GL\BCDV_11.designer.vb">
+      <DependentUpon>BCDV_11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GL\BCDV_11.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="GL\BCDXMBK1.Designer.vb">
       <DependentUpon>BCDXMBK1.vb</DependentUpon>
     </Compile>
@@ -480,6 +486,12 @@
       <DependentUpon>GLThueBk31.vb</DependentUpon>
     </Compile>
     <Compile Include="GL\GLThueBk31.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GL\IMBKPB1.designer.vb">
+      <DependentUpon>IMBKPB1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GL\IMBKPB1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GL\IN\INSD2.designer.vb">
@@ -818,6 +830,12 @@
     <Compile Include="RO\5.Doanh_Thu\Ro_KPICVDV.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\5.Doanh_Thu\ROKQKDTH1.Designer.vb">
+      <DependentUpon>ROKQKDTH1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\5.Doanh_Thu\ROKQKDTH1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\6. BC Kho\BC_HLGiaVT.designer.vb">
       <DependentUpon>BC_HLGiaVT.vb</DependentUpon>
     </Compile>
@@ -1103,6 +1121,9 @@
     <EmbeddedResource Include="GL\BCDN3BK1.resx">
       <DependentUpon>BCDN3BK1.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GL\BCDV_11.resx">
+      <DependentUpon>BCDV_11.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GL\BCDXMBK1.resx">
       <DependentUpon>BCDXMBK1.vb</DependentUpon>
     </EmbeddedResource>
@@ -1159,6 +1180,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GL\GLThueBk31.resx">
       <DependentUpon>GLThueBk31.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GL\IMBKPB1.resx">
+      <DependentUpon>IMBKPB1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GL\IN\INSD2.resx">
       <DependentUpon>INSD2.vb</DependentUpon>
@@ -1327,6 +1351,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\5.Doanh_Thu\Ro_KPICVDV.resx">
       <DependentUpon>Ro_KPICVDV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\5.Doanh_Thu\ROKQKDTH1.resx">
+      <DependentUpon>ROKQKDTH1.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\6. BC Kho\BC_HLGiaVT.resx">
       <DependentUpon>BC_HLGiaVT.vb</DependentUpon>

@@ -449,7 +449,7 @@ Partial Class HDS
         Me.LabDia_ChiVAT.BackColor = System.Drawing.Color.Transparent
         Me.LabDia_ChiVAT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabDia_ChiVAT.ForeColor = System.Drawing.Color.Navy
-        Me.LabDia_ChiVAT.Location = New System.Drawing.Point(11, 239)
+        Me.LabDia_ChiVAT.Location = New System.Drawing.Point(11, 246)
         Me.LabDia_ChiVAT.Margin = New System.Windows.Forms.Padding(0)
         Me.LabDia_ChiVAT.Name = "LabDia_ChiVAT"
         Me.LabDia_ChiVAT.Size = New System.Drawing.Size(64, 13)
@@ -515,7 +515,7 @@ Partial Class HDS
         Me.txtDien_giai.BackColor = System.Drawing.Color.White
         Me.txtDien_giai.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtDien_giai.ForeColor = System.Drawing.Color.Navy
-        Me.txtDien_giai.Location = New System.Drawing.Point(96, 281)
+        Me.txtDien_giai.Location = New System.Drawing.Point(96, 286)
         Me.txtDien_giai.Name = "txtDien_giai"
         Me.txtDien_giai.Size = New System.Drawing.Size(531, 20)
         Me.txtDien_giai.TabIndex = 37
@@ -539,7 +539,7 @@ Partial Class HDS
         Me.txtOng_ba.BackColor = System.Drawing.Color.White
         Me.txtOng_ba.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtOng_ba.ForeColor = System.Drawing.Color.Navy
-        Me.txtOng_ba.Location = New System.Drawing.Point(96, 257)
+        Me.txtOng_ba.Location = New System.Drawing.Point(96, 264)
         Me.txtOng_ba.Name = "txtOng_ba"
         Me.txtOng_ba.Size = New System.Drawing.Size(350, 20)
         Me.txtOng_ba.TabIndex = 33
@@ -550,7 +550,7 @@ Partial Class HDS
         Me.LabOng_ba.BackColor = System.Drawing.Color.Transparent
         Me.LabOng_ba.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabOng_ba.ForeColor = System.Drawing.Color.Navy
-        Me.LabOng_ba.Location = New System.Drawing.Point(11, 261)
+        Me.LabOng_ba.Location = New System.Drawing.Point(11, 268)
         Me.LabOng_ba.Margin = New System.Windows.Forms.Padding(0)
         Me.LabOng_ba.Name = "LabOng_ba"
         Me.LabOng_ba.Size = New System.Drawing.Size(75, 13)
@@ -589,7 +589,7 @@ Partial Class HDS
         Me.LabMa_kh.BackColor = System.Drawing.Color.Transparent
         Me.LabMa_kh.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabMa_kh.ForeColor = System.Drawing.Color.Navy
-        Me.LabMa_kh.Location = New System.Drawing.Point(11, 175)
+        Me.LabMa_kh.Location = New System.Drawing.Point(11, 177)
         Me.LabMa_kh.Margin = New System.Windows.Forms.Padding(0)
         Me.LabMa_kh.Name = "LabMa_kh"
         Me.LabMa_kh.Size = New System.Drawing.Size(53, 13)
@@ -712,7 +712,7 @@ Partial Class HDS
         Me.TxtMa_Kh.Dv_Master = Nothing
         Me.TxtMa_Kh.FilterClient = ""
         Me.TxtMa_Kh.FilterSQL = ""
-        Me.TxtMa_Kh.Location = New System.Drawing.Point(96, 171)
+        Me.TxtMa_Kh.Location = New System.Drawing.Point(96, 173)
         Me.TxtMa_Kh.Name = "TxtMa_Kh"
         Me.TxtMa_Kh.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_Kh.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -861,7 +861,7 @@ Partial Class HDS
         '
         Me.TxtMa_So_Thue.BackColor = System.Drawing.Color.White
         Me.TxtMa_So_Thue.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_So_Thue.Location = New System.Drawing.Point(520, 194)
+        Me.TxtMa_So_Thue.Location = New System.Drawing.Point(520, 198)
         Me.TxtMa_So_Thue.Name = "TxtMa_So_Thue"
         Me.TxtMa_So_Thue.Size = New System.Drawing.Size(107, 20)
         Me.TxtMa_So_Thue.TabIndex = 27
@@ -871,7 +871,7 @@ Partial Class HDS
         '
         Me.Label36.AutoSize = True
         Me.Label36.ForeColor = System.Drawing.Color.Navy
-        Me.Label36.Location = New System.Drawing.Point(452, 197)
+        Me.Label36.Location = New System.Drawing.Point(452, 201)
         Me.Label36.Margin = New System.Windows.Forms.Padding(0)
         Me.Label36.Name = "Label36"
         Me.Label36.Size = New System.Drawing.Size(60, 13)
@@ -895,7 +895,7 @@ Partial Class HDS
         '
         Me.LblDien_Giai.AutoSize = True
         Me.LblDien_Giai.ForeColor = System.Drawing.Color.Navy
-        Me.LblDien_Giai.Location = New System.Drawing.Point(11, 285)
+        Me.LblDien_Giai.Location = New System.Drawing.Point(11, 291)
         Me.LblDien_Giai.Margin = New System.Windows.Forms.Padding(0)
         Me.LblDien_Giai.Name = "LblDien_Giai"
         Me.LblDien_Giai.Size = New System.Drawing.Size(48, 13)
@@ -908,7 +908,7 @@ Partial Class HDS
         Me.Label6.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label6.AutoSize = True
         Me.Label6.ForeColor = System.Drawing.Color.Navy
-        Me.Label6.Location = New System.Drawing.Point(702, 242)
+        Me.Label6.Location = New System.Drawing.Point(702, 246)
         Me.Label6.Margin = New System.Windows.Forms.Padding(0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(70, 13)
@@ -934,7 +934,7 @@ Partial Class HDS
         Me.Label1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label1.AutoSize = True
         Me.Label1.ForeColor = System.Drawing.Color.Navy
-        Me.Label1.Location = New System.Drawing.Point(702, 197)
+        Me.Label1.Location = New System.Drawing.Point(702, 201)
         Me.Label1.Margin = New System.Windows.Forms.Padding(0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(36, 13)
@@ -951,7 +951,7 @@ Partial Class HDS
         Me.txtMa_NX.Dv_Master = Nothing
         Me.txtMa_NX.FilterClient = ""
         Me.txtMa_NX.FilterSQL = ""
-        Me.txtMa_NX.Location = New System.Drawing.Point(788, 240)
+        Me.txtMa_NX.Location = New System.Drawing.Point(788, 241)
         Me.txtMa_NX.Name = "txtMa_NX"
         Me.txtMa_NX.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtMa_NX.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -972,7 +972,7 @@ Partial Class HDS
         Me.TxtMa_Hs_H.Dv_Master = Nothing
         Me.TxtMa_Hs_H.FilterClient = ""
         Me.TxtMa_Hs_H.FilterSQL = ""
-        Me.TxtMa_Hs_H.Location = New System.Drawing.Point(788, 198)
+        Me.TxtMa_Hs_H.Location = New System.Drawing.Point(788, 197)
         Me.TxtMa_Hs_H.Name = "TxtMa_Hs_H"
         Me.TxtMa_Hs_H.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_Hs_H.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -989,7 +989,7 @@ Partial Class HDS
         Me.TxtTen_Nx.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_Nx.BackColor = System.Drawing.Color.White
         Me.TxtTen_Nx.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nx.Location = New System.Drawing.Point(906, 240)
+        Me.TxtTen_Nx.Location = New System.Drawing.Point(906, 242)
         Me.TxtTen_Nx.Name = "TxtTen_Nx"
         Me.TxtTen_Nx.ReadOnly = True
         Me.TxtTen_Nx.Size = New System.Drawing.Size(378, 20)
@@ -1560,7 +1560,7 @@ Partial Class HDS
         Me.TxtLenh_RO.BackColor = System.Drawing.Color.White
         Me.TxtLenh_RO.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtLenh_RO.ForeColor = System.Drawing.Color.Navy
-        Me.TxtLenh_RO.Location = New System.Drawing.Point(98, 147)
+        Me.TxtLenh_RO.Location = New System.Drawing.Point(96, 147)
         Me.TxtLenh_RO.Name = "TxtLenh_RO"
         Me.TxtLenh_RO.ReadOnly = True
         Me.TxtLenh_RO.Size = New System.Drawing.Size(107, 20)
@@ -1572,7 +1572,7 @@ Partial Class HDS
         '
         Me.TxtDia_ChiVat.BackColor = System.Drawing.Color.White
         Me.TxtDia_ChiVat.ForeColor = System.Drawing.Color.Navy
-        Me.TxtDia_ChiVat.Location = New System.Drawing.Point(96, 236)
+        Me.TxtDia_ChiVat.Location = New System.Drawing.Point(96, 242)
         Me.TxtDia_ChiVat.Name = "TxtDia_ChiVat"
         Me.TxtDia_ChiVat.Size = New System.Drawing.Size(531, 20)
         Me.TxtDia_ChiVat.TabIndex = 31
@@ -1582,7 +1582,7 @@ Partial Class HDS
         '
         Me.TxtTen_khVat.BackColor = System.Drawing.Color.White
         Me.TxtTen_khVat.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_khVat.Location = New System.Drawing.Point(96, 215)
+        Me.TxtTen_khVat.Location = New System.Drawing.Point(96, 220)
         Me.TxtTen_khVat.Name = "TxtTen_khVat"
         Me.TxtTen_khVat.Size = New System.Drawing.Size(350, 20)
         Me.TxtTen_khVat.TabIndex = 29
@@ -1677,7 +1677,7 @@ Partial Class HDS
         Me.TxtTen_kh.BackColor = System.Drawing.Color.White
         Me.TxtTen_kh.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_kh.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_kh.Location = New System.Drawing.Point(206, 173)
+        Me.TxtTen_kh.Location = New System.Drawing.Point(206, 175)
         Me.TxtTen_kh.Name = "TxtTen_kh"
         Me.TxtTen_kh.ReadOnly = True
         Me.TxtTen_kh.Size = New System.Drawing.Size(332, 20)
@@ -1689,7 +1689,7 @@ Partial Class HDS
         Me.TxtDia_Chi.BackColor = System.Drawing.Color.White
         Me.TxtDia_Chi.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtDia_Chi.ForeColor = System.Drawing.Color.Navy
-        Me.TxtDia_Chi.Location = New System.Drawing.Point(96, 194)
+        Me.TxtDia_Chi.Location = New System.Drawing.Point(96, 198)
         Me.TxtDia_Chi.Name = "TxtDia_Chi"
         Me.TxtDia_Chi.Size = New System.Drawing.Size(350, 20)
         Me.TxtDia_Chi.TabIndex = 26
@@ -1699,7 +1699,7 @@ Partial Class HDS
         Me.Label14.BackColor = System.Drawing.Color.Transparent
         Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label14.ForeColor = System.Drawing.Color.Navy
-        Me.Label14.Location = New System.Drawing.Point(11, 219)
+        Me.Label14.Location = New System.Drawing.Point(11, 224)
         Me.Label14.Margin = New System.Windows.Forms.Padding(0)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(69, 14)
@@ -1713,7 +1713,7 @@ Partial Class HDS
         Me.Label15.BackColor = System.Drawing.Color.Transparent
         Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label15.ForeColor = System.Drawing.Color.Navy
-        Me.Label15.Location = New System.Drawing.Point(11, 198)
+        Me.Label15.Location = New System.Drawing.Point(11, 202)
         Me.Label15.Margin = New System.Windows.Forms.Padding(0)
         Me.Label15.Name = "Label15"
         Me.Label15.Size = New System.Drawing.Size(40, 13)
@@ -1762,7 +1762,7 @@ Partial Class HDS
         Me.Label5.BackColor = System.Drawing.Color.Transparent
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label5.ForeColor = System.Drawing.Color.Navy
-        Me.Label5.Location = New System.Drawing.Point(702, 176)
+        Me.Label5.Location = New System.Drawing.Point(702, 178)
         Me.Label5.Margin = New System.Windows.Forms.Padding(0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(69, 14)
@@ -2090,7 +2090,7 @@ Partial Class HDS
         '
         Me.Label33.AutoSize = True
         Me.Label33.ForeColor = System.Drawing.Color.Navy
-        Me.Label33.Location = New System.Drawing.Point(450, 261)
+        Me.Label33.Location = New System.Drawing.Point(450, 268)
         Me.Label33.Name = "Label33"
         Me.Label33.Size = New System.Drawing.Size(70, 13)
         Me.Label33.TabIndex = 2132
@@ -2104,7 +2104,7 @@ Partial Class HDS
         Me.TxtTien_HD.Flags = 7680
         Me.TxtTien_HD.ForeColor = System.Drawing.Color.Navy
         Me.TxtTien_HD.InputMask = "### ### ### ### ###"
-        Me.TxtTien_HD.Location = New System.Drawing.Point(520, 257)
+        Me.TxtTien_HD.Location = New System.Drawing.Point(520, 264)
         Me.TxtTien_HD.MaxWholeDigits = 14
         Me.TxtTien_HD.Name = "TxtTien_HD"
         Me.TxtTien_HD.RangeMax = 1.7976931348623157E+308R
@@ -2375,10 +2375,10 @@ Partial Class HDS
         Me.TxtTen_TkCP.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_TkCP.BackColor = System.Drawing.Color.White
         Me.TxtTen_TkCP.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TkCP.Location = New System.Drawing.Point(908, 263)
+        Me.TxtTen_TkCP.Location = New System.Drawing.Point(906, 264)
         Me.TxtTen_TkCP.Name = "TxtTen_TkCP"
         Me.TxtTen_TkCP.ReadOnly = True
-        Me.TxtTen_TkCP.Size = New System.Drawing.Size(376, 20)
+        Me.TxtTen_TkCP.Size = New System.Drawing.Size(378, 20)
         Me.TxtTen_TkCP.TabIndex = 7169
         Me.TxtTen_TkCP.TabStop = False
         Me.TxtTen_TkCP.Tag = ""
@@ -2392,7 +2392,7 @@ Partial Class HDS
         Me.TxtTk_Cp.Dv_Master = Nothing
         Me.TxtTk_Cp.FilterClient = ""
         Me.TxtTk_Cp.FilterSQL = ""
-        Me.TxtTk_Cp.Location = New System.Drawing.Point(787, 263)
+        Me.TxtTk_Cp.Location = New System.Drawing.Point(788, 263)
         Me.TxtTk_Cp.Name = "TxtTk_Cp"
         Me.TxtTk_Cp.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTk_Cp.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -2423,7 +2423,7 @@ Partial Class HDS
         Me.TxtTen_phi.BackColor = System.Drawing.Color.White
         Me.TxtTen_phi.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_phi.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_phi.Location = New System.Drawing.Point(906, 285)
+        Me.TxtTen_phi.Location = New System.Drawing.Point(906, 286)
         Me.TxtTen_phi.Name = "TxtTen_phi"
         Me.TxtTen_phi.ReadOnly = True
         Me.TxtTen_phi.Size = New System.Drawing.Size(378, 20)
@@ -2458,7 +2458,7 @@ Partial Class HDS
         Me.Label37.BackColor = System.Drawing.Color.Transparent
         Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label37.ForeColor = System.Drawing.Color.Navy
-        Me.Label37.Location = New System.Drawing.Point(702, 287)
+        Me.Label37.Location = New System.Drawing.Point(702, 289)
         Me.Label37.Margin = New System.Windows.Forms.Padding(0)
         Me.Label37.Name = "Label37"
         Me.Label37.Size = New System.Drawing.Size(83, 14)
@@ -2509,7 +2509,7 @@ Partial Class HDS
         Me.TxtMa_BPCP.Dv_Master = Nothing
         Me.TxtMa_BPCP.FilterClient = ""
         Me.TxtMa_BPCP.FilterSQL = ""
-        Me.TxtMa_BPCP.Location = New System.Drawing.Point(788, 306)
+        Me.TxtMa_BPCP.Location = New System.Drawing.Point(788, 308)
         Me.TxtMa_BPCP.Name = "TxtMa_BPCP"
         Me.TxtMa_BPCP.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_BPCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -2528,7 +2528,7 @@ Partial Class HDS
         Me.Label40.BackColor = System.Drawing.Color.Transparent
         Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label40.ForeColor = System.Drawing.Color.Navy
-        Me.Label40.Location = New System.Drawing.Point(702, 311)
+        Me.Label40.Location = New System.Drawing.Point(702, 312)
         Me.Label40.Margin = New System.Windows.Forms.Padding(0)
         Me.Label40.Name = "Label40"
         Me.Label40.Size = New System.Drawing.Size(83, 12)
@@ -2660,7 +2660,7 @@ Partial Class HDS
         Me.TxtMa_BH.Dv_Master = Nothing
         Me.TxtMa_BH.FilterClient = ""
         Me.TxtMa_BH.FilterSQL = ""
-        Me.TxtMa_BH.Location = New System.Drawing.Point(1045, 218)
+        Me.TxtMa_BH.Location = New System.Drawing.Point(1045, 219)
         Me.TxtMa_BH.Name = "TxtMa_BH"
         Me.TxtMa_BH.Properties.Appearance.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TxtMa_BH.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -2677,10 +2677,10 @@ Partial Class HDS
         Me.Txtten_BH.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Txtten_BH.BackColor = System.Drawing.Color.White
         Me.Txtten_BH.ForeColor = System.Drawing.Color.Navy
-        Me.Txtten_BH.Location = New System.Drawing.Point(1119, 221)
+        Me.Txtten_BH.Location = New System.Drawing.Point(1119, 220)
         Me.Txtten_BH.Name = "Txtten_BH"
         Me.Txtten_BH.ReadOnly = True
-        Me.Txtten_BH.Size = New System.Drawing.Size(164, 20)
+        Me.Txtten_BH.Size = New System.Drawing.Size(165, 20)
         Me.Txtten_BH.TabIndex = 7211
         Me.Txtten_BH.TabStop = False
         Me.Txtten_BH.Tag = ""
@@ -2690,7 +2690,7 @@ Partial Class HDS
         Me.Label13.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label13.AutoSize = True
         Me.Label13.ForeColor = System.Drawing.Color.Navy
-        Me.Label13.Location = New System.Drawing.Point(1003, 222)
+        Me.Label13.Location = New System.Drawing.Point(1003, 223)
         Me.Label13.Margin = New System.Windows.Forms.Padding(0)
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(39, 13)
@@ -2848,7 +2848,7 @@ Partial Class HDS
         '
         Me.Label39.AutoSize = True
         Me.Label39.ForeColor = System.Drawing.Color.Navy
-        Me.Label39.Location = New System.Drawing.Point(11, 310)
+        Me.Label39.Location = New System.Drawing.Point(11, 312)
         Me.Label39.Margin = New System.Windows.Forms.Padding(0)
         Me.Label39.Name = "Label39"
         Me.Label39.Size = New System.Drawing.Size(82, 13)
@@ -2861,7 +2861,7 @@ Partial Class HDS
         Me.txtDien_Giai_HDDT.BackColor = System.Drawing.Color.White
         Me.txtDien_Giai_HDDT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtDien_Giai_HDDT.ForeColor = System.Drawing.Color.Navy
-        Me.txtDien_Giai_HDDT.Location = New System.Drawing.Point(96, 306)
+        Me.txtDien_Giai_HDDT.Location = New System.Drawing.Point(96, 308)
         Me.txtDien_Giai_HDDT.Name = "txtDien_Giai_HDDT"
         Me.txtDien_Giai_HDDT.Size = New System.Drawing.Size(531, 20)
         Me.txtDien_Giai_HDDT.TabIndex = 7223
@@ -3125,7 +3125,7 @@ Partial Class HDS
         'chkIs_CN
         '
         Me.chkIs_CN.AutoSize = True
-        Me.chkIs_CN.Location = New System.Drawing.Point(544, 171)
+        Me.chkIs_CN.Location = New System.Drawing.Point(544, 177)
         Me.chkIs_CN.Name = "chkIs_CN"
         Me.chkIs_CN.Size = New System.Drawing.Size(83, 17)
         Me.chkIs_CN.TabIndex = 7272
@@ -3137,7 +3137,7 @@ Partial Class HDS
         '
         Me.txtSo_CCCD.BackColor = System.Drawing.Color.White
         Me.txtSo_CCCD.ForeColor = System.Drawing.Color.Navy
-        Me.txtSo_CCCD.Location = New System.Drawing.Point(520, 215)
+        Me.txtSo_CCCD.Location = New System.Drawing.Point(520, 220)
         Me.txtSo_CCCD.Name = "txtSo_CCCD"
         Me.txtSo_CCCD.Size = New System.Drawing.Size(107, 20)
         Me.txtSo_CCCD.TabIndex = 7273
@@ -3147,7 +3147,7 @@ Partial Class HDS
         '
         Me.Label51.AutoSize = True
         Me.Label51.ForeColor = System.Drawing.Color.Navy
-        Me.Label51.Location = New System.Drawing.Point(452, 218)
+        Me.Label51.Location = New System.Drawing.Point(452, 223)
         Me.Label51.Margin = New System.Windows.Forms.Padding(0)
         Me.Label51.Name = "Label51"
         Me.Label51.Size = New System.Drawing.Size(52, 13)
@@ -3243,10 +3243,11 @@ Partial Class HDS
         '
         'TxtTen_HT_TT
         '
+        Me.TxtTen_HT_TT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_HT_TT.BackColor = System.Drawing.Color.White
         Me.TxtTen_HT_TT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_HT_TT.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_HT_TT.Location = New System.Drawing.Point(832, 218)
+        Me.TxtTen_HT_TT.Location = New System.Drawing.Point(832, 220)
         Me.TxtTen_HT_TT.Name = "TxtTen_HT_TT"
         Me.TxtTen_HT_TT.ReadOnly = True
         Me.TxtTen_HT_TT.Size = New System.Drawing.Size(168, 20)
@@ -3256,12 +3257,13 @@ Partial Class HDS
         'txtHT_TT
         '
         Me.txtHT_TT._ActilookupPopup = False
+        Me.txtHT_TT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtHT_TT.CyberActilookupPopup = True
         Me.txtHT_TT.Dv_ListDetail = Nothing
         Me.txtHT_TT.Dv_Master = Nothing
         Me.txtHT_TT.FilterClient = ""
         Me.txtHT_TT.FilterSQL = ""
-        Me.txtHT_TT.Location = New System.Drawing.Point(787, 218)
+        Me.txtHT_TT.Location = New System.Drawing.Point(788, 220)
         Me.txtHT_TT.Name = "txtHT_TT"
         Me.txtHT_TT.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtHT_TT.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -3276,10 +3278,11 @@ Partial Class HDS
         '
         'Label26
         '
+        Me.Label26.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label26.BackColor = System.Drawing.Color.Transparent
         Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label26.ForeColor = System.Drawing.Color.Navy
-        Me.Label26.Location = New System.Drawing.Point(702, 220)
+        Me.Label26.Location = New System.Drawing.Point(702, 222)
         Me.Label26.Margin = New System.Windows.Forms.Padding(0)
         Me.Label26.Name = "Label26"
         Me.Label26.Size = New System.Drawing.Size(66, 14)

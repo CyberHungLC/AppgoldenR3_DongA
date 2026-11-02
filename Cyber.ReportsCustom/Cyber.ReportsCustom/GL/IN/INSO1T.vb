@@ -83,11 +83,29 @@
         '--VT3
         AddHandler TxtNh_vt3.CyberValiting, AddressOf V_NH_VT3
         AddHandler TxtNh_vt3.CyberLeave, AddressOf L_NH_VT3
+
+        'NonVat
+        AddHandler TxtNonVat.CyberValiting, AddressOf V_NonVat
+        AddHandler TxtNonVat.CyberLeave, AddressOf L_NonVat
     End Sub
 
 
 #End Region
 #Region "Valid"
+#Region "Valid --- NonVat"
+    Private Sub V_NonVat(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        TxtNonVat.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma", "DmNonVat", "1=1", "1=1")
+    End Sub
+    Private Sub L_NonVat(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
+        DrReturn = TxtNonVat.GetRowsSelectData(True)
+        If Not DrReturn Is Nothing Then
+            TxtNonVat.Text = DrReturn.Item("Ma")
+        Else
+            TxtNonVat.Text = ""
+            Exit Sub
+        End If
+    End Sub
+#End Region
 #Region "Valid --- Ma_KHo"
     Private Sub V_Ma_KHo(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
         TxtMa_kho.V_LookUp(Me.LAN, Me.Para, Me.sysvar, AppConn, DsLookup, "Ma_KHo", "DmKHo", "1=1", "1=1")
@@ -186,6 +204,7 @@
         End If
     End Sub
 #End Region
+
 #End Region
 #Region "Button"
     Private Sub V_Nhan(ByVal sender As System.Object, ByVal e As System.EventArgs)
@@ -194,10 +213,10 @@
             TxtMa_kho.Focus()
             Exit Sub
         End If
-        If TxtMa_Vt.Text.Trim = "" Then
-            TxtMa_Vt.Focus()
-            Exit Sub
-        End If
+        'If TxtMa_Vt.Text.Trim = "" Then
+        '    TxtMa_Vt.Focus()
+        '    Exit Sub
+        'End If
         Dim Dt1 As Date = TxtM_Ngay_Ct1.Value
         Dim Dt2 As Date = TxtM_Ngay_Ct2.Value
 
@@ -206,6 +225,8 @@
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_kho.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_Vt.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & Dt1.ToString("yyyyMMdd") & "#" & Dt2.ToString("yyyyMMdd").Trim
+        M_strParameterStore = M_strParameterStore & "#" & TxtNonVat.Text.Trim
+        M_strParameterStore = M_strParameterStore & "#" & CmbMa_TTCP.SelectedValue.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtTk_Vt.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtNh_vt1.Text.Trim()
         M_strParameterStore = M_strParameterStore & "#" & TxtNh_vt2.Text.Trim
@@ -215,13 +236,13 @@
         M_strParameterStore = M_strParameterStore & "#" & If(ChkGroup2.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & If(ChkGroup3.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & Me.Para(Me.VT_PARA + 1).ToString.Trim
-
         M_strParameterStore = M_strParameterStore & "#" & CbbMa_Post1.SelectedValue.ToString.Trim
         M_strParameterStore = M_strParameterStore & "#" & CbbMa_post2.SelectedValue.ToString.Trim
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim
-        M_strParameterStore = M_strParameterStore & "#" & CmbMa_TTCP.SelectedValue.Trim
+
+
         '-----------------------------------------------------------------------------
         Me.is_continue = True
         Dim M_strFieldValue As String = ""

@@ -516,6 +516,7 @@ Public Class Sys
                 Frm1.Nam = Frm2.Nam.ToUpper.Trim
                 Frm1.Key_Sub3 = Frm2.Key_Sub3.ToUpper.Trim
 
+
                 Frm1.ShowDialog()
                 Return True
             Case "CP_ROIMPORTDMPK".ToUpper.ToString

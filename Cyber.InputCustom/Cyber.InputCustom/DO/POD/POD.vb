@@ -290,8 +290,9 @@ Public Class POD
         AddHandler TxtSo_DN.Leave, AddressOf L_So_DN
         AddHandler TxtLenh_SO.Leave, AddressOf L_Lenh_So
         AddHandler TxtLenh_PO.Leave, AddressOf L_Lenh_Po
-        AddHandler TxtSo_YCT_H.Leave, AddressOf L_so_YCT
+        AddHandler TxtSo_YCT_H.Leave, AddressOf L_So_YCT
         AddHandler TxtLenh_RO.Leave, AddressOf L_Lenh_Ro
+        'AddHandler txtSo_PO_Hang.Leave, AddressOf L_So_PO_Hang
         '--Ma_BP_H
         AddHandler TxtMa_Bp_H.CyberValiting, AddressOf V_Ma_BP_H
         AddHandler TxtMa_Bp_H.CyberLeave, AddressOf L_Ma_BP_H
@@ -675,6 +676,13 @@ Public Class POD
 
         If Not TxtLenh_RO.Text = "" Then V_GetDetailRO(TxtLenh_RO.Text, txtSo_Ro_Hang.Text)
     End Sub
+    Private Sub L_So_PO_Hang(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        M_Mode = M_Mode.Trim
+        If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
+        Dim _Dt As Date = TxtNgay_Ct.Value
+
+        If Not TxtLenh_RO.Text = "" Then V_GetDetailRO(TxtLenh_RO.Text, txtSo_Ro_Hang.Text)
+    End Sub
     Private Sub L_So_YCT(ByVal sender As System.Object, ByVal e As System.EventArgs)
         M_Mode = M_Mode.Trim
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
@@ -688,7 +696,7 @@ Public Class POD
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
         If _Ro.Trim + _Ro_Hang.Trim = "" Then Exit Sub
 
-        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoGetPOD", "1#" & _Ro.Trim & "#" & _Ro_Hang.Trim & "##19000101#19000101#" & M_Stt_Rec & "#" & M_Ma_Dvcs & "#" & M_User_Name)
+        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_RoGetPOD", "1#" & _Ro.Trim & "#" & _Ro_Hang.Trim & "#" & txtSo_PO_Hang.Text.Trim & "##19000101#19000101#" & M_Stt_Rec & "#" & M_Ma_Dvcs & "#" & M_User_Name)
 
         If Not CyberSupport.V_MsgChk(DsTmp.Tables(0), SysVar, M_LAN) Then
             TxtLenh_RO.Text = ""

@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class ROXPT
     Inherits Cyber.From.FrmCalculator
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         If disposing AndAlso components IsNot Nothing Then
             components.Dispose()
@@ -17,7 +17,7 @@ Partial Class ROXPT
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.LabLenh_RO = New System.Windows.Forms.Label()
@@ -132,7 +132,7 @@ Partial Class ROXPT
         Me.LabLenh_RO.BackColor = System.Drawing.Color.Transparent
         Me.LabLenh_RO.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LabLenh_RO.ForeColor = System.Drawing.Color.Navy
-        Me.LabLenh_RO.Location = New System.Drawing.Point(6, 44)
+        Me.LabLenh_RO.Location = New System.Drawing.Point(5, 44)
         Me.LabLenh_RO.Name = "LabLenh_RO"
         Me.LabLenh_RO.Size = New System.Drawing.Size(63, 18)
         Me.LabLenh_RO.TabIndex = 1804
@@ -802,12 +802,12 @@ Partial Class ROXPT
         '
         Me.Label31.Font = New System.Drawing.Font("Tahoma", 11.25!, System.Drawing.FontStyle.Bold)
         Me.Label31.ForeColor = System.Drawing.Color.Red
-        Me.Label31.Location = New System.Drawing.Point(6, 17)
+        Me.Label31.Location = New System.Drawing.Point(6, 13)
         Me.Label31.Name = "Label31"
         Me.Label31.Size = New System.Drawing.Size(64, 18)
         Me.Label31.TabIndex = 2327
         Me.Label31.Tag = "Business man"
-        Me.Label31.Text = "Đại lý"
+        Me.Label31.Text = "Xưởng"
         '
         'CmDanh_SachXuat
         '

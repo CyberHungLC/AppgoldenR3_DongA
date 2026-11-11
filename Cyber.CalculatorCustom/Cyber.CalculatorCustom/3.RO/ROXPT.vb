@@ -865,7 +865,7 @@ Public Class ROXPT
 
         If _StrSave = "" Then Return ""
 
-        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_CreatePXKFromXPT_V_TEST", _Loai + "#" + _StrSave & "#" & TxtOng_ba.Text & "#" & TxtMa_HS_H.Text & "#" & TxtDien_giai.Text & "#" & TxtMa_TTCP.Text & "#" & M_Ma_Dvcs & "#" & M_User_Name)
+        Dim DsTmp As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_CreatePXKFromXPT", _Loai + "#" + _StrSave & "#" & TxtOng_ba.Text & "#" & TxtMa_HS_H.Text & "#" & TxtDien_giai.Text & "#" & TxtMa_TTCP.Text & "#" & M_Ma_Dvcs & "#" & M_User_Name)
         Dim _Stt_Rec As String = ""
 
         If CyberSupport.V_MsgChk(DsTmp.Tables(0), Me.Sysvar, M_LAN) = True Then

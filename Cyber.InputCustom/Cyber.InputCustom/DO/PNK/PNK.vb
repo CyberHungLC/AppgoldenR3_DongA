@@ -1175,8 +1175,6 @@ Public Class PNK
     Private Sub L_Lenh_Po_Hang(ByVal sender As System.Object, ByVal e As System.EventArgs)
         M_Mode = M_Mode.Trim
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
-
-        If (M_Mode = "S" And ChkIs_Them.Checked = False) Then Exit Sub
         Dim nCount As Integer = Dt_DetailTmp.Rows.Count - 1
         For iRow As Integer = nCount To 0 Step -1
             If Dt_DetailTmp.Rows(iRow).Item("Ma_VT").ToString.Trim = "" Then Dt_DetailTmp.Rows(iRow).Delete()

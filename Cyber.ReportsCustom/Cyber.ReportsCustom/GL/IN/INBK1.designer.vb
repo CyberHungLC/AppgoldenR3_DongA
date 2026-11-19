@@ -104,19 +104,6 @@ Partial Class INBK1
         Me.TxtNh_Vt3 = New Cyber.SmLists.TxtLookup()
         Me.TxtNh_Vt2 = New Cyber.SmLists.TxtLookup()
         Me.TxtNh_Vt1 = New Cyber.SmLists.TxtLookup()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.CbbMa_post2 = New System.Windows.Forms.ComboBox()
-        Me.CbbMa_Post1 = New System.Windows.Forms.ComboBox()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.txtTen_UserTao = New System.Windows.Forms.TextBox()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.TxtUser_Tao = New Cyber.SmLists.TxtLookup()
-        Me.ChkGia_Von = New System.Windows.Forms.CheckBox()
-        Me.ChkXuat_Am = New System.Windows.Forms.CheckBox()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.TxtNgay_NT2 = New ClsTextBox.txtDate1()
-        Me.TxtNgay_NT1 = New ClsTextBox.txtDate1()
         CType(Me.Txtma_kh.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtSo_Ct1.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtSo_Ct2.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -143,48 +130,54 @@ Partial Class INBK1
         CType(Me.TxtNh_Vt3.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_Vt2.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_Vt1.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.TxtUser_Tao.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'ButtExit
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(802, 450)
+        Me.ButtExit.Location = New System.Drawing.Point(1069, 509)
+        Me.ButtExit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ButtExit.TabIndex = 35
         '
         'CBBMa_Dvcs
         '
         Me.CBBMa_Dvcs.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CBBMa_Dvcs.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(90, 411)
-        Me.CBBMa_Dvcs.Size = New System.Drawing.Size(512, 21)
+        Me.CBBMa_Dvcs.Location = New System.Drawing.Point(116, 458)
+        Me.CBBMa_Dvcs.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.CBBMa_Dvcs.Size = New System.Drawing.Size(681, 25)
         Me.CBBMa_Dvcs.TabIndex = 31
         '
         'Label1
         '
-        Me.Label1.Location = New System.Drawing.Point(10, 414)
+        Me.Label1.Location = New System.Drawing.Point(13, 462)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         '
         'ButtOK
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(698, 450)
+        Me.ButtOK.Location = New System.Drawing.Point(931, 509)
+        Me.ButtOK.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ButtOK.TabIndex = 34
         '
         'LabLoai_NT
         '
-        Me.LabLoai_NT.Location = New System.Drawing.Point(628, 413)
+        Me.LabLoai_NT.Location = New System.Drawing.Point(837, 460)
+        Me.LabLoai_NT.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         '
         'ChkVND
         '
-        Me.ChkVND.Location = New System.Drawing.Point(709, 410)
+        Me.ChkVND.Location = New System.Drawing.Point(945, 456)
+        Me.ChkVND.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkVND.TabIndex = 32
         '
         'ChkNT
         '
-        Me.ChkNT.Location = New System.Drawing.Point(828, 410)
+        Me.ChkNT.Location = New System.Drawing.Point(1104, 456)
+        Me.ChkNT.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkNT.TabIndex = 33
         '
         'TxtM_Ngay_Ct1
@@ -193,7 +186,7 @@ Partial Class INBK1
         Me.TxtM_Ngay_Ct1.ForeColor = System.Drawing.Color.Navy
         Me.TxtM_Ngay_Ct1.IsAllowResize = False
         Me.TxtM_Ngay_Ct1.isEmpty = True
-        Me.TxtM_Ngay_Ct1.Location = New System.Drawing.Point(90, 5)
+        Me.TxtM_Ngay_Ct1.Location = New System.Drawing.Point(116, 7)
         Me.TxtM_Ngay_Ct1.Margin = New System.Windows.Forms.Padding(0)
         Me.TxtM_Ngay_Ct1.MaskDate = "dd/MM/yyyy"
         Me.TxtM_Ngay_Ct1.MaxLength = 10
@@ -201,7 +194,7 @@ Partial Class INBK1
         Me.TxtM_Ngay_Ct1.RangeMax = New Date(CType(0, Long))
         Me.TxtM_Ngay_Ct1.RangeMin = New Date(CType(0, Long))
         Me.TxtM_Ngay_Ct1.ShowDayBeforeMonth = False
-        Me.TxtM_Ngay_Ct1.Size = New System.Drawing.Size(110, 21)
+        Me.TxtM_Ngay_Ct1.Size = New System.Drawing.Size(145, 24)
         Me.TxtM_Ngay_Ct1.TabIndex = 0
         Me.TxtM_Ngay_Ct1.Text = "__/__/____"
         Me.TxtM_Ngay_Ct1.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
@@ -212,7 +205,7 @@ Partial Class INBK1
         Me.TxtM_Ngay_Ct2.ForeColor = System.Drawing.Color.Navy
         Me.TxtM_Ngay_Ct2.IsAllowResize = False
         Me.TxtM_Ngay_Ct2.isEmpty = True
-        Me.TxtM_Ngay_Ct2.Location = New System.Drawing.Point(293, 5)
+        Me.TxtM_Ngay_Ct2.Location = New System.Drawing.Point(391, 7)
         Me.TxtM_Ngay_Ct2.Margin = New System.Windows.Forms.Padding(0)
         Me.TxtM_Ngay_Ct2.MaskDate = "dd/MM/yyyy"
         Me.TxtM_Ngay_Ct2.MaxLength = 10
@@ -220,7 +213,7 @@ Partial Class INBK1
         Me.TxtM_Ngay_Ct2.RangeMax = New Date(CType(0, Long))
         Me.TxtM_Ngay_Ct2.RangeMin = New Date(CType(0, Long))
         Me.TxtM_Ngay_Ct2.ShowDayBeforeMonth = False
-        Me.TxtM_Ngay_Ct2.Size = New System.Drawing.Size(102, 21)
+        Me.TxtM_Ngay_Ct2.Size = New System.Drawing.Size(135, 24)
         Me.TxtM_Ngay_Ct2.TabIndex = 1
         Me.TxtM_Ngay_Ct2.Text = "__/__/____"
         Me.TxtM_Ngay_Ct2.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
@@ -228,9 +221,10 @@ Partial Class INBK1
         'LabM_Ngay_Ct1
         '
         Me.LabM_Ngay_Ct1.AutoSize = True
-        Me.LabM_Ngay_Ct1.Location = New System.Drawing.Point(8, 10)
+        Me.LabM_Ngay_Ct1.Location = New System.Drawing.Point(7, 13)
+        Me.LabM_Ngay_Ct1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabM_Ngay_Ct1.Name = "LabM_Ngay_Ct1"
-        Me.LabM_Ngay_Ct1.Size = New System.Drawing.Size(47, 13)
+        Me.LabM_Ngay_Ct1.Size = New System.Drawing.Size(60, 17)
         Me.LabM_Ngay_Ct1.TabIndex = 13
         Me.LabM_Ngay_Ct1.Tag = "Date from"
         Me.LabM_Ngay_Ct1.Text = "Từ ngày"
@@ -238,9 +232,10 @@ Partial Class INBK1
         'LabM_Ngay_Ct2
         '
         Me.LabM_Ngay_Ct2.AutoSize = True
-        Me.LabM_Ngay_Ct2.Location = New System.Drawing.Point(209, 10)
+        Me.LabM_Ngay_Ct2.Location = New System.Drawing.Point(279, 13)
+        Me.LabM_Ngay_Ct2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabM_Ngay_Ct2.Name = "LabM_Ngay_Ct2"
-        Me.LabM_Ngay_Ct2.Size = New System.Drawing.Size(54, 13)
+        Me.LabM_Ngay_Ct2.Size = New System.Drawing.Size(68, 17)
         Me.LabM_Ngay_Ct2.TabIndex = 14
         Me.LabM_Ngay_Ct2.Tag = "Date to"
         Me.LabM_Ngay_Ct2.Text = "Đến ngày"
@@ -248,18 +243,21 @@ Partial Class INBK1
         'GroupBoxLine
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(4, 433)
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(5, 486)
+        Me.GroupBoxLine.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.GroupBoxLine.Name = "GroupBoxLine"
-        Me.GroupBoxLine.Size = New System.Drawing.Size(899, 9)
+        Me.GroupBoxLine.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBoxLine.Size = New System.Drawing.Size(1199, 12)
         Me.GroupBoxLine.TabIndex = 15
         Me.GroupBoxLine.TabStop = False
         '
         'Labma_kh
         '
-        Me.Labma_kh.Location = New System.Drawing.Point(8, 34)
+        Me.Labma_kh.Location = New System.Drawing.Point(7, 44)
+        Me.Labma_kh.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Labma_kh.Name = "Labma_kh"
-        Me.Labma_kh.Size = New System.Drawing.Size(76, 13)
+        Me.Labma_kh.Size = New System.Drawing.Size(88, 17)
         Me.Labma_kh.TabIndex = 206
         Me.Labma_kh.Tag = "Customer"
         Me.Labma_kh.Text = "Mã  khách"
@@ -270,10 +268,11 @@ Partial Class INBK1
         Me.txtten_kh.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtten_kh.Enabled = False
         Me.txtten_kh.ForeColor = System.Drawing.Color.Navy
-        Me.txtten_kh.Location = New System.Drawing.Point(209, 33)
+        Me.txtten_kh.Location = New System.Drawing.Point(279, 43)
+        Me.txtten_kh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtten_kh.Name = "txtten_kh"
         Me.txtten_kh.ReadOnly = True
-        Me.txtten_kh.Size = New System.Drawing.Size(431, 14)
+        Me.txtten_kh.Size = New System.Drawing.Size(924, 17)
         Me.txtten_kh.TabIndex = 205
         Me.txtten_kh.TabStop = False
         '
@@ -285,20 +284,22 @@ Partial Class INBK1
         Me.Txtma_kh.Dv_Master = Nothing
         Me.Txtma_kh.FilterClient = ""
         Me.Txtma_kh.FilterSQL = ""
-        Me.Txtma_kh.Location = New System.Drawing.Point(90, 30)
+        Me.Txtma_kh.Location = New System.Drawing.Point(116, 39)
+        Me.Txtma_kh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Txtma_kh.Name = "Txtma_kh"
         Me.Txtma_kh.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.Txtma_kh.Properties.Appearance.Options.UseForeColor = True
         Me.Txtma_kh.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.Txtma_kh.Size = New System.Drawing.Size(110, 20)
+        Me.Txtma_kh.Size = New System.Drawing.Size(147, 22)
         Me.Txtma_kh.TabIndex = 4
         Me.Txtma_kh.Table_Name = ""
         '
         'LabSo_Ct1
         '
-        Me.LabSo_Ct1.Location = New System.Drawing.Point(456, 10)
+        Me.LabSo_Ct1.Location = New System.Drawing.Point(608, 13)
+        Me.LabSo_Ct1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabSo_Ct1.Name = "LabSo_Ct1"
-        Me.LabSo_Ct1.Size = New System.Drawing.Size(66, 13)
+        Me.LabSo_Ct1.Size = New System.Drawing.Size(88, 17)
         Me.LabSo_Ct1.TabIndex = 208
         Me.LabSo_Ct1.Tag = "Voucher from"
         Me.LabSo_Ct1.Text = "Ctừ từ số"
@@ -311,20 +312,22 @@ Partial Class INBK1
         Me.TxtSo_Ct1.Dv_Master = Nothing
         Me.TxtSo_Ct1.FilterClient = ""
         Me.TxtSo_Ct1.FilterSQL = ""
-        Me.TxtSo_Ct1.Location = New System.Drawing.Point(538, 5)
+        Me.TxtSo_Ct1.Location = New System.Drawing.Point(717, 7)
+        Me.TxtSo_Ct1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtSo_Ct1.Name = "TxtSo_Ct1"
         Me.TxtSo_Ct1.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtSo_Ct1.Properties.Appearance.Options.UseForeColor = True
         Me.TxtSo_Ct1.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtSo_Ct1.Size = New System.Drawing.Size(102, 20)
+        Me.TxtSo_Ct1.Size = New System.Drawing.Size(136, 22)
         Me.TxtSo_Ct1.TabIndex = 2
         Me.TxtSo_Ct1.Table_Name = ""
         '
         'LabSo_Ct2
         '
-        Me.LabSo_Ct2.Location = New System.Drawing.Point(642, 10)
+        Me.LabSo_Ct2.Location = New System.Drawing.Point(856, 13)
+        Me.LabSo_Ct2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabSo_Ct2.Name = "LabSo_Ct2"
-        Me.LabSo_Ct2.Size = New System.Drawing.Size(66, 13)
+        Me.LabSo_Ct2.Size = New System.Drawing.Size(88, 17)
         Me.LabSo_Ct2.TabIndex = 210
         Me.LabSo_Ct2.Tag = "Voucher to"
         Me.LabSo_Ct2.Text = "Đến số"
@@ -337,12 +340,13 @@ Partial Class INBK1
         Me.TxtSo_Ct2.Dv_Master = Nothing
         Me.TxtSo_Ct2.FilterClient = ""
         Me.TxtSo_Ct2.FilterSQL = ""
-        Me.TxtSo_Ct2.Location = New System.Drawing.Point(712, 5)
+        Me.TxtSo_Ct2.Location = New System.Drawing.Point(949, 7)
+        Me.TxtSo_Ct2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtSo_Ct2.Name = "TxtSo_Ct2"
         Me.TxtSo_Ct2.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtSo_Ct2.Properties.Appearance.Options.UseForeColor = True
         Me.TxtSo_Ct2.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtSo_Ct2.Size = New System.Drawing.Size(110, 20)
+        Me.TxtSo_Ct2.Size = New System.Drawing.Size(147, 22)
         Me.TxtSo_Ct2.TabIndex = 3
         Me.TxtSo_Ct2.Table_Name = ""
         '
@@ -350,9 +354,10 @@ Partial Class INBK1
         '
         Me.Label6.AutoSize = True
         Me.Label6.ForeColor = System.Drawing.Color.Navy
-        Me.Label6.Location = New System.Drawing.Point(8, 80)
+        Me.Label6.Location = New System.Drawing.Point(7, 105)
+        Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(54, 13)
+        Me.Label6.Size = New System.Drawing.Size(67, 17)
         Me.Label6.TabIndex = 338
         Me.Label6.Tag = "Supplies "
         Me.Label6.Text = "Mã vật tư"
@@ -363,10 +368,11 @@ Partial Class INBK1
         Me.TxtTen_vt.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_vt.Enabled = False
         Me.TxtTen_vt.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_vt.Location = New System.Drawing.Point(209, 75)
+        Me.TxtTen_vt.Location = New System.Drawing.Point(279, 98)
+        Me.TxtTen_vt.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_vt.Name = "TxtTen_vt"
         Me.TxtTen_vt.ReadOnly = True
-        Me.TxtTen_vt.Size = New System.Drawing.Size(431, 14)
+        Me.TxtTen_vt.Size = New System.Drawing.Size(924, 17)
         Me.TxtTen_vt.TabIndex = 340
         Me.TxtTen_vt.TabStop = False
         '
@@ -379,12 +385,13 @@ Partial Class INBK1
         Me.TxtMa_vt.EditValue = ""
         Me.TxtMa_vt.FilterClient = ""
         Me.TxtMa_vt.FilterSQL = ""
-        Me.TxtMa_vt.Location = New System.Drawing.Point(90, 72)
+        Me.TxtMa_vt.Location = New System.Drawing.Point(116, 94)
+        Me.TxtMa_vt.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_vt.Name = "TxtMa_vt"
         Me.TxtMa_vt.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_vt.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_vt.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_vt.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_vt.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_vt.TabIndex = 6
         Me.TxtMa_vt.Table_Name = ""
         '
@@ -394,10 +401,11 @@ Partial Class INBK1
         Me.TxtTen_Tk_Vt.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Tk_Vt.Enabled = False
         Me.TxtTen_Tk_Vt.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Tk_Vt.Location = New System.Drawing.Point(209, 97)
+        Me.TxtTen_Tk_Vt.Location = New System.Drawing.Point(279, 127)
+        Me.TxtTen_Tk_Vt.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Tk_Vt.Name = "TxtTen_Tk_Vt"
         Me.TxtTen_Tk_Vt.ReadOnly = True
-        Me.TxtTen_Tk_Vt.Size = New System.Drawing.Size(431, 14)
+        Me.TxtTen_Tk_Vt.Size = New System.Drawing.Size(924, 17)
         Me.TxtTen_Tk_Vt.TabIndex = 343
         Me.TxtTen_Tk_Vt.TabStop = False
         '
@@ -410,12 +418,13 @@ Partial Class INBK1
         Me.TxtTk_Vt.EditValue = ""
         Me.TxtTk_Vt.FilterClient = ""
         Me.TxtTk_Vt.FilterSQL = ""
-        Me.TxtTk_Vt.Location = New System.Drawing.Point(90, 94)
+        Me.TxtTk_Vt.Location = New System.Drawing.Point(116, 123)
+        Me.TxtTk_Vt.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTk_Vt.Name = "TxtTk_Vt"
         Me.TxtTk_Vt.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtTk_Vt.Properties.Appearance.Options.UseForeColor = True
         Me.TxtTk_Vt.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtTk_Vt.Size = New System.Drawing.Size(110, 20)
+        Me.TxtTk_Vt.Size = New System.Drawing.Size(147, 22)
         Me.TxtTk_Vt.TabIndex = 7
         Me.TxtTk_Vt.Table_Name = ""
         '
@@ -423,9 +432,10 @@ Partial Class INBK1
         '
         Me.Label3.AutoSize = True
         Me.Label3.ForeColor = System.Drawing.Color.Navy
-        Me.Label3.Location = New System.Drawing.Point(8, 101)
+        Me.Label3.Location = New System.Drawing.Point(7, 132)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(51, 13)
+        Me.Label3.Size = New System.Drawing.Size(65, 17)
         Me.Label3.TabIndex = 342
         Me.Label3.Tag = "Account"
         Me.Label3.Text = "Tk vật tư"
@@ -433,9 +443,10 @@ Partial Class INBK1
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(451, 119)
+        Me.Label8.Location = New System.Drawing.Point(601, 156)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(76, 13)
+        Me.Label8.Size = New System.Drawing.Size(99, 17)
         Me.Label8.TabIndex = 349
         Me.Label8.Tag = "Group 3"
         Me.Label8.Text = "Nhóm vật tư 3"
@@ -443,9 +454,10 @@ Partial Class INBK1
         'Label13
         '
         Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(209, 119)
+        Me.Label13.Location = New System.Drawing.Point(279, 156)
+        Me.Label13.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(76, 13)
+        Me.Label13.Size = New System.Drawing.Size(99, 17)
         Me.Label13.TabIndex = 348
         Me.Label13.Tag = "Group 2"
         Me.Label13.Text = "Nhóm vật tư 2"
@@ -453,9 +465,10 @@ Partial Class INBK1
         'Label14
         '
         Me.Label14.AutoSize = True
-        Me.Label14.Location = New System.Drawing.Point(8, 119)
+        Me.Label14.Location = New System.Drawing.Point(7, 156)
+        Me.Label14.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(76, 13)
+        Me.Label14.Size = New System.Drawing.Size(99, 17)
         Me.Label14.TabIndex = 347
         Me.Label14.Tag = "Group 1"
         Me.Label14.Text = "Nhóm vật tư 1"
@@ -466,10 +479,11 @@ Partial Class INBK1
         Me.TxtTen_Nh_Vt3.BackColor = System.Drawing.SystemColors.Control
         Me.TxtTen_Nh_Vt3.Enabled = False
         Me.TxtTen_Nh_Vt3.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nh_Vt3.Location = New System.Drawing.Point(159, 492)
+        Me.TxtTen_Nh_Vt3.Location = New System.Drawing.Point(212, 564)
+        Me.TxtTen_Nh_Vt3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Nh_Vt3.Name = "TxtTen_Nh_Vt3"
         Me.TxtTen_Nh_Vt3.ReadOnly = True
-        Me.TxtTen_Nh_Vt3.Size = New System.Drawing.Size(177, 21)
+        Me.TxtTen_Nh_Vt3.Size = New System.Drawing.Size(235, 24)
         Me.TxtTen_Nh_Vt3.TabIndex = 352
         Me.TxtTen_Nh_Vt3.TabStop = False
         Me.TxtTen_Nh_Vt3.Visible = False
@@ -480,10 +494,11 @@ Partial Class INBK1
         Me.TxtTen_Nh_Vt2.BackColor = System.Drawing.SystemColors.Control
         Me.TxtTen_Nh_Vt2.Enabled = False
         Me.TxtTen_Nh_Vt2.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nh_Vt2.Location = New System.Drawing.Point(159, 470)
+        Me.TxtTen_Nh_Vt2.Location = New System.Drawing.Point(212, 535)
+        Me.TxtTen_Nh_Vt2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Nh_Vt2.Name = "TxtTen_Nh_Vt2"
         Me.TxtTen_Nh_Vt2.ReadOnly = True
-        Me.TxtTen_Nh_Vt2.Size = New System.Drawing.Size(177, 21)
+        Me.TxtTen_Nh_Vt2.Size = New System.Drawing.Size(235, 24)
         Me.TxtTen_Nh_Vt2.TabIndex = 351
         Me.TxtTen_Nh_Vt2.TabStop = False
         Me.TxtTen_Nh_Vt2.Visible = False
@@ -494,19 +509,21 @@ Partial Class INBK1
         Me.TxtTen_Nh_Vt1.BackColor = System.Drawing.SystemColors.Control
         Me.TxtTen_Nh_Vt1.Enabled = False
         Me.TxtTen_Nh_Vt1.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Nh_Vt1.Location = New System.Drawing.Point(159, 448)
+        Me.TxtTen_Nh_Vt1.Location = New System.Drawing.Point(212, 506)
+        Me.TxtTen_Nh_Vt1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Nh_Vt1.Name = "TxtTen_Nh_Vt1"
         Me.TxtTen_Nh_Vt1.ReadOnly = True
-        Me.TxtTen_Nh_Vt1.Size = New System.Drawing.Size(177, 21)
+        Me.TxtTen_Nh_Vt1.Size = New System.Drawing.Size(235, 24)
         Me.TxtTen_Nh_Vt1.TabIndex = 350
         Me.TxtTen_Nh_Vt1.TabStop = False
         Me.TxtTen_Nh_Vt1.Visible = False
         '
         'LabMa_kho
         '
-        Me.LabMa_kho.Location = New System.Drawing.Point(8, 57)
+        Me.LabMa_kho.Location = New System.Drawing.Point(7, 75)
+        Me.LabMa_kho.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_kho.Name = "LabMa_kho"
-        Me.LabMa_kho.Size = New System.Drawing.Size(66, 13)
+        Me.LabMa_kho.Size = New System.Drawing.Size(88, 17)
         Me.LabMa_kho.TabIndex = 355
         Me.LabMa_kho.Tag = "Warehouse"
         Me.LabMa_kho.Text = "Mã kho"
@@ -517,10 +534,11 @@ Partial Class INBK1
         Me.TxtTen_kho.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_kho.Enabled = False
         Me.TxtTen_kho.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_kho.Location = New System.Drawing.Point(209, 55)
+        Me.TxtTen_kho.Location = New System.Drawing.Point(279, 72)
+        Me.TxtTen_kho.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_kho.Name = "TxtTen_kho"
         Me.TxtTen_kho.ReadOnly = True
-        Me.TxtTen_kho.Size = New System.Drawing.Size(431, 14)
+        Me.TxtTen_kho.Size = New System.Drawing.Size(924, 17)
         Me.TxtTen_kho.TabIndex = 354
         Me.TxtTen_kho.TabStop = False
         '
@@ -532,12 +550,13 @@ Partial Class INBK1
         Me.TxtMa_kho.Dv_Master = Nothing
         Me.TxtMa_kho.FilterClient = ""
         Me.TxtMa_kho.FilterSQL = ""
-        Me.TxtMa_kho.Location = New System.Drawing.Point(90, 52)
+        Me.TxtMa_kho.Location = New System.Drawing.Point(116, 68)
+        Me.TxtMa_kho.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_kho.Name = "TxtMa_kho"
         Me.TxtMa_kho.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_kho.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_kho.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_kho.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_kho.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_kho.TabIndex = 5
         Me.TxtMa_kho.Table_Name = ""
         '
@@ -546,17 +565,19 @@ Partial Class INBK1
         Me.CbbLoai_Phieu.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbLoai_Phieu.ForeColor = System.Drawing.Color.Navy
         Me.CbbLoai_Phieu.FormattingEnabled = True
-        Me.CbbLoai_Phieu.Location = New System.Drawing.Point(90, 139)
+        Me.CbbLoai_Phieu.Location = New System.Drawing.Point(116, 182)
+        Me.CbbLoai_Phieu.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.CbbLoai_Phieu.Name = "CbbLoai_Phieu"
-        Me.CbbLoai_Phieu.Size = New System.Drawing.Size(204, 21)
+        Me.CbbLoai_Phieu.Size = New System.Drawing.Size(271, 25)
         Me.CbbLoai_Phieu.TabIndex = 12
         '
         'LabLoai_phieu
         '
         Me.LabLoai_phieu.AutoSize = True
-        Me.LabLoai_phieu.Location = New System.Drawing.Point(8, 143)
+        Me.LabLoai_phieu.Location = New System.Drawing.Point(7, 187)
+        Me.LabLoai_phieu.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabLoai_phieu.Name = "LabLoai_phieu"
-        Me.LabLoai_phieu.Size = New System.Drawing.Size(55, 13)
+        Me.LabLoai_phieu.Size = New System.Drawing.Size(69, 17)
         Me.LabLoai_phieu.TabIndex = 357
         Me.LabLoai_phieu.Tag = "Type of voucher"
         Me.LabLoai_phieu.Text = "Loại phiếu"
@@ -566,17 +587,19 @@ Partial Class INBK1
         Me.CbbMa_GD.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbMa_GD.ForeColor = System.Drawing.Color.Navy
         Me.CbbMa_GD.FormattingEnabled = True
-        Me.CbbMa_GD.Location = New System.Drawing.Point(395, 139)
+        Me.CbbMa_GD.Location = New System.Drawing.Point(527, 182)
+        Me.CbbMa_GD.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.CbbMa_GD.Name = "CbbMa_GD"
-        Me.CbbMa_GD.Size = New System.Drawing.Size(245, 21)
+        Me.CbbMa_GD.Size = New System.Drawing.Size(325, 25)
         Me.CbbMa_GD.TabIndex = 13
         '
         'LabMa_GD
         '
         Me.LabMa_GD.AutoSize = True
-        Me.LabMa_GD.Location = New System.Drawing.Point(301, 143)
+        Me.LabMa_GD.Location = New System.Drawing.Point(401, 187)
+        Me.LabMa_GD.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_GD.Name = "LabMa_GD"
-        Me.LabMa_GD.Size = New System.Drawing.Size(71, 13)
+        Me.LabMa_GD.Size = New System.Drawing.Size(90, 17)
         Me.LabMa_GD.TabIndex = 380
         Me.LabMa_GD.Tag = "Transaction type"
         Me.LabMa_GD.Text = "Loại giao dịch"
@@ -584,9 +607,10 @@ Partial Class INBK1
         'LabMa_Td5
         '
         Me.LabMa_Td5.AutoSize = True
-        Me.LabMa_Td5.Location = New System.Drawing.Point(451, 298)
+        Me.LabMa_Td5.Location = New System.Drawing.Point(629, 390)
+        Me.LabMa_Td5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Td5.Name = "LabMa_Td5"
-        Me.LabMa_Td5.Size = New System.Drawing.Size(44, 13)
+        Me.LabMa_Td5.Size = New System.Drawing.Size(57, 17)
         Me.LabMa_Td5.TabIndex = 422
         Me.LabMa_Td5.Tag = "Free 5"
         Me.LabMa_Td5.Text = "Tự do 5"
@@ -597,10 +621,11 @@ Partial Class INBK1
         Me.TxtTen_Td5.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Td5.Enabled = False
         Me.TxtTen_Td5.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td5.Location = New System.Drawing.Point(644, 298)
+        Me.TxtTen_Td5.Location = New System.Drawing.Point(859, 390)
+        Me.TxtTen_Td5.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Td5.Name = "TxtTen_Td5"
         Me.TxtTen_Td5.ReadOnly = True
-        Me.TxtTen_Td5.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Td5.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Td5.TabIndex = 421
         Me.TxtTen_Td5.TabStop = False
         '
@@ -612,21 +637,23 @@ Partial Class INBK1
         Me.TxtMa_Td5.Dv_Master = Nothing
         Me.TxtMa_Td5.FilterClient = ""
         Me.TxtMa_Td5.FilterSQL = ""
-        Me.TxtMa_Td5.Location = New System.Drawing.Point(530, 295)
+        Me.TxtMa_Td5.Location = New System.Drawing.Point(707, 386)
+        Me.TxtMa_Td5.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Td5.Name = "TxtMa_Td5"
         Me.TxtMa_Td5.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td5.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Td5.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Td5.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Td5.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Td5.TabIndex = 29
         Me.TxtMa_Td5.Table_Name = ""
         '
         'LabMa_Td4
         '
         Me.LabMa_Td4.AutoSize = True
-        Me.LabMa_Td4.Location = New System.Drawing.Point(451, 276)
+        Me.LabMa_Td4.Location = New System.Drawing.Point(629, 361)
+        Me.LabMa_Td4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Td4.Name = "LabMa_Td4"
-        Me.LabMa_Td4.Size = New System.Drawing.Size(44, 13)
+        Me.LabMa_Td4.Size = New System.Drawing.Size(57, 17)
         Me.LabMa_Td4.TabIndex = 420
         Me.LabMa_Td4.Tag = "Free 4"
         Me.LabMa_Td4.Text = "Tự do 4"
@@ -637,10 +664,11 @@ Partial Class INBK1
         Me.TxtTen_Td4.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Td4.Enabled = False
         Me.TxtTen_Td4.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td4.Location = New System.Drawing.Point(644, 276)
+        Me.TxtTen_Td4.Location = New System.Drawing.Point(859, 361)
+        Me.TxtTen_Td4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Td4.Name = "TxtTen_Td4"
         Me.TxtTen_Td4.ReadOnly = True
-        Me.TxtTen_Td4.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Td4.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Td4.TabIndex = 419
         Me.TxtTen_Td4.TabStop = False
         '
@@ -652,21 +680,23 @@ Partial Class INBK1
         Me.TxtMa_Td4.Dv_Master = Nothing
         Me.TxtMa_Td4.FilterClient = ""
         Me.TxtMa_Td4.FilterSQL = ""
-        Me.TxtMa_Td4.Location = New System.Drawing.Point(530, 273)
+        Me.TxtMa_Td4.Location = New System.Drawing.Point(707, 357)
+        Me.TxtMa_Td4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Td4.Name = "TxtMa_Td4"
         Me.TxtMa_Td4.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td4.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Td4.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Td4.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Td4.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Td4.TabIndex = 28
         Me.TxtMa_Td4.Table_Name = ""
         '
         'LabMa_Td3
         '
         Me.LabMa_Td3.AutoSize = True
-        Me.LabMa_Td3.Location = New System.Drawing.Point(451, 255)
+        Me.LabMa_Td3.Location = New System.Drawing.Point(629, 333)
+        Me.LabMa_Td3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Td3.Name = "LabMa_Td3"
-        Me.LabMa_Td3.Size = New System.Drawing.Size(44, 13)
+        Me.LabMa_Td3.Size = New System.Drawing.Size(57, 17)
         Me.LabMa_Td3.TabIndex = 418
         Me.LabMa_Td3.Tag = "Free 3"
         Me.LabMa_Td3.Text = "Tự do 3"
@@ -677,10 +707,11 @@ Partial Class INBK1
         Me.TxtTen_Td3.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Td3.Enabled = False
         Me.TxtTen_Td3.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td3.Location = New System.Drawing.Point(644, 255)
+        Me.TxtTen_Td3.Location = New System.Drawing.Point(859, 333)
+        Me.TxtTen_Td3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Td3.Name = "TxtTen_Td3"
         Me.TxtTen_Td3.ReadOnly = True
-        Me.TxtTen_Td3.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Td3.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Td3.TabIndex = 417
         Me.TxtTen_Td3.TabStop = False
         '
@@ -692,21 +723,23 @@ Partial Class INBK1
         Me.TxtMa_Td3.Dv_Master = Nothing
         Me.TxtMa_Td3.FilterClient = ""
         Me.TxtMa_Td3.FilterSQL = ""
-        Me.TxtMa_Td3.Location = New System.Drawing.Point(530, 252)
+        Me.TxtMa_Td3.Location = New System.Drawing.Point(707, 330)
+        Me.TxtMa_Td3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Td3.Name = "TxtMa_Td3"
         Me.TxtMa_Td3.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td3.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Td3.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Td3.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Td3.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Td3.TabIndex = 27
         Me.TxtMa_Td3.Table_Name = ""
         '
         'LabMa_Td2
         '
         Me.LabMa_Td2.AutoSize = True
-        Me.LabMa_Td2.Location = New System.Drawing.Point(451, 233)
+        Me.LabMa_Td2.Location = New System.Drawing.Point(629, 305)
+        Me.LabMa_Td2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Td2.Name = "LabMa_Td2"
-        Me.LabMa_Td2.Size = New System.Drawing.Size(44, 13)
+        Me.LabMa_Td2.Size = New System.Drawing.Size(57, 17)
         Me.LabMa_Td2.TabIndex = 416
         Me.LabMa_Td2.Tag = "Free 2"
         Me.LabMa_Td2.Text = "Tự do 2"
@@ -717,10 +750,11 @@ Partial Class INBK1
         Me.TxtTen_Td2.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Td2.Enabled = False
         Me.TxtTen_Td2.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td2.Location = New System.Drawing.Point(644, 233)
+        Me.TxtTen_Td2.Location = New System.Drawing.Point(859, 305)
+        Me.TxtTen_Td2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Td2.Name = "TxtTen_Td2"
         Me.TxtTen_Td2.ReadOnly = True
-        Me.TxtTen_Td2.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Td2.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Td2.TabIndex = 415
         Me.TxtTen_Td2.TabStop = False
         '
@@ -732,21 +766,23 @@ Partial Class INBK1
         Me.TxtMa_Td2.Dv_Master = Nothing
         Me.TxtMa_Td2.FilterClient = ""
         Me.TxtMa_Td2.FilterSQL = ""
-        Me.TxtMa_Td2.Location = New System.Drawing.Point(530, 230)
+        Me.TxtMa_Td2.Location = New System.Drawing.Point(707, 301)
+        Me.TxtMa_Td2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Td2.Name = "TxtMa_Td2"
         Me.TxtMa_Td2.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td2.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Td2.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Td2.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Td2.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Td2.TabIndex = 26
         Me.TxtMa_Td2.Table_Name = ""
         '
         'LabMa_Td1
         '
         Me.LabMa_Td1.AutoSize = True
-        Me.LabMa_Td1.Location = New System.Drawing.Point(451, 211)
+        Me.LabMa_Td1.Location = New System.Drawing.Point(629, 276)
+        Me.LabMa_Td1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Td1.Name = "LabMa_Td1"
-        Me.LabMa_Td1.Size = New System.Drawing.Size(44, 13)
+        Me.LabMa_Td1.Size = New System.Drawing.Size(57, 17)
         Me.LabMa_Td1.TabIndex = 414
         Me.LabMa_Td1.Tag = "Free 1"
         Me.LabMa_Td1.Text = "Tự do 1"
@@ -757,10 +793,11 @@ Partial Class INBK1
         Me.TxtTen_Td1.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Td1.Enabled = False
         Me.TxtTen_Td1.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td1.Location = New System.Drawing.Point(644, 211)
+        Me.TxtTen_Td1.Location = New System.Drawing.Point(859, 276)
+        Me.TxtTen_Td1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Td1.Name = "TxtTen_Td1"
         Me.TxtTen_Td1.ReadOnly = True
-        Me.TxtTen_Td1.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Td1.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Td1.TabIndex = 413
         Me.TxtTen_Td1.TabStop = False
         '
@@ -772,21 +809,23 @@ Partial Class INBK1
         Me.TxtMa_Td1.Dv_Master = Nothing
         Me.TxtMa_Td1.FilterClient = ""
         Me.TxtMa_Td1.FilterSQL = ""
-        Me.TxtMa_Td1.Location = New System.Drawing.Point(530, 208)
+        Me.TxtMa_Td1.Location = New System.Drawing.Point(707, 272)
+        Me.TxtMa_Td1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Td1.Name = "TxtMa_Td1"
         Me.TxtMa_Td1.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td1.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Td1.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Td1.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Td1.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Td1.TabIndex = 25
         Me.TxtMa_Td1.Table_Name = ""
         '
         'LabMa_Bp
         '
         Me.LabMa_Bp.AutoSize = True
-        Me.LabMa_Bp.Location = New System.Drawing.Point(451, 189)
+        Me.LabMa_Bp.Location = New System.Drawing.Point(629, 247)
+        Me.LabMa_Bp.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Bp.Name = "LabMa_Bp"
-        Me.LabMa_Bp.Size = New System.Drawing.Size(46, 13)
+        Me.LabMa_Bp.Size = New System.Drawing.Size(59, 17)
         Me.LabMa_Bp.TabIndex = 412
         Me.LabMa_Bp.Tag = "Department"
         Me.LabMa_Bp.Text = "Bộ phận"
@@ -797,10 +836,11 @@ Partial Class INBK1
         Me.TxtTen_Bp.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Bp.Enabled = False
         Me.TxtTen_Bp.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Bp.Location = New System.Drawing.Point(644, 189)
+        Me.TxtTen_Bp.Location = New System.Drawing.Point(859, 247)
+        Me.TxtTen_Bp.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Bp.Name = "TxtTen_Bp"
         Me.TxtTen_Bp.ReadOnly = True
-        Me.TxtTen_Bp.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Bp.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Bp.TabIndex = 411
         Me.TxtTen_Bp.TabStop = False
         '
@@ -812,21 +852,23 @@ Partial Class INBK1
         Me.TxtMa_Bp.Dv_Master = Nothing
         Me.TxtMa_Bp.FilterClient = ""
         Me.TxtMa_Bp.FilterSQL = ""
-        Me.TxtMa_Bp.Location = New System.Drawing.Point(530, 186)
+        Me.TxtMa_Bp.Location = New System.Drawing.Point(707, 243)
+        Me.TxtMa_Bp.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Bp.Name = "TxtMa_Bp"
         Me.TxtMa_Bp.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Bp.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Bp.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Bp.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Bp.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Bp.TabIndex = 24
         Me.TxtMa_Bp.Table_Name = ""
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(8, 298)
+        Me.Label2.Location = New System.Drawing.Point(7, 390)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(46, 13)
+        Me.Label2.Size = New System.Drawing.Size(59, 17)
         Me.Label2.TabIndex = 410
         Me.Label2.Tag = "Indenture"
         Me.Label2.Text = "Khế ước"
@@ -838,10 +880,11 @@ Partial Class INBK1
         Me.TxtTen_ku.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_ku.Enabled = False
         Me.TxtTen_ku.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_ku.Location = New System.Drawing.Point(201, 298)
+        Me.TxtTen_ku.Location = New System.Drawing.Point(268, 390)
+        Me.TxtTen_ku.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_ku.Name = "TxtTen_ku"
         Me.TxtTen_ku.ReadOnly = True
-        Me.TxtTen_ku.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_ku.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_ku.TabIndex = 409
         Me.TxtTen_ku.TabStop = False
         '
@@ -853,21 +896,23 @@ Partial Class INBK1
         Me.Txtma_Ku.Dv_Master = Nothing
         Me.Txtma_Ku.FilterClient = ""
         Me.Txtma_Ku.FilterSQL = ""
-        Me.Txtma_Ku.Location = New System.Drawing.Point(90, 295)
+        Me.Txtma_Ku.Location = New System.Drawing.Point(116, 386)
+        Me.Txtma_Ku.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Txtma_Ku.Name = "Txtma_Ku"
         Me.Txtma_Ku.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.Txtma_Ku.Properties.Appearance.Options.UseForeColor = True
         Me.Txtma_Ku.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.Txtma_Ku.Size = New System.Drawing.Size(110, 20)
+        Me.Txtma_Ku.Size = New System.Drawing.Size(147, 22)
         Me.Txtma_Ku.TabIndex = 21
         Me.Txtma_Ku.Table_Name = ""
         '
         'LabMa_Hs
         '
         Me.LabMa_Hs.AutoSize = True
-        Me.LabMa_Hs.Location = New System.Drawing.Point(451, 167)
+        Me.LabMa_Hs.Location = New System.Drawing.Point(629, 218)
+        Me.LabMa_Hs.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Hs.Name = "LabMa_Hs"
-        Me.LabMa_Hs.Size = New System.Drawing.Size(55, 13)
+        Me.LabMa_Hs.Size = New System.Drawing.Size(69, 17)
         Me.LabMa_Hs.TabIndex = 408
         Me.LabMa_Hs.Tag = "Staff"
         Me.LabMa_Hs.Text = "Nhân viên"
@@ -878,10 +923,11 @@ Partial Class INBK1
         Me.TxtTen_Hs.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Hs.Enabled = False
         Me.TxtTen_Hs.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Hs.Location = New System.Drawing.Point(644, 167)
+        Me.TxtTen_Hs.Location = New System.Drawing.Point(859, 218)
+        Me.TxtTen_Hs.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Hs.Name = "TxtTen_Hs"
         Me.TxtTen_Hs.ReadOnly = True
-        Me.TxtTen_Hs.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_Hs.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_Hs.TabIndex = 407
         Me.TxtTen_Hs.TabStop = False
         '
@@ -893,21 +939,23 @@ Partial Class INBK1
         Me.TxtMa_Hs.Dv_Master = Nothing
         Me.TxtMa_Hs.FilterClient = ""
         Me.TxtMa_Hs.FilterSQL = ""
-        Me.TxtMa_Hs.Location = New System.Drawing.Point(530, 164)
+        Me.TxtMa_Hs.Location = New System.Drawing.Point(707, 214)
+        Me.TxtMa_Hs.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Hs.Name = "TxtMa_Hs"
         Me.TxtMa_Hs.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Hs.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Hs.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Hs.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Hs.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Hs.TabIndex = 23
         Me.TxtMa_Hs.Table_Name = ""
         '
         'LabMa_Sp
         '
         Me.LabMa_Sp.AutoSize = True
-        Me.LabMa_Sp.Location = New System.Drawing.Point(8, 233)
+        Me.LabMa_Sp.Location = New System.Drawing.Point(7, 305)
+        Me.LabMa_Sp.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Sp.Name = "LabMa_Sp"
-        Me.LabMa_Sp.Size = New System.Drawing.Size(70, 13)
+        Me.LabMa_Sp.Size = New System.Drawing.Size(89, 17)
         Me.LabMa_Sp.TabIndex = 406
         Me.LabMa_Sp.Tag = "Product"
         Me.LabMa_Sp.Text = "Mã sản phẩm"
@@ -918,10 +966,11 @@ Partial Class INBK1
         Me.TxtTen_Sp.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Sp.Enabled = False
         Me.TxtTen_Sp.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Sp.Location = New System.Drawing.Point(201, 233)
+        Me.TxtTen_Sp.Location = New System.Drawing.Point(268, 305)
+        Me.TxtTen_Sp.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Sp.Name = "TxtTen_Sp"
         Me.TxtTen_Sp.ReadOnly = True
-        Me.TxtTen_Sp.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_Sp.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_Sp.TabIndex = 405
         Me.TxtTen_Sp.TabStop = False
         '
@@ -933,21 +982,23 @@ Partial Class INBK1
         Me.TxtMa_Sp.Dv_Master = Nothing
         Me.TxtMa_Sp.FilterClient = ""
         Me.TxtMa_Sp.FilterSQL = ""
-        Me.TxtMa_Sp.Location = New System.Drawing.Point(90, 230)
+        Me.TxtMa_Sp.Location = New System.Drawing.Point(116, 301)
+        Me.TxtMa_Sp.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Sp.Name = "TxtMa_Sp"
         Me.TxtMa_Sp.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Sp.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Sp.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Sp.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Sp.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Sp.TabIndex = 18
         Me.TxtMa_Sp.Table_Name = ""
         '
         'LabMa_Phi
         '
         Me.LabMa_Phi.AutoSize = True
-        Me.LabMa_Phi.Location = New System.Drawing.Point(8, 211)
+        Me.LabMa_Phi.Location = New System.Drawing.Point(7, 276)
+        Me.LabMa_Phi.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Phi.Name = "LabMa_Phi"
-        Me.LabMa_Phi.Size = New System.Drawing.Size(38, 13)
+        Me.LabMa_Phi.Size = New System.Drawing.Size(47, 17)
         Me.LabMa_Phi.TabIndex = 404
         Me.LabMa_Phi.Tag = "Expense item"
         Me.LabMa_Phi.Text = "Mã phí"
@@ -958,10 +1009,11 @@ Partial Class INBK1
         Me.TxtTen_Phi.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Phi.Enabled = False
         Me.TxtTen_Phi.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Phi.Location = New System.Drawing.Point(201, 211)
+        Me.TxtTen_Phi.Location = New System.Drawing.Point(268, 276)
+        Me.TxtTen_Phi.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Phi.Name = "TxtTen_Phi"
         Me.TxtTen_Phi.ReadOnly = True
-        Me.TxtTen_Phi.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_Phi.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_Phi.TabIndex = 403
         Me.TxtTen_Phi.TabStop = False
         '
@@ -973,21 +1025,23 @@ Partial Class INBK1
         Me.TxtMa_phi.Dv_Master = Nothing
         Me.TxtMa_phi.FilterClient = ""
         Me.TxtMa_phi.FilterSQL = ""
-        Me.TxtMa_phi.Location = New System.Drawing.Point(90, 208)
+        Me.TxtMa_phi.Location = New System.Drawing.Point(116, 272)
+        Me.TxtMa_phi.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_phi.Name = "TxtMa_phi"
         Me.TxtMa_phi.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_phi.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_phi.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_phi.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_phi.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_phi.TabIndex = 17
         Me.TxtMa_phi.Table_Name = ""
         '
         'LabMa_HD
         '
         Me.LabMa_HD.AutoSize = True
-        Me.LabMa_HD.Location = New System.Drawing.Point(8, 189)
+        Me.LabMa_HD.Location = New System.Drawing.Point(7, 247)
+        Me.LabMa_HD.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_HD.Name = "LabMa_HD"
-        Me.LabMa_HD.Size = New System.Drawing.Size(69, 13)
+        Me.LabMa_HD.Size = New System.Drawing.Size(89, 17)
         Me.LabMa_HD.TabIndex = 402
         Me.LabMa_HD.Tag = "Contract"
         Me.LabMa_HD.Text = "Mã hợp đồng"
@@ -998,10 +1052,11 @@ Partial Class INBK1
         Me.TxtTen_HD.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_HD.Enabled = False
         Me.TxtTen_HD.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_HD.Location = New System.Drawing.Point(201, 189)
+        Me.TxtTen_HD.Location = New System.Drawing.Point(268, 247)
+        Me.TxtTen_HD.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_HD.Name = "TxtTen_HD"
         Me.TxtTen_HD.ReadOnly = True
-        Me.TxtTen_HD.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_HD.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_HD.TabIndex = 401
         Me.TxtTen_HD.TabStop = False
         '
@@ -1013,21 +1068,23 @@ Partial Class INBK1
         Me.TxtMa_HD.Dv_Master = Nothing
         Me.TxtMa_HD.FilterClient = ""
         Me.TxtMa_HD.FilterSQL = ""
-        Me.TxtMa_HD.Location = New System.Drawing.Point(90, 186)
+        Me.TxtMa_HD.Location = New System.Drawing.Point(116, 243)
+        Me.TxtMa_HD.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_HD.Name = "TxtMa_HD"
         Me.TxtMa_HD.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_HD.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_HD.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_HD.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_HD.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_HD.TabIndex = 16
         Me.TxtMa_HD.Table_Name = ""
         '
         'LabMa_Vv
         '
         Me.LabMa_Vv.AutoSize = True
-        Me.LabMa_Vv.Location = New System.Drawing.Point(8, 167)
+        Me.LabMa_Vv.Location = New System.Drawing.Point(7, 218)
+        Me.LabMa_Vv.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Vv.Name = "LabMa_Vv"
-        Me.LabMa_Vv.Size = New System.Drawing.Size(58, 13)
+        Me.LabMa_Vv.Size = New System.Drawing.Size(73, 17)
         Me.LabMa_Vv.TabIndex = 400
         Me.LabMa_Vv.Tag = "Case"
         Me.LabMa_Vv.Text = "Mã vụ việc"
@@ -1038,10 +1095,11 @@ Partial Class INBK1
         Me.TxtTen_Vv.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_Vv.Enabled = False
         Me.TxtTen_Vv.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Vv.Location = New System.Drawing.Point(201, 167)
+        Me.TxtTen_Vv.Location = New System.Drawing.Point(268, 218)
+        Me.TxtTen_Vv.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_Vv.Name = "TxtTen_Vv"
         Me.TxtTen_Vv.ReadOnly = True
-        Me.TxtTen_Vv.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_Vv.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_Vv.TabIndex = 399
         Me.TxtTen_Vv.TabStop = False
         '
@@ -1053,24 +1111,26 @@ Partial Class INBK1
         Me.TxtMa_Vv.Dv_Master = Nothing
         Me.TxtMa_Vv.FilterClient = ""
         Me.TxtMa_Vv.FilterSQL = ""
-        Me.TxtMa_Vv.Location = New System.Drawing.Point(90, 164)
+        Me.TxtMa_Vv.Location = New System.Drawing.Point(116, 214)
+        Me.TxtMa_Vv.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Vv.Name = "TxtMa_Vv"
         Me.TxtMa_Vv.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Vv.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Vv.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Vv.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Vv.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Vv.TabIndex = 15
         Me.TxtMa_Vv.Table_Name = ""
         '
         'LabMa_TTPhi
         '
         Me.LabMa_TTPhi.AutoSize = True
-        Me.LabMa_TTPhi.Location = New System.Drawing.Point(8, 276)
+        Me.LabMa_TTPhi.Location = New System.Drawing.Point(7, 361)
+        Me.LabMa_TTPhi.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_TTPhi.Name = "LabMa_TTPhi"
-        Me.LabMa_TTPhi.Size = New System.Drawing.Size(38, 13)
+        Me.LabMa_TTPhi.Size = New System.Drawing.Size(67, 17)
         Me.LabMa_TTPhi.TabIndex = 398
         Me.LabMa_TTPhi.Tag = "Cost center"
-        Me.LabMa_TTPhi.Text = "Xưởng"
+        Me.LabMa_TTPhi.Text = "TT chi phí"
         '
         'TxtTen_TTCP
         '
@@ -1078,10 +1138,11 @@ Partial Class INBK1
         Me.TxtTen_TTCP.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_TTCP.Enabled = False
         Me.TxtTen_TTCP.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TTCP.Location = New System.Drawing.Point(201, 276)
+        Me.TxtTen_TTCP.Location = New System.Drawing.Point(268, 361)
+        Me.TxtTen_TTCP.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_TTCP.Name = "TxtTen_TTCP"
         Me.TxtTen_TTCP.ReadOnly = True
-        Me.TxtTen_TTCP.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_TTCP.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_TTCP.TabIndex = 397
         Me.TxtTen_TTCP.TabStop = False
         '
@@ -1093,21 +1154,23 @@ Partial Class INBK1
         Me.TxtMa_TTCP.Dv_Master = Nothing
         Me.TxtMa_TTCP.FilterClient = ""
         Me.TxtMa_TTCP.FilterSQL = ""
-        Me.TxtMa_TTCP.Location = New System.Drawing.Point(90, 273)
+        Me.TxtMa_TTCP.Location = New System.Drawing.Point(116, 357)
+        Me.TxtMa_TTCP.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
         Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_TTCP.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_TTCP.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_TTCP.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_TTCP.TabIndex = 20
         Me.TxtMa_TTCP.Table_Name = ""
         '
         'LabMa_TTLN
         '
         Me.LabMa_TTLN.AutoSize = True
-        Me.LabMa_TTLN.Location = New System.Drawing.Point(8, 255)
+        Me.LabMa_TTLN.Location = New System.Drawing.Point(7, 333)
+        Me.LabMa_TTLN.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_TTLN.Name = "LabMa_TTLN"
-        Me.LabMa_TTLN.Size = New System.Drawing.Size(65, 13)
+        Me.LabMa_TTLN.Size = New System.Drawing.Size(83, 17)
         Me.LabMa_TTLN.TabIndex = 396
         Me.LabMa_TTLN.Tag = "Profit Centers"
         Me.LabMa_TTLN.Text = "TT lợi nhuận"
@@ -1118,10 +1181,11 @@ Partial Class INBK1
         Me.TxtTen_TTLN.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_TTLN.Enabled = False
         Me.TxtTen_TTLN.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TTLN.Location = New System.Drawing.Point(201, 255)
+        Me.TxtTen_TTLN.Location = New System.Drawing.Point(268, 333)
+        Me.TxtTen_TTLN.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_TTLN.Name = "TxtTen_TTLN"
         Me.TxtTen_TTLN.ReadOnly = True
-        Me.TxtTen_TTLN.Size = New System.Drawing.Size(267, 14)
+        Me.TxtTen_TTLN.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_TTLN.TabIndex = 395
         Me.TxtTen_TTLN.TabStop = False
         '
@@ -1133,21 +1197,23 @@ Partial Class INBK1
         Me.TxtMa_TTLN.Dv_Master = Nothing
         Me.TxtMa_TTLN.FilterClient = ""
         Me.TxtMa_TTLN.FilterSQL = ""
-        Me.TxtMa_TTLN.Location = New System.Drawing.Point(90, 252)
+        Me.TxtMa_TTLN.Location = New System.Drawing.Point(116, 330)
+        Me.TxtMa_TTLN.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_TTLN.Name = "TxtMa_TTLN"
         Me.TxtMa_TTLN.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_TTLN.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_TTLN.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_TTLN.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_TTLN.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_TTLN.TabIndex = 19
         Me.TxtMa_TTLN.Table_Name = ""
         '
         'LabMa_Cd
         '
         Me.LabMa_Cd.AutoSize = True
-        Me.LabMa_Cd.Location = New System.Drawing.Point(642, 118)
+        Me.LabMa_Cd.Location = New System.Drawing.Point(856, 154)
+        Me.LabMa_Cd.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabMa_Cd.Name = "LabMa_Cd"
-        Me.LabMa_Cd.Size = New System.Drawing.Size(59, 13)
+        Me.LabMa_Cd.Size = New System.Drawing.Size(76, 17)
         Me.LabMa_Cd.TabIndex = 425
         Me.LabMa_Cd.Tag = "Stage"
         Me.LabMa_Cd.Text = "Công đoạn"
@@ -1157,10 +1223,11 @@ Partial Class INBK1
         Me.TxtTen_CD.BackColor = System.Drawing.Color.White
         Me.TxtTen_CD.Enabled = False
         Me.TxtTen_CD.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_CD.Location = New System.Drawing.Point(644, 140)
+        Me.TxtTen_CD.Location = New System.Drawing.Point(859, 183)
+        Me.TxtTen_CD.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_CD.Name = "TxtTen_CD"
         Me.TxtTen_CD.ReadOnly = True
-        Me.TxtTen_CD.Size = New System.Drawing.Size(260, 21)
+        Me.TxtTen_CD.Size = New System.Drawing.Size(345, 24)
         Me.TxtTen_CD.TabIndex = 14
         Me.TxtTen_CD.TabStop = False
         '
@@ -1172,12 +1239,13 @@ Partial Class INBK1
         Me.TxtMa_CD.Dv_Master = Nothing
         Me.TxtMa_CD.FilterClient = ""
         Me.TxtMa_CD.FilterSQL = ""
-        Me.TxtMa_CD.Location = New System.Drawing.Point(712, 115)
+        Me.TxtMa_CD.Location = New System.Drawing.Point(949, 150)
+        Me.TxtMa_CD.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_CD.Name = "TxtMa_CD"
         Me.TxtMa_CD.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_CD.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_CD.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_CD.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_CD.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_CD.TabIndex = 11
         Me.TxtMa_CD.Table_Name = ""
         '
@@ -1187,10 +1255,11 @@ Partial Class INBK1
         Me.TxtTen_lo.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_lo.Enabled = False
         Me.TxtTen_lo.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_lo.Location = New System.Drawing.Point(644, 322)
+        Me.TxtTen_lo.Location = New System.Drawing.Point(859, 421)
+        Me.TxtTen_lo.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_lo.Name = "TxtTen_lo"
         Me.TxtTen_lo.ReadOnly = True
-        Me.TxtTen_lo.Size = New System.Drawing.Size(260, 14)
+        Me.TxtTen_lo.Size = New System.Drawing.Size(347, 17)
         Me.TxtTen_lo.TabIndex = 436
         Me.TxtTen_lo.TabStop = False
         '
@@ -1202,21 +1271,23 @@ Partial Class INBK1
         Me.TxtMa_Lo.Dv_Master = Nothing
         Me.TxtMa_Lo.FilterClient = ""
         Me.TxtMa_Lo.FilterSQL = ""
-        Me.TxtMa_Lo.Location = New System.Drawing.Point(530, 317)
+        Me.TxtMa_Lo.Location = New System.Drawing.Point(707, 417)
+        Me.TxtMa_Lo.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Lo.Name = "TxtMa_Lo"
         Me.TxtMa_Lo.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Lo.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Lo.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Lo.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Lo.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Lo.TabIndex = 30
         Me.TxtMa_Lo.Table_Name = ""
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(8, 320)
+        Me.Label5.Location = New System.Drawing.Point(7, 421)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(44, 13)
+        Me.Label5.Size = New System.Drawing.Size(54, 17)
         Me.Label5.TabIndex = 435
         Me.Label5.Tag = "Locality"
         Me.Label5.Text = "Địa bàn"
@@ -1228,10 +1299,11 @@ Partial Class INBK1
         Me.TxtTen_DB.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.TxtTen_DB.Enabled = False
         Me.TxtTen_DB.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_DB.Location = New System.Drawing.Point(201, 322)
+        Me.TxtTen_DB.Location = New System.Drawing.Point(268, 421)
+        Me.TxtTen_DB.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtTen_DB.Name = "TxtTen_DB"
         Me.TxtTen_DB.ReadOnly = True
-        Me.TxtTen_DB.Size = New System.Drawing.Size(244, 14)
+        Me.TxtTen_DB.Size = New System.Drawing.Size(356, 17)
         Me.TxtTen_DB.TabIndex = 434
         Me.TxtTen_DB.TabStop = False
         '
@@ -1243,21 +1315,23 @@ Partial Class INBK1
         Me.TxtMa_Db.Dv_Master = Nothing
         Me.TxtMa_Db.FilterClient = ""
         Me.TxtMa_Db.FilterSQL = ""
-        Me.TxtMa_Db.Location = New System.Drawing.Point(90, 317)
+        Me.TxtMa_Db.Location = New System.Drawing.Point(116, 417)
+        Me.TxtMa_Db.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtMa_Db.Name = "TxtMa_Db"
         Me.TxtMa_Db.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Db.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_Db.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Db.Size = New System.Drawing.Size(110, 20)
+        Me.TxtMa_Db.Size = New System.Drawing.Size(147, 22)
         Me.TxtMa_Db.TabIndex = 22
         Me.TxtMa_Db.Table_Name = ""
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(451, 320)
+        Me.Label4.Location = New System.Drawing.Point(628, 421)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(60, 13)
+        Me.Label4.Size = New System.Drawing.Size(78, 17)
         Me.Label4.TabIndex = 437
         Me.Label4.Tag = "Batch of goods"
         Me.Label4.Text = "Lô sử dụng"
@@ -1270,12 +1344,13 @@ Partial Class INBK1
         Me.TxtNh_Vt3.Dv_Master = Nothing
         Me.TxtNh_Vt3.FilterClient = ""
         Me.TxtNh_Vt3.FilterSQL = ""
-        Me.TxtNh_Vt3.Location = New System.Drawing.Point(530, 116)
+        Me.TxtNh_Vt3.Location = New System.Drawing.Point(707, 152)
+        Me.TxtNh_Vt3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtNh_Vt3.Name = "TxtNh_Vt3"
         Me.TxtNh_Vt3.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtNh_Vt3.Properties.Appearance.Options.UseForeColor = True
         Me.TxtNh_Vt3.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtNh_Vt3.Size = New System.Drawing.Size(110, 20)
+        Me.TxtNh_Vt3.Size = New System.Drawing.Size(147, 22)
         Me.TxtNh_Vt3.TabIndex = 10
         Me.TxtNh_Vt3.Table_Name = ""
         '
@@ -1287,12 +1362,13 @@ Partial Class INBK1
         Me.TxtNh_Vt2.Dv_Master = Nothing
         Me.TxtNh_Vt2.FilterClient = ""
         Me.TxtNh_Vt2.FilterSQL = ""
-        Me.TxtNh_Vt2.Location = New System.Drawing.Point(297, 116)
+        Me.TxtNh_Vt2.Location = New System.Drawing.Point(396, 152)
+        Me.TxtNh_Vt2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtNh_Vt2.Name = "TxtNh_Vt2"
         Me.TxtNh_Vt2.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtNh_Vt2.Properties.Appearance.Options.UseForeColor = True
         Me.TxtNh_Vt2.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtNh_Vt2.Size = New System.Drawing.Size(98, 20)
+        Me.TxtNh_Vt2.Size = New System.Drawing.Size(131, 22)
         Me.TxtNh_Vt2.TabIndex = 9
         Me.TxtNh_Vt2.Table_Name = ""
         '
@@ -1304,192 +1380,20 @@ Partial Class INBK1
         Me.TxtNh_Vt1.Dv_Master = Nothing
         Me.TxtNh_Vt1.FilterClient = ""
         Me.TxtNh_Vt1.FilterSQL = ""
-        Me.TxtNh_Vt1.Location = New System.Drawing.Point(90, 116)
+        Me.TxtNh_Vt1.Location = New System.Drawing.Point(116, 152)
+        Me.TxtNh_Vt1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TxtNh_Vt1.Name = "TxtNh_Vt1"
         Me.TxtNh_Vt1.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtNh_Vt1.Properties.Appearance.Options.UseForeColor = True
         Me.TxtNh_Vt1.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtNh_Vt1.Size = New System.Drawing.Size(110, 20)
+        Me.TxtNh_Vt1.Size = New System.Drawing.Size(147, 22)
         Me.TxtNh_Vt1.TabIndex = 8
         Me.TxtNh_Vt1.Table_Name = ""
         '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(451, 342)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(77, 13)
-        Me.Label9.TabIndex = 503
-        Me.Label9.Tag = "Loại giao dịch"
-        Me.Label9.Text = "Đến mức xử lý"
-        '
-        'CbbMa_post2
-        '
-        Me.CbbMa_post2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CbbMa_post2.ForeColor = System.Drawing.Color.Navy
-        Me.CbbMa_post2.FormattingEnabled = True
-        Me.CbbMa_post2.Location = New System.Drawing.Point(530, 338)
-        Me.CbbMa_post2.Name = "CbbMa_post2"
-        Me.CbbMa_post2.Size = New System.Drawing.Size(110, 21)
-        Me.CbbMa_post2.TabIndex = 501
-        '
-        'CbbMa_Post1
-        '
-        Me.CbbMa_Post1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.CbbMa_Post1.ForeColor = System.Drawing.Color.Navy
-        Me.CbbMa_Post1.FormattingEnabled = True
-        Me.CbbMa_Post1.Location = New System.Drawing.Point(90, 340)
-        Me.CbbMa_Post1.Name = "CbbMa_Post1"
-        Me.CbbMa_Post1.Size = New System.Drawing.Size(110, 21)
-        Me.CbbMa_Post1.TabIndex = 500
-        '
-        'Label10
-        '
-        Me.Label10.Location = New System.Drawing.Point(8, 342)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(80, 17)
-        Me.Label10.TabIndex = 502
-        Me.Label10.Tag = "Type"
-        Me.Label10.Text = "Từ mức xử lý"
-        '
-        'txtTen_UserTao
-        '
-        Me.txtTen_UserTao.BackColor = System.Drawing.SystemColors.Control
-        Me.txtTen_UserTao.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.txtTen_UserTao.Enabled = False
-        Me.txtTen_UserTao.ForeColor = System.Drawing.Color.Navy
-        Me.txtTen_UserTao.Location = New System.Drawing.Point(201, 367)
-        Me.txtTen_UserTao.Name = "txtTen_UserTao"
-        Me.txtTen_UserTao.ReadOnly = True
-        Me.txtTen_UserTao.Size = New System.Drawing.Size(267, 14)
-        Me.txtTen_UserTao.TabIndex = 506
-        Me.txtTen_UserTao.TabStop = False
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(8, 367)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(83, 13)
-        Me.Label7.TabIndex = 505
-        Me.Label7.Tag = "Locality"
-        Me.Label7.Text = "User đăng nhập"
-        Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'TxtUser_Tao
-        '
-        Me.TxtUser_Tao._ActilookupPopup = False
-        Me.TxtUser_Tao.CyberActilookupPopup = True
-        Me.TxtUser_Tao.Dv_ListDetail = Nothing
-        Me.TxtUser_Tao.Dv_Master = Nothing
-        Me.TxtUser_Tao.FilterClient = ""
-        Me.TxtUser_Tao.FilterSQL = ""
-        Me.TxtUser_Tao.Location = New System.Drawing.Point(90, 364)
-        Me.TxtUser_Tao.Name = "TxtUser_Tao"
-        Me.TxtUser_Tao.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
-        Me.TxtUser_Tao.Properties.Appearance.Options.UseForeColor = True
-        Me.TxtUser_Tao.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtUser_Tao.Size = New System.Drawing.Size(110, 20)
-        Me.TxtUser_Tao.TabIndex = 504
-        Me.TxtUser_Tao.Table_Name = ""
-        '
-        'ChkGia_Von
-        '
-        Me.ChkGia_Von.AutoSize = True
-        Me.ChkGia_Von.Location = New System.Drawing.Point(712, 30)
-        Me.ChkGia_Von.Margin = New System.Windows.Forms.Padding(2)
-        Me.ChkGia_Von.Name = "ChkGia_Von"
-        Me.ChkGia_Von.Size = New System.Drawing.Size(98, 17)
-        Me.ChkGia_Von.TabIndex = 507
-        Me.ChkGia_Von.Text = "Giá vốn bằng 0"
-        Me.ChkGia_Von.UseVisualStyleBackColor = True
-        '
-        'ChkXuat_Am
-        '
-        Me.ChkXuat_Am.AutoSize = True
-        Me.ChkXuat_Am.Location = New System.Drawing.Point(712, 51)
-        Me.ChkXuat_Am.Margin = New System.Windows.Forms.Padding(2)
-        Me.ChkXuat_Am.Name = "ChkXuat_Am"
-        Me.ChkXuat_Am.Size = New System.Drawing.Size(65, 17)
-        Me.ChkXuat_Am.TabIndex = 508
-        Me.ChkXuat_Am.Text = "Xuất âm"
-        Me.ChkXuat_Am.UseVisualStyleBackColor = True
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(209, 392)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(70, 13)
-        Me.Label11.TabIndex = 512
-        Me.Label11.Tag = "Date to"
-        Me.Label11.Text = "Đến ngày NT"
-        '
-        'Label12
-        '
-        Me.Label12.AutoSize = True
-        Me.Label12.Location = New System.Drawing.Point(8, 392)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(48, 13)
-        Me.Label12.TabIndex = 511
-        Me.Label12.Tag = "Date from"
-        Me.Label12.Text = "Ngày NT"
-        '
-        'TxtNgay_NT2
-        '
-        Me.TxtNgay_NT2.Flags = 0
-        Me.TxtNgay_NT2.ForeColor = System.Drawing.Color.Navy
-        Me.TxtNgay_NT2.IsAllowResize = False
-        Me.TxtNgay_NT2.isEmpty = True
-        Me.TxtNgay_NT2.Location = New System.Drawing.Point(290, 387)
-        Me.TxtNgay_NT2.Margin = New System.Windows.Forms.Padding(0)
-        Me.TxtNgay_NT2.MaskDate = "dd/MM/yyyy"
-        Me.TxtNgay_NT2.MaxLength = 10
-        Me.TxtNgay_NT2.Name = "TxtNgay_NT2"
-        Me.TxtNgay_NT2.RangeMax = New Date(CType(0, Long))
-        Me.TxtNgay_NT2.RangeMin = New Date(CType(0, Long))
-        Me.TxtNgay_NT2.ShowDayBeforeMonth = False
-        Me.TxtNgay_NT2.Size = New System.Drawing.Size(102, 21)
-        Me.TxtNgay_NT2.TabIndex = 510
-        Me.TxtNgay_NT2.Text = "__/__/____"
-        Me.TxtNgay_NT2.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
-        '
-        'TxtNgay_NT1
-        '
-        Me.TxtNgay_NT1.Flags = 0
-        Me.TxtNgay_NT1.ForeColor = System.Drawing.Color.Navy
-        Me.TxtNgay_NT1.IsAllowResize = False
-        Me.TxtNgay_NT1.isEmpty = True
-        Me.TxtNgay_NT1.Location = New System.Drawing.Point(90, 387)
-        Me.TxtNgay_NT1.Margin = New System.Windows.Forms.Padding(0)
-        Me.TxtNgay_NT1.MaskDate = "dd/MM/yyyy"
-        Me.TxtNgay_NT1.MaxLength = 10
-        Me.TxtNgay_NT1.Name = "TxtNgay_NT1"
-        Me.TxtNgay_NT1.RangeMax = New Date(CType(0, Long))
-        Me.TxtNgay_NT1.RangeMin = New Date(CType(0, Long))
-        Me.TxtNgay_NT1.ShowDayBeforeMonth = False
-        Me.TxtNgay_NT1.Size = New System.Drawing.Size(110, 21)
-        Me.TxtNgay_NT1.TabIndex = 509
-        Me.TxtNgay_NT1.Text = "__/__/____"
-        Me.TxtNgay_NT1.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
-        '
         'INBK1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(906, 503)
-        Me.Controls.Add(Me.Label11)
-        Me.Controls.Add(Me.Label12)
-        Me.Controls.Add(Me.TxtNgay_NT2)
-        Me.Controls.Add(Me.TxtNgay_NT1)
-        Me.Controls.Add(Me.ChkXuat_Am)
-        Me.Controls.Add(Me.ChkGia_Von)
-        Me.Controls.Add(Me.txtTen_UserTao)
-        Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.TxtUser_Tao)
-        Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.CbbMa_post2)
-        Me.Controls.Add(Me.CbbMa_Post1)
-        Me.Controls.Add(Me.Label10)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 17.0!)
+        Me.ClientSize = New System.Drawing.Size(1208, 578)
         Me.Controls.Add(Me.TxtNh_Vt3)
         Me.Controls.Add(Me.TxtNh_Vt2)
         Me.Controls.Add(Me.TxtNh_Vt1)
@@ -1575,7 +1479,8 @@ Partial Class INBK1
         Me.Controls.Add(Me.LabM_Ngay_Ct1)
         Me.Controls.Add(Me.TxtM_Ngay_Ct2)
         Me.Controls.Add(Me.TxtM_Ngay_Ct1)
-        Me.MinimumSize = New System.Drawing.Size(488, 179)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.MinimumSize = New System.Drawing.Size(647, 225)
         Me.Name = "INBK1"
         Me.Controls.SetChildIndex(Me.Label1, 0)
         Me.Controls.SetChildIndex(Me.TxtM_Ngay_Ct1, 0)
@@ -1669,19 +1574,6 @@ Partial Class INBK1
         Me.Controls.SetChildIndex(Me.TxtNh_Vt1, 0)
         Me.Controls.SetChildIndex(Me.TxtNh_Vt2, 0)
         Me.Controls.SetChildIndex(Me.TxtNh_Vt3, 0)
-        Me.Controls.SetChildIndex(Me.Label10, 0)
-        Me.Controls.SetChildIndex(Me.CbbMa_Post1, 0)
-        Me.Controls.SetChildIndex(Me.CbbMa_post2, 0)
-        Me.Controls.SetChildIndex(Me.Label9, 0)
-        Me.Controls.SetChildIndex(Me.TxtUser_Tao, 0)
-        Me.Controls.SetChildIndex(Me.Label7, 0)
-        Me.Controls.SetChildIndex(Me.txtTen_UserTao, 0)
-        Me.Controls.SetChildIndex(Me.ChkGia_Von, 0)
-        Me.Controls.SetChildIndex(Me.ChkXuat_Am, 0)
-        Me.Controls.SetChildIndex(Me.TxtNgay_NT1, 0)
-        Me.Controls.SetChildIndex(Me.TxtNgay_NT2, 0)
-        Me.Controls.SetChildIndex(Me.Label12, 0)
-        Me.Controls.SetChildIndex(Me.Label11, 0)
         CType(Me.Txtma_kh.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtSo_Ct1.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtSo_Ct2.Properties, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1708,7 +1600,6 @@ Partial Class INBK1
         CType(Me.TxtNh_Vt3.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_Vt2.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_Vt1.Properties, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.TxtUser_Tao.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -1798,17 +1689,5 @@ Partial Class INBK1
     Friend WithEvents TxtNh_Vt3 As Cyber.SmLists.TxtLookup
     Friend WithEvents TxtNh_Vt2 As Cyber.SmLists.TxtLookup
     Friend WithEvents TxtNh_Vt1 As Cyber.SmLists.TxtLookup
-    Friend WithEvents Label9 As System.Windows.Forms.Label
-    Friend WithEvents CbbMa_post2 As System.Windows.Forms.ComboBox
-    Friend WithEvents CbbMa_Post1 As System.Windows.Forms.ComboBox
-    Friend WithEvents Label10 As System.Windows.Forms.Label
-    Friend WithEvents txtTen_UserTao As TextBox
-    Friend WithEvents Label7 As Label
-    Friend WithEvents TxtUser_Tao As SmLists.TxtLookup
-    Friend WithEvents ChkGia_Von As CheckBox
-    Friend WithEvents ChkXuat_Am As CheckBox
-    Friend WithEvents Label11 As System.Windows.Forms.Label
-    Friend WithEvents Label12 As System.Windows.Forms.Label
-    Friend WithEvents TxtNgay_NT2 As ClsTextBox.txtDate1
-    Friend WithEvents TxtNgay_NT1 As ClsTextBox.txtDate1
+
 End Class

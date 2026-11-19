@@ -143,7 +143,6 @@ Partial Class PNK
         Me.txtSo_Do_Hang = New System.Windows.Forms.TextBox()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.txtLenh_Po_Hang = New System.Windows.Forms.TextBox()
-        Me.ChkIs_Them = New System.Windows.Forms.CheckBox()
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -1581,7 +1580,7 @@ Partial Class PNK
         Me.ChkChua_HD.AutoSize = True
         Me.ChkChua_HD.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ChkChua_HD.ForeColor = System.Drawing.Color.Red
-        Me.ChkChua_HD.Location = New System.Drawing.Point(834, 87)
+        Me.ChkChua_HD.Location = New System.Drawing.Point(772, 87)
         Me.ChkChua_HD.Name = "ChkChua_HD"
         Me.ChkChua_HD.Size = New System.Drawing.Size(95, 17)
         Me.ChkChua_HD.TabIndex = 13
@@ -2110,23 +2109,10 @@ Partial Class PNK
         Me.txtLenh_Po_Hang.Size = New System.Drawing.Size(117, 21)
         Me.txtLenh_Po_Hang.TabIndex = 7
         '
-        'ChkIs_Them
-        '
-        Me.ChkIs_Them.AutoSize = True
-        Me.ChkIs_Them.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ChkIs_Them.ForeColor = System.Drawing.Color.Red
-        Me.ChkIs_Them.Location = New System.Drawing.Point(602, 87)
-        Me.ChkIs_Them.Name = "ChkIs_Them"
-        Me.ChkIs_Them.Size = New System.Drawing.Size(87, 17)
-        Me.ChkIs_Them.TabIndex = 12
-        Me.ChkIs_Them.Text = "Nhập thêm"
-        Me.ChkIs_Them.UseVisualStyleBackColor = True
-        '
         'PNK
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(1257, 609)
-        Me.Controls.Add(Me.ChkIs_Them)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.txtLenh_Po_Hang)
         Me.Controls.Add(Me.Label6)
@@ -2381,7 +2367,6 @@ Partial Class PNK
         Me.Controls.SetChildIndex(Me.Label6, 0)
         Me.Controls.SetChildIndex(Me.txtLenh_Po_Hang, 0)
         Me.Controls.SetChildIndex(Me.Label9, 0)
-        Me.Controls.SetChildIndex(Me.ChkIs_Them, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Detail, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DetailGRV, System.ComponentModel.ISupportInitialize).EndInit()
@@ -2523,6 +2508,5 @@ Partial Class PNK
     Friend WithEvents txtSo_Do_Hang As System.Windows.Forms.TextBox
     Friend WithEvents Label9 As System.Windows.Forms.Label
     Friend WithEvents txtLenh_Po_Hang As System.Windows.Forms.TextBox
-    Friend WithEvents ChkIs_Them As System.Windows.Forms.CheckBox
 
 End Class

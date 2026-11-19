@@ -70,6 +70,8 @@ Partial Class Filter_HD3
         Me.TxtSo_Ro = New System.Windows.Forms.TextBox()
         Me.TxtSo_Ct2 = New System.Windows.Forms.TextBox()
         Me.LabSo_Ct2 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.TxtMa_Xe = New System.Windows.Forms.TextBox()
         CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_TTLN.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtMa_Sp.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -90,28 +92,28 @@ Partial Class Filter_HD3
         '
         Me.ButtOK.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtOK.Appearance.Options.UseForeColor = True
-        Me.ButtOK.Location = New System.Drawing.Point(712, 254)
+        Me.ButtOK.Location = New System.Drawing.Point(712, 266)
         Me.ButtOK.TabIndex = 23
         '
         'ButtExit
         '
         Me.ButtExit.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.ButtExit.Appearance.Options.UseForeColor = True
-        Me.ButtExit.Location = New System.Drawing.Point(815, 254)
+        Me.ButtExit.Location = New System.Drawing.Point(815, 266)
         Me.ButtExit.TabIndex = 24
         '
         'LabMa_Post
         '
-        Me.LabMa_Post.Location = New System.Drawing.Point(3, 226)
+        Me.LabMa_Post.Location = New System.Drawing.Point(3, 238)
         '
         'CbbMa_Post
         '
-        Me.CbbMa_Post.Location = New System.Drawing.Point(80, 222)
+        Me.CbbMa_Post.Location = New System.Drawing.Point(80, 234)
         Me.CbbMa_Post.TabIndex = 21
         '
         'ChkUser_Id
         '
-        Me.ChkUser_Id.Location = New System.Drawing.Point(244, 224)
+        Me.ChkUser_Id.Location = New System.Drawing.Point(244, 236)
         Me.ChkUser_Id.TabIndex = 22
         '
         'TxtNgay_Ct2
@@ -147,7 +149,7 @@ Partial Class Filter_HD3
         '
         Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBoxLine.Location = New System.Drawing.Point(5, 243)
+        Me.GroupBoxLine.Location = New System.Drawing.Point(5, 255)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(910, 8)
         Me.GroupBoxLine.TabIndex = 153
@@ -158,7 +160,7 @@ Partial Class Filter_HD3
         Me.LabMa_TTPhi.AutoSize = True
         Me.LabMa_TTPhi.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LabMa_TTPhi.ForeColor = System.Drawing.Color.Red
-        Me.LabMa_TTPhi.Location = New System.Drawing.Point(3, 181)
+        Me.LabMa_TTPhi.Location = New System.Drawing.Point(3, 185)
         Me.LabMa_TTPhi.Name = "LabMa_TTPhi"
         Me.LabMa_TTPhi.Size = New System.Drawing.Size(64, 13)
         Me.LabMa_TTPhi.TabIndex = 160
@@ -170,7 +172,7 @@ Partial Class Filter_HD3
         Me.TxtTen_TTCP.BackColor = System.Drawing.Color.White
         Me.TxtTen_TTCP.Enabled = False
         Me.TxtTen_TTCP.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TTCP.Location = New System.Drawing.Point(193, 178)
+        Me.TxtTen_TTCP.Location = New System.Drawing.Point(193, 182)
         Me.TxtTen_TTCP.Name = "TxtTen_TTCP"
         Me.TxtTen_TTCP.ReadOnly = True
         Me.TxtTen_TTCP.Size = New System.Drawing.Size(267, 20)
@@ -185,7 +187,7 @@ Partial Class Filter_HD3
         Me.TxtMa_TTCP.Dv_Master = Nothing
         Me.TxtMa_TTCP.FilterClient = ""
         Me.TxtMa_TTCP.FilterSQL = ""
-        Me.TxtMa_TTCP.Location = New System.Drawing.Point(80, 178)
+        Me.TxtMa_TTCP.Location = New System.Drawing.Point(80, 182)
         Me.TxtMa_TTCP.Name = "TxtMa_TTCP"
         Me.TxtMa_TTCP.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_TTCP.Properties.Appearance.Options.UseForeColor = True
@@ -197,7 +199,7 @@ Partial Class Filter_HD3
         'LabMa_TTLN
         '
         Me.LabMa_TTLN.AutoSize = True
-        Me.LabMa_TTLN.Location = New System.Drawing.Point(3, 160)
+        Me.LabMa_TTLN.Location = New System.Drawing.Point(3, 164)
         Me.LabMa_TTLN.Name = "LabMa_TTLN"
         Me.LabMa_TTLN.Size = New System.Drawing.Size(67, 13)
         Me.LabMa_TTLN.TabIndex = 158
@@ -209,7 +211,7 @@ Partial Class Filter_HD3
         Me.TxtTen_TTLN.BackColor = System.Drawing.Color.White
         Me.TxtTen_TTLN.Enabled = False
         Me.TxtTen_TTLN.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_TTLN.Location = New System.Drawing.Point(193, 157)
+        Me.TxtTen_TTLN.Location = New System.Drawing.Point(193, 161)
         Me.TxtTen_TTLN.Name = "TxtTen_TTLN"
         Me.TxtTen_TTLN.ReadOnly = True
         Me.TxtTen_TTLN.Size = New System.Drawing.Size(267, 20)
@@ -224,7 +226,7 @@ Partial Class Filter_HD3
         Me.TxtMa_TTLN.Dv_Master = Nothing
         Me.TxtMa_TTLN.FilterClient = ""
         Me.TxtMa_TTLN.FilterSQL = ""
-        Me.TxtMa_TTLN.Location = New System.Drawing.Point(80, 157)
+        Me.TxtMa_TTLN.Location = New System.Drawing.Point(80, 161)
         Me.TxtMa_TTLN.Name = "TxtMa_TTLN"
         Me.TxtMa_TTLN.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_TTLN.Properties.Appearance.Options.UseForeColor = True
@@ -236,7 +238,7 @@ Partial Class Filter_HD3
         'LabMa_Sp
         '
         Me.LabMa_Sp.AutoSize = True
-        Me.LabMa_Sp.Location = New System.Drawing.Point(3, 138)
+        Me.LabMa_Sp.Location = New System.Drawing.Point(3, 142)
         Me.LabMa_Sp.Name = "LabMa_Sp"
         Me.LabMa_Sp.Size = New System.Drawing.Size(71, 13)
         Me.LabMa_Sp.TabIndex = 172
@@ -248,7 +250,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Sp.BackColor = System.Drawing.Color.White
         Me.TxtTen_Sp.Enabled = False
         Me.TxtTen_Sp.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Sp.Location = New System.Drawing.Point(193, 135)
+        Me.TxtTen_Sp.Location = New System.Drawing.Point(193, 139)
         Me.TxtTen_Sp.Name = "TxtTen_Sp"
         Me.TxtTen_Sp.ReadOnly = True
         Me.TxtTen_Sp.Size = New System.Drawing.Size(267, 20)
@@ -263,7 +265,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Sp.Dv_Master = Nothing
         Me.TxtMa_Sp.FilterClient = ""
         Me.TxtMa_Sp.FilterSQL = ""
-        Me.TxtMa_Sp.Location = New System.Drawing.Point(80, 135)
+        Me.TxtMa_Sp.Location = New System.Drawing.Point(80, 139)
         Me.TxtMa_Sp.Name = "TxtMa_Sp"
         Me.TxtMa_Sp.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Sp.Properties.Appearance.Options.UseForeColor = True
@@ -275,7 +277,7 @@ Partial Class Filter_HD3
         'LabMa_Phi
         '
         Me.LabMa_Phi.AutoSize = True
-        Me.LabMa_Phi.Location = New System.Drawing.Point(3, 116)
+        Me.LabMa_Phi.Location = New System.Drawing.Point(3, 120)
         Me.LabMa_Phi.Name = "LabMa_Phi"
         Me.LabMa_Phi.Size = New System.Drawing.Size(41, 13)
         Me.LabMa_Phi.TabIndex = 170
@@ -287,7 +289,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Phi.BackColor = System.Drawing.Color.White
         Me.TxtTen_Phi.Enabled = False
         Me.TxtTen_Phi.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Phi.Location = New System.Drawing.Point(193, 113)
+        Me.TxtTen_Phi.Location = New System.Drawing.Point(193, 117)
         Me.TxtTen_Phi.Name = "TxtTen_Phi"
         Me.TxtTen_Phi.ReadOnly = True
         Me.TxtTen_Phi.Size = New System.Drawing.Size(267, 20)
@@ -302,7 +304,7 @@ Partial Class Filter_HD3
         Me.TxtMa_phi.Dv_Master = Nothing
         Me.TxtMa_phi.FilterClient = ""
         Me.TxtMa_phi.FilterSQL = ""
-        Me.TxtMa_phi.Location = New System.Drawing.Point(80, 113)
+        Me.TxtMa_phi.Location = New System.Drawing.Point(80, 117)
         Me.TxtMa_phi.Name = "TxtMa_phi"
         Me.TxtMa_phi.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_phi.Properties.Appearance.Options.UseForeColor = True
@@ -314,7 +316,7 @@ Partial Class Filter_HD3
         'LabMa_HD
         '
         Me.LabMa_HD.AutoSize = True
-        Me.LabMa_HD.Location = New System.Drawing.Point(3, 94)
+        Me.LabMa_HD.Location = New System.Drawing.Point(3, 98)
         Me.LabMa_HD.Name = "LabMa_HD"
         Me.LabMa_HD.Size = New System.Drawing.Size(71, 13)
         Me.LabMa_HD.TabIndex = 168
@@ -326,7 +328,7 @@ Partial Class Filter_HD3
         Me.TxtTen_HD.BackColor = System.Drawing.Color.White
         Me.TxtTen_HD.Enabled = False
         Me.TxtTen_HD.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_HD.Location = New System.Drawing.Point(193, 91)
+        Me.TxtTen_HD.Location = New System.Drawing.Point(193, 95)
         Me.TxtTen_HD.Name = "TxtTen_HD"
         Me.TxtTen_HD.ReadOnly = True
         Me.TxtTen_HD.Size = New System.Drawing.Size(267, 20)
@@ -341,7 +343,7 @@ Partial Class Filter_HD3
         Me.TxtMa_HD.Dv_Master = Nothing
         Me.TxtMa_HD.FilterClient = ""
         Me.TxtMa_HD.FilterSQL = ""
-        Me.TxtMa_HD.Location = New System.Drawing.Point(80, 91)
+        Me.TxtMa_HD.Location = New System.Drawing.Point(80, 95)
         Me.TxtMa_HD.Name = "TxtMa_HD"
         Me.TxtMa_HD.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_HD.Properties.Appearance.Options.UseForeColor = True
@@ -353,7 +355,7 @@ Partial Class Filter_HD3
         'LabMa_Vv
         '
         Me.LabMa_Vv.AutoSize = True
-        Me.LabMa_Vv.Location = New System.Drawing.Point(3, 72)
+        Me.LabMa_Vv.Location = New System.Drawing.Point(3, 76)
         Me.LabMa_Vv.Name = "LabMa_Vv"
         Me.LabMa_Vv.Size = New System.Drawing.Size(60, 13)
         Me.LabMa_Vv.TabIndex = 166
@@ -365,7 +367,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Vv.BackColor = System.Drawing.Color.White
         Me.TxtTen_Vv.Enabled = False
         Me.TxtTen_Vv.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Vv.Location = New System.Drawing.Point(193, 69)
+        Me.TxtTen_Vv.Location = New System.Drawing.Point(193, 73)
         Me.TxtTen_Vv.Name = "TxtTen_Vv"
         Me.TxtTen_Vv.ReadOnly = True
         Me.TxtTen_Vv.Size = New System.Drawing.Size(267, 20)
@@ -380,7 +382,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Vv.Dv_Master = Nothing
         Me.TxtMa_Vv.FilterClient = ""
         Me.TxtMa_Vv.FilterSQL = ""
-        Me.TxtMa_Vv.Location = New System.Drawing.Point(80, 69)
+        Me.TxtMa_Vv.Location = New System.Drawing.Point(80, 73)
         Me.TxtMa_Vv.Name = "TxtMa_Vv"
         Me.TxtMa_Vv.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Vv.Properties.Appearance.Options.UseForeColor = True
@@ -392,7 +394,7 @@ Partial Class Filter_HD3
         'LabMa_Hs
         '
         Me.LabMa_Hs.AutoSize = True
-        Me.LabMa_Hs.Location = New System.Drawing.Point(465, 72)
+        Me.LabMa_Hs.Location = New System.Drawing.Point(465, 76)
         Me.LabMa_Hs.Name = "LabMa_Hs"
         Me.LabMa_Hs.Size = New System.Drawing.Size(56, 13)
         Me.LabMa_Hs.TabIndex = 175
@@ -404,7 +406,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Hs.BackColor = System.Drawing.Color.White
         Me.TxtTen_Hs.Enabled = False
         Me.TxtTen_Hs.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Hs.Location = New System.Drawing.Point(656, 69)
+        Me.TxtTen_Hs.Location = New System.Drawing.Point(656, 73)
         Me.TxtTen_Hs.Name = "TxtTen_Hs"
         Me.TxtTen_Hs.ReadOnly = True
         Me.TxtTen_Hs.Size = New System.Drawing.Size(260, 20)
@@ -419,7 +421,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Hs.Dv_Master = Nothing
         Me.TxtMa_Hs.FilterClient = ""
         Me.TxtMa_Hs.FilterSQL = ""
-        Me.TxtMa_Hs.Location = New System.Drawing.Point(543, 69)
+        Me.TxtMa_Hs.Location = New System.Drawing.Point(543, 73)
         Me.TxtMa_Hs.Name = "TxtMa_Hs"
         Me.TxtMa_Hs.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Hs.Properties.Appearance.Options.UseForeColor = True
@@ -431,7 +433,7 @@ Partial Class Filter_HD3
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(3, 203)
+        Me.Label1.Location = New System.Drawing.Point(3, 207)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(47, 13)
         Me.Label1.TabIndex = 178
@@ -444,7 +446,7 @@ Partial Class Filter_HD3
         Me.TxtTen_ku.BackColor = System.Drawing.Color.White
         Me.TxtTen_ku.Enabled = False
         Me.TxtTen_ku.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_ku.Location = New System.Drawing.Point(193, 200)
+        Me.TxtTen_ku.Location = New System.Drawing.Point(193, 204)
         Me.TxtTen_ku.Name = "TxtTen_ku"
         Me.TxtTen_ku.ReadOnly = True
         Me.TxtTen_ku.Size = New System.Drawing.Size(267, 20)
@@ -459,7 +461,7 @@ Partial Class Filter_HD3
         Me.Txtma_Ku.Dv_Master = Nothing
         Me.Txtma_Ku.FilterClient = ""
         Me.Txtma_Ku.FilterSQL = ""
-        Me.Txtma_Ku.Location = New System.Drawing.Point(80, 200)
+        Me.Txtma_Ku.Location = New System.Drawing.Point(80, 204)
         Me.Txtma_Ku.Name = "Txtma_Ku"
         Me.Txtma_Ku.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.Txtma_Ku.Properties.Appearance.Options.UseForeColor = True
@@ -471,7 +473,7 @@ Partial Class Filter_HD3
         'LabMa_Bp
         '
         Me.LabMa_Bp.AutoSize = True
-        Me.LabMa_Bp.Location = New System.Drawing.Point(465, 94)
+        Me.LabMa_Bp.Location = New System.Drawing.Point(465, 98)
         Me.LabMa_Bp.Name = "LabMa_Bp"
         Me.LabMa_Bp.Size = New System.Drawing.Size(47, 13)
         Me.LabMa_Bp.TabIndex = 181
@@ -483,7 +485,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Bp.BackColor = System.Drawing.Color.White
         Me.TxtTen_Bp.Enabled = False
         Me.TxtTen_Bp.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Bp.Location = New System.Drawing.Point(656, 91)
+        Me.TxtTen_Bp.Location = New System.Drawing.Point(656, 95)
         Me.TxtTen_Bp.Name = "TxtTen_Bp"
         Me.TxtTen_Bp.ReadOnly = True
         Me.TxtTen_Bp.Size = New System.Drawing.Size(260, 20)
@@ -498,7 +500,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Bp.Dv_Master = Nothing
         Me.TxtMa_Bp.FilterClient = ""
         Me.TxtMa_Bp.FilterSQL = ""
-        Me.TxtMa_Bp.Location = New System.Drawing.Point(543, 91)
+        Me.TxtMa_Bp.Location = New System.Drawing.Point(543, 95)
         Me.TxtMa_Bp.Name = "TxtMa_Bp"
         Me.TxtMa_Bp.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Bp.Properties.Appearance.Options.UseForeColor = True
@@ -510,7 +512,7 @@ Partial Class Filter_HD3
         'LabMa_Td5
         '
         Me.LabMa_Td5.AutoSize = True
-        Me.LabMa_Td5.Location = New System.Drawing.Point(465, 203)
+        Me.LabMa_Td5.Location = New System.Drawing.Point(465, 207)
         Me.LabMa_Td5.Name = "LabMa_Td5"
         Me.LabMa_Td5.Size = New System.Drawing.Size(44, 13)
         Me.LabMa_Td5.TabIndex = 196
@@ -522,7 +524,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Td5.BackColor = System.Drawing.Color.White
         Me.TxtTen_Td5.Enabled = False
         Me.TxtTen_Td5.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td5.Location = New System.Drawing.Point(656, 200)
+        Me.TxtTen_Td5.Location = New System.Drawing.Point(656, 204)
         Me.TxtTen_Td5.Name = "TxtTen_Td5"
         Me.TxtTen_Td5.ReadOnly = True
         Me.TxtTen_Td5.Size = New System.Drawing.Size(260, 20)
@@ -537,7 +539,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Td5.Dv_Master = Nothing
         Me.TxtMa_Td5.FilterClient = ""
         Me.TxtMa_Td5.FilterSQL = ""
-        Me.TxtMa_Td5.Location = New System.Drawing.Point(543, 200)
+        Me.TxtMa_Td5.Location = New System.Drawing.Point(543, 204)
         Me.TxtMa_Td5.Name = "TxtMa_Td5"
         Me.TxtMa_Td5.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td5.Properties.Appearance.Options.UseForeColor = True
@@ -549,7 +551,7 @@ Partial Class Filter_HD3
         'LabMa_Td4
         '
         Me.LabMa_Td4.AutoSize = True
-        Me.LabMa_Td4.Location = New System.Drawing.Point(465, 181)
+        Me.LabMa_Td4.Location = New System.Drawing.Point(465, 185)
         Me.LabMa_Td4.Name = "LabMa_Td4"
         Me.LabMa_Td4.Size = New System.Drawing.Size(44, 13)
         Me.LabMa_Td4.TabIndex = 194
@@ -561,7 +563,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Td4.BackColor = System.Drawing.Color.White
         Me.TxtTen_Td4.Enabled = False
         Me.TxtTen_Td4.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td4.Location = New System.Drawing.Point(656, 178)
+        Me.TxtTen_Td4.Location = New System.Drawing.Point(656, 182)
         Me.TxtTen_Td4.Name = "TxtTen_Td4"
         Me.TxtTen_Td4.ReadOnly = True
         Me.TxtTen_Td4.Size = New System.Drawing.Size(260, 20)
@@ -576,7 +578,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Td4.Dv_Master = Nothing
         Me.TxtMa_Td4.FilterClient = ""
         Me.TxtMa_Td4.FilterSQL = ""
-        Me.TxtMa_Td4.Location = New System.Drawing.Point(543, 178)
+        Me.TxtMa_Td4.Location = New System.Drawing.Point(543, 182)
         Me.TxtMa_Td4.Name = "TxtMa_Td4"
         Me.TxtMa_Td4.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td4.Properties.Appearance.Options.UseForeColor = True
@@ -588,7 +590,7 @@ Partial Class Filter_HD3
         'LabMa_Td3
         '
         Me.LabMa_Td3.AutoSize = True
-        Me.LabMa_Td3.Location = New System.Drawing.Point(465, 160)
+        Me.LabMa_Td3.Location = New System.Drawing.Point(465, 164)
         Me.LabMa_Td3.Name = "LabMa_Td3"
         Me.LabMa_Td3.Size = New System.Drawing.Size(44, 13)
         Me.LabMa_Td3.TabIndex = 192
@@ -600,7 +602,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Td3.BackColor = System.Drawing.Color.White
         Me.TxtTen_Td3.Enabled = False
         Me.TxtTen_Td3.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td3.Location = New System.Drawing.Point(656, 157)
+        Me.TxtTen_Td3.Location = New System.Drawing.Point(656, 161)
         Me.TxtTen_Td3.Name = "TxtTen_Td3"
         Me.TxtTen_Td3.ReadOnly = True
         Me.TxtTen_Td3.Size = New System.Drawing.Size(260, 20)
@@ -615,7 +617,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Td3.Dv_Master = Nothing
         Me.TxtMa_Td3.FilterClient = ""
         Me.TxtMa_Td3.FilterSQL = ""
-        Me.TxtMa_Td3.Location = New System.Drawing.Point(543, 157)
+        Me.TxtMa_Td3.Location = New System.Drawing.Point(543, 161)
         Me.TxtMa_Td3.Name = "TxtMa_Td3"
         Me.TxtMa_Td3.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td3.Properties.Appearance.Options.UseForeColor = True
@@ -627,7 +629,7 @@ Partial Class Filter_HD3
         'LabMa_Td2
         '
         Me.LabMa_Td2.AutoSize = True
-        Me.LabMa_Td2.Location = New System.Drawing.Point(465, 138)
+        Me.LabMa_Td2.Location = New System.Drawing.Point(465, 142)
         Me.LabMa_Td2.Name = "LabMa_Td2"
         Me.LabMa_Td2.Size = New System.Drawing.Size(44, 13)
         Me.LabMa_Td2.TabIndex = 190
@@ -639,7 +641,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Td2.BackColor = System.Drawing.Color.White
         Me.TxtTen_Td2.Enabled = False
         Me.TxtTen_Td2.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td2.Location = New System.Drawing.Point(656, 135)
+        Me.TxtTen_Td2.Location = New System.Drawing.Point(656, 139)
         Me.TxtTen_Td2.Name = "TxtTen_Td2"
         Me.TxtTen_Td2.ReadOnly = True
         Me.TxtTen_Td2.Size = New System.Drawing.Size(260, 20)
@@ -654,7 +656,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Td2.Dv_Master = Nothing
         Me.TxtMa_Td2.FilterClient = ""
         Me.TxtMa_Td2.FilterSQL = ""
-        Me.TxtMa_Td2.Location = New System.Drawing.Point(543, 135)
+        Me.TxtMa_Td2.Location = New System.Drawing.Point(543, 139)
         Me.TxtMa_Td2.Name = "TxtMa_Td2"
         Me.TxtMa_Td2.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td2.Properties.Appearance.Options.UseForeColor = True
@@ -666,7 +668,7 @@ Partial Class Filter_HD3
         'LabMa_Td1
         '
         Me.LabMa_Td1.AutoSize = True
-        Me.LabMa_Td1.Location = New System.Drawing.Point(465, 116)
+        Me.LabMa_Td1.Location = New System.Drawing.Point(465, 120)
         Me.LabMa_Td1.Name = "LabMa_Td1"
         Me.LabMa_Td1.Size = New System.Drawing.Size(44, 13)
         Me.LabMa_Td1.TabIndex = 188
@@ -678,7 +680,7 @@ Partial Class Filter_HD3
         Me.TxtTen_Td1.BackColor = System.Drawing.Color.White
         Me.TxtTen_Td1.Enabled = False
         Me.TxtTen_Td1.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_Td1.Location = New System.Drawing.Point(656, 113)
+        Me.TxtTen_Td1.Location = New System.Drawing.Point(656, 117)
         Me.TxtTen_Td1.Name = "TxtTen_Td1"
         Me.TxtTen_Td1.ReadOnly = True
         Me.TxtTen_Td1.Size = New System.Drawing.Size(260, 20)
@@ -693,7 +695,7 @@ Partial Class Filter_HD3
         Me.TxtMa_Td1.Dv_Master = Nothing
         Me.TxtMa_Td1.FilterClient = ""
         Me.TxtMa_Td1.FilterSQL = ""
-        Me.TxtMa_Td1.Location = New System.Drawing.Point(543, 113)
+        Me.TxtMa_Td1.Location = New System.Drawing.Point(543, 117)
         Me.TxtMa_Td1.Name = "TxtMa_Td1"
         Me.TxtMa_Td1.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
         Me.TxtMa_Td1.Properties.Appearance.Options.UseForeColor = True
@@ -731,7 +733,7 @@ Partial Class Filter_HD3
         Me.txtDien_giai.BackColor = System.Drawing.Color.White
         Me.txtDien_giai.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtDien_giai.ForeColor = System.Drawing.Color.Navy
-        Me.txtDien_giai.Location = New System.Drawing.Point(80, 48)
+        Me.txtDien_giai.Location = New System.Drawing.Point(80, 52)
         Me.txtDien_giai.Name = "txtDien_giai"
         Me.txtDien_giai.Size = New System.Drawing.Size(835, 20)
         Me.txtDien_giai.TabIndex = 6
@@ -741,7 +743,7 @@ Partial Class Filter_HD3
         Me.LblDien_Giai.BackColor = System.Drawing.Color.Transparent
         Me.LblDien_Giai.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LblDien_Giai.ForeColor = System.Drawing.Color.Navy
-        Me.LblDien_Giai.Location = New System.Drawing.Point(2, 51)
+        Me.LblDien_Giai.Location = New System.Drawing.Point(2, 55)
         Me.LblDien_Giai.Margin = New System.Windows.Forms.Padding(0)
         Me.LblDien_Giai.Name = "LblDien_Giai"
         Me.LblDien_Giai.Size = New System.Drawing.Size(64, 14)
@@ -796,10 +798,36 @@ Partial Class Filter_HD3
         Me.LabSo_Ct2.Tag = "To Voucher no."
         Me.LabSo_Ct2.Text = "Đến số phiếu"
         '
+        'Label2
+        '
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
+        Me.Label2.Font = New System.Drawing.Font("Tahoma", 8.25!)
+        Me.Label2.ForeColor = System.Drawing.Color.Navy
+        Me.Label2.Location = New System.Drawing.Point(445, 32)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(71, 13)
+        Me.Label2.TabIndex = 1863
+        Me.Label2.Tag = "To Voucher no."
+        Me.Label2.Text = "Biển số"
+        '
+        'TxtMa_Xe
+        '
+        Me.TxtMa_Xe.BackColor = System.Drawing.Color.White
+        Me.TxtMa_Xe.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.TxtMa_Xe.Font = New System.Drawing.Font("Tahoma", 8.25!)
+        Me.TxtMa_Xe.ForeColor = System.Drawing.Color.Navy
+        Me.TxtMa_Xe.Location = New System.Drawing.Point(523, 28)
+        Me.TxtMa_Xe.Name = "TxtMa_Xe"
+        Me.TxtMa_Xe.Size = New System.Drawing.Size(110, 21)
+        Me.TxtMa_Xe.TabIndex = 1862
+        Me.TxtMa_Xe.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
         'Filter_HD3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
-        Me.ClientSize = New System.Drawing.Size(919, 287)
+        Me.ClientSize = New System.Drawing.Size(919, 299)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.TxtMa_Xe)
         Me.Controls.Add(Me.TxtSo_Ro)
         Me.Controls.Add(Me.labSo_Ro)
         Me.Controls.Add(Me.txtDien_giai)
@@ -915,6 +943,8 @@ Partial Class Filter_HD3
         Me.Controls.SetChildIndex(Me.ChkUser_Id, 0)
         Me.Controls.SetChildIndex(Me.ButtExit, 0)
         Me.Controls.SetChildIndex(Me.ButtOK, 0)
+        Me.Controls.SetChildIndex(Me.TxtMa_Xe, 0)
+        Me.Controls.SetChildIndex(Me.Label2, 0)
         CType(Me.TxtMa_TTCP.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_TTLN.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_Sp.Properties, System.ComponentModel.ISupportInitialize).EndInit()
@@ -984,4 +1014,6 @@ Partial Class Filter_HD3
     Friend WithEvents TxtSo_Ro As TextBox
     Friend WithEvents TxtSo_Ct2 As TextBox
     Friend WithEvents LabSo_Ct2 As Label
+    Friend WithEvents Label2 As Label
+    Friend WithEvents TxtMa_Xe As TextBox
 End Class

@@ -2,7 +2,7 @@
     Dim CyberMe As New Cyber.ReportsCustom.Sys
     Dim DrReturn As DataRow
     Dim DsLookup As DataSet
-    Dim _DtLoai_Phieu, _Dt_Ma_Post1, _Dt_Ma_Post2 As DataTable
+    Dim _DtLoai_Phieu As DataTable
     Dim _Tag2 As String = ""
     Private Sub INBK1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Try
@@ -24,8 +24,7 @@
             _DsGroup = CyberSmLib.SQLExcuteStoreProcedure(AppConn, "CP_SysGetTable", "SysNhapXuat#CP_NAME= N'LOAI_PHIEU" & _Tag2 & "' AND Acti = '1'#ID")
 
         End If
-        Me.TxtNgay_NT1.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
-        Me.TxtNgay_NT2.Value = New Date(1900, 1, 1, 0, 0, 0, 0)
+
         _DtLoai_Phieu = _DsGroup.Tables(0).Copy
         CyberFill.V_FillComBoxDefaul(Me.CbbLoai_Phieu, _DtLoai_Phieu, "Nhom", "Ten_nhom")
         'RemoveHandler CbbLoai_Phieu.SelectedIndexChanged, AddressOf CbbLoai_Phieu_SelectedIndexChanged
@@ -33,13 +32,6 @@
 
         RemoveHandler CbbLoai_Phieu.SelectedValueChanged, AddressOf V_LoadMa_GD
         AddHandler CbbLoai_Phieu.SelectedValueChanged, AddressOf V_LoadMa_GD
-
-        'Bổ sung thêm mức xử lý
-        Dim DsTmp As DataSet = CyberSmLib.SQLExcuteStoreProcedure(AppConn, "CP_ROBC_Load_Ngam_Dinh", CBBMa_Dvcs.SelectedValue + "#" + User_Name)
-        _Dt_Ma_Post1 = DsTmp.Tables(6).Copy
-        _Dt_Ma_Post2 = DsTmp.Tables(7).Copy
-        CyberFill.V_FillComBoxDefaul(CbbMa_Post1, _Dt_Ma_Post1, "Ma", "Ten")
-        CyberFill.V_FillComBoxDefaul(CbbMa_post2, _Dt_Ma_Post2, "Ma", "Ten")
 
         'SelectedValueChanged
         V_LoadMa_GD(New System.Object, New System.EventArgs)
@@ -231,11 +223,6 @@
         RemoveHandler TxtMa_Lo.CyberLeave, AddressOf L_Ma_Lo
         AddHandler TxtMa_Lo.CyberValiting, AddressOf V_Ma_Lo
         AddHandler TxtMa_Lo.CyberLeave, AddressOf L_Ma_Lo
-        '--USER TAO
-        RemoveHandler TxtUser_Tao.CyberValiting, AddressOf V_User_Tao
-        RemoveHandler TxtUser_Tao.CyberLeave, AddressOf L_User_Tao
-        AddHandler TxtUser_Tao.CyberValiting, AddressOf V_User_Tao
-        AddHandler TxtUser_Tao.CyberLeave, AddressOf L_User_Tao
 
     End Sub
 #End Region
@@ -675,26 +662,6 @@
         End If
     End Sub
 #End Region
-
-#Region "Vali --- User_Tao"
-    Private Sub V_User_Tao(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
-        TxtUser_Tao.V_LookUp(Me.LAN, Me.Para, Me.sysvar, Me.AppConn, DsLookup, "User_Nam", "UserInfo", "1=1", "1=1")
-    End Sub
-    Private Sub L_User_Tao(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
-        If TxtUser_Tao.Text = "" Then
-            txtTen_UserTao.Text = ""
-            Exit Sub
-        End If
-        DrReturn = TxtUser_Tao.GetRowsSelectData(False)
-        If Not DrReturn Is Nothing Then
-            TxtUser_Tao.Text = DrReturn.Item("User_Name")
-            txtTen_UserTao.Text = DrReturn.Item("Comment")
-        Else
-            TxtUser_Tao.Text = ""
-            txtTen_UserTao.Text = ""
-        End If
-    End Sub
-#End Region
 #End Region
     Private Sub V_LoadMa_GD(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Dim _Ma_Ct As String = ""
@@ -709,8 +676,6 @@
         '-----------------------------------------------------------------------------
         Dim Dt1 As Date = TxtM_Ngay_Ct1.Value
         Dim Dt2 As Date = TxtM_Ngay_Ct2.Value
-        Dim Dt_NT1 As Date = TxtNgay_NT1.Value
-        Dim Dt_NT2 As Date = TxtNgay_NT2.Value
         Dim M_Ma_Dvcs_Filter As String = Me.CBBMa_Dvcs.SelectedValue.ToString.Trim
 
 
@@ -754,17 +719,10 @@
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_Db.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_Lo.Text.Trim
 
-        M_strParameterStore = M_strParameterStore & "#" & CbbMa_Post1.SelectedValue.ToString.Trim
-        M_strParameterStore = M_strParameterStore & "#" & CbbMa_post2.SelectedValue.ToString.Trim
-
-        M_strParameterStore = M_strParameterStore & "#" & IIf(ChkGia_Von.Checked, "1", "0")
-        M_strParameterStore = M_strParameterStore & "#" & IIf(ChkXuat_Am.Checked, "1", "0")
 
         M_strParameterStore = M_strParameterStore & "#" & CyberMe.GetLoai_BC(ChkVND, ChkNT)
         M_strParameterStore = M_strParameterStore & "#" & M_Ma_Dvcs_Filter
         M_strParameterStore = M_strParameterStore & "#" & Me.User_Name.Trim
-        M_strParameterStore = M_strParameterStore & "#" & TxtUser_Tao.Text.Trim
-        M_strParameterStore = M_strParameterStore & "#" & Dt_NT1.ToString("yyyyMMdd") & "#" & Dt_NT2.ToString("yyyyMMdd").Trim
         '-----------------------------------------------------------------------------
         Me.is_continue = True
         Dim M_strFieldValue As String = ""

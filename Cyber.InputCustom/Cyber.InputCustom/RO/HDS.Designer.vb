@@ -216,7 +216,7 @@ Partial Class HDS
         Me.CmdTao_HD_Nhap = New DevExpress.XtraEditors.SimpleButton()
         Me.txtInvoiceGUID = New System.Windows.Forms.TextBox()
         Me.Label52 = New System.Windows.Forms.Label()
-        Me.TxtTen_HT_TT = New System.Windows.Forms.TextBox()
+        Me.TxtTen_HT_TT2 = New System.Windows.Forms.TextBox()
         Me.txtHT_TT = New Cyber.SmLists.TxtLookup()
         Me.Label26 = New System.Windows.Forms.Label()
         Me.Label53 = New System.Windows.Forms.Label()
@@ -3241,18 +3241,18 @@ Partial Class HDS
         Me.Label52.Text = "InvoiceGUID"
         Me.Label52.Visible = False
         '
-        'TxtTen_HT_TT
+        'TxtTen_HT_TT2
         '
-        Me.TxtTen_HT_TT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.TxtTen_HT_TT.BackColor = System.Drawing.Color.White
-        Me.TxtTen_HT_TT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
-        Me.TxtTen_HT_TT.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_HT_TT.Location = New System.Drawing.Point(832, 220)
-        Me.TxtTen_HT_TT.Name = "TxtTen_HT_TT"
-        Me.TxtTen_HT_TT.ReadOnly = True
-        Me.TxtTen_HT_TT.Size = New System.Drawing.Size(168, 20)
-        Me.TxtTen_HT_TT.TabIndex = 7442
-        Me.TxtTen_HT_TT.TabStop = False
+        Me.TxtTen_HT_TT2.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtTen_HT_TT2.BackColor = System.Drawing.Color.White
+        Me.TxtTen_HT_TT2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.TxtTen_HT_TT2.ForeColor = System.Drawing.Color.Navy
+        Me.TxtTen_HT_TT2.Location = New System.Drawing.Point(832, 220)
+        Me.TxtTen_HT_TT2.Name = "TxtTen_HT_TT2"
+        Me.TxtTen_HT_TT2.ReadOnly = True
+        Me.TxtTen_HT_TT2.Size = New System.Drawing.Size(168, 20)
+        Me.TxtTen_HT_TT2.TabIndex = 7442
+        Me.TxtTen_HT_TT2.TabStop = False
         '
         'txtHT_TT
         '
@@ -3332,7 +3332,7 @@ Partial Class HDS
         Me.ClientSize = New System.Drawing.Size(1290, 689)
         Me.Controls.Add(Me.txtKy_Hieu_HD)
         Me.Controls.Add(Me.Label53)
-        Me.Controls.Add(Me.TxtTen_HT_TT)
+        Me.Controls.Add(Me.TxtTen_HT_TT2)
         Me.Controls.Add(Me.txtHT_TT)
         Me.Controls.Add(Me.Label26)
         Me.Controls.Add(Me.Label52)
@@ -3721,7 +3721,7 @@ Partial Class HDS
         Me.Controls.SetChildIndex(Me.Label52, 0)
         Me.Controls.SetChildIndex(Me.Label26, 0)
         Me.Controls.SetChildIndex(Me.txtHT_TT, 0)
-        Me.Controls.SetChildIndex(Me.TxtTen_HT_TT, 0)
+        Me.Controls.SetChildIndex(Me.TxtTen_HT_TT2, 0)
         Me.Controls.SetChildIndex(Me.Label53, 0)
         Me.Controls.SetChildIndex(Me.txtKy_Hieu_HD, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
@@ -3947,7 +3947,7 @@ Partial Class HDS
     Friend WithEvents CmdTao_HD_Nhap As DevExpress.XtraEditors.SimpleButton
     Friend WithEvents txtInvoiceGUID As System.Windows.Forms.TextBox
     Friend WithEvents Label52 As System.Windows.Forms.Label
-    Friend WithEvents TxtTen_HT_TT As System.Windows.Forms.TextBox
+    Friend WithEvents TxtTen_HT_TT2 As System.Windows.Forms.TextBox
     Friend WithEvents txtHT_TT As Cyber.SmLists.TxtLookup
     Friend WithEvents Label26 As System.Windows.Forms.Label
     Friend WithEvents Label53 As System.Windows.Forms.Label

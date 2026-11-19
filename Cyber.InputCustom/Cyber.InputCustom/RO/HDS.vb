@@ -2675,16 +2675,16 @@ Public Class HDS
     Private Sub L_HT_TT(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs)
         If Not (M_Mode = "M" Or M_Mode = "S") Then Exit Sub
         If txtHT_TT.Text = "" Then
-            TxtTen_HT_TT.Text = ""
+            TxtTen_HT_TT2.Text = ""
             Exit Sub
         End If
         DrReturn = txtHT_TT.GetRowsSelectData(True)
         If Not DrReturn Is Nothing Then
             txtHT_TT.Text = DrReturn.Item("HT_TT")
-            TxtTen_HT_TT.Text = DrReturn.Item("Ten_HT_TT")
+            TxtTen_HT_TT2.Text = DrReturn.Item("Ten_HT_TT")
         Else
             txtHT_TT.Text = ""
-            TxtTen_HT_TT.Text = ""
+            TxtTen_HT_TT2.Text = ""
         End If
     End Sub
 #End Region

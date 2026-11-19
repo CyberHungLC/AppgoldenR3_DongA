@@ -51,10 +51,10 @@ Public Class BN1
     End Sub
 #Region "Load And Set And Default"
     Private Sub V_LoadNew(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        V_New(sender, e)
-        txtSo_QTU.Text = _Para_So_QTU
-        L_So_QTU()
+        If Dt_Master.Rows.Count > 0 Then Exit Sub
 
+        V_New(sender, e)
+        If Not M_Mode = "M" Then Exit Sub
         L_PNAtoBN1(sender, e)
 
     End Sub

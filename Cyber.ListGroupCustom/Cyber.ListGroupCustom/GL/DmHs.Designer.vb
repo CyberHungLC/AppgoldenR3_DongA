@@ -137,6 +137,7 @@ Partial Class DMHS
         Me.txtStarId = New System.Windows.Forms.TextBox()
         Me.Label30 = New System.Windows.Forms.Label()
         Me.ChkIs_Bp = New System.Windows.Forms.CheckBox()
+        Me.ChkIs_Ke_Toan = New System.Windows.Forms.CheckBox()
         CType(Me.TxtNh_HS1.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_HS2.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TxtNh_HS3.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -1315,7 +1316,7 @@ Partial Class DMHS
         'ChkIs_Kd_Admin
         '
         Me.ChkIs_Kd_Admin.AutoSize = True
-        Me.ChkIs_Kd_Admin.Location = New System.Drawing.Point(283, 464)
+        Me.ChkIs_Kd_Admin.Location = New System.Drawing.Point(228, 464)
         Me.ChkIs_Kd_Admin.Name = "ChkIs_Kd_Admin"
         Me.ChkIs_Kd_Admin.Size = New System.Drawing.Size(77, 17)
         Me.ChkIs_Kd_Admin.TabIndex = 43
@@ -1325,7 +1326,7 @@ Partial Class DMHS
         'ChkIs_DV_KTV_SDS
         '
         Me.ChkIs_DV_KTV_SDS.AutoSize = True
-        Me.ChkIs_DV_KTV_SDS.Location = New System.Drawing.Point(698, 487)
+        Me.ChkIs_DV_KTV_SDS.Location = New System.Drawing.Point(575, 487)
         Me.ChkIs_DV_KTV_SDS.Name = "ChkIs_DV_KTV_SDS"
         Me.ChkIs_DV_KTV_SDS.Size = New System.Drawing.Size(73, 17)
         Me.ChkIs_DV_KTV_SDS.TabIndex = 44
@@ -1335,7 +1336,7 @@ Partial Class DMHS
         'ChkIs_DV_KTV_SCC
         '
         Me.ChkIs_DV_KTV_SCC.AutoSize = True
-        Me.ChkIs_DV_KTV_SCC.Location = New System.Drawing.Point(698, 464)
+        Me.ChkIs_DV_KTV_SCC.Location = New System.Drawing.Point(575, 464)
         Me.ChkIs_DV_KTV_SCC.Name = "ChkIs_DV_KTV_SCC"
         Me.ChkIs_DV_KTV_SCC.Size = New System.Drawing.Size(67, 17)
         Me.ChkIs_DV_KTV_SCC.TabIndex = 41
@@ -1345,7 +1346,7 @@ Partial Class DMHS
         'ChkIs_DV_CVDV
         '
         Me.ChkIs_DV_CVDV.AutoSize = True
-        Me.ChkIs_DV_CVDV.Location = New System.Drawing.Point(424, 464)
+        Me.ChkIs_DV_CVDV.Location = New System.Drawing.Point(330, 464)
         Me.ChkIs_DV_CVDV.Name = "ChkIs_DV_CVDV"
         Me.ChkIs_DV_CVDV.Size = New System.Drawing.Size(97, 17)
         Me.ChkIs_DV_CVDV.TabIndex = 38
@@ -1355,7 +1356,7 @@ Partial Class DMHS
         'ChkIs_Dv_Admin
         '
         Me.ChkIs_Dv_Admin.AutoSize = True
-        Me.ChkIs_Dv_Admin.Location = New System.Drawing.Point(424, 487)
+        Me.ChkIs_Dv_Admin.Location = New System.Drawing.Point(330, 487)
         Me.ChkIs_Dv_Admin.Name = "ChkIs_Dv_Admin"
         Me.ChkIs_Dv_Admin.Size = New System.Drawing.Size(92, 17)
         Me.ChkIs_Dv_Admin.TabIndex = 42
@@ -1365,7 +1366,7 @@ Partial Class DMHS
         'ChkIs_DV_Dieu_phoi
         '
         Me.ChkIs_DV_Dieu_phoi.AutoSize = True
-        Me.ChkIs_DV_Dieu_phoi.Location = New System.Drawing.Point(544, 464)
+        Me.ChkIs_DV_Dieu_phoi.Location = New System.Drawing.Point(450, 464)
         Me.ChkIs_DV_Dieu_phoi.Name = "ChkIs_DV_Dieu_phoi"
         Me.ChkIs_DV_Dieu_phoi.Size = New System.Drawing.Size(94, 17)
         Me.ChkIs_DV_Dieu_phoi.TabIndex = 39
@@ -1404,7 +1405,7 @@ Partial Class DMHS
         'ChkIs_KD_GD
         '
         Me.ChkIs_KD_GD.AutoSize = True
-        Me.ChkIs_KD_GD.Location = New System.Drawing.Point(283, 487)
+        Me.ChkIs_KD_GD.Location = New System.Drawing.Point(228, 487)
         Me.ChkIs_KD_GD.Name = "ChkIs_KD_GD"
         Me.ChkIs_KD_GD.Size = New System.Drawing.Size(85, 17)
         Me.ChkIs_KD_GD.TabIndex = 2091
@@ -1448,18 +1449,29 @@ Partial Class DMHS
         'ChkIs_Bp
         '
         Me.ChkIs_Bp.AutoSize = True
-        Me.ChkIs_Bp.Location = New System.Drawing.Point(544, 487)
+        Me.ChkIs_Bp.Location = New System.Drawing.Point(450, 487)
         Me.ChkIs_Bp.Name = "ChkIs_Bp"
         Me.ChkIs_Bp.Size = New System.Drawing.Size(109, 17)
         Me.ChkIs_Bp.TabIndex = 2096
         Me.ChkIs_Bp.Text = "Theo dõi bộ phận"
         Me.ChkIs_Bp.UseVisualStyleBackColor = True
         '
+        'ChkIs_Ke_Toan
+        '
+        Me.ChkIs_Ke_Toan.AutoSize = True
+        Me.ChkIs_Ke_Toan.Location = New System.Drawing.Point(677, 464)
+        Me.ChkIs_Ke_Toan.Name = "ChkIs_Ke_Toan"
+        Me.ChkIs_Ke_Toan.Size = New System.Drawing.Size(65, 17)
+        Me.ChkIs_Ke_Toan.TabIndex = 2097
+        Me.ChkIs_Ke_Toan.Text = "Kế Toán"
+        Me.ChkIs_Ke_Toan.UseVisualStyleBackColor = True
+        '
         'DMHS
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(819, 603)
+        Me.Controls.Add(Me.ChkIs_Ke_Toan)
         Me.Controls.Add(Me.ChkIs_Bp)
         Me.Controls.Add(Me.txtStarId)
         Me.Controls.Add(Me.Label30)
@@ -1702,6 +1714,7 @@ Partial Class DMHS
         Me.Controls.SetChildIndex(Me.Label30, 0)
         Me.Controls.SetChildIndex(Me.txtStarId, 0)
         Me.Controls.SetChildIndex(Me.ChkIs_Bp, 0)
+        Me.Controls.SetChildIndex(Me.ChkIs_Ke_Toan, 0)
         CType(Me.TxtNh_HS1.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_HS2.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtNh_HS3.Properties, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1833,4 +1846,5 @@ Partial Class DMHS
     Friend WithEvents txtStarId As System.Windows.Forms.TextBox
     Friend WithEvents Label30 As System.Windows.Forms.Label
     Friend WithEvents ChkIs_Bp As Windows.Forms.CheckBox
+    Friend WithEvents ChkIs_Ke_Toan As Windows.Forms.CheckBox
 End Class

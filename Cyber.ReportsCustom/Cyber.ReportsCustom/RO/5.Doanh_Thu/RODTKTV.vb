@@ -151,9 +151,9 @@
         Dim M_Ma_Dvcs_Filter As String = Me.CBBMa_Dvcs.SelectedValue.ToString.Trim
 
         Dim M_strParameterStore As String = Dt1.ToString("yyyyMMdd") & "#" & Dt2.ToString("yyyyMMdd").Trim
-        M_strParameterStore = M_strParameterStore & "#" & TxtMa_Hs.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtSo_RO.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtSo_Ro_Hang.Text.Trim
+        M_strParameterStore = M_strParameterStore & "#" & TxtMa_Hs.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & TxtMa_Xe.Text.Trim
         M_strParameterStore = M_strParameterStore & "#" & IIf(ChkIs_All.Checked, "1", "0")
         M_strParameterStore = M_strParameterStore & "#" & IIf(ChkIs_C.Checked, "1", "0")

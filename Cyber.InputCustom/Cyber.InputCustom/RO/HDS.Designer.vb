@@ -173,7 +173,6 @@ Partial Class HDS
         Me.ChkIs_HH_I = New System.Windows.Forms.CheckBox()
         Me.ChkIS_HH_GDV = New System.Windows.Forms.CheckBox()
         Me.ChkIs_Voucher = New System.Windows.Forms.CheckBox()
-        Me.ChkIs_XN_CP_Hang = New System.Windows.Forms.CheckBox()
         Me.TxtTien_XN_CP_Hang = New ClsTextBox.txtTien_NT()
         Me.TxtMa_BH = New Cyber.SmLists.TxtLookup()
         Me.Txtten_BH = New System.Windows.Forms.TextBox()
@@ -183,11 +182,9 @@ Partial Class HDS
         Me.TxtPT_GDV = New ClsTextBox.txtTien_NT()
         Me.TxtSO_CT_TT = New System.Windows.Forms.TextBox()
         Me.Label45 = New System.Windows.Forms.Label()
-        Me.chkIs_HD_KoBien = New System.Windows.Forms.CheckBox()
         Me.cmdXe_Ra = New DevExpress.XtraEditors.SimpleButton()
         Me.Label32 = New System.Windows.Forms.Label()
         Me.txtSo_Khung = New System.Windows.Forms.TextBox()
-        Me.chkIs_HD_PT = New System.Windows.Forms.CheckBox()
         Me.Label39 = New System.Windows.Forms.Label()
         Me.txtDien_Giai_HDDT = New System.Windows.Forms.TextBox()
         Me.TxtT_TienCV_I = New ClsTextBox.txtTien_NT()
@@ -429,7 +426,7 @@ Partial Class HDS
         'TxtUser_id
         '
         Me.TxtUser_id.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.TxtUser_id.Location = New System.Drawing.Point(906, 645)
+        Me.TxtUser_id.Location = New System.Drawing.Point(878, 593)
         Me.TxtUser_id.TabIndex = 69
         '
         'CbbMa_GD
@@ -2065,13 +2062,13 @@ Partial Class HDS
         Me.ChkNonVAT.AutoSize = True
         Me.ChkNonVAT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ChkNonVAT.ForeColor = System.Drawing.Color.Navy
-        Me.ChkNonVAT.Location = New System.Drawing.Point(1084, 610)
+        Me.ChkNonVAT.Location = New System.Drawing.Point(183, 565)
         Me.ChkNonVAT.Name = "ChkNonVAT"
-        Me.ChkNonVAT.Size = New System.Drawing.Size(97, 17)
+        Me.ChkNonVAT.Size = New System.Drawing.Size(54, 17)
         Me.ChkNonVAT.TabIndex = 2129
         Me.ChkNonVAT.TabStop = False
-        Me.ChkNonVAT.Tag = "Non VAT"
-        Me.ChkNonVAT.Text = "Không lấy VAT"
+        Me.ChkNonVAT.Tag = ""
+        Me.ChkNonVAT.Text = "AAAA"
         Me.ChkNonVAT.UseVisualStyleBackColor = True
         '
         'ChkBao_hiem_hang
@@ -2590,7 +2587,7 @@ Partial Class HDS
         Me.ChkIS_HH_GDV.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.ChkIS_HH_GDV.AutoSize = True
         Me.ChkIS_HH_GDV.CheckAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.ChkIS_HH_GDV.Location = New System.Drawing.Point(979, 666)
+        Me.ChkIS_HH_GDV.Location = New System.Drawing.Point(1083, 670)
         Me.ChkIS_HH_GDV.Name = "ChkIS_HH_GDV"
         Me.ChkIS_HH_GDV.Size = New System.Drawing.Size(99, 17)
         Me.ChkIS_HH_GDV.TabIndex = 7206
@@ -2614,21 +2611,6 @@ Partial Class HDS
         Me.ChkIs_Voucher.Text = "Voucher"
         Me.ChkIs_Voucher.UseVisualStyleBackColor = True
         Me.ChkIs_Voucher.Visible = False
-        '
-        'ChkIs_XN_CP_Hang
-        '
-        Me.ChkIs_XN_CP_Hang.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.ChkIs_XN_CP_Hang.AutoSize = True
-        Me.ChkIs_XN_CP_Hang.CheckAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.ChkIs_XN_CP_Hang.Location = New System.Drawing.Point(979, 672)
-        Me.ChkIs_XN_CP_Hang.Name = "ChkIs_XN_CP_Hang"
-        Me.ChkIs_XN_CP_Hang.Size = New System.Drawing.Size(93, 17)
-        Me.ChkIs_XN_CP_Hang.TabIndex = 7209
-        Me.ChkIs_XN_CP_Hang.TabStop = False
-        Me.ChkIs_XN_CP_Hang.Tag = "Disc"
-        Me.ChkIs_XN_CP_Hang.Text = "Coupont hãng"
-        Me.ChkIs_XN_CP_Hang.UseVisualStyleBackColor = True
-        Me.ChkIs_XN_CP_Hang.Visible = False
         '
         'TxtTien_XN_CP_Hang
         '
@@ -2784,17 +2766,6 @@ Partial Class HDS
         Me.Label45.Text = "HĐ TT/ĐC"
         Me.Label45.Visible = False
         '
-        'chkIs_HD_KoBien
-        '
-        Me.chkIs_HD_KoBien.AutoSize = True
-        Me.chkIs_HD_KoBien.Location = New System.Drawing.Point(1102, 122)
-        Me.chkIs_HD_KoBien.Name = "chkIs_HD_KoBien"
-        Me.chkIs_HD_KoBien.Size = New System.Drawing.Size(98, 17)
-        Me.chkIs_HD_KoBien.TabIndex = 7218
-        Me.chkIs_HD_KoBien.Tag = "Insurance from productor"
-        Me.chkIs_HD_KoBien.Text = "HĐ không biển"
-        Me.chkIs_HD_KoBien.UseVisualStyleBackColor = True
-        '
         'cmdXe_Ra
         '
         Me.cmdXe_Ra.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
@@ -2832,17 +2803,6 @@ Partial Class HDS
         Me.txtSo_Khung.TabIndex = 7220
         Me.txtSo_Khung.TabStop = False
         Me.txtSo_Khung.Tag = ""
-        '
-        'chkIs_HD_PT
-        '
-        Me.chkIs_HD_PT.AutoSize = True
-        Me.chkIs_HD_PT.Location = New System.Drawing.Point(1209, 122)
-        Me.chkIs_HD_PT.Name = "chkIs_HD_PT"
-        Me.chkIs_HD_PT.Size = New System.Drawing.Size(59, 17)
-        Me.chkIs_HD_PT.TabIndex = 7222
-        Me.chkIs_HD_PT.Tag = "Insurance from productor"
-        Me.chkIs_HD_PT.Text = "HĐ PT"
-        Me.chkIs_HD_PT.UseVisualStyleBackColor = True
         '
         'Label39
         '
@@ -3296,7 +3256,7 @@ Partial Class HDS
         Me.Label53.BackColor = System.Drawing.Color.Transparent
         Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label53.ForeColor = System.Drawing.Color.Blue
-        Me.Label53.Location = New System.Drawing.Point(1106, 97)
+        Me.Label53.Location = New System.Drawing.Point(1105, 102)
         Me.Label53.Margin = New System.Windows.Forms.Padding(0)
         Me.Label53.Name = "Label53"
         Me.Label53.Size = New System.Drawing.Size(44, 14)
@@ -3313,7 +3273,7 @@ Partial Class HDS
         Me.txtKy_Hieu_HD.Dv_Master = Nothing
         Me.txtKy_Hieu_HD.FilterClient = ""
         Me.txtKy_Hieu_HD.FilterSQL = ""
-        Me.txtKy_Hieu_HD.Location = New System.Drawing.Point(1150, 92)
+        Me.txtKy_Hieu_HD.Location = New System.Drawing.Point(1149, 97)
         Me.txtKy_Hieu_HD.Name = "txtKy_Hieu_HD"
         Me.txtKy_Hieu_HD.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtKy_Hieu_HD.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -3363,10 +3323,8 @@ Partial Class HDS
         Me.Controls.Add(Me.Label50)
         Me.Controls.Add(Me.Label39)
         Me.Controls.Add(Me.txtDien_Giai_HDDT)
-        Me.Controls.Add(Me.chkIs_HD_PT)
         Me.Controls.Add(Me.Label32)
         Me.Controls.Add(Me.txtSo_Khung)
-        Me.Controls.Add(Me.chkIs_HD_KoBien)
         Me.Controls.Add(Me.TxtSO_CT_TT)
         Me.Controls.Add(Me.Label45)
         Me.Controls.Add(Me.TxtPT_GDV)
@@ -3375,7 +3333,6 @@ Partial Class HDS
         Me.Controls.Add(Me.TxtMa_BH)
         Me.Controls.Add(Me.Txtten_BH)
         Me.Controls.Add(Me.Label13)
-        Me.Controls.Add(Me.ChkIs_XN_CP_Hang)
         Me.Controls.Add(Me.TxtTien_XN_CP_Hang)
         Me.Controls.Add(Me.ChkIs_Voucher)
         Me.Controls.Add(Me.ChkIS_HH_GDV)
@@ -3662,7 +3619,6 @@ Partial Class HDS
         Me.Controls.SetChildIndex(Me.ChkIS_HH_GDV, 0)
         Me.Controls.SetChildIndex(Me.ChkIs_Voucher, 0)
         Me.Controls.SetChildIndex(Me.TxtTien_XN_CP_Hang, 0)
-        Me.Controls.SetChildIndex(Me.ChkIs_XN_CP_Hang, 0)
         Me.Controls.SetChildIndex(Me.Label13, 0)
         Me.Controls.SetChildIndex(Me.Txtten_BH, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_BH, 0)
@@ -3671,10 +3627,8 @@ Partial Class HDS
         Me.Controls.SetChildIndex(Me.TxtPT_GDV, 0)
         Me.Controls.SetChildIndex(Me.Label45, 0)
         Me.Controls.SetChildIndex(Me.TxtSO_CT_TT, 0)
-        Me.Controls.SetChildIndex(Me.chkIs_HD_KoBien, 0)
         Me.Controls.SetChildIndex(Me.txtSo_Khung, 0)
         Me.Controls.SetChildIndex(Me.Label32, 0)
-        Me.Controls.SetChildIndex(Me.chkIs_HD_PT, 0)
         Me.Controls.SetChildIndex(Me.txtDien_Giai_HDDT, 0)
         Me.Controls.SetChildIndex(Me.Label39, 0)
         Me.Controls.SetChildIndex(Me.Label50, 0)
@@ -3702,6 +3656,12 @@ Partial Class HDS
         Me.Controls.SetChildIndex(Me.CmdLay_TTHD, 0)
         Me.Controls.SetChildIndex(Me.CmdUPDATE_HD, 0)
         Me.Controls.SetChildIndex(Me.txtInvoiceGUID, 0)
+        Me.Controls.SetChildIndex(Me.Label52, 0)
+        Me.Controls.SetChildIndex(Me.Label26, 0)
+        Me.Controls.SetChildIndex(Me.txtHT_TT, 0)
+        Me.Controls.SetChildIndex(Me.TxtTen_HT_TT2, 0)
+        Me.Controls.SetChildIndex(Me.Label53, 0)
+        Me.Controls.SetChildIndex(Me.txtKy_Hieu_HD, 0)
         Me.Controls.SetChildIndex(Me.CmdPhan_Bo, 0)
         Me.Controls.SetChildIndex(Me.CmdSms, 0)
         Me.Controls.SetChildIndex(Me.TxtUser_id, 0)
@@ -3718,12 +3678,6 @@ Partial Class HDS
         Me.Controls.SetChildIndex(Me.CmdImport, 0)
         Me.Controls.SetChildIndex(Me.LabMa_Post, 0)
         Me.Controls.SetChildIndex(Me.CmdView, 0)
-        Me.Controls.SetChildIndex(Me.Label52, 0)
-        Me.Controls.SetChildIndex(Me.Label26, 0)
-        Me.Controls.SetChildIndex(Me.txtHT_TT, 0)
-        Me.Controls.SetChildIndex(Me.TxtTen_HT_TT2, 0)
-        Me.Controls.SetChildIndex(Me.Label53, 0)
-        Me.Controls.SetChildIndex(Me.txtKy_Hieu_HD, 0)
         CType(Me.PopupMenuMaster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TxtMa_Kh.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PopupMenuMasterGrid, System.ComponentModel.ISupportInitialize).EndInit()
@@ -3904,7 +3858,6 @@ Partial Class HDS
     Friend WithEvents ChkIs_HH_I As CheckBox
     Friend WithEvents ChkIS_HH_GDV As CheckBox
     Friend WithEvents ChkIs_Voucher As CheckBox
-    Friend WithEvents ChkIs_XN_CP_Hang As CheckBox
     Friend WithEvents TxtTien_XN_CP_Hang As ClsTextBox.txtTien_NT
     Friend WithEvents TxtMa_BH As Cyber.SmLists.TxtLookup
     Friend WithEvents Txtten_BH As System.Windows.Forms.TextBox
@@ -3914,11 +3867,9 @@ Partial Class HDS
     Friend WithEvents TxtPT_GDV As ClsTextBox.txtTien_NT
     Friend WithEvents TxtSO_CT_TT As System.Windows.Forms.TextBox
     Friend WithEvents Label45 As System.Windows.Forms.Label
-    Friend WithEvents chkIs_HD_KoBien As System.Windows.Forms.CheckBox
     Friend WithEvents cmdXe_Ra As DevExpress.XtraEditors.SimpleButton
     Friend WithEvents Label32 As System.Windows.Forms.Label
     Friend WithEvents txtSo_Khung As System.Windows.Forms.TextBox
-    Friend WithEvents chkIs_HD_PT As System.Windows.Forms.CheckBox
     Friend WithEvents Label39 As System.Windows.Forms.Label
     Friend WithEvents txtDien_Giai_HDDT As System.Windows.Forms.TextBox
     Friend WithEvents TxtT_TienCV_I As ClsTextBox.txtTien_NT

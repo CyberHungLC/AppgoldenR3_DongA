@@ -115,6 +115,7 @@
     Private Sub FrmLocRo_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.Save_OK = False
         V_Load()
+        DetailGRVRo_Master.OptionsView.ShowAutoFilterRow = True
         V_GetColumn()
         Me.Text = "Chọn lệnh sửa chữa"
         V_AddHander()
@@ -459,7 +460,7 @@
         TxtLenh_RO.Text = CyberVoucher.V_FormatSo_Ro(AppConn, Sysvar, M_Ma_Ct, "S", M_Mode, _Ngay_Ct, TxtLenh_RO.Text, M_ma_TTCP, M_Ma_Dvcs, M_User_Name, CyberSmlib)
     End Sub
     Private Sub V_LocRo(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        If CbbMa_TT.SelectedValue = "W" And txtSo_BC_BH.Text = "" Then
+        If CbbMa_TT.SelectedValue = "W" Then
             MsgBox("Bạn phải nhập số xác nhận bảo hành")
             Exit Sub
         End If

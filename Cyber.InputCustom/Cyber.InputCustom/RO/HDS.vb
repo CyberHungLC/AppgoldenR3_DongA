@@ -2508,7 +2508,7 @@ Public Class HDS
             TxtMoi_Gioi.ReadOnly = IIf(ChkIs_HH_C.Checked, False, True)
             TxtHH_GDV.ReadOnly = IIf(ChkIS_HH_GDV.Checked, False, True)
             TxtTien_Coupon.ReadOnly = IIf(ChkIs_Voucher.Checked, False, True)
-            TxtTien_XN_CP_Hang.ReadOnly = IIf(ChkIs_XN_CP_Hang.Checked, False, True)
+            'TxtTien_XN_CP_Hang.ReadOnly = IIf(ChkIs_XN_CP_Hang.Checked, False, True)
         End If
         If ChkSua_Thue.Checked Then
 
@@ -2550,9 +2550,9 @@ Public Class HDS
         If Not ChkIs_Voucher.Checked And TxtStt_Rec_Huy.Text = "" Then
             TxtTien_Coupon.Double = Voucher_Old
         End If
-        If Not ChkIs_XN_CP_Hang.Checked And TxtStt_Rec_Huy.Text = "" Then
-            TxtTien_XN_CP_Hang.Double = Tien_XN_CP_HangOld
-        End If
+        'If Not ChkIs_XN_CP_Hang.Checked And TxtStt_Rec_Huy.Text = "" Then
+        '    TxtTien_XN_CP_Hang.Double = Tien_XN_CP_HangOld
+        'End If
     End Sub
 #End Region
 #Region "TTCP Default and New/Save _TTCP"

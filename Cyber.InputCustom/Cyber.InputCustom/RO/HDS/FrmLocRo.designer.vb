@@ -73,16 +73,12 @@ Partial Class FrmLocRo
         Me.DetailGRVRo_DetailVt = New DevExpress.XtraGrid.Views.Grid.GridView()
         Me.RepositoryItemTextEdit11 = New DevExpress.XtraEditors.Repository.RepositoryItemTextEdit()
         Me.RepositoryItemTextEdit12 = New DevExpress.XtraEditors.Repository.RepositoryItemTextEdit()
-        Me.TxtMa_Xe = New Cyber.SmLists.TxtLookup()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.txtSo_BC_BH = New System.Windows.Forms.TextBox()
         Me.TxtTien_ConLai = New ClsTextBox.txtTien_NT()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TxtT_Tien_ConLai = New ClsTextBox.txtTien_NT()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.txtSo_BC_CP = New System.Windows.Forms.TextBox()
         Me.ChkIs_Khong_Dong = New System.Windows.Forms.CheckBox()
+        Me.TxtMa_Xe = New Cyber.SmLists.TxtLookup()
         CType(Me.TxtMa_Kh.Properties, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.GridView6, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.GridView5, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -264,6 +260,7 @@ Partial Class FrmLocRo
         Me.TxtSo_Lenh_HT.TabStop = False
         Me.TxtSo_Lenh_HT.Tag = ""
         Me.TxtSo_Lenh_HT.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.TxtSo_Lenh_HT.Visible = False
         '
         'Label4
         '
@@ -277,6 +274,7 @@ Partial Class FrmLocRo
         Me.Label4.TabIndex = 393
         Me.Label4.Tag = "Order no"
         Me.Label4.Text = "Số lệnh"
+        Me.Label4.Visible = False
         '
         'TxtT_TT
         '
@@ -479,6 +477,7 @@ Partial Class FrmLocRo
         Me.Label16.TabIndex = 383
         Me.Label16.Tag = "Type (R/O)"
         Me.Label16.Text = "Số lệnh"
+        Me.Label16.Visible = False
         '
         'TxtLenh_RO
         '
@@ -491,6 +490,7 @@ Partial Class FrmLocRo
         Me.TxtLenh_RO.TabIndex = 371
         Me.TxtLenh_RO.Tag = ""
         Me.TxtLenh_RO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.TxtLenh_RO.Visible = False
         '
         'Label2
         '
@@ -857,61 +857,17 @@ Partial Class FrmLocRo
         Me.RepositoryItemTextEdit12.AutoHeight = False
         Me.RepositoryItemTextEdit12.Name = "RepositoryItemTextEdit12"
         '
-        'TxtMa_Xe
-        '
-        Me.TxtMa_Xe._ActilookupPopup = False
-        Me.TxtMa_Xe.CyberActilookupPopup = True
-        Me.TxtMa_Xe.Dv_ListDetail = Nothing
-        Me.TxtMa_Xe.Dv_Master = Nothing
-        Me.TxtMa_Xe.FilterClient = ""
-        Me.TxtMa_Xe.FilterSQL = ""
-        Me.TxtMa_Xe.Location = New System.Drawing.Point(825, 30)
-        Me.TxtMa_Xe.Name = "TxtMa_Xe"
-        Me.TxtMa_Xe.Properties.Appearance.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TxtMa_Xe.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_Xe.Properties.Appearance.Options.UseFont = True
-        Me.TxtMa_Xe.Properties.Appearance.Options.UseForeColor = True
-        Me.TxtMa_Xe.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat
-        Me.TxtMa_Xe.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_Xe.Size = New System.Drawing.Size(124, 22)
-        Me.TxtMa_Xe.TabIndex = 1768
-        Me.TxtMa_Xe.Table_Name = ""
-        '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.ForeColor = System.Drawing.Color.Navy
-        Me.Label5.Location = New System.Drawing.Point(779, 33)
+        Me.Label5.Location = New System.Drawing.Point(415, 35)
         Me.Label5.Margin = New System.Windows.Forms.Padding(0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(42, 13)
         Me.Label5.TabIndex = 1769
         Me.Label5.Tag = "Car Id"
         Me.Label5.Text = "Biển số"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.ForeColor = System.Drawing.Color.Navy
-        Me.Label6.Location = New System.Drawing.Point(415, 33)
-        Me.Label6.Margin = New System.Windows.Forms.Padding(0)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(56, 13)
-        Me.Label6.TabIndex = 1771
-        Me.Label6.Tag = "Productos's W"
-        Me.Label6.Text = "Số XN BH"
-        '
-        'txtSo_BC_BH
-        '
-        Me.txtSo_BC_BH.BackColor = System.Drawing.Color.White
-        Me.txtSo_BC_BH.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtSo_BC_BH.ForeColor = System.Drawing.Color.Navy
-        Me.txtSo_BC_BH.Location = New System.Drawing.Point(473, 30)
-        Me.txtSo_BC_BH.Name = "txtSo_BC_BH"
-        Me.txtSo_BC_BH.Size = New System.Drawing.Size(109, 20)
-        Me.txtSo_BC_BH.TabIndex = 1770
-        Me.txtSo_BC_BH.Tag = ""
-        Me.txtSo_BC_BH.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TxtTien_ConLai
         '
@@ -968,30 +924,6 @@ Partial Class FrmLocRo
         Me.TxtT_Tien_ConLai.Text = "0"
         Me.TxtT_Tien_ConLai.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.ForeColor = System.Drawing.Color.Navy
-        Me.Label8.Location = New System.Drawing.Point(586, 33)
-        Me.Label8.Margin = New System.Windows.Forms.Padding(0)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(78, 13)
-        Me.Label8.TabIndex = 1776
-        Me.Label8.Tag = "Productos's Cou"
-        Me.Label8.Text = "Số XN Coupon"
-        '
-        'txtSo_BC_CP
-        '
-        Me.txtSo_BC_CP.BackColor = System.Drawing.Color.White
-        Me.txtSo_BC_CP.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtSo_BC_CP.ForeColor = System.Drawing.Color.Navy
-        Me.txtSo_BC_CP.Location = New System.Drawing.Point(666, 30)
-        Me.txtSo_BC_CP.Name = "txtSo_BC_CP"
-        Me.txtSo_BC_CP.Size = New System.Drawing.Size(109, 20)
-        Me.txtSo_BC_CP.TabIndex = 1775
-        Me.txtSo_BC_CP.Tag = ""
-        Me.txtSo_BC_CP.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        '
         'ChkIs_Khong_Dong
         '
         Me.ChkIs_Khong_Dong.AutoSize = True
@@ -1003,19 +935,36 @@ Partial Class FrmLocRo
         Me.ChkIs_Khong_Dong.TabIndex = 2192
         Me.ChkIs_Khong_Dong.Text = "Vật tư 0 đồng"
         Me.ChkIs_Khong_Dong.UseVisualStyleBackColor = True
+        Me.ChkIs_Khong_Dong.Visible = False
+        '
+        'TxtMa_Xe
+        '
+        Me.TxtMa_Xe._ActilookupPopup = False
+        Me.TxtMa_Xe.CyberActilookupPopup = True
+        Me.TxtMa_Xe.Dv_ListDetail = Nothing
+        Me.TxtMa_Xe.Dv_Master = Nothing
+        Me.TxtMa_Xe.FilterClient = ""
+        Me.TxtMa_Xe.FilterSQL = ""
+        Me.TxtMa_Xe.Location = New System.Drawing.Point(473, 30)
+        Me.TxtMa_Xe.Name = "TxtMa_Xe"
+        Me.TxtMa_Xe.Properties.Appearance.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TxtMa_Xe.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.TxtMa_Xe.Properties.Appearance.Options.UseFont = True
+        Me.TxtMa_Xe.Properties.Appearance.Options.UseForeColor = True
+        Me.TxtMa_Xe.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat
+        Me.TxtMa_Xe.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
+        Me.TxtMa_Xe.Size = New System.Drawing.Size(109, 22)
+        Me.TxtMa_Xe.TabIndex = 1768
+        Me.TxtMa_Xe.Table_Name = ""
         '
         'FrmLocRo
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(1074, 612)
         Me.Controls.Add(Me.ChkIs_Khong_Dong)
-        Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.txtSo_BC_CP)
         Me.Controls.Add(Me.TxtT_Tien_ConLai)
         Me.Controls.Add(Me.TxtTien_ConLai)
         Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.txtSo_BC_BH)
         Me.Controls.Add(Me.TxtMa_Xe)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.SplitContainer1)
@@ -1087,17 +1036,13 @@ Partial Class FrmLocRo
         Me.Controls.SetChildIndex(Me.SplitContainer1, 0)
         Me.Controls.SetChildIndex(Me.Label5, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_Xe, 0)
-        Me.Controls.SetChildIndex(Me.txtSo_BC_BH, 0)
-        Me.Controls.SetChildIndex(Me.Label6, 0)
         Me.Controls.SetChildIndex(Me.Label7, 0)
         Me.Controls.SetChildIndex(Me.TxtTien_ConLai, 0)
         Me.Controls.SetChildIndex(Me.TxtT_Tien_ConLai, 0)
-        Me.Controls.SetChildIndex(Me.txtSo_BC_CP, 0)
-        Me.Controls.SetChildIndex(Me.Label8, 0)
+        Me.Controls.SetChildIndex(Me.ChkIs_Khong_Dong, 0)
         Me.Controls.SetChildIndex(Me.ButtExit, 0)
         Me.Controls.SetChildIndex(Me.ButtOK, 0)
         Me.Controls.SetChildIndex(Me.GroupBoxLine, 0)
-        Me.Controls.SetChildIndex(Me.ChkIs_Khong_Dong, 0)
         CType(Me.TxtMa_Kh.Properties, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.GridView6, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.GridView5, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1183,14 +1128,10 @@ Partial Class FrmLocRo
     Friend WithEvents DetailGRVRo_DetailVt As DevExpress.XtraGrid.Views.Grid.GridView
     Friend WithEvents RepositoryItemTextEdit11 As DevExpress.XtraEditors.Repository.RepositoryItemTextEdit
     Friend WithEvents RepositoryItemTextEdit12 As DevExpress.XtraEditors.Repository.RepositoryItemTextEdit
-    Friend WithEvents TxtMa_Xe As Cyber.SmLists.TxtLookup
     Friend WithEvents Label5 As System.Windows.Forms.Label
-    Friend WithEvents Label6 As System.Windows.Forms.Label
-    Friend WithEvents txtSo_BC_BH As System.Windows.Forms.TextBox
     Friend WithEvents TxtTien_ConLai As ClsTextBox.txtTien_NT
     Friend WithEvents Label7 As Label
     Friend WithEvents TxtT_Tien_ConLai As ClsTextBox.txtTien_NT
-    Friend WithEvents Label8 As Label
-    Friend WithEvents txtSo_BC_CP As TextBox
     Friend WithEvents ChkIs_Khong_Dong As CheckBox
+    Friend WithEvents TxtMa_Xe As SmLists.TxtLookup
 End Class

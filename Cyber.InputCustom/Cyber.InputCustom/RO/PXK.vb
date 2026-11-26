@@ -534,7 +534,6 @@ Public Class PXK
             DsTmpDetal.Dispose()
             Exit Sub
         End If
-
         'If DsTmpDetal.Tables(1).Rows.Count < 1 Then
         '    DsTmpDetal.Dispose()
         '    Exit Sub
@@ -543,7 +542,7 @@ Public Class PXK
         'CyberSmodb.DeleteDatatable(Dt_DetailTmp, "Stt_Rec = '" + M_Stt_Rec + "'")
         'CyberSmodb.SQLDeleteTb(tbDetailTmp, "Stt_Rec", M_Stt_Rec.Trim)
         CyberSmodb.SQLTbToTb(DsTmpDetal.Tables(1), Dt_DetailTmp)
-        ''
+        ''v
         TxtTen_kh.Text = ""
         If DsTmpDetal.Tables(2).Columns.Contains("Ma_kh") Then TxtMa_Kh.Text = DsTmpDetal.Tables(2).Rows(0).Item("Ma_kh")
         If DsTmpDetal.Tables(2).Columns.Contains("Ten_kh") Then TxtTen_kh.Text = DsTmpDetal.Tables(2).Rows(0).Item("Ten_kh")

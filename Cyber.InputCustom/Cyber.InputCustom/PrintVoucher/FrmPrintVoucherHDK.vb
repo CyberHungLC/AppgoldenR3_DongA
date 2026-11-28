@@ -14,7 +14,7 @@ Public Class FrmPrintVoucherHDK
     Dim M_DrDmCt As DataRow
     Dim M_Ma_Dvcs As String = ""
     Dim M_User_name As String = ""
-    Dim TbPrintTT, DtLoai_IN, DtMauIn As DataTable
+    Dim TbPrintTT, DtLoai_IN As DataTable
 
     Private Sub FrmPrintVoucherHDK_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         V_Load()
@@ -26,8 +26,12 @@ Public Class FrmPrintVoucherHDK
         AddHandler CmdPriview.Click, AddressOf V_Preview
         AddHandler CmdModify.Click, AddressOf V_Modify
         AddHandler CbbMa_In.SelectedValueChanged, AddressOf V_Ma_In
+        'AddHandler CmdExportWord.Click, AddressOf V_XuatWord   'V_ExportWord
+        AddHandler CmdExportExcel.Click, AddressOf V_XuatExcel   'V_ExportExcel 
         V_Ma_In(Nothing, Nothing)
         GetTable()
+
+
     End Sub
     Private Sub V_Load()
         M_Lan = Me.Lan
@@ -38,11 +42,9 @@ Public Class FrmPrintVoucherHDK
         M_User_name = M_Para(6).Trim
         M_Ma_Dvcs = M_Para(14).Trim
 
-        Dim _DtMauIn As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_GetMauIn", Ma_CT & "#" & Stt_Rec & "#" & Me.M_Ma_Dvcs & "#" & M_User_name.Trim)
-        DtMauIn = _DtMauIn.Tables(0)
         txtTitle1.Text = M_DrDmCt.Item("Tieu_De_Ct").ToString.ToUpper
         txtTitle2.Text = M_DrDmCt.Item("Tieu_De2").ToString.ToUpper
-        CyberFill.V_FillComBoxDefaul(CbbMa_In, DtMauIn, "Ma_In", IIf(Me.Lan = "V", "ten_IN", "ten_IN2"), "Ngam_Dinh")
+        CyberFill.V_FillComBoxDefaul(CbbMa_In, DtMaIn, "Ma_In", IIf(Me.Lan = "V", "ten_IN", "ten_IN2"), "Ngam_Dinh")
         CyberSmodb.GetValueToControler(Me)
         '---
         CyberSupport.Translaste(Me, Me.Lan, True)
@@ -59,17 +61,14 @@ Public Class FrmPrintVoucherHDK
     End Sub
     Private Sub GetTable()
         Dim DsPrintMa_TT As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SysGetCombox", "DMTT" + "#" + "1=1" + "#" + "Ma_TT" + "#" + M_User_name.Trim)
-        Dim DsPrintLoai_In As DataSet = CyberSmlib.SQLExcuteStoreProcedure(AppConn, "CP_SysGetCombox", "DMLoaiIn" + "#" + "1=1" + "#" + "Ma_TT" + "#" + M_User_name.Trim)
-
         TbPrintTT = DsPrintMa_TT.Tables(0).Copy
-        DtLoai_IN = DsPrintLoai_In.Tables(0).Copy
-        'DtLoai_IN = New DataTable
-        'DtLoai_IN.Columns.Add("Ma")
-        'DtLoai_IN.Columns.Add("Ten")
-        'DtLoai_IN.Rows.Add("0", "In có giá trị")
-        'DtLoai_IN.Rows.Add("1", "In không có giá trị")
+        DtLoai_IN = New DataTable
+        DtLoai_IN.Columns.Add("Ma")
+        DtLoai_IN.Columns.Add("Ten")
+        DtLoai_IN.Rows.Add("0", "In có giá trị")
+        DtLoai_IN.Rows.Add("1", "In không có giá trị")
         CyberFill.V_FillComBoxValue(CbbMa_TT, TbPrintTT, "Ma_TT", "Ten_TT", "")
-        CyberFill.V_FillComBoxDefaul(CbbLoai_IN, DtLoai_IN, "Ma", "Ten", "Ngam_Dinh")
+        CyberFill.V_FillComBoxValue(CbbLoai_IN, DtLoai_IN, "Ma", "Ten", "0")
 
     End Sub
     Private Sub V_AddMenuShorcut()
@@ -128,5 +127,35 @@ Public Class FrmPrintVoucherHDK
         Next
         TxtSo_lien.Text = So_lien
         TxtSo_Ct_Goc.Text = So_Ct_goc
+    End Sub
+    'Private Sub V_XuatWord(ByVal sender As System.Object, ByVal e As System.EventArgs)
+    '    Dim frm As New FrmXuatWord_DV
+    '    frm.AppConn = AppConn
+    '    frm.Sysvar = osysvar
+    '    frm.Lan = M_LAN
+    '    frm.Para = M_Para
+    '    'frm.Mode = M_Mode
+    '    frm.Stt_Rec = Me.Stt_Rec
+    '    'frm.Ma_CT = M_Ma_CT
+    '    frm.DrDmct = DrDmct
+    '    frm.Ma_Dvcs = M_Ma_Dvcs
+    '    frm.User_name = M_User_Name
+    '    frm.ShowDialog()
+    '    If Not frm.ReturnOk Then Exit Sub
+    'End Sub
+    Private Sub V_XuatExcel(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        Dim frm As New FrmXuatExcel_DV
+        frm.AppConn = AppConn
+        frm.Sysvar = osysvar
+        frm.Lan = M_Lan
+        frm.Para = M_Para
+        'frm.Mode = M_Mode
+        frm.Stt_Rec = Me.Stt_Rec
+        'frm.Ma_CT = M_Ma_CT
+        frm.DrDmct = DrDmct
+        frm.Ma_Dvcs = M_Ma_Dvcs
+        frm.User_name = M_User_name
+        frm.ShowDialog()
+        If Not frm.ReturnOk Then Exit Sub
     End Sub
 End Class

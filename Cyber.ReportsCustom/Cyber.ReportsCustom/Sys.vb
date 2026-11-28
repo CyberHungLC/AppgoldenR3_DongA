@@ -188,6 +188,8 @@ Public Class Sys
                 _Return = New RO_BC_THMG
             Case "CP_RO_HD06".Trim.ToUpper, "CP_RO_HD06".Trim.ToUpper
                 _Return = New RO_HD06
+            Case "CP_RO_HD07".Trim.ToUpper
+                _Return = New RO_HD07
             Case "CP_RO_HD04".Trim.ToUpper
                 _Return = New RO_HD04
             Case "CP_RO_HD03".Trim.ToUpper, "CP_RO_HD03".Trim.ToUpper

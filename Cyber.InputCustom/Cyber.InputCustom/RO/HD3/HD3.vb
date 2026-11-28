@@ -408,7 +408,7 @@ Public Class HD3
         AddHandler ChkIs_BG.CheckedChanged, AddressOf V_SetSo_BG
 
         AddHandler CmdLoc_Ro.Click, AddressOf V_Loc_RO
-        AddHandler TxtTien_HD.Leave, AddressOf L_Tien_Hd
+        'AddHandler TxtTien_HD.Leave, AddressOf L_Tien_Hd
 
         AddHandler cmdXe_Tiep_Don.Click, AddressOf V_ChonBaoGia
         AddHandler ChkXoa_Detail.CheckedChanged, AddressOf V_Xoa_Detail

@@ -758,6 +758,12 @@
     <Compile Include="RO\4.Thanh_Toan\RO_HD06.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RO\4.Thanh_Toan\RO_HD07.designer.vb">
+      <DependentUpon>RO_HD07.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RO\4.Thanh_Toan\RO_HD07.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RO\4.Thanh_Toan\RO_HDS_KPI_TH_CNHD.designer.vb">
       <DependentUpon>RO_HDS_KPI_TH_CNHD.vb</DependentUpon>
     </Compile>
@@ -1315,6 +1321,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RO\4.Thanh_Toan\RO_HD06.resx">
       <DependentUpon>RO_HD06.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RO\4.Thanh_Toan\RO_HD07.resx">
+      <DependentUpon>RO_HD07.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\4.Thanh_Toan\RO_HDS_KPI_TH_CNHD.resx">
       <DependentUpon>RO_HDS_KPI_TH_CNHD.vb</DependentUpon>

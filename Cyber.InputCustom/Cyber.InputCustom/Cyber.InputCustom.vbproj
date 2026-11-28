@@ -770,6 +770,7 @@
     <Compile Include="LOA\LOA.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="PrintVoucher\ExportExcel.vb" />
     <Compile Include="PrintVoucher\FrmPrintVoucherHDR.designer.vb">
       <DependentUpon>FrmPrintVoucherHDR.vb</DependentUpon>
     </Compile>
@@ -794,6 +795,10 @@
     <Compile Include="PrintVoucher\FrmPrintVoucherHDK.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="PrintVoucher\FrmXuatExcel_DV.designer.vb">
+      <DependentUpon>FrmXuatExcel_DV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintVoucher\FrmXuatExcel_DV.vb" />
     <Compile Include="RO\BBH.designer.vb">
       <DependentUpon>BBH.vb</DependentUpon>
     </Compile>
@@ -1460,6 +1465,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PrintVoucher\FrmPrintVoucherHDK.resx">
       <DependentUpon>FrmPrintVoucherHDK.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintVoucher\FrmXuatExcel_DV.resx">
+      <DependentUpon>FrmXuatExcel_DV.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RO\BBH.resx">
       <DependentUpon>BBH.vb</DependentUpon>

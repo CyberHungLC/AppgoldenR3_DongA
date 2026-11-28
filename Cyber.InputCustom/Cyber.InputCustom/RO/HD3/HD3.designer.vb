@@ -134,8 +134,6 @@ Partial Class HD3
         Me.Label31 = New System.Windows.Forms.Label()
         Me.TxtStt_Rec_TT = New System.Windows.Forms.TextBox()
         Me.ChkNonVAT = New System.Windows.Forms.CheckBox()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.TxtTien_HD = New ClsTextBox.txtTien_NT()
         Me.Label62 = New System.Windows.Forms.Label()
         Me.TxtHH_BH = New ClsTextBox.txtTien_NT()
         Me.Label32 = New System.Windows.Forms.Label()
@@ -161,8 +159,6 @@ Partial Class HD3
         Me.ChkIs_All_Thue = New System.Windows.Forms.CheckBox()
         Me.TxtSO_CT_TT = New System.Windows.Forms.TextBox()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.chkIs_HD_KoBien = New System.Windows.Forms.CheckBox()
-        Me.chkIs_HD_DV = New System.Windows.Forms.CheckBox()
         Me.Label39 = New System.Windows.Forms.Label()
         Me.txtSo_Ro_Vat = New System.Windows.Forms.TextBox()
         Me.TxtMa_xe = New Cyber.SmLists.TxtLookup()
@@ -432,11 +428,12 @@ Partial Class HD3
         '
         'TxtMa_Quyen
         '
+        Me.TxtMa_Quyen.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMa_Quyen.BackColor = System.Drawing.Color.White
         Me.TxtMa_Quyen.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtMa_Quyen.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.TxtMa_Quyen.ForeColor = System.Drawing.Color.Navy
-        Me.TxtMa_Quyen.Location = New System.Drawing.Point(1196, 255)
+        Me.TxtMa_Quyen.Location = New System.Drawing.Point(1196, 257)
         Me.TxtMa_Quyen.Name = "TxtMa_Quyen"
         Me.TxtMa_Quyen.Size = New System.Drawing.Size(19, 21)
         Me.TxtMa_Quyen.TabIndex = 4
@@ -471,12 +468,11 @@ Partial Class HD3
         '
         'TxtDien_Giai
         '
-        Me.TxtDien_Giai.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtDien_Giai.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtDien_Giai.BackColor = System.Drawing.Color.White
         Me.TxtDien_Giai.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtDien_Giai.ForeColor = System.Drawing.Color.Navy
-        Me.TxtDien_Giai.Location = New System.Drawing.Point(761, 210)
+        Me.TxtDien_Giai.Location = New System.Drawing.Point(760, 213)
         Me.TxtDien_Giai.Name = "TxtDien_Giai"
         Me.TxtDien_Giai.Size = New System.Drawing.Size(579, 20)
         Me.TxtDien_Giai.TabIndex = 18
@@ -635,8 +631,7 @@ Partial Class HD3
         '
         'GroupBoxLine
         '
-        Me.GroupBoxLine.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBoxLine.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBoxLine.Location = New System.Drawing.Point(9, 134)
         Me.GroupBoxLine.Name = "GroupBoxLine"
         Me.GroupBoxLine.Size = New System.Drawing.Size(1331, 2)
@@ -690,11 +685,12 @@ Partial Class HD3
         '
         'TxtLenh_PO
         '
+        Me.TxtLenh_PO.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtLenh_PO.BackColor = System.Drawing.Color.White
         Me.TxtLenh_PO.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtLenh_PO.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.TxtLenh_PO.ForeColor = System.Drawing.Color.Navy
-        Me.TxtLenh_PO.Location = New System.Drawing.Point(1196, 255)
+        Me.TxtLenh_PO.Location = New System.Drawing.Point(1196, 257)
         Me.TxtLenh_PO.Name = "TxtLenh_PO"
         Me.TxtLenh_PO.Size = New System.Drawing.Size(19, 21)
         Me.TxtLenh_PO.TabIndex = 5
@@ -703,11 +699,12 @@ Partial Class HD3
         '
         'TxtLenh_SO
         '
+        Me.TxtLenh_SO.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtLenh_SO.BackColor = System.Drawing.Color.White
         Me.TxtLenh_SO.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtLenh_SO.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.TxtLenh_SO.ForeColor = System.Drawing.Color.Navy
-        Me.TxtLenh_SO.Location = New System.Drawing.Point(1196, 255)
+        Me.TxtLenh_SO.Location = New System.Drawing.Point(1196, 257)
         Me.TxtLenh_SO.Name = "TxtLenh_SO"
         Me.TxtLenh_SO.Size = New System.Drawing.Size(19, 21)
         Me.TxtLenh_SO.TabIndex = 6
@@ -716,11 +713,12 @@ Partial Class HD3
         '
         'TxtLenh_Vt
         '
+        Me.TxtLenh_Vt.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtLenh_Vt.BackColor = System.Drawing.Color.White
         Me.TxtLenh_Vt.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtLenh_Vt.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.TxtLenh_Vt.ForeColor = System.Drawing.Color.Navy
-        Me.TxtLenh_Vt.Location = New System.Drawing.Point(1196, 255)
+        Me.TxtLenh_Vt.Location = New System.Drawing.Point(1196, 257)
         Me.TxtLenh_Vt.Name = "TxtLenh_Vt"
         Me.TxtLenh_Vt.Size = New System.Drawing.Size(19, 21)
         Me.TxtLenh_Vt.TabIndex = 250
@@ -789,9 +787,10 @@ Partial Class HD3
         '
         'LblDien_Giai
         '
+        Me.LblDien_Giai.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.LblDien_Giai.AutoSize = True
         Me.LblDien_Giai.ForeColor = System.Drawing.Color.Navy
-        Me.LblDien_Giai.Location = New System.Drawing.Point(673, 219)
+        Me.LblDien_Giai.Location = New System.Drawing.Point(673, 216)
         Me.LblDien_Giai.Margin = New System.Windows.Forms.Padding(0)
         Me.LblDien_Giai.Name = "LblDien_Giai"
         Me.LblDien_Giai.Size = New System.Drawing.Size(48, 13)
@@ -801,9 +800,10 @@ Partial Class HD3
         '
         'Label6
         '
+        Me.Label6.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label6.AutoSize = True
         Me.Label6.ForeColor = System.Drawing.Color.Navy
-        Me.Label6.Location = New System.Drawing.Point(1052, 189)
+        Me.Label6.Location = New System.Drawing.Point(1039, 191)
         Me.Label6.Margin = New System.Windows.Forms.Padding(0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(38, 13)
@@ -813,8 +813,7 @@ Partial Class HD3
         '
         'TxtTen_Hs_H
         '
-        Me.TxtTen_Hs_H.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtTen_Hs_H.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_Hs_H.BackColor = System.Drawing.Color.White
         Me.TxtTen_Hs_H.ForeColor = System.Drawing.Color.Navy
         Me.TxtTen_Hs_H.Location = New System.Drawing.Point(878, 165)
@@ -827,9 +826,10 @@ Partial Class HD3
         '
         'Label1
         '
+        Me.Label1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label1.AutoSize = True
         Me.Label1.ForeColor = System.Drawing.Color.Navy
-        Me.Label1.Location = New System.Drawing.Point(673, 167)
+        Me.Label1.Location = New System.Drawing.Point(674, 171)
         Me.Label1.Margin = New System.Windows.Forms.Padding(0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(36, 13)
@@ -840,6 +840,7 @@ Partial Class HD3
         'TxtMa_Nx
         '
         Me.TxtMa_Nx._ActilookupPopup = False
+        Me.TxtMa_Nx.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMa_Nx.CyberActilookupPopup = True
         Me.TxtMa_Nx.Dv_ListDetail = Nothing
         Me.TxtMa_Nx.Dv_Master = Nothing
@@ -860,6 +861,7 @@ Partial Class HD3
         'TxtMa_Hs_H
         '
         Me.TxtMa_Hs_H._ActilookupPopup = False
+        Me.TxtMa_Hs_H.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMa_Hs_H.CyberActilookupPopup = True
         Me.TxtMa_Hs_H.Dv_ListDetail = Nothing
         Me.TxtMa_Hs_H.Dv_Master = Nothing
@@ -879,8 +881,7 @@ Partial Class HD3
         '
         'TxtTen_Nx
         '
-        Me.TxtTen_Nx.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtTen_Nx.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_Nx.BackColor = System.Drawing.Color.White
         Me.TxtTen_Nx.ForeColor = System.Drawing.Color.Navy
         Me.TxtTen_Nx.Location = New System.Drawing.Point(1178, 188)
@@ -1393,6 +1394,7 @@ Partial Class HD3
         '
         'CbbMa_Thue
         '
+        Me.CbbMa_Thue.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CbbMa_Thue.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.CbbMa_Thue.ForeColor = System.Drawing.Color.Navy
         Me.CbbMa_Thue.FormattingEnabled = True
@@ -1403,6 +1405,7 @@ Partial Class HD3
         '
         'Label10
         '
+        Me.Label10.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label10.AutoSize = True
         Me.Label10.ForeColor = System.Drawing.Color.Navy
         Me.Label10.Location = New System.Drawing.Point(673, 40)
@@ -1415,6 +1418,7 @@ Partial Class HD3
         '
         'CmdLoc_Ro
         '
+        Me.CmdLoc_Ro.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CmdLoc_Ro.Location = New System.Drawing.Point(761, 34)
         Me.CmdLoc_Ro.Name = "CmdLoc_Ro"
         Me.CmdLoc_Ro.Size = New System.Drawing.Size(116, 24)
@@ -1469,12 +1473,13 @@ Partial Class HD3
         'TxtMau_HD
         '
         Me.TxtMau_HD._ActilookupPopup = False
+        Me.TxtMau_HD.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMau_HD.CyberActilookupPopup = True
         Me.TxtMau_HD.Dv_ListDetail = Nothing
         Me.TxtMau_HD.Dv_Master = Nothing
         Me.TxtMau_HD.FilterClient = ""
         Me.TxtMau_HD.FilterSQL = ""
-        Me.TxtMau_HD.Location = New System.Drawing.Point(1196, 255)
+        Me.TxtMau_HD.Location = New System.Drawing.Point(1196, 257)
         Me.TxtMau_HD.Name = "TxtMau_HD"
         Me.TxtMau_HD.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMau_HD.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -1601,8 +1606,7 @@ Partial Class HD3
         '
         'TxtTen_BP_H
         '
-        Me.TxtTen_BP_H.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtTen_BP_H.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_BP_H.BackColor = System.Drawing.Color.White
         Me.TxtTen_BP_H.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_BP_H.ForeColor = System.Drawing.Color.Navy
@@ -1616,6 +1620,7 @@ Partial Class HD3
         'TxtMa_BP_H
         '
         Me.TxtMa_BP_H._ActilookupPopup = False
+        Me.TxtMa_BP_H.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMa_BP_H.CyberActilookupPopup = True
         Me.TxtMa_BP_H.Dv_ListDetail = Nothing
         Me.TxtMa_BP_H.Dv_Master = Nothing
@@ -1636,10 +1641,11 @@ Partial Class HD3
         '
         'Label5
         '
+        Me.Label5.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label5.BackColor = System.Drawing.Color.Transparent
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label5.ForeColor = System.Drawing.Color.Navy
-        Me.Label5.Location = New System.Drawing.Point(1040, 167)
+        Me.Label5.Location = New System.Drawing.Point(1040, 168)
         Me.Label5.Margin = New System.Windows.Forms.Padding(0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(50, 14)
@@ -1674,6 +1680,7 @@ Partial Class HD3
         '
         'Label8
         '
+        Me.Label8.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label8.AutoSize = True
         Me.Label8.BackColor = System.Drawing.Color.Transparent
         Me.Label8.Font = New System.Drawing.Font("Tahoma", 8.25!)
@@ -1687,6 +1694,7 @@ Partial Class HD3
         '
         'TxtSo_Seri
         '
+        Me.TxtSo_Seri.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtSo_Seri.BackColor = System.Drawing.Color.White
         Me.TxtSo_Seri.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtSo_Seri.Font = New System.Drawing.Font("Tahoma", 8.25!)
@@ -1734,8 +1742,7 @@ Partial Class HD3
         '
         'GroupBox2
         '
-        Me.GroupBox2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox2.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox2.Location = New System.Drawing.Point(18, 82)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(1328, 8)
@@ -1777,6 +1784,7 @@ Partial Class HD3
         '
         'TxtMa_Tra_Cuu
         '
+        Me.TxtMa_Tra_Cuu.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMa_Tra_Cuu.BackColor = System.Drawing.Color.White
         Me.TxtMa_Tra_Cuu.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMa_Tra_Cuu.ForeColor = System.Drawing.Color.Blue
@@ -1787,6 +1795,7 @@ Partial Class HD3
         '
         'Label24
         '
+        Me.Label24.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label24.BackColor = System.Drawing.Color.Transparent
         Me.Label24.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label24.ForeColor = System.Drawing.Color.Blue
@@ -1800,6 +1809,7 @@ Partial Class HD3
         '
         'TxtSo_SeriHD
         '
+        Me.TxtSo_SeriHD.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtSo_SeriHD.BackColor = System.Drawing.Color.White
         Me.TxtSo_SeriHD.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtSo_SeriHD.ForeColor = System.Drawing.Color.Blue
@@ -1810,6 +1820,7 @@ Partial Class HD3
         '
         'Label25
         '
+        Me.Label25.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label25.BackColor = System.Drawing.Color.Transparent
         Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label25.ForeColor = System.Drawing.Color.Blue
@@ -1823,6 +1834,7 @@ Partial Class HD3
         '
         'TxtSo_HDDT
         '
+        Me.TxtSo_HDDT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtSo_HDDT.BackColor = System.Drawing.Color.White
         Me.TxtSo_HDDT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtSo_HDDT.ForeColor = System.Drawing.Color.Blue
@@ -1833,6 +1845,7 @@ Partial Class HD3
         '
         'Label28
         '
+        Me.Label28.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label28.BackColor = System.Drawing.Color.Transparent
         Me.Label28.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label28.ForeColor = System.Drawing.Color.Blue
@@ -1846,6 +1859,7 @@ Partial Class HD3
         '
         'TxtMau_VatHD
         '
+        Me.TxtMau_VatHD.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtMau_VatHD.BackColor = System.Drawing.Color.White
         Me.TxtMau_VatHD.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtMau_VatHD.ForeColor = System.Drawing.Color.Blue
@@ -1856,6 +1870,7 @@ Partial Class HD3
         '
         'Label29
         '
+        Me.Label29.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label29.BackColor = System.Drawing.Color.Transparent
         Me.Label29.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label29.ForeColor = System.Drawing.Color.Blue
@@ -1915,11 +1930,12 @@ Partial Class HD3
         '
         'TxtStt_Rec_TT
         '
+        Me.TxtStt_Rec_TT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtStt_Rec_TT.BackColor = System.Drawing.Color.White
         Me.TxtStt_Rec_TT.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TxtStt_Rec_TT.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.TxtStt_Rec_TT.ForeColor = System.Drawing.Color.Navy
-        Me.TxtStt_Rec_TT.Location = New System.Drawing.Point(1205, 255)
+        Me.TxtStt_Rec_TT.Location = New System.Drawing.Point(1205, 257)
         Me.TxtStt_Rec_TT.Name = "TxtStt_Rec_TT"
         Me.TxtStt_Rec_TT.Size = New System.Drawing.Size(10, 21)
         Me.TxtStt_Rec_TT.TabIndex = 1888
@@ -1941,36 +1957,6 @@ Partial Class HD3
         Me.ChkNonVAT.Tag = "Non VAT"
         Me.ChkNonVAT.Text = "NonVat"
         Me.ChkNonVAT.UseVisualStyleBackColor = True
-        '
-        'Label33
-        '
-        Me.Label33.AutoSize = True
-        Me.Label33.ForeColor = System.Drawing.Color.Navy
-        Me.Label33.Location = New System.Drawing.Point(950, 260)
-        Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(70, 13)
-        Me.Label33.TabIndex = 2132
-        Me.Label33.Tag = "Invoice money"
-        Me.Label33.Text = "Tiên xuất HĐ"
-        '
-        'TxtTien_HD
-        '
-        Me.TxtTien_HD.AllowNegative = True
-        Me.TxtTien_HD.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.TxtTien_HD.Flags = 7680
-        Me.TxtTien_HD.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTien_HD.InputMask = "### ### ### ### ###"
-        Me.TxtTien_HD.Location = New System.Drawing.Point(1022, 255)
-        Me.TxtTien_HD.MaxWholeDigits = 14
-        Me.TxtTien_HD.Name = "TxtTien_HD"
-        Me.TxtTien_HD.RangeMax = 1.7976931348623157E+308R
-        Me.TxtTien_HD.RangeMin = -1.7976931348623157E+308R
-        Me.TxtTien_HD.ReadOnly = True
-        Me.TxtTien_HD.Size = New System.Drawing.Size(107, 20)
-        Me.TxtTien_HD.TabIndex = 20
-        Me.TxtTien_HD.TabStop = False
-        Me.TxtTien_HD.Text = "0"
-        Me.TxtTien_HD.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label62
         '
@@ -2066,9 +2052,10 @@ Partial Class HD3
         '
         'ChkIn_TH
         '
+        Me.ChkIn_TH.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.ChkIn_TH.AutoSize = True
         Me.ChkIn_TH.ForeColor = System.Drawing.Color.Red
-        Me.ChkIn_TH.Location = New System.Drawing.Point(1235, 259)
+        Me.ChkIn_TH.Location = New System.Drawing.Point(1235, 261)
         Me.ChkIn_TH.Name = "ChkIn_TH"
         Me.ChkIn_TH.Size = New System.Drawing.Size(80, 17)
         Me.ChkIn_TH.TabIndex = 2171
@@ -2079,6 +2066,7 @@ Partial Class HD3
         '
         'Label37
         '
+        Me.Label37.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label37.AutoSize = True
         Me.Label37.ForeColor = System.Drawing.Color.Navy
         Me.Label37.Location = New System.Drawing.Point(673, 239)
@@ -2091,8 +2079,7 @@ Partial Class HD3
         '
         'TxtDien_Giai_HDDT
         '
-        Me.TxtDien_Giai_HDDT.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtDien_Giai_HDDT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtDien_Giai_HDDT.BackColor = System.Drawing.Color.White
         Me.TxtDien_Giai_HDDT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtDien_Giai_HDDT.ForeColor = System.Drawing.Color.Navy
@@ -2103,6 +2090,7 @@ Partial Class HD3
         '
         'TxtNgay_HD
         '
+        Me.TxtNgay_HD.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtNgay_HD.BackColor = System.Drawing.Color.White
         Me.TxtNgay_HD.Flags = 65536
         Me.TxtNgay_HD.Font = New System.Drawing.Font("Tahoma", 8.25!)
@@ -2124,6 +2112,7 @@ Partial Class HD3
         '
         'Label38
         '
+        Me.Label38.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label38.BackColor = System.Drawing.Color.Transparent
         Me.Label38.Font = New System.Drawing.Font("Tahoma", 8.25!)
         Me.Label38.ForeColor = System.Drawing.Color.Navy
@@ -2236,6 +2225,7 @@ Partial Class HD3
         '
         'TxtSo_Ct_HDS
         '
+        Me.TxtSo_Ct_HDS.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtSo_Ct_HDS.BackColor = System.Drawing.Color.White
         Me.TxtSo_Ct_HDS.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtSo_Ct_HDS.ForeColor = System.Drawing.Color.Red
@@ -2246,6 +2236,7 @@ Partial Class HD3
         '
         'LabChonHDS
         '
+        Me.LabChonHDS.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.LabChonHDS.BackColor = System.Drawing.Color.Transparent
         Me.LabChonHDS.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.LabChonHDS.ForeColor = System.Drawing.Color.Red
@@ -2272,6 +2263,7 @@ Partial Class HD3
         '
         'CmdChonHDS
         '
+        Me.CmdChonHDS.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CmdChonHDS.Appearance.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.CmdChonHDS.Appearance.ForeColor = System.Drawing.Color.Red
         Me.CmdChonHDS.Appearance.Options.UseFont = True
@@ -2310,6 +2302,7 @@ Partial Class HD3
         '
         'TextBox1
         '
+        Me.TextBox1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TextBox1.BackColor = System.Drawing.Color.White
         Me.TextBox1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.TextBox1.Font = New System.Drawing.Font("Tahoma", 8.25!)
@@ -2320,30 +2313,6 @@ Partial Class HD3
         Me.TextBox1.TabIndex = 7219
         Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         Me.TextBox1.Visible = False
-        '
-        'chkIs_HD_KoBien
-        '
-        Me.chkIs_HD_KoBien.AutoSize = True
-        Me.chkIs_HD_KoBien.ForeColor = System.Drawing.Color.Red
-        Me.chkIs_HD_KoBien.Location = New System.Drawing.Point(674, 260)
-        Me.chkIs_HD_KoBien.Name = "chkIs_HD_KoBien"
-        Me.chkIs_HD_KoBien.Size = New System.Drawing.Size(147, 17)
-        Me.chkIs_HD_KoBien.TabIndex = 7220
-        Me.chkIs_HD_KoBien.Tag = "Insurance from productor"
-        Me.chkIs_HD_KoBien.Text = "Xuất hóa đơn không biển"
-        Me.chkIs_HD_KoBien.UseVisualStyleBackColor = True
-        '
-        'chkIs_HD_DV
-        '
-        Me.chkIs_HD_DV.AutoSize = True
-        Me.chkIs_HD_DV.ForeColor = System.Drawing.Color.Red
-        Me.chkIs_HD_DV.Location = New System.Drawing.Point(829, 260)
-        Me.chkIs_HD_DV.Name = "chkIs_HD_DV"
-        Me.chkIs_HD_DV.Size = New System.Drawing.Size(116, 17)
-        Me.chkIs_HD_DV.TabIndex = 7221
-        Me.chkIs_HD_DV.Tag = "Insurance from productor"
-        Me.chkIs_HD_DV.Text = "In hóa đơn dịch vụ"
-        Me.chkIs_HD_DV.UseVisualStyleBackColor = True
         '
         'Label39
         '
@@ -2357,6 +2326,7 @@ Partial Class HD3
         Me.Label39.TabIndex = 7225
         Me.Label39.Tag = "R/O"
         Me.Label39.Text = "R/O Vat"
+        Me.Label39.Visible = False
         '
         'txtSo_Ro_Vat
         '
@@ -2370,6 +2340,7 @@ Partial Class HD3
         Me.txtSo_Ro_Vat.TabIndex = 7224
         Me.txtSo_Ro_Vat.Tag = ""
         Me.txtSo_Ro_Vat.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtSo_Ro_Vat.Visible = False
         '
         'TxtMa_xe
         '
@@ -2387,7 +2358,7 @@ Partial Class HD3
         Me.TxtMa_xe.Properties.Appearance.Options.UseForeColor = True
         Me.TxtMa_xe.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.HotFlat
         Me.TxtMa_xe.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard
-        Me.TxtMa_xe.Size = New System.Drawing.Size(107, 22)
+        Me.TxtMa_xe.Size = New System.Drawing.Size(108, 22)
         Me.TxtMa_xe.TabIndex = 7226
         Me.TxtMa_xe.Table_Name = ""
         '
@@ -2404,9 +2375,10 @@ Partial Class HD3
         '
         'chkIs_Edit
         '
+        Me.chkIs_Edit.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.chkIs_Edit.AutoSize = True
         Me.chkIs_Edit.ForeColor = System.Drawing.Color.Red
-        Me.chkIs_Edit.Location = New System.Drawing.Point(1236, 259)
+        Me.chkIs_Edit.Location = New System.Drawing.Point(1236, 261)
         Me.chkIs_Edit.Name = "chkIs_Edit"
         Me.chkIs_Edit.Size = New System.Drawing.Size(73, 17)
         Me.chkIs_Edit.TabIndex = 7228
@@ -2677,7 +2649,7 @@ Partial Class HD3
         Me.txtSo_CCCD.ForeColor = System.Drawing.Color.Navy
         Me.txtSo_CCCD.Location = New System.Drawing.Point(520, 210)
         Me.txtSo_CCCD.Name = "txtSo_CCCD"
-        Me.txtSo_CCCD.Size = New System.Drawing.Size(106, 20)
+        Me.txtSo_CCCD.Size = New System.Drawing.Size(107, 20)
         Me.txtSo_CCCD.TabIndex = 7274
         Me.txtSo_CCCD.Tag = ""
         '
@@ -2755,10 +2727,11 @@ Partial Class HD3
         '
         'TxtTen_HT_TT
         '
+        Me.TxtTen_HT_TT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TxtTen_HT_TT.BackColor = System.Drawing.Color.White
         Me.TxtTen_HT_TT.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.TxtTen_HT_TT.ForeColor = System.Drawing.Color.Navy
-        Me.TxtTen_HT_TT.Location = New System.Drawing.Point(878, 188)
+        Me.TxtTen_HT_TT.Location = New System.Drawing.Point(878, 189)
         Me.TxtTen_HT_TT.Name = "TxtTen_HT_TT"
         Me.TxtTen_HT_TT.ReadOnly = True
         Me.TxtTen_HT_TT.Size = New System.Drawing.Size(142, 20)
@@ -2768,12 +2741,13 @@ Partial Class HD3
         'txtHT_TT
         '
         Me.txtHT_TT._ActilookupPopup = False
+        Me.txtHT_TT.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtHT_TT.CyberActilookupPopup = True
         Me.txtHT_TT.Dv_ListDetail = Nothing
         Me.txtHT_TT.Dv_Master = Nothing
         Me.txtHT_TT.FilterClient = ""
         Me.txtHT_TT.FilterSQL = ""
-        Me.txtHT_TT.Location = New System.Drawing.Point(761, 188)
+        Me.txtHT_TT.Location = New System.Drawing.Point(761, 189)
         Me.txtHT_TT.Name = "txtHT_TT"
         Me.txtHT_TT.Properties.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.txtHT_TT.Properties.Appearance.ForeColor = System.Drawing.Color.Navy
@@ -2788,10 +2762,11 @@ Partial Class HD3
         '
         'Label26
         '
+        Me.Label26.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label26.BackColor = System.Drawing.Color.Transparent
         Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Label26.ForeColor = System.Drawing.Color.Navy
-        Me.Label26.Location = New System.Drawing.Point(673, 193)
+        Me.Label26.Location = New System.Drawing.Point(672, 193)
         Me.Label26.Margin = New System.Windows.Forms.Padding(0)
         Me.Label26.Name = "Label26"
         Me.Label26.Size = New System.Drawing.Size(66, 14)
@@ -2861,8 +2836,9 @@ Partial Class HD3
         '
         'chkIs_CN
         '
+        Me.chkIs_CN.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.chkIs_CN.AutoSize = True
-        Me.chkIs_CN.Location = New System.Drawing.Point(677, 145)
+        Me.chkIs_CN.Location = New System.Drawing.Point(676, 145)
         Me.chkIs_CN.Name = "chkIs_CN"
         Me.chkIs_CN.Size = New System.Drawing.Size(83, 17)
         Me.chkIs_CN.TabIndex = 7457
@@ -2911,8 +2887,6 @@ Partial Class HD3
         Me.Controls.Add(Me.TxtMa_xe)
         Me.Controls.Add(Me.Label39)
         Me.Controls.Add(Me.txtSo_Ro_Vat)
-        Me.Controls.Add(Me.chkIs_HD_DV)
-        Me.Controls.Add(Me.chkIs_HD_KoBien)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.TxtSO_CT_TT)
         Me.Controls.Add(Me.ChkIs_All_Thue)
@@ -2937,8 +2911,6 @@ Partial Class HD3
         Me.Controls.Add(Me.TxtHH_BH)
         Me.Controls.Add(Me.Label32)
         Me.Controls.Add(Me.TxtMoi_Gioi)
-        Me.Controls.Add(Me.Label33)
-        Me.Controls.Add(Me.TxtTien_HD)
         Me.Controls.Add(Me.ChkNonVAT)
         Me.Controls.Add(Me.TxtStt_Rec_TT)
         Me.Controls.Add(Me.TxtNgay_CtHD)
@@ -3145,8 +3117,6 @@ Partial Class HD3
         Me.Controls.SetChildIndex(Me.TxtNgay_CtHD, 0)
         Me.Controls.SetChildIndex(Me.TxtStt_Rec_TT, 0)
         Me.Controls.SetChildIndex(Me.ChkNonVAT, 0)
-        Me.Controls.SetChildIndex(Me.TxtTien_HD, 0)
-        Me.Controls.SetChildIndex(Me.Label33, 0)
         Me.Controls.SetChildIndex(Me.TxtMoi_Gioi, 0)
         Me.Controls.SetChildIndex(Me.Label32, 0)
         Me.Controls.SetChildIndex(Me.TxtHH_BH, 0)
@@ -3171,8 +3141,6 @@ Partial Class HD3
         Me.Controls.SetChildIndex(Me.ChkIs_All_Thue, 0)
         Me.Controls.SetChildIndex(Me.TxtSO_CT_TT, 0)
         Me.Controls.SetChildIndex(Me.TextBox1, 0)
-        Me.Controls.SetChildIndex(Me.chkIs_HD_KoBien, 0)
-        Me.Controls.SetChildIndex(Me.chkIs_HD_DV, 0)
         Me.Controls.SetChildIndex(Me.txtSo_Ro_Vat, 0)
         Me.Controls.SetChildIndex(Me.Label39, 0)
         Me.Controls.SetChildIndex(Me.TxtMa_xe, 0)
@@ -3363,8 +3331,6 @@ Partial Class HD3
     Friend WithEvents Label31 As System.Windows.Forms.Label
     Friend WithEvents TxtStt_Rec_TT As System.Windows.Forms.TextBox
     Friend WithEvents ChkNonVAT As System.Windows.Forms.CheckBox
-    Friend WithEvents Label33 As System.Windows.Forms.Label
-    Friend WithEvents TxtTien_HD As ClsTextBox.txtTien_NT
     Friend WithEvents Label62 As System.Windows.Forms.Label
     Friend WithEvents TxtHH_BH As ClsTextBox.txtTien_NT
     Friend WithEvents Label32 As System.Windows.Forms.Label
@@ -3390,8 +3356,6 @@ Partial Class HD3
     Friend WithEvents ChkIs_All_Thue As CheckBox
     Friend WithEvents TxtSO_CT_TT As System.Windows.Forms.TextBox
     Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
-    Friend WithEvents chkIs_HD_KoBien As System.Windows.Forms.CheckBox
-    Friend WithEvents chkIs_HD_DV As System.Windows.Forms.CheckBox
     Friend WithEvents Label39 As System.Windows.Forms.Label
     Friend WithEvents txtSo_Ro_Vat As System.Windows.Forms.TextBox
     Friend WithEvents TxtMa_xe As Cyber.SmLists.TxtLookup

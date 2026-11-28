@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class FrmPrintVoucherHDK
     Inherits Cyber.From.FrmPrintVoucher
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()>
+    <System.Diagnostics.DebuggerNonUserCode()> _
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         If disposing AndAlso components IsNot Nothing Then
             components.Dispose()
@@ -17,13 +17,14 @@ Partial Class FrmPrintVoucherHDK
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()>
+    <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.TxtLanBS = New ClsTextBox.txtTien_NT()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.CbbMa_TT = New System.Windows.Forms.ComboBox()
         Me.CbbLoai_IN = New System.Windows.Forms.ComboBox()
         Me.ChkLanBS = New System.Windows.Forms.CheckBox()
+        Me.CmdExportExcel = New DevExpress.XtraEditors.SimpleButton()
         Me.SuspendLayout()
         '
         'CmdExit
@@ -110,16 +111,37 @@ Partial Class FrmPrintVoucherHDK
         Me.ChkLanBS.Text = "In cho tất cả các lần bổ sung"
         Me.ChkLanBS.UseVisualStyleBackColor = True
         '
-        'FrmPrintVoucherHK
+        'CmdExportExcel
+        '
+        Me.CmdExportExcel.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.CmdExportExcel.Appearance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.CmdExportExcel.Appearance.ForeColor = System.Drawing.Color.Navy
+        Me.CmdExportExcel.Appearance.Options.UseFont = True
+        Me.CmdExportExcel.Appearance.Options.UseForeColor = True
+        Me.CmdExportExcel.Location = New System.Drawing.Point(97, 142)
+        Me.CmdExportExcel.Name = "CmdExportExcel"
+        Me.CmdExportExcel.Size = New System.Drawing.Size(95, 31)
+        Me.CmdExportExcel.TabIndex = 2174
+        Me.CmdExportExcel.TabStop = False
+        Me.CmdExportExcel.Text = "Export Excel"
+        '
+        'FrmPrintVoucherHDK
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.ClientSize = New System.Drawing.Size(574, 176)
+        Me.Controls.Add(Me.CmdExportExcel)
         Me.Controls.Add(Me.TxtLanBS)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.CbbMa_TT)
         Me.Controls.Add(Me.CbbLoai_IN)
         Me.Controls.Add(Me.ChkLanBS)
-        Me.Name = "FrmPrintVoucherHK"
+        Me.Name = "FrmPrintVoucherHDK"
+        Me.Controls.SetChildIndex(Me.ChkLanBS, 0)
+        Me.Controls.SetChildIndex(Me.CbbLoai_IN, 0)
+        Me.Controls.SetChildIndex(Me.CbbMa_TT, 0)
+        Me.Controls.SetChildIndex(Me.Label7, 0)
+        Me.Controls.SetChildIndex(Me.TxtLanBS, 0)
+        Me.Controls.SetChildIndex(Me.CmdExportExcel, 0)
         Me.Controls.SetChildIndex(Me.txtTitle1, 0)
         Me.Controls.SetChildIndex(Me.txtTitle2, 0)
         Me.Controls.SetChildIndex(Me.CbbMa_In, 0)
@@ -132,11 +154,6 @@ Partial Class FrmPrintVoucherHDK
         Me.Controls.SetChildIndex(Me.Label3, 0)
         Me.Controls.SetChildIndex(Me.TxtSo_Ct_Goc, 0)
         Me.Controls.SetChildIndex(Me.TxtSo_lien, 0)
-        Me.Controls.SetChildIndex(Me.ChkLanBS, 0)
-        Me.Controls.SetChildIndex(Me.CbbLoai_IN, 0)
-        Me.Controls.SetChildIndex(Me.CbbMa_TT, 0)
-        Me.Controls.SetChildIndex(Me.Label7, 0)
-        Me.Controls.SetChildIndex(Me.TxtLanBS, 0)
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -146,4 +163,6 @@ Partial Class FrmPrintVoucherHDK
     Friend WithEvents CbbMa_TT As System.Windows.Forms.ComboBox
     Friend WithEvents CbbLoai_IN As System.Windows.Forms.ComboBox
     Friend WithEvents ChkLanBS As System.Windows.Forms.CheckBox
+    Friend WithEvents CmdExportExcel As DevExpress.XtraEditors.SimpleButton
+
 End Class
